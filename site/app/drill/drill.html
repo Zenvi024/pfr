@@ -1,0 +1,59 @@
+<div class="wrap" id="drillTab" hidden>
+  <nav class="seg" id="dmodes" aria-label="Drill type">
+    <button data-m="review" aria-pressed="true">Spaced review</button>
+    <button data-m="cloze" aria-pressed="false">Codal blanks</button>
+    <button data-m="spot" aria-pressed="false">Spot the change</button>
+    <button data-m="grids" aria-pressed="false">Grids</button>
+  </nav>
+
+  <!-- SESSION SETUP -->
+  <section class="panel" id="dsetup">
+    <div>
+      <h2 id="dTitle">Spaced review</h2>
+      <p class="tiny" id="dBlurb" style="margin:6px 0 0"></p>
+    </div>
+    <div class="dstats" id="dstats"></div>
+    <div>
+      <div class="lbl">Topics</div>
+      <div class="row" id="dpresets"></div>
+      <div class="topics" id="dtopics" style="margin-top:8px"></div>
+    </div>
+    <div id="dtypesWrap">
+      <div class="lbl">Card types</div>
+      <div class="row" id="dtypes"></div>
+    </div>
+    <div class="startbar">
+      <div class="row" style="align-items:center">
+        <label class="tiny" for="dnew">New cards per round</label>
+        <select id="dnew"><option value="10">10</option><option value="20" selected>20</option><option value="40">40</option><option value="80">80</option></select>
+      </div>
+      <button class="primary" id="dstart">Start</button>
+    </div>
+  </section>
+
+  <!-- SESSION CARD -->
+  <section class="panel" id="dcard" hidden aria-live="polite">
+    <div class="qhead"><span class="qnum" id="dprog"></span><button class="ghost" id="dend" style="padding:6px 10px">End session</button></div>
+    <div class="tags" id="dtags"></div>
+    <div id="dbody"></div>
+    <div id="dreveal" hidden></div>
+    <div class="rate" id="drate" hidden></div>
+  </section>
+
+  <!-- SESSION DONE -->
+  <section class="panel" id="ddone" hidden>
+    <h2>Round finished</h2>
+    <p id="ddoneTxt" style="margin:0"></p>
+    <div class="row"><button class="primary" id="dagain">Start another round</button><button class="ghost" id="dback">Change settings</button></div>
+  </section>
+
+  <!-- GRIDS -->
+  <section class="panel" id="dgrids" hidden>
+    <div>
+      <h2>Grids</h2>
+      <p class="tiny" style="margin:6px 0 0">Fill every cell from memory, then check. Wrong cells go into spaced review and come back within minutes.</p>
+    </div>
+    <div class="row" id="glist"></div>
+    <div id="gbox"></div>
+  </section>
+</div>

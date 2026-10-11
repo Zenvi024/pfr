@@ -1,0 +1,1198 @@
+[
+ {
+  "id": "X-1",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025) [A-29]",
+  "type": "tf",
+  "stem": "May marriage be voidable if there is no vitiation of consent?",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 45 grounds are not all defects of consent. Lack of parental consent for a party aged 18 to below 21 (Art. 45(1)), unsound mind (Art. 45(2)), physical incapacity to consummate (Art. 45(5)) and a serious and incurable sexually-transmissible disease (Art. 45(6)) make a marriage voidable even if the party's own consent was freely given. Only fraud (Art. 45(3)) and force, intimidation or undue influence (Art. 45(4)) are true vices of consent. Tolentino notes that ratification can cure a defect in consent but not a physical defect, which is why Art. 45(5) and (6) cannot be ratified.",
+  "key_note": null
+ },
+ {
+  "id": "X-2",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #2 (scanned, handwritten key) [B-90]",
+  "type": "pair",
+  "stem": "True or False. Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A marriage may be annulled on the ground of sterility.",
+   "2. Somnambulism is a ground for annulment of marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 45(5) speaks of physical incapacity to consummate, meaning impotence or the lack of power to copulate. Sterility is not a ground because the test is the capacity to copulate, not to reproduce (Tolentino, citing Sarao v. Guevara). No. 2 is TRUE under the handwritten key. Art. 45(2) makes a marriage voidable if either party was of unsound mind at the time of the marriage, and Tolentino states that 'somnambulism has the same effect as insanity': a party who marries while sleepwalking cannot understand the nature and consequences of the act.",
+  "key_note": "The extraction flagged S2 as false, since somnambulism is not named in Art. 45, which would make the answer 'Both are false'. The samplex key (S2 true) is kept because Tolentino (Art. 45, 'Party of Unsound Mind') treats somnambulism as having the same effect as insanity under Art. 45(2)."
+ },
+ {
+  "id": "X-3",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #2 (scanned, handwritten key) [B-91]",
+  "type": "pair",
+  "stem": "True or False. Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Mistake of one of the contracting parties as to the identity of the other is a ground for the annulment of marriage.",
+   "2. Concealment by the wife of the fact that at the time of the marriage, she was pregnant, shall constitute fraud resulting in a voidable marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE. Under Art. 35(5), a marriage contracted 'through mistake of one contracting party as to the identity of the other' is VOID, not voidable. No. 2 is FALSE. Art. 46(2) requires concealment by the wife that at the time of the marriage she was pregnant 'by a man other than her husband'. Concealing a pregnancy by the husband himself is not fraud.",
+  "key_note": null
+ },
+ {
+  "id": "X-4",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2009 Bar [F-86]; UP BOC – 2009 Bar [G-16]",
+  "type": "mcq",
+  "stem": "Emmanuel and Margarita, American citizens and employees of the U.S. State Department, got married in the African state of Kenya where sterility is a ground for annulment of marriage. Thereafter, the spouses were assigned to the U.S. Embassy in Manila. On the first year of the spouses' tour of duty in the Philippines, Margarita filed an annulment case against Emmanuel before a Philippine court on the ground of her husband's sterility at the time of the celebration of the marriage. Assume Emmanuel and Margarita are both Filipinos. After their wedding in Kenya, they come back and take up residence in the Philippines. Can their marriage be annulled on the ground of Emmanuel's sterility?",
+  "choices": [
+   "Yes, because sterility is a ground for annulment in Kenya where the marriage was celebrated.",
+   "No, because sterility is not among the grounds for annulment under Art. 45 of the Family Code, which governs Filipinos.",
+   "Yes, because sterility is equivalent to physical incapacity to consummate the marriage.",
+   "No, because only a Kenyan court can annul a marriage celebrated in Kenya."
+  ],
+  "answer": 1,
+  "explanation": "Under Art. 15 of the Civil Code, laws on status and legal capacity bind Filipinos even abroad. The lex loci celebrationis (Art. 26, FC) governs only formal validity. A marriage between Filipinos can therefore be annulled only on the grounds in Art. 45 of the Family Code, and sterility is not one of them. Art. 45(5) covers physical incapacity to consummate (impotence), not inability to procreate (Sarao v. Guevara; Tolentino).",
+  "key_note": null
+ },
+ {
+  "id": "X-5",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 1999 Bar [G-89]",
+  "type": "mcq",
+  "stem": "What is the status of the following marriages and why? A marriage between two 19-year olds without parental consent.",
+  "choices": [
+   "Valid",
+   "Void",
+   "Voidable",
+   "Valid but the parties are liable criminally"
+  ],
+  "answer": 2,
+  "explanation": "Art. 14 requires parties between 18 and below 21 to obtain parental consent. Under Art. 45(1), a marriage contracted without it is voidable, not void. It is valid until annulled. The parents may sue before the party reaches 21, and the party may sue within five years after reaching 21 (Art. 47(1)). It is ratified if the party, after reaching 21, freely cohabits with the other as husband and wife. Since RA 10655 (2015), premature marriage is no longer a crime.",
+  "key_note": null
+ },
+ {
+  "id": "X-6",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2018 Bar [F-89]",
+  "type": "mcq",
+  "stem": "Sidley and Sol were married with one daughter, Solenn. Sedfrey and Sonia were another couple with one son, Sonny. Sol and Sedfrey both perished in the same plane accident. Sidley and Sonia met when the families of those who died sued the airlines and went through grief-counseling sessions. Years later, Sidley and Sonia got married. At that time, Solenn was 4 years old and Sonny was 5 years old. These two were then brought up in the same household. 15 years later, Solenn and Sonny developed romantic feelings towards each other, and eventually eloped. On their own and against their parents' wishes, they procured a marriage license and got married in church. Is the marriage of Solenn and Sonny valid, voidable, or void?",
+  "choices": [
+   "Void, because marriages between step-brother and step-sister are against public policy.",
+   "Voidable, for lack of parental consent, the parties being between 18 and 21; their being step-siblings is immaterial.",
+   "Valid, because they procured a marriage license and married in church.",
+   "Void, because they were brought up in the same household as siblings."
+  ],
+  "answer": 1,
+  "explanation": "When they married 15 years after their parents' marriage, Solenn was 19 and Sonny 20. Both needed parental consent under Art. 14, and they married against their parents' wishes, so the marriage is voidable under Art. 45(1). Being step-siblings is no impediment under the Family Code. Art. 37 covers only blood relatives, and Art. 38 lists stepparent-stepchild relationships, not step-brother and step-sister. The license and church ceremony cure only the formal requisites, not the defect in parental consent.",
+  "key_note": null
+ },
+ {
+  "id": "X-7",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe recitation question [E-34]",
+  "type": "tf",
+  "stem": "A and B were married. B was only 20 yrs old, without parental consent. It is possible that the marriage will be valid even without parental consent.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "A marriage of a party between 18 and 21 without parental consent is voidable, not void (Art. 45(1)). A voidable marriage is valid and produces all its effects until annulled by final judgment, so until then B's marriage is valid. It may also become perfectly valid if B, after reaching 21, freely cohabits with A (ratification), or if no action is brought within the Art. 47(1) periods. In recitation, Uribe also said B might have married before with parental consent, though Art. 14 states no such exception. The point he stressed was that the status question has to be answered as 'valid until annulled'.",
+  "key_note": null
+ },
+ {
+  "id": "X-8",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #2 [A-42]",
+  "type": "tf",
+  "stem": "The action for annulment of marriage may be filed by the parent or guardian who did not give his or her consent within two years after the child attained the age of majority.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Under Art. 47(1), the parent or guardian who did not consent may sue 'at any time before such party has reached the age of twenty-one.' The age of majority is 18 (RA 6809), so two years after majority the child is only 20 and the parent may still file. The 21-year limit is the parental-consent ceiling in Arts. 14 and 47(1), not the age of majority.",
+  "key_note": "Compare the one-word variant 'within five years after the child attained the age of majority', which is FALSE (see next item)."
+ },
+ {
+  "id": "X-9",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted) [C-135]",
+  "type": "tf",
+  "stem": "The action for annulment of marriage may be filed by the parent or guardian who did not give his or her consent within five years after the child attained the age of majority.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Under Art. 47(1), the parent or guardian may file only 'at any time before such party has reached the age of twenty-one.' Five years after the child reached majority (18), the child is 23, past the parent's deadline. Only the party himself may sue then, within five years after attaining 21. Contrast the 'two years' variant, which is TRUE.",
+  "key_note": null
+ },
+ {
+  "id": "X-10",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #17 [A-57]; Uribe samplex (old Quiz No. 2, answered w/ reasons) [C-30]; Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version) [C-64]; Uribe samplex (FC quiz set 2, T/F & MCQ) [D-22]; Uribe samplex (Leviathan Quiz No. 2) [D-78]",
+  "type": "mcq",
+  "stem": "The following have the right to institute an action for annulment, EXCEPT:",
+  "choices": [
+   "the parents of the party who was only 18 years old without parental consent, within 5 years from the solemnization of the marriage.",
+   "the injured party, within five years from the time the force, intimidation or undue influence disappeared or ceased",
+   "the spouse, who had no knowledge of the other's insanity, at any time before the death of either party.",
+   "the injured party, within five years after the discovery of the fraud",
+   "none of the above"
+  ],
+  "answer": 0,
+  "explanation": "(a) is the exception. Under Art. 47(1), the parents may sue only 'at any time before such party has reached the age of twenty-one.' A party married at 18 turns 21 about three years later, so the parents cannot use the full five years from the wedding. (b) is correct under Art. 47(4): force, intimidation or undue influence, within five years from the time it disappeared or ceased. (c) is correct under Art. 47(2): the sane spouse without knowledge of the insanity, any time before the death of either party. (d) is correct under Art. 47(3): fraud, within five years after discovery.",
+  "key_note": null
+ },
+ {
+  "id": "X-11",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – 2nd Quiz (scanned) [B-10]; Uribe samplex – Multiple Choice compilation (scanned) [B-51]; Uribe samplex MCQ set (Studocu, Quiz #2 unknown source) [C-125]",
+  "type": "mcq",
+  "stem": "The following have the right to institute an action for annulment, EXCEPT:",
+  "choices": [
+   "the injured party, within five year after the discovery of the fraud",
+   "the parents of the party who was only 19 years old without parental consent, within 5 years from the time the child attains the age of 21.",
+   "the injured party, within five years from the time the force, intimidation or undue influence disappeared or ceased.",
+   "the spouse, who had no knowledge of the other's insanity, at any time before the death of either party.",
+   "none of the above"
+  ],
+  "answer": 1,
+  "explanation": "(b) is the exception. The five-year period after reaching 21 belongs to the PARTY whose parent did not consent. The parents may sue only before the party reaches 21 (Art. 47(1)). The other choices track Art. 47(2), (3) and (4) exactly: fraud within five years after discovery; force, intimidation or undue influence within five years from cessation; and the sane spouse without knowledge of the insanity at any time before the death of either party.",
+  "key_note": null
+ },
+ {
+  "id": "X-12",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, 3rd Quiz) [C-96]",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. If one of the contracting parties was only 19 at the time of the solemnization of marriage, the action for annulment on the ground that the marriage was solemnized without parental consent should be filed within 5 years from the time the party attains the age of 21.",
+   "2. The action for annulment of marriage on the ground of fraud must be filed within 5 years from the solemnization of the marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE because it is not absolutely true. Under Art. 47(1), the party may file within five years after reaching 21, but the parent or guardian may also file at any time before the party reaches 21. The statement wrongly makes the five years after 21 the only period. No. 2 is FALSE. Under Art. 47(3), the action for fraud must be filed by the injured party within five years after DISCOVERY of the fraud, not after solemnization.",
+  "key_note": null
+ },
+ {
+  "id": "X-13",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe recitation question [E-4]",
+  "type": "tf",
+  "stem": "One of the contracting parties was 19 years old at the time of the solemnization of the marriage (without parental consent). Six months after, he filed an action for annulment for lack of consent. He has the personality to file the action and it may prosper.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Uribe's recitation answer: the party has personality to sue. RA 6809 lowered the age of majority to 18 without qualifying the capacity to sue, so a 19-year-old is of age and may file an action in his own name. Art. 45(1) makes the marriage voidable because he was between 18 and 21 and had no parental consent. The action is timely, since the party's prescriptive period runs until five years after attaining 21 (Art. 47(1)), and there has been no ratification because he has not cohabited after reaching 21.",
+  "key_note": "Debatable point. A strict reading of Art. 47(1) gives the party a period 'within five years after attaining the age of twenty-one', and some commentators read it as starting only at 21. This follows Uribe's recitation answer that a party who is of age (18+) may sue at once."
+ },
+ {
+  "id": "X-14",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ [G-61]",
+  "type": "mcq",
+  "stem": "Josie, 18, married Dante, 25, without her parents’ knowledge and consent, and lived with him. After a year, Josie returned to her parents’ home, complained of the unbearable battering she was getting from Dante, and expressed a desire to have her marriage with him annulled. Who may bring the action?",
+  "choices": [
+   "Dante.",
+   "Her parents.",
+   "Josie herself.",
+   "The State."
+  ],
+  "answer": 1,
+  "explanation": "Josie married at 18 without parental consent, so the marriage is voidable (Art. 45(1)). A year later she is 19. Under Art. 47(1), her parents may bring the action at any time before she reaches 21. Dante, the spouse who was of age, has no cause of action, and the State is not a party to annulment suits except through the prosecutor's role against collusion (Art. 48). The battering is not an Art. 45 ground; it may support legal separation (Art. 55(1)) or relief under RA 9262.",
+  "key_note": "Bar suggested answer is B. Under Art. 47(1), Josie's own period is 'within five years after attaining 21'. Uribe has said in recitation that a party already of age (18+) has personality to sue earlier (see item X-13), which would make C defensible too. B is the only choice clearly authorized by the text at this point."
+ },
+ {
+  "id": "X-15",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2011 Bar [F-79]; UP BOC – 2011 Bar MCQ [G-59]",
+  "type": "mcq",
+  "stem": "Conrad and Linda, both 20 years old, applied for a marriage license, making it appear that they were over 25. They married without their parents’ knowledge before an unsuspecting judge. After the couple has been in cohabitation for 6 years, Linda’s parents filed an action to annul the marriage on ground of lack of parental consent. Will the case prosper?",
+  "choices": [
+   "No, since only the couple can question the validity of their marriage after they became 21 of age; their cohabitation also convalidated the marriage.",
+   "No, since Linda’s parents made no allegations that earnest efforts have been made to come to a compromise with Conrad and Linda and which efforts failed.",
+   "Yes, since the marriage is voidable, the couple being below 21 years of age when they married.",
+   "Yes, since Linda’s parents never gave their consent to the marriage."
+  ],
+  "answer": 0,
+  "explanation": "Under Art. 47(1), the parents may sue only before the party reaches 21. Linda was 20 at the wedding and the couple cohabited for 6 years, so she is about 26 and her parents' right has lapsed. Under Art. 45(1), the free cohabitation after both reached 21 also ratified the voidable marriage. (B) is not the controlling reason, because the action fails anyway once Linda reached 21. (C) and (D) ignore the parents' deadline and the ratification.",
+  "key_note": null
+ },
+ {
+  "id": "X-16",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 1990 Bar [F-91]; QuAMTO 1987-2017 – 1990 Bar [G-111]",
+  "type": "mcq",
+  "stem": "B and G, age 20 and 19, respectively, and both single, eloped and got married to each other without parental consent in the case of G, a teenage student of an exclusive college for girls. Three (3) years later, her parents wanted to seek judicial annulment on that ground. You were consulted and asked to prepare the proper complaint. What advice would you give G's parents?",
+  "choices": [
+   "File the complaint immediately, since parents may sue within 5 years from the marriage.",
+   "File the complaint for declaration of nullity, since a marriage without parental consent is void.",
+   "The parents can no longer sue because G is already over 21; only G herself may file the action within 5 years after reaching 21.",
+   "The action has prescribed for all parties."
+  ],
+  "answer": 2,
+  "explanation": "G was 19 at the wedding and is 22 three years later. Under Art. 47(1), the parents may sue only 'at any time before such party has reached the age of twenty-one', so their right has lapsed. Only G herself may sue, within five years after attaining 21, and only if she has not ratified the marriage by freely cohabiting with B after reaching 21 (Art. 45(1)). The marriage is voidable, not void, so a petition for declaration of nullity is improper.",
+  "key_note": null
+ },
+ {
+  "id": "X-17",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms) [B-117]",
+  "type": "mcq",
+  "stem": "A married B five (5) days before his (A's) 20th birthday without the consent of his parents. When their eldest child, who was conceived during the marriage, was already seven (7) years old, he filed an action for the annulment of marriage on the ground that there was lack of parental consent. Will the action prosper?",
+  "choices": [
+   "Yes, because the marriage was voidable for lack of parental consent.",
+   "No, because the action was filed after he attained the age of 21.",
+   "No, because the action was filed more than five (5) years after he attained the age of 21.",
+   "No, because only the parents can file the action.",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 47(1), the party whose parent did not consent must sue within five years after attaining 21. A married five days before turning 20, and a child conceived during the marriage is born at the earliest about nine months later. When that child is seven, A is at least about 27, more than five years after turning 21 (the period ended at 26), so the action has prescribed. (b) is wrong because the party may sue after 21, within five years. (d) is wrong because the party himself may sue. On these facts there was also likely ratification by free cohabitation after 21.",
+  "key_note": null
+ },
+ {
+  "id": "X-18",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. For causes mentioned in number 2 of Article 45, the action for annulment may be filed by any relative or guardian or person having legal charge of the insane, at any time before the death of either party.",
+   "2. For causes mentioned in number 2 of Article 45, the action for annulment may be filed by the insane spouse during a lucid interval or after regaining sanity, within five years after regaining sanity."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE; it is verbatim Art. 47(2). For unsound mind, the action may be filed 'by any relative or guardian or person having legal charge of the insane, at any time before the death of either party.' No. 2 is FALSE. Under Art. 47(2), the insane spouse may sue 'during a lucid interval or after regaining sanity'. No five-year period applies, and the action may be brought at any time before the death of either party. The insane spouse ratifies the marriage only by freely cohabiting with the other after coming to reason (Art. 45(2)).",
+  "key_note": null
+ },
+ {
+  "id": "X-19",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "A married B in 2020. B was perfectly sane at the time of the marriage but became insane in 2022. A may:",
+  "choices": [
+   "File an action to annul the marriage on the ground of insanity within five years from B's insanity",
+   "File an action to annul the marriage at any time before the death of either party",
+   "Not seek annulment on the ground of insanity, since the insanity must exist at the time of the marriage",
+   "Have the marriage declared void, since insanity is a ground for nullity",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 45 lists causes 'existing at the time of the marriage.' Under Art. 45(2), the test is whether the party, at the time of the marriage, could understand its nature and consequences. Neither prior nor subsequent insanity suffices (Tolentino: prior or subsequent insanity is not sufficient; the insanity must exist at the time of the marriage). A's remedy, if any, lies elsewhere (e.g., Art. 36 if the incapacity existed at the celebration). Insanity is not a ground for a declaration of nullity.",
+  "key_note": null
+ },
+ {
+  "id": "X-20",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. For insanity, the action for annulment may be filed by the sane spouse who had no knowledge of the other's insanity, at any time before the death of either party.",
+   "2. The sane spouse who knew of the other's insanity at the time of the marriage may nevertheless seek annulment on that ground."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE; it is verbatim Art. 47(2). No. 2 is FALSE. Art. 47(2) gives the action only to the sane spouse 'who had no knowledge of the other's insanity.' One who married knowing of the insanity is in estoppel, since he who comes to court must come with clean hands (Tolentino). The law also does not say that the sane spouse's continued cohabitation ratifies the marriage. Only the insane spouse can ratify, by freely cohabiting after coming to reason (Art. 45(2)).",
+  "key_note": null
+ },
+ {
+  "id": "X-21",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #13 [A-53]",
+  "type": "mcq",
+  "stem": "That the petitioner freely cohabited with the other spouse is a defense in an action for annulment on the following grounds, EXCEPT:",
+  "choices": [
+   "lack of parental consent",
+   "that the respondent was of unsound mind",
+   "that the consent of petitioner was obtained by fraud",
+   "all of the above",
+   "none of the above"
+  ],
+  "answer": 0,
+  "explanation": "Uribe's key is (a). Lack of parental consent may be invoked by the PARENT, at any time before the child reaches 21 (Art. 47(1)), and the child's cohabitation before 21 counts for nothing. Free cohabitation becomes a defense only when the party, after attaining 21, freely cohabits as husband and wife (Art. 45(1)). For unsound mind (Art. 45(2)), free cohabitation by the insane spouse after coming to reason ratifies. For fraud (Art. 45(3)), free cohabitation by the injured party with full knowledge of the facts ratifies.",
+  "key_note": "Uribe's 2025 key is (a). The text of Art. 45(1)-(3) makes free cohabitation a ratifying defense on all three listed grounds, subject to its timing condition (after 21; after coming to reason; with full knowledge), so (e) 'none of the above' is a defensible alternative. The point is debatable, so Uribe's own key is followed. Compare the version that includes 'physically incapable of consummating', where the answer is clearly that choice."
+ },
+ {
+  "id": "X-22",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – 2nd Quiz (scanned) [B-9]; Uribe samplex – Multiple Choice compilation (scanned) [B-50]; Uribe samplex – Quiz #3 (scanned, handwritten key) [B-102]; Uribe samplex MCQ set (Studocu, Quiz #2 unknown source) [C-124]",
+  "type": "mcq",
+  "stem": "That the petitioner freely cohabited with the other spouse is a defense in an action for annulment of the following grounds, EXCEPT:",
+  "choices": [
+   "lack of parental consent",
+   "that the respondent was of unsound mind",
+   "that the respondent was physically incapable of consummating the marriage with the other",
+   "that the consent of petitioner was obtained by fraud",
+   "none of the above."
+  ],
+  "answer": 2,
+  "explanation": "Art. 45 makes free cohabitation a bar only for grounds (1) to (4): after attaining 21 for lack of parental consent, after coming to reason for insanity, with full knowledge for fraud, and after the force or intimidation ceased or disappeared. Grounds (5) (physical incapacity to consummate) and (6) (serious and incurable STD) carry no ratification clause. Tolentino explains that the cause of nullity never ceases, and ratification cures a defect in consent, not a physical defect. Free cohabitation is therefore no defense to an action based on impotence.",
+  "key_note": null
+ },
+ {
+  "id": "X-23",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2011 Bar [F-84]",
+  "type": "mcq",
+  "stem": "Baldo, a rejected suitor, intimidated Judy into marrying him. While she wanted to question the validity of their marriage two years after the intimidation ceased, Judy decided in the meantime to freely cohabit with Baldo. After more than five (5) years following their wedding, Judy wants to file a case for annulment of marriage against Baldo on ground of lack of consent. Will her action prosper?",
+  "choices": [
+   "Yes, the action for annulment is imprescriptible.",
+   "No, since the marriage was merely voidable, and Judy ratified it by freely cohabiting with Baldo after the force and intimidation had ceased.",
+   "No, since the action prescribed 5 years from the date of the celebration of the marriage.",
+   "Yes, because the marriage was celebrated without Judy's consent freely given."
+  ],
+  "answer": 1,
+  "explanation": "Under Art. 45(4), intimidation makes the marriage voidable, but the ground is barred if 'the same having disappeared or ceased, such party thereafter freely cohabited with the other as husband and wife.' Judy freely cohabited with Baldo after the intimidation ceased, which ratified the marriage. Once ratified, the marriage cannot be set aside even if the five-year period of Art. 47(4) (counted from cessation, not from the wedding) has not run (Tolentino). (c) uses the wrong reckoning point, and (a) and (d) ignore ratification.",
+  "key_note": null
+ },
+ {
+  "id": "X-24",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New",
+  "type": "mcq",
+  "stem": "A, 19, married B without the consent of his parents. A and B lived together continuously as husband and wife until A was 23, when A filed an action to annul the marriage for lack of parental consent. Will the action prosper?",
+  "choices": [
+   "Yes, because the action was filed within five years after A attained the age of twenty-one.",
+   "Yes, because only the parents can ratify a marriage contracted without their consent.",
+   "No, because A ratified the marriage by freely cohabiting with B after attaining the age of twenty-one.",
+   "No, because the action may be filed only by A's parents.",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 47(1), A's action is timely, since he may sue within five years after attaining 21, i.e., until 26. But under Art. 45(1) the ground is barred because, after attaining 21, A freely cohabited with B as husband and wife. Ratification cures the defect and validates the marriage, and once ratified the marriage cannot be set aside even if the prescriptive period has not yet expired. Ratification goes to the right of action itself; prescription bars only the remedy (Tolentino, Art. 47).",
+  "key_note": null
+ },
+ {
+  "id": "X-25",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #15 [A-55]; Uribe samplex – Multiple Choice compilation (scanned) [B-49]; Uribe samplex – 2nd Quiz (scanned) [B-8]; Uribe samplex MCQ set (Studocu, Quiz #2 unknown source) [C-123]; Uribe samplex (old Quiz No. 2, answered w/ reasons) [C-28]; Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version) [C-62]; Uribe samplex (FC quiz set 2, T/F & MCQ) [D-20]; Uribe samplex (Leviathan Quiz No. 2) [D-76]",
+  "type": "mcq",
+  "stem": "There is fraud which will make the marriage voidable if:",
+  "choices": [
+   "Non-disclosure of a previous conviction by final judgment of the other party of a crime.",
+   "Concealment by the wife of the fact that at the time of the marriage, she was pregnant.",
+   "Concealment of sexually transmissible disease, if found to be serious, existing at the time of the marriage.",
+   "All of the above.",
+   "None of the above."
+  ],
+  "answer": 2,
+  "explanation": "Art. 46(3) makes 'concealment of sexually transmissible disease, regardless of its nature, existing at the time of the marriage' a form of fraud. A serious STD existing at the wedding falls within 'regardless of its nature', so (c) is correct. (a) is incomplete: Art. 46(1) requires non-disclosure of a previous conviction by final judgment of a crime 'involving moral turpitude'. (b) is incomplete: Art. 46(2) requires that the wife was pregnant 'by a man other than her husband'.",
+  "key_note": "Most keys say (c). One handwritten copy [B-8, and a copy noted at B-49] circles (e), apparently treating 'if found to be serious' as an inaccurate qualifier. Under Art. 46(3), a serious STD that was concealed and existed at the time of the marriage is still fraud, so (c) stands."
+ },
+ {
+  "id": "X-26",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – True or False compilation (scanned) [B-31]; Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version) [C-55]; Uribe samplex (FC quiz set 2, T/F & MCQ) [D-13]",
+  "type": "tf",
+  "stem": "Non-disclosure of a previous conviction by final judgment of the other party shall constitute fraud resulting in a voidable marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 46(1) requires two things: (1) a previous conviction by final judgment, and (2) of a crime involving moral turpitude. Non-disclosure of a conviction for a crime without moral turpitude is not fraud under Art. 46. The enumeration is exclusive, so the unqualified statement is false.",
+  "key_note": null
+ },
+ {
+  "id": "X-27",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe recitation question [E-31]",
+  "type": "tf",
+  "stem": "An action for annulment based on the respondent's failure to disclose a previous conviction may prosper even if the penalty imposed was only 30 days, since a light penalty does not mean the crime does not involve moral turpitude.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 46(1) requires only (1) a crime involving moral turpitude and (2) a conviction by final judgment. The old Civil Code required a penalty of at least two years' imprisonment, but the Family Code dropped that requirement (Tolentino). Moral turpitude depends on the nature of the crime, not the length of the penalty. Theft, for example, involves moral turpitude even when the imposable penalty is light, and Uribe also cited BP 22.",
+  "key_note": null
+ },
+ {
+  "id": "X-28",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ [G-63]",
+  "type": "mcq",
+  "stem": "Manuel came to Manila and married Marianne. Unknown to Marianne, Manuel had been previously convicted in Palawan of theft and served time for it. After Marianne learned of his previous conviction, she stopped living with him. Can Marianne seek the annulment of the marriage based on Manuel’s nondisclosure of his previous crime?",
+  "choices": [
+   "No, since the assumption is that marriage forgives all past wrongs.",
+   "Yes, since the non-disclosure of that crime is the equivalent of fraud, which is a ground for annulment.",
+   "No, in case of doubt, the law must be construed to preserve the institution of marriage.",
+   "No, since Manuel already served the penalty for his crime."
+  ],
+  "answer": 1,
+  "explanation": "Theft is a crime involving moral turpitude, and Manuel was convicted of it. His non-disclosure is fraud under Art. 46(1), a ground for annulment under Art. 45(3). Marianne must sue within five years after discovering the fraud (Art. 47(3)). She stopped living with him upon learning of it, so there was no ratification by free cohabitation with full knowledge. Having served the penalty does not erase the conviction or the concealment.",
+  "key_note": null
+ },
+ {
+  "id": "X-29",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – True or False compilation (scanned) [B-23]; Uribe samplex MCQ set (Studocu, Quiz #1 unknown source) [C-108]",
+  "type": "tf",
+  "stem": "Concealment by the wife of the fact that at the time of the marriage she was pregnant constitutes fraud.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 46(2) requires 'concealment by the wife of the fact that at the time of the marriage, she was pregnant BY A MAN OTHER THAN HER HUSBAND.' Concealing a pregnancy by the husband himself is not fraud. The omission of the qualifier makes the statement false.",
+  "key_note": null
+ },
+ {
+  "id": "X-30",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe recitation question [E-32]",
+  "type": "tf",
+  "stem": "The wife, before the marriage, was already pregnant. She told the future spouse, \"This is your child.\" But after the marriage, when the child was delivered, the child was not the husband's. The action for annulment will prosper.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Uribe's answer is that the action will not prosper. Art. 46(2) penalizes CONCEALMENT OF THE PREGNANCY, and here the pregnancy was disclosed. Tolentino also notes that where the man had sexual intercourse with the woman before the marriage and she is pregnant at the time, the marriage will not be annulled even if he is not the father. He knew she was unchaste because he took part in it, and he does not come to court with clean hands (Carris v. Carris). The husband who knew of the pregnancy cannot claim it was concealed (Buccat v. Mangonon).",
+  "key_note": "Debatable. One could argue that telling the husband 'this is your child' conceals the very fact Art. 46(2) protects, namely pregnancy by another man. Tolentino calls the Connecticut line allowing annulment for deceit as to paternity 'more reasonable', and the extraction suggested True. Uribe's class answer (False) is followed."
+ },
+ {
+  "id": "X-31",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Non-disclosure of a previous conviction of a crime involving moral turpitude constitutes fraud under Article 46 only if the penalty imposed was at least two years of imprisonment.",
+   "2. Where the husband knew at the time of the marriage that the wife was pregnant by another man, the marriage cannot be annulled on the ground of concealment of pregnancy."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 46(1) requires only a crime involving moral turpitude and a conviction by final judgment. The Civil Code's minimum penalty of two years' imprisonment was dropped in the Family Code (Tolentino). No. 2 is TRUE. Where the husband knew at the time of the marriage that the wife was pregnant, there is no concealment and so no fraud. The Supreme Court refused annulment where the advanced pregnancy must have been patent to the husband (Buccat v. Mangonon).",
+  "key_note": null
+ },
+ {
+  "id": "X-32",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2003 Bar [F-93]; QuAMTO 1987-2017 – 2003 Bar [G-107]; Uribe recitation question [E-33]",
+  "type": "mcq",
+  "stem": "Which of the following remedies, i.e., (a) declaration of nullity of marriage, (b) annulment of marriage, (c) legal separation, and/or (d) separation of property, can an aggrieved spouse avail himself/herself of: If the husband discovers after the marriage that his wife has been a prostitute before they got married.",
+  "choices": [
+   "Annulment of marriage on the ground of fraud",
+   "Declaration of nullity",
+   "Legal separation",
+   "None of the above; he has no remedy"
+  ],
+  "answer": 3,
+  "explanation": "The last paragraph of Art. 46 provides: 'No other misrepresentation or deceit as to character, health, rank, fortune or chastity shall constitute such fraud as will give grounds for action for the annulment of marriage.' The Art. 46 enumeration is exclusive (inclusio unius est exclusio alterius). A wife's prior life of prostitution goes to character and chastity, so it is not fraud. It is not a ground for nullity either, and it is not among the exclusive grounds for legal separation in Art. 55 (nor a ground for judicial separation of property under Art. 135). Uribe asked the same point in recitation: concealment of prior prostitution is not a ground for annulment.",
+  "key_note": null
+ },
+ {
+  "id": "X-33",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "UP BOC – 2012 Bar MCQ [G-54]",
+  "type": "mcq",
+  "stem": "The following constitute the different circumstances or case of fraud which will serves as ground for the annulment of a marriage, except?",
+  "choices": [
+   "Non-disclosure of the previous conviction by final judgment of the other party of a crime involving moral turpitude.",
+   "Concealment of a sexually-transmissible disease, regardless of its nature, existing at the time of the marriage.",
+   "Concealment of drug addiction, habitual alcoholism, homosexuality or lesbianism existing at the time of marriage.",
+   "Concealment by the wife or the husband of the fact of sexual relations prior to the marriage."
+  ],
+  "answer": 3,
+  "explanation": "(A), (B) and (C) reproduce Art. 46(1), (3) and (4). (D) is not fraud. Under the last paragraph of Art. 46, no misrepresentation or deceit as to chastity constitutes fraud, so concealing pre-marital sexual relations is no ground for annulment.",
+  "key_note": null
+ },
+ {
+  "id": "X-34",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, 3rd Quiz) [C-95]",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. An action for annulment on the ground that the defendant was afflicted with sexually-transmissible diseases found to be serious and appears to be incurable will prosper.",
+   "2. Non-disclosure of the wife's pre-marital relationships with another man constitutes fraud as a ground for annulment of marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE because it is not absolutely true. An action under Art. 45(6) prospers only if the STD existed at the time of the marriage and was unknown to the plaintiff (Tolentino), and if the injured party sues within five years after the marriage (Art. 47(5)). No. 2 is FALSE. The wife's pre-marital relationships go to chastity, and under Art. 46 (last paragraph) no misrepresentation or deceit as to chastity is fraud.",
+  "key_note": null
+ },
+ {
+  "id": "X-35",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "Which of the following constitutes fraud that is a ground for annulment of marriage?",
+  "choices": [
+   "Concealment by the wife of her previous lewd life and of an illegitimate child born prior to the marriage",
+   "Misrepresentation by the husband that he is a millionaire and a member of a prominent family",
+   "Non-disclosure of a previous conviction by final judgment of the other party of a crime involving moral turpitude",
+   "Concealment by one party of a firm resolve never to have sexual intercourse after the marriage",
+   "All of the above"
+  ],
+  "answer": 2,
+  "explanation": "The Art. 46 enumeration is exclusive (inclusio unius est exclusio alterius). Concealment of a prior lewd life and of a child born before the marriage goes to chastity and character (Tolentino). Misrepresenting wealth or social prominence goes to fortune and rank. Neither is fraud under the last paragraph of Art. 46. A secret resolve never to consummate is not in the enumeration either, whatever American courts have held. Only (c) is listed, in Art. 46(1).",
+  "key_note": null
+ },
+ {
+  "id": "X-36",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2011 Bar [F-82]; UP BOC – 2011 Bar MCQ [G-62]",
+  "type": "mcq",
+  "stem": "Rene and Lily got married after a brief courtship. After one month, Lily discovered that while Rene presented himself as a macho man he was actually gay. He would not go to bed with her. He kept obscene magazines of nude men and always sought the company of handsome boys. What legal remedy does Lily have?",
+  "choices": [
+   "She can file an action for annulment of marriage on ground of fraud.",
+   "She can seek a declaration of nullity of the marriage based on Rene’s psychological incapacity.",
+   "She can go abroad and file for divorce in a country that can grant it.",
+   "She has none since she had the opportunity to examine the goods and freely entered into the marriage."
+  ],
+  "answer": 0,
+  "explanation": "Under Art. 46(4), 'concealment of drug addiction, habitual alcoholism or homosexuality or lesbianism existing at the time of the marriage' is fraud. This makes the marriage voidable under Art. 45(3) at the instance of the injured party, within five years after discovery (Art. 47(3)). Homosexuality is not per se psychological incapacity under Art. 36. Lily has no access to divorce because the marriage is between Filipinos.",
+  "key_note": null
+ },
+ {
+  "id": "X-37",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 1996 Bar [F-83]; QuAMTO 1987-2017 – 1996 Bar [G-110]",
+  "type": "mcq",
+  "stem": "Bert and Baby were married to each other on 23 Dec. 1988. Six (6) months later, she discovered that he was a drug addict. Efforts to have him rehabilitated were unsuccessful. Can Baby ask for annulment of marriage, or legal separation?",
+  "choices": [
+   "Yes, she may file for annulment (if the addiction was concealed and existing at the time of marriage) within 5 years from discovery, or for legal separation within 5 years from the occurrence of the cause.",
+   "No, because drug addiction is not a ground for either annulment or legal separation.",
+   "Only legal separation, because drug addiction can never be a ground for annulment.",
+   "Only a declaration of nullity under Art. 36."
+  ],
+  "answer": 0,
+  "explanation": "If the drug addiction existed at the time of the marriage and was concealed, it is fraud under Art. 46(4), and the injured party may sue within five years after discovery (Arts. 45(3), 47(3)). Drug addiction of the respondent is also a ground for legal separation (Art. 55(5)), and that petition must be filed within five years from the occurrence of the cause (Art. 57). Both remedies are therefore possible, subject to their periods and to the defenses of ratification (free cohabitation with full knowledge) and condonation.",
+  "key_note": "The UPLC main answer is (a). An alternative answer says Baby's continued cohabitation while trying rehabilitation may amount to ratification or condonation. Another compilation [G-110] says both actions had prescribed by 1996, counting five years from the 1989 discovery or occurrence. That answer depends on treating the filing date as the 1996 exam date."
+ },
+ {
+  "id": "X-38",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "A concealed from B his drug addiction existing at the time of their marriage in 2021. B discovered it in 2023 and immediately left A. In 2024, before B could file suit, A was completely rehabilitated. Which statement is correct?",
+  "choices": [
+   "B can still annul the marriage, provided the action is filed within five years from the discovery of the fraud",
+   "B can no longer annul the marriage because the cause of annulment has ceased",
+   "B can annul the marriage at any time, the action being imprescriptible",
+   "B's remedy is a declaration of nullity under Article 36",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "Under Art. 46(4), concealment of drug addiction existing at the time of the marriage is fraud. The defect lies in the injured party's consent, not in the addiction, so the addict's later rehabilitation does not bar the action (Tolentino). B must sue within five years after discovering the fraud (Art. 47(3)), i.e., by 2028. B left upon discovery, so there was no ratification by free cohabitation with full knowledge (Art. 45(3)).",
+  "key_note": null
+ },
+ {
+  "id": "X-39",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms) [B-118]",
+  "type": "mcq",
+  "stem": "A and B were married in 2009. In 2013, an action for annulment was filed by B on the ground of habitual alcoholism. B became alcoholic a few months after the solemnization of marriage. Will the petition prosper?",
+  "choices": [
+   "Yes, because the petition was filed within 5 years from the date the cause occurred.",
+   "Yes, because the petition was filed within 5 years from the date the petitioner attained the age of 21.",
+   "No, because the petition should have been filed within 5 years from the date the cause occurred.",
+   "No, because the petition should have been filed within 5 years from the date the petitioner became cognizant of the cause.",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Habitual alcoholism as such is not a ground for annulment. Art. 45 causes must exist at the time of the marriage, and Art. 46(4) makes only the CONCEALMENT of habitual alcoholism existing at the time of the marriage a form of fraud. Alcoholism that arose after the marriage could not have been concealed at the wedding, so the petition fails, though not for any reason in (c) or (d). Alcoholism arising after the marriage may instead support legal separation (Art. 55(5)). Choices (a) to (d) all wrongly assume annulment is available, so 'None of the above' is the answer.",
+  "key_note": null
+ },
+ {
+  "id": "X-40",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – True or False compilation (scanned) [B-32]; Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version) [C-56]; Uribe samplex (FC quiz set 2, T/F & MCQ) [D-14]",
+  "type": "tf",
+  "stem": "Concealment of sexually transmissible disease, regardless of its nature, shall constitute fraud resulting in a voidable marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 46(3) reads 'concealment of sexually transmissible disease, regardless of its nature, EXISTING AT THE TIME OF THE MARRIAGE.' Without the qualifier, the statement would cover an STD contracted after the wedding, which is not a ground for annulment, because Art. 45 causes must exist at the time of the marriage. The statement is not absolutely true.",
+  "key_note": null
+ },
+ {
+  "id": "X-41",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – 2nd Quiz (scanned) [B-4]",
+  "type": "pair",
+  "stem": "True or False. Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Concealment of sexually transmissible disease, regardless of its nature, shall constitute fraud resulting in a voidable marriage.",
+   "2. The root cause of the psychological incapacity has to be alleged in a petition for declaration of nullity of marriage under Article 36 of the Family Code."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE. Art. 46(3) requires the STD to be 'existing at the time of the marriage'; without that qualifier the statement is not absolutely true. No. 2 is FALSE. The root cause of psychological incapacity need not be alleged in the petition (Barcelona v. CA, 2003). Under A.M. No. 02-11-10-SC, Sec. 2(d), the petition need only allege the complete facts showing physical manifestations of the incapacity at the celebration, and expert opinion need not be alleged. Tan-Andal v. Andal (2021) further held that the root cause need not be medically or clinically identified.",
+  "key_note": null
+ },
+ {
+  "id": "X-42",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 2, answered w/ reasons) [C-24]; Uribe samplex (Leviathan Quiz No. 2) [D-72]",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Concealment of sexually transmitted disease, regardless of its nature, shall constitute fraud resulting in a voidable marriage.",
+   "2. The absence of any of the essential requisites shall render the marriage void ab initio."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 46(3) requires the STD to be 'existing at the time of the marriage.' No. 2 is TRUE. Art. 4 provides that 'the absence of any of the essential or formal requisites shall render the marriage void ab initio, except as stated in Article 35(2).' The Art. 35(2) exception (good-faith belief in the solemnizing officer's authority) concerns a FORMAL requisite, so absence of an essential requisite (legal capacity; consent freely given before the solemnizing officer) always makes the marriage void.",
+  "key_note": null
+ },
+ {
+  "id": "X-43",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #7 [A-47]; Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted) [C-131]",
+  "type": "tf",
+  "stem": "A marriage may be annulled on the ground of sexually transmissible disease, regardless of its nature, existing at the time of the marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Under Art. 45(6), the STD must be 'found to be serious and appears to be incurable.' The phrase 'regardless of its nature' belongs to Art. 46(3), where the ground is not the disease but the fraud in concealing it. An unconcealed, non-serious or curable STD is not a ground for annulment.",
+  "key_note": null
+ },
+ {
+  "id": "X-44",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned) [B-56]",
+  "type": "tf",
+  "stem": "Concealment of a sexually transmissible disease existing at the time of the marriage, if serious and appears to be incurable, constitutes fraud.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 46(3) makes concealment of an STD 'regardless of its nature' existing at the time of the marriage a form of fraud. 'Regardless of its nature' necessarily includes a serious and incurable STD, so concealing one is fraud under Art. 45(3) in relation to Art. 46(3). The same disease, if serious and incurable, is also an independent ground under Art. 45(6) even without concealment. The plaintiff may choose: Art. 45(6) cannot be ratified and prescribes five years after the marriage, while fraud can be ratified by free cohabitation with full knowledge and prescribes five years after discovery.",
+  "key_note": "The source cited Art. 45(6). The statement is about concealment, so its basis is Art. 46(3) in relation to Art. 45(3)."
+ },
+ {
+  "id": "X-45",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A marriage voidable because either party was afflicted with a sexually-transmissible disease found to be serious and appearing to be incurable under Article 45(6) may be ratified by free cohabitation after knowledge of the disease.",
+   "2. Concealment of a sexually-transmissible disease, regardless of its nature, existing at the time of the marriage constitutes fraud under Article 46, and the marriage is ratified if the injured party, with full knowledge of the facts, freely cohabits with the other."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 45(5) and (6) have no ratification clause. The cause of nullity never ceases, and ratification cures defects in consent, not physical defects (Tolentino). No. 2 is TRUE. Under Art. 46(3), the STD need not be serious or incurable, but it must have been concealed and must have existed at the time of the marriage. The ground is fraud, which Art. 45(3) says is ratified by free cohabitation 'with full knowledge of the facts constituting the fraud'.",
+  "key_note": null
+ },
+ {
+  "id": "X-46",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe recitation question [E-29]",
+  "type": "tf",
+  "stem": "An action for annulment filed by the wife, on the ground that 6 months after the marriage she discovered that her husband was suffering from an STD, will prosper even if the husband contracted the STD only after the marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Every Art. 45 ground must exist 'at the time of the marriage.' An STD contracted only after the wedding is not a ground under Art. 45(6), since it did not exist at the celebration. It cannot be fraud under Art. 46(3) either, because nothing existed at the wedding to conceal. Uribe's answer: it depends on whether the disease existed at the time of the marriage.",
+  "key_note": null
+ },
+ {
+  "id": "X-47",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe recitation question [E-30]",
+  "type": "mcq",
+  "stem": "An action for annulment was filed by the wife on the ground that 6 months after the marriage, she discovered that her husband was suffering from a STD. If the STD is herpes, when would this action prosper?",
+  "choices": [
+   "If it is proved that it existed at the time of the marriage, is serious, and appears to be incurable",
+   "Only if the husband was convicted of a crime",
+   "In all cases, since any STD is a ground for annulment regardless of when contracted",
+   "Only if the wife has not cohabited with the husband"
+  ],
+  "answer": 0,
+  "explanation": "Herpes is an STD. To annul under Art. 45(6), the wife must prove that the disease (1) existed at the time of the marriage, (2) is serious, and (3) appears to be incurable. Tolentino adds that it must have been unknown to her. The action must be filed within five years after the marriage (Art. 47(5)), and it is not barred by cohabitation because Art. 45(6) cannot be ratified. A criminal conviction is irrelevant, and an STD contracted after the marriage is not a ground.",
+  "key_note": null
+ },
+ {
+  "id": "X-48",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe recitation question [E-35]",
+  "type": "tf",
+  "stem": "Husband had an STD at the time of the marriage, but when the wife had knowledge, it took her 2 years to file an action for annulment. If the ground is FC 45(6) (serious and incurable STD), the defense of free cohabitation will bar the action.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Unlike Art. 45(1) to (4), Art. 45(6) has no ratification clause, so free cohabitation is no defense when the ground is a serious and incurable STD existing at the time of the marriage. The only limit is the five-year period after the marriage (Art. 47(5)). If the wife had instead sued for fraud (concealment of STD under Art. 46(3)), two years of free cohabitation with full knowledge WOULD bar the action under Art. 45(3). Uribe's answer: it depends on whether the ground invoked is Art. 45(6) or fraud.",
+  "key_note": null
+ },
+ {
+  "id": "X-49",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 1995 Bar [G-109]; QuAMTO – 1995 Bar [F-88]; Uribe CivRev recitation (2025) [A-79]",
+  "type": "mcq",
+  "stem": "Yvette was found to be positive for HIV virus, considered sexually transmissible, serious and incurable. Her boyfriend Joseph was aware of her condition and yet married her. After two (2) years of cohabiting with Yvette, and in his belief that she would probably never be able to bear him a healthy child, Joseph now wants to have his marriage with Yvette annulled. Yvette opposes the suit contending that Joseph is estopped from seeking annulment of their marriage since he knew even before their marriage that she was afflicted with HIV virus. Can the action of Joseph for annulment of his marriage with Yvette prosper?",
+  "choices": [
+   "Yes, because HIV is a serious and incurable STD.",
+   "Yes, because the action was filed within 5 years.",
+   "No, because Joseph knew of her condition before the marriage and is therefore not an injured party (Art. 47(5)).",
+   "No, because cohabitation for two years ratified the marriage."
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 47(5), only the INJURED PARTY may sue under Art. 45(6). Tolentino lists as a requisite that the disease was unknown to the other party at the wedding, and he applies estoppel to a spouse who married knowing of the other's serious and incurable STD, as with knowing marriage to an insane or impotent person. Joseph knew of the HIV before the marriage, so he is not an injured party. Uribe's recitation answer on Art. 45(6) is the same: a spouse who knew of the STD before the marriage cannot annul.",
+  "key_note": "The UPLC suggested answer to the 1995 bar question [F-88] says YES, reasoning that Art. 45(6) does not expressly require the STD to be unknown and that estoppel does not apply. Tolentino and Uribe's recitation answer take the opposite view, which is followed here."
+ },
+ {
+  "id": "X-50",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 1991 Bar [G-106]",
+  "type": "mcq",
+  "stem": "One of the grounds for annulment of marriage is that either party, at the time of their marriage was afflicted with a sexually-transmissible disease, found to be serious and appears incurable. Two (2) years after their marriage, which took place on 10 October 1988, Bethel discovered that her husband James has a sexually-transmissible disease which he contracted even prior to their marriage although James did not know it himself until he was examined two (2) years later when a child was already born to them. Bethel sues James for annulment of their marriage. James opposes the annulment on the ground that he did not even know that he had such a disease so that there was no fraud or bad faith on his part. Decide.",
+  "choices": [
+   "Deny annulment; there was no fraud since James did not know of the disease.",
+   "Deny annulment; the birth of a child ratified the marriage.",
+   "Grant annulment; good faith is not a defense when the ground is a serious and incurable STD existing at the time of marriage (Art. 45(6)).",
+   "Grant legal separation instead."
+  ],
+  "answer": 2,
+  "explanation": "Art. 45(6) does not rest on fraud or bad faith. It is enough that the STD existed at the time of the marriage, is serious and appears incurable, and was unknown to the plaintiff. James's good faith is therefore no defense. The birth of a child does not ratify, because Art. 45(6) is not subject to ratification. Bethel sued about two years after the October 10, 1988 wedding, within the five years after the marriage required by Art. 47(5).",
+  "key_note": null
+ },
+ {
+  "id": "X-51",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2017, 2008 Bar [F-87]; UP BOC – 2017 Bar [G-37]",
+  "type": "mcq",
+  "stem": "State whether the marital union is valid, void, or voidable: Ador and Becky's marriage wherein Ador was afflicted with AIDS prior to the marriage.",
+  "choices": [
+   "Valid, because AIDS is not a ground under the Family Code.",
+   "Void, for being contrary to public policy.",
+   "Voidable, because Ador was afflicted with a serious and incurable sexually transmissible disease existing at the time of the marriage.",
+   "Void, under Art. 36 for psychological incapacity."
+  ],
+  "answer": 2,
+  "explanation": "AIDS is a sexually-transmissible disease that is serious and appears incurable. If it existed at the time of the marriage, the marriage is voidable under Art. 45(6). It is not void: the parties had capacity and gave consent, and Art. 45(6) is a ground for annulment, not nullity. The action belongs to Becky as the injured party, provided she did not know of the disease, and she must sue within five years after the marriage (Art. 47(5)).",
+  "key_note": null
+ },
+ {
+  "id": "X-52",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025) [A-74]",
+  "type": "mcq",
+  "stem": "X was married to Y on January 1, 2019. In the third month after the solemnization of the marriage, X admitted to Y that he had a sexually-transmissible disease. In 2021, Y gave birth to their child. On February 14, 2024, Y filed an action for annulment under Article 45(6). Assume the disease existed at the time of the marriage, is serious and appears to be incurable, and was unknown to Y when she married X. Will the action prosper?",
+  "choices": [
+   "Yes, because free cohabitation and the birth of a child do not ratify a marriage voidable under Article 45(6).",
+   "Yes, because the action was filed within five years from Y's discovery of the disease.",
+   "No, because the action was filed beyond five years after the marriage.",
+   "No, because the birth of their child ratified the marriage.",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 47(5), an action under Art. 45(6) must be brought by the injured party 'within five years after the marriage.' The period runs from the January 1, 2019 wedding, not from discovery, and expired in early January 2024 however the five years are counted. The February 14, 2024 filing is late. The birth of the child is irrelevant because Art. 45(6) is not subject to ratification. Uribe also stressed in class that an admission three months after the wedding does not by itself prove the disease existed at the wedding or was concealed. If it did exist and was concealed, Y could instead sue for fraud under Arts. 45(3) and 46(3) within five years after discovery, but free cohabitation with full knowledge would then bar that action.",
+  "key_note": "Converted from an essay-type recitation question. The original facts did not say the STD existed at the wedding; Uribe's point was 'do not presume'. The assumptions are written into the stem so that the item has one answer."
+ },
+ {
+  "id": "X-53",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2012 Bar [F-81]; UP BOC – 2012 Bar MCQ [G-50]",
+  "type": "mcq",
+  "stem": "Ricky and Princess were sweethearts. Princess became pregnant. Knowing that Ricky is preparing for the examinations, Marforth, a lawyer and cousin of Princess, threatened Ricky with the filing of a complaint for immorality in the Supreme Court, thus preventing him from taking examinations unless he marries Princess. As a consequence of the threat, Ricky married Princess. Can the marriage be annulled on the ground of intimidation under Article 45 of the Family Code? Choose the best answer.",
+  "choices": [
+   "Yes, because without the threat, Ricky would not have married Princess.",
+   "Yes, because the threat to enforce the claim of Princess vitiates the consent of Ricky in contracting the marriage.",
+   "No, because the threat made by Marforth is just and legal.",
+   "No, because Marforth is not a party to the contract of marriage between Princess and Ricky."
+  ],
+  "answer": 2,
+  "explanation": "Art. 45(4) requires consent obtained by force, intimidation or undue influence. Under Civil Code Art. 1335, 'a threat to enforce one's claim through competent authority, if the claim is just or legal, does not vitiate consent.' Tolentino applies this to marriage: a man who marries under threat of administrative charges for immorality he actually committed cannot avoid the marriage on the ground of duress. Intimidation by a third person can vitiate consent (Civil Code Art. 1336), so (D) is wrong; the reason the action fails is that the threat was just and legal.",
+  "key_note": null
+ },
+ {
+  "id": "X-54",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "A seduced B, a 19-year-old woman. B's father threatened to file a criminal complaint against A for the seduction, which A had in fact committed, unless A married B. A married B. Later A sued to annul the marriage on the ground of force and intimidation. Will the action prosper?",
+  "choices": [
+   "Yes, because A's consent was obtained through intimidation",
+   "No, because a threat to prosecute a person for a crime of which he is guilty is not duress that vitiates consent",
+   "Yes, because the threat came from a third person",
+   "No, because the action has prescribed",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Art. 45(4); cf. Civil Code Art. 1335. Tolentino states that a marriage entered into to escape punishment for seduction will not be annulled, even if consent was secured through threats to prosecute a crime of which the party was guilty. Such pressure is not duress, because the threatened prosecution is just and legal. It is different where the threat is imprisonment under a void process or on a false charge, which makes the marriage annullable. That the threat came from a third person (the father) does not matter, since intimidation by a third person can vitiate consent (Art. 1336), but here there was no unlawful intimidation.",
+  "key_note": null
+ },
+ {
+  "id": "X-55",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 2010, 2007 Bar [F-85]; UP BOC – 2007 Bar [G-66]",
+  "type": "tf",
+  "stem": "The day after John and Marsha got married, John told her that he was impotent. Marsha continued to live with John for two (2) years. Marsha is now estopped from filing an annulment case against John.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Physical incapacity to consummate that exists at the time of the marriage, continues and appears incurable is a ground under Art. 45(5). Unlike grounds (1) to (4), it has no ratification clause, so continued cohabitation does not bar the action. Marsha learned of the impotence only after the wedding, so the estoppel of a spouse who knowingly married an impotent person does not apply. She may sue within five years after the marriage (Art. 47(5)), and two years have passed.",
+  "key_note": null
+ },
+ {
+  "id": "X-56",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Sterility, which negatives reproduction, is a ground for annulment under Article 45(5).",
+   "2. For physical incapacity to be a ground for annulment, it must exist at the time of the celebration of the marriage, continue to the time the case is tried, appear to be incurable, and be unknown to the other party."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 45(5) refers to physical incapacity to consummate, i.e., impotence or the lack of power to copulate. Sterility is not a ground, because the test is capacity to copulate, not to reproduce (Sarao v. Guevara). No. 2 is TRUE; it states Tolentino's four concurring requisites. A spouse who knew of the incurable impotence before the marriage cannot sue, since he is deemed to have renounced copulation. Annulment is also denied if the incapacity can be remedied by treatment.",
+  "key_note": null
+ },
+ {
+  "id": "X-57",
+  "topic": "voidable",
+  "origin": "recit",
+  "src": "Uribe recitation question [E-36]",
+  "type": "tf",
+  "stem": "In an action for annulment for physical incapacity/impotence, if the respondent wife refused to have herself examined and the court decided the case in favor of the husband because of such refusal, the judgment is valid.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Jimenez v. Cañizares (1960): the wife refused to submit to a physical examination, and the trial court annulled the marriage. The Supreme Court set the decree aside. Impotence cannot be presumed from a refusal to be examined, and the presumption favors potency and the validity of the marriage. The Court stressed that, given the State's interest in marriage, the husband's lone testimony is not enough. The wife's impotence must be proved, and her refusal to be examined is not proof of it.",
+  "key_note": null
+ },
+ {
+  "id": "X-58",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New",
+  "type": "mcq",
+  "stem": "A and B were married on March 1, 2019. On their wedding night B discovered that A was impotent, and the impotence appears to be incurable. B stayed with A, hoping that A would seek treatment. On June 1, 2024, B filed an action for annulment. Will the action prosper?",
+  "choices": [
+   "Yes, because the action was filed within five years from discovery of the impotence.",
+   "Yes, because a marriage voidable for impotence is not subject to ratification by cohabitation.",
+   "No, because the action prescribed five years after the marriage.",
+   "No, because B ratified the marriage by freely cohabiting with A with full knowledge of the impotence.",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 47(5), an action under Art. 45(5) (physical incapacity to consummate) must be brought by the injured party 'within five years AFTER THE MARRIAGE.' The period runs from the celebration (March 1, 2019), not from discovery, and expired in March 2024. The June 1, 2024 filing is late. B's continued cohabitation is not the reason the action fails, since Art. 45(5) is not subject to ratification. The action fails because it has prescribed.",
+  "key_note": null
+ },
+ {
+  "id": "X-59",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "Match the ground for annulment with the correct prescriptive period. Which is CORRECT?",
+  "choices": [
+   "Fraud: within five years from the celebration of the marriage",
+   "Insanity (by the sane spouse without knowledge): within five years from discovery of the insanity",
+   "Physical incapacity to consummate: within five years from discovery of the incapacity",
+   "Force or intimidation: within five years from the time the force or intimidation disappeared or ceased",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Art. 47 provides: (3) fraud, by the injured party within five years after DISCOVERY of the fraud, so (a) is wrong. (2) insanity, by the sane spouse without knowledge at any time before the DEATH of either party, so (b) is wrong. (5) impotence and serious incurable STD, by the injured party within five years AFTER THE MARRIAGE, not from discovery, so (c) is wrong. (4) force, intimidation or undue influence, by the injured party within five years from the time it disappeared or ceased, so (d) is correct.",
+  "key_note": null
+ },
+ {
+  "id": "X-60",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A voidable marriage may be attacked collaterally, as in a proceeding for the settlement of the estate of one of the spouses.",
+   "2. After the death of the husband, his compulsory heirs may file an action to annul his marriage on the ground that his consent was obtained by fraud."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE. A voidable marriage is valid until annulled and can be attacked only DIRECTLY, in an action for annulment by the persons and within the periods in Art. 47. It cannot be attacked collaterally. Only a void marriage may be collaterally attacked, e.g., in a settlement of estate (Niñal v. Bayadog). No. 2 is FALSE. Art. 47 limits who may sue, and heirs are not among them. Once a spouse dies, the voidable marriage can no longer be annulled; even for insanity, relatives may sue only 'before the death of either party' (Art. 47(2)). By contrast, the heirs may question a void marriage even after a spouse's death, subject to A.M. No. 02-11-10-SC.",
+  "key_note": null
+ },
+ {
+  "id": "X-61",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version) [C-45]; Uribe samplex MCQ set (Studocu, 2nd Quiz) [C-88]; Uribe samplex (FC quiz set 1, T/F & MCQ) [D-3]",
+  "type": "tf",
+  "stem": "An action for annulment shall in no case be tried before six months shall have elapsed since the filing of the petition.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The six-month cooling-off period ('An action for legal separation shall in no case be tried before six months shall have elapsed since the filing of the petition') appears in Art. 58 and applies only to LEGAL SEPARATION, where reconciliation is the aim. Annulment has no such rule. Its safeguards are in Art. 48: the prosecutor's appearance to prevent collusion, and the bar on judgments based on stipulation of facts or confession of judgment.",
+  "key_note": null
+ },
+ {
+  "id": "X-62",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A judgment of annulment may be based upon a stipulation of facts or a confession of judgment, provided both parties are assisted by counsel.",
+   "2. In all cases of annulment or declaration of absolute nullity of marriage, the Court shall order the prosecuting attorney or fiscal assigned to it to appear on behalf of the State to take steps to prevent collusion between the parties and to take care that evidence is not fabricated or suppressed."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 48(2) states that 'no judgment shall be based upon a stipulation of facts or confession of judgment', and assistance of counsel makes no difference. No. 2 is TRUE; it is verbatim Art. 48(1). The State intervenes because marriage is a social institution in which it is interested, not a mere contract whose continuance depends on the parties (Tolentino). Tolentino submits that a decree obtained through collusion, where no cause really existed, must be held absolutely void.",
+  "key_note": null
+ },
+ {
+  "id": "X-63",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. During the pendency of an action for annulment, the Court shall provide for the support of the spouses and the custody and support of their common children, even if the spouses have executed a written agreement adequately providing for such matters.",
+   "2. During the pendency of an action for annulment, the Court, in providing for the custody of the common children, shall also provide for appropriate visitation rights of the other parent."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 49 directs the Court to provide for the support of the spouses and the custody and support of their common children only 'during the pendency of the action AND IN THE ABSENCE OF ADEQUATE PROVISIONS IN A WRITTEN AGREEMENT between the spouses.' The spouses have the first opportunity to agree; the court steps in only if their agreement is absent or inadequate (Tolentino). No. 2 is TRUE; it is verbatim Art. 49. The court gives paramount consideration to the moral and material welfare of the children and their choice of parent (Title IX), and 'shall also provide for appropriate visitation rights of the other parent.'",
+  "key_note": null
+ },
+ {
+  "id": "X-64",
+  "topic": "voidable",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, 3rd Quiz) [C-101]",
+  "type": "mcq",
+  "stem": "The decree of annulment shall have the following effects, except:",
+  "choices": [
+   "The absolute community of property or the conjugal partnership, as the case may be, shall be dissolved and liquidated",
+   "Donations by reason of marriage shall remain valid, except that if the donee contracted the marriage in bad faith, such donations made to said done are revoked by operation of law",
+   "The innocent spouse may revoke the designation of the other spouse who acted in bad faith as beneficiary in any insurance policy, even if such designation be stipulated as irrevocable",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Art. 50 makes paragraphs (2), (3), (4) and (5) of Art. 43 apply to marriages annulled under Art. 45. (a) is Art. 43(2): the community or partnership is dissolved and liquidated, with the bad-faith spouse's share of net profits forfeited. (b) is Art. 43(3), verbatim: donations by reason of marriage remain valid, but those to a donee who contracted the marriage in bad faith are revoked by operation of law. (c) is Art. 43(4). All three are effects of a decree of annulment, so none is an exception. Tolentino confirms that Arts. 50-54 give the same effects to all defective marriages, including revocation by operation of law of donations from the innocent spouse to the spouse in bad faith.",
+  "key_note": "Note: the samplex key marked (b); this is incorrect because Art. 50 expressly applies Art. 43(3) to annulled marriages, and (b) copies Art. 43(3). The key apparently relied on Art. 86(3), which makes a donation propter nuptias merely revocable by the donor when the marriage is annulled and the donee acted in bad faith. One suggested reconciliation applies Art. 43(3) to donations between the spouses and Art. 86(3) to donations by third persons."
+ },
+ {
+  "id": "X-65",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. In the partition, the value of the presumptive legitimes of all common children, computed as of the date of the final judgment of the trial court, shall be delivered in cash, property or sound securities, unless the parties, by mutual agreement judicially approved, had already provided for such matters.",
+   "2. The delivery of the presumptive legitimes shall be in full satisfaction of the successional rights of the children, and the value of the properties received shall not be considered as advances on their legitime."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE; it is verbatim Art. 51, first paragraph. No. 2 is FALSE. Art. 51 (last paragraph) provides that 'the delivery of the presumptive legitimes herein prescribed shall IN NO WAY PREJUDICE the ultimate successional rights of the children accruing upon the death of either or both of the parents; but the value of the properties already received under the decree of annulment or absolute nullity shall be considered as ADVANCES on their legitime.'",
+  "key_note": null
+ },
+ {
+  "id": "X-66",
+  "topic": "voidable",
+  "origin": "new",
+  "src": "New",
+  "type": "tf",
+  "stem": "The judgment of annulment, the partition and distribution of the properties of the spouses, and the delivery of the children's presumptive legitimes shall be recorded in the appropriate civil registry and registries of property; otherwise, the same shall be null and void.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 52 provides that if these are not recorded, 'the same shall NOT AFFECT THIRD PERSONS', not that they are void. Nullity is the sanction in Art. 53, and it falls on the SUBSEQUENT MARRIAGE: either former spouse may marry again only after complying with Art. 52, 'otherwise, the subsequent marriage shall be null and void.'",
+  "key_note": null
+ },
+ {
+  "id": "X-67",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 1990 Bar [F-94]",
+  "type": "mcq",
+  "stem": "The marriage of H and W was annulled by the competent court. Upon finality of the judgment of nullity, H began looking for his prospective second mate. He fell in love with a sexy woman, S, who wanted to be married as soon as possible i.e., after a few months of courtship. As a young lawyer you were consulted by H. How soon can H be joined in lawful wedlock to his girlfriend S? Under existing laws, are there certain requisites that must be complied with before he can remarry?",
+  "choices": [
+   "Immediately upon finality of the judgment, without further requisites.",
+   "Only after the judgment of annulment, the partition and distribution of the properties, and the delivery of the children's presumptive legitimes are recorded in the civil registry and registries of property.",
+   "Only after 300 days from the finality of the judgment.",
+   "Only after one year from the finality of the judgment."
+  ],
+  "answer": 1,
+  "explanation": "Under Art. 53, either former spouse may remarry only after complying with Art. 52. The judgment of annulment, the partition and distribution of the spouses' properties, and the delivery of the children's presumptive legitimes must be recorded in the appropriate civil registry and registries of property. A subsequent marriage without such compliance is null and void (Art. 53). The Family Code has no 300-day or one-year waiting period for the man. (The old 301-day rule on a woman's remarriage was the crime of premature marriage under Art. 351 of the Revised Penal Code, which RA 10655 repealed in 2015. It never set a civil waiting period for validity.)",
+  "key_note": null
+ },
+ {
+  "id": "X-68",
+  "topic": "voidable",
+  "origin": "bar",
+  "src": "QuAMTO – 1990 Bar [F-95]",
+  "type": "mcq",
+  "stem": "The marriage of H and W was annulled by the competent court. Upon finality of the judgment of nullity, H began looking for his prospective second mate. He fell in love with a sexy woman, S, who wanted to be married as soon as possible i.e., after a few months of courtship. As a young lawyer you were consulted by H. Suppose that children were born from the union of H and W, what would be the status of said children? And if the subsequent marriage of H to S was contracted before compliance with the statutory condition for its validity, what is the status of the children of the subsequent marriage?",
+  "choices": [
+   "Both the children of H and W (conceived or born before finality of the annulment) and the children of H and S are legitimate.",
+   "Children of H and W are legitimate; children of H and S are illegitimate since that marriage is void.",
+   "Children of H and W became illegitimate upon annulment; children of H and S are legitimate.",
+   "All the children are illegitimate."
+  ],
+  "answer": 0,
+  "explanation": "Under Art. 54, 'children conceived or born before the judgment of annulment or absolute nullity of the marriage under Article 36 has become final and executory shall be considered legitimate. Children conceived or born of the subsequent marriage under Article 53 shall likewise be legitimate.' The children of H and W conceived or born before finality are legitimate. So are the children of H and S, even though that subsequent marriage is void under Art. 53 for non-compliance with Art. 52.",
+  "key_note": null
+ }
+]

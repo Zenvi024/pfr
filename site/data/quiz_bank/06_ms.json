@@ -1,0 +1,1117 @@
+[
+ {
+  "id": "M-1",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #3 (scanned, handwritten key) #4; Uribe Quiz compilation (Studocu) pair 4; Uribe samplex – True or False compilation (scanned) #27–28",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The marriage settlements and any modification thereof shall be in a public instrument.",
+   "2. If the future spouses agree upon a regime of absolute community of property, they cannot donate to each other in their marriage settlements more than one-fifth of their present property."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE. Art. 77 FC requires only that the settlements 'be in writing, signed by the parties and executed before the celebration of the marriage.' A public instrument is needed only to register the settlement in the registry of property, not for validity. No. 2 is FALSE. Art. 84: the one-fifth cap applies only if the future spouses agree upon a regime OTHER THAN the absolute community. In the ACP the donated property becomes community property anyway, so the cap would be pointless.",
+  "key_note": null
+ },
+ {
+  "id": "M-2",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) (second set, pair 4)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The marriage settlements and any modification thereof shall be in writing and executed during the celebration of the marriage.",
+   "2. If the future spouses agree upon a regime of conjugal partnership of gains, they cannot donate to each other in their marriage settlements more than one-fifth of their future property."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE. Art. 77: the settlements must be executed BEFORE the celebration, not during it (see also Art. 76: any modification must be made before the celebration). No. 2 is FALSE. Art. 84: the cap is one-fifth of PRESENT property. Donations of future property are governed by the provisions on testamentary succession and the formalities of wills (Art. 84, 2nd par.). Uribe (Quiz 4): 'Mali ang future property. If the regime is CPG, they cannot donate more than ⅕ of their present property.'",
+  "key_note": null
+ },
+ {
+  "id": "M-3",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) pair 1; Uribe samplex – Quiz #3 (Studocu)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The property relations of the spouses shall be governed primarily by the provisions of the Family Code.",
+   "2. X died yesterday, survived by Y, his widow. If X and Y did not execute a marriage settlement the regime shall govern their property relations shall be absolute community property regime."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE. Art. 74: the property relationship is governed (1) by marriage settlements executed before the marriage, (2) by the provisions of the Family Code, and (3) by local custom. The settlement comes first. No. 2 is FALSE. The facts do not give the date of the marriage. ACP is the default only for marriages celebrated on or after August 3, 1988 (Art. 75). For marriages before that date, the default under Art. 119 of the Civil Code is the conjugal partnership of gains.",
+  "key_note": "Copied as it appears in the compilation (including the garbled 'the regime shall govern'). The answer is the same whichever way the clause is read."
+ },
+ {
+  "id": "M-4",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) (second set, pair 1; keyed D)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The property relations of the spouses shall be governed primarily by the provisions of the Family Code.",
+   "2. X died in 1987 survived by Y, his widow. If X and Y did not execute a marriage settlement, the regime that shall govern their property relations shall be CPG."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE (Art. 74: the marriage settlement comes first). No. 2 is TRUE. X died in 1987, so the marriage was necessarily celebrated before the Family Code took effect on August 3, 1988. Without a settlement, the Civil Code default (Art. 119, NCC) is the conjugal partnership of gains. The Family Code does not convert existing regimes (Art. 105, 2nd par.; Art. 256).",
+  "key_note": null
+ },
+ {
+  "id": "M-5",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) pair 2 (keyed D)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The property relations of the spouses, both being Filipinos, shall be governed by Philippine laws, regardless of the place of the celebration of the marriage and their residence.",
+   "2. Donations between the prospective spouses made in the marriage settlement in consideration of a future marriage shall be rendered void if the marriage does not take place."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 80 opens with 'In the absence of a contrary stipulation in a marriage settlement'. The spouses may stipulate another law, so the statement is not absolutely true. No. 2 is TRUE. Art. 81: everything stipulated in the settlements in consideration of a future marriage, 'including donations between the prospective spouses made therein, shall be rendered void if the marriage does not take place.'",
+  "key_note": "The circulated copy cuts Statement 2 off after 'in consideration of a future marriage' and keys it True. It is completed here with the codal text of Art. 81, which is what the True key presupposes. The variant with 'revocable' (next item) is False."
+ },
+ {
+  "id": "M-6",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) (second set, pair 2; keyed B)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The property relations of the spouses, both being Filipinos, shall be governed by PH laws, regardless of the place of the celebration and their residence.",
+   "2. Donations between the prospective spouses made in the marriage settlement, in consideration of a future marriage, shall be revocable if the marriage does not take place."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE: Art. 80 applies only 'in the absence of a contrary stipulation in a marriage settlement'. No. 2 is FALSE. Under Art. 81, such donations 'shall be rendered VOID if the marriage does not take place'. They are not merely revocable. Uribe: 'If it is revoked, it presupposes that there is a valid act; there is nothing to revoke if it is void.' Revocation by the donor under Art. 86(1) applies to donations propter nuptias made OUTSIDE the settlement, and Art. 86(1) itself excepts 'donations made in the marriage settlements, which shall be governed by Article 81.'",
+  "key_note": null
+ },
+ {
+  "id": "M-7",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) pair 3 (keyed C)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. In order that the donation by reason of marriage involving an immovable may be valid, it must be made in a public document.",
+   "2. In case of foreclosure of the encumbrance and the property is sold for less than the total amount of the obligation secured, the donor shall not be liable for the deficiency."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE. Under Art. 83 FC, donations propter nuptias follow the rules on ordinary donations, and Art. 749 NCC requires a public document for the donation of an immovable. No. 2 is FALSE. Art. 85: it is the DONEE who 'shall not be liable for the deficiency.' The donor, as the debtor, remains liable on his own obligation.",
+  "key_note": null
+ },
+ {
+  "id": "M-8",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) (second set, pair 3; keyed D)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. In order that the donation by reason of marriage involving a movable may be valid, it must be made in writing.",
+   "2. In case of foreclosure of the encumbrance and the property is sold for more than the total amount of said obligation, the donee shall be entitled to the excess."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 83 FC refers to the rules on ordinary donations. Under Art. 748 NCC, a donation of a movable may be made orally (with simultaneous delivery) or in writing, and writing is required only if the value exceeds ₱5,000. No. 2 is TRUE (Art. 85, last sentence).",
+  "key_note": null
+ },
+ {
+  "id": "M-9",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #3 (scanned, handwritten key) #5; Uribe Quiz compilation (Studocu) pair 5 (keyed C); Uribe samplex – True or False compilation (scanned) #29–30",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Donations of future property shall be governed by the provisions on testamentary succession and formalities of wills.",
+   "2. The community property shall consist of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE (Art. 84, 2nd par.). No. 2 is FALSE. Art. 91 begins 'Unless otherwise provided in this Chapter or in the marriage settlements'. Art. 92 excludes property acquired during the marriage by gratuitous title, property for personal and exclusive use (except jewelry), and property owned before the marriage by a spouse with legitimate descendants by a former marriage.",
+  "key_note": null
+ },
+ {
+  "id": "M-10",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) (second set, pair 5; keyed B)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Donations of present property shall be governed by the provisions on testamentary succession and the formalities of wills.",
+   "2. The conjugal partnership shall be governed by the rules on the contract of partnership."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE: it is donations of FUTURE property that follow the rules on testamentary succession (Art. 84, 2nd par.). Donations of present property follow the rules on donations, subject to the one-fifth cap. No. 2 is FALSE as stated. Art. 108 adds the qualifier 'in all that is not in conflict with what is expressly determined in this Chapter or by the spouses in their marriage settlements'. The partnership rules are only suppletory.",
+  "key_note": "The circulated key is B (both false). The only defect in No. 2 is the missing qualifier, which is Uribe's usual way of making a codal statement false."
+ },
+ {
+  "id": "M-11",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #1",
+  "type": "tf",
+  "stem": "In order that the donation by reason of marriage involving a movable may be valid, it must be made in writing.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 83 FC: donations by reason of marriage 'are governed by the rules on ordinary donations established in Title III of Book III of the Civil Code, insofar as they are not modified' by the Family Code. Art. 748 NCC: a movable may be donated orally or in writing. An oral donation requires simultaneous delivery, and writing (of both the donation and the acceptance) is required only if the value exceeds ₱5,000. Uribe: as to formalities, the FC made no modifications. 'Walang binago ang FC.'",
+  "key_note": null
+ },
+ {
+  "id": "M-12",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #2; Uribe – PFR Answer Key Quiz 3 #12 (mirror item)",
+  "type": "tf",
+  "stem": "The property relationship between husband and wife shall be governed primarily by the Family Code.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 74: (1) by marriage settlements executed before the marriage; (2) by the provisions of the Family Code; and (3) by the local custom. Settlements come first. In the Quiz 4 discussion, Uribe added that a 1985 marriage without a settlement is under CPG, governed by the Civil Code, but the FC rules on CPG also apply to a marriage still existing after August 3, 1988, insofar as they do not impair vested rights (Arts. 105, 256).",
+  "key_note": null
+ },
+ {
+  "id": "M-13",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #3",
+  "type": "tf",
+  "stem": "In the absence of a marriage settlement, or when the regime agreed upon is void, the system of absolute community of property shall govern.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Graded FALSE in the Quiz 4 discussion: 'This is not totally true.' The statement is not true of marriages celebrated before August 3, 1988, which are governed by the conjugal partnership of gains absent a settlement or when the regime agreed upon is void (Art. 119, NCC). Art. 75 itself says 'the system of absolute community of property AS ESTABLISHED IN THIS CODE shall govern', which assumes a Family Code marriage. Uribe: 'If your answer is False, discuss why it is false and not why it is true.'",
+  "key_note": "This is Art. 75's second sentence minus 'as established in this Code'. Sir's answer is False because the statement is not absolutely true for pre-Family Code marriages."
+ },
+ {
+  "id": "M-14",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #4",
+  "type": "tf",
+  "stem": "If the future spouses agree upon a regime of conjugal partnership of gains, they cannot donate to each other in their marriage settlements more than one-fifth of their future property.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 84: the cap is one-fifth of their PRESENT property, and any excess is void. Donations of future property between the future spouses are governed by the rules on testamentary succession and the formalities of wills (Art. 84, 2nd par.). Uribe: future property is property acquired after the solemnization, compared with present property.",
+  "key_note": null
+ },
+ {
+  "id": "M-15",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #5",
+  "type": "tf",
+  "stem": "The marriage settlements and any modification thereof shall be in writing, signed by the parties and may be made before the celebration of the marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 77: '… shall be in writing, signed by the parties and EXECUTED BEFORE the celebration of the marriage.' Uribe: the defect is 'may be made', because execution before the celebration is mandatory. Answering False because settlements can be changed during the marriage through judicial separation is the wrong reason. Those are not modifications of the settlement but judicial remedies under Arts. 66, 67, 128, 135 and 136.",
+  "key_note": null
+ },
+ {
+  "id": "M-16",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #6",
+  "type": "tf",
+  "stem": "Donations between the prospective spouses made in the marriage settlement, in consideration of a future marriage, shall be revocable if the marriage does not take place.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 81: such donations 'shall be rendered VOID if the marriage does not take place'. There is nothing to revoke, because revocation presupposes a valid act. Uribe also rejected the explanation that they are 'revoked by operation of law': void means void from the beginning, while revoked by operation of law means valid but revoked (as in Arts. 43(3) and 44).",
+  "key_note": null
+ },
+ {
+  "id": "M-17",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #7; Uribe samplex – True or False compilation (scanned) #29",
+  "type": "tf",
+  "stem": "Donations of future property shall be governed by the provisions on testamentary succession and the formalities of wills.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 84, 2nd par. FC. Future property cannot ordinarily be donated (Art. 751, NCC). Between future spouses, in the marriage settlement, it may be disposed of only as a mortis causa disposition with the formalities of a will.",
+  "key_note": null
+ },
+ {
+  "id": "M-18",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #9",
+  "type": "tf",
+  "stem": "Donations by reason of marriage are those which are made before its celebration, in consideration of the same, and made by one or both of the future spouses.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 82: '… and IN FAVOR OF one or both of the future spouses.' The law regulates the DONEE, not the donor. Anyone not disqualified by the law on donations may be the donor: one future spouse, the parents, other relatives, or strangers. Uribe docked a student who did not explain who may be the donor.",
+  "key_note": null
+ },
+ {
+  "id": "M-19",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #10",
+  "type": "tf",
+  "stem": "X died yesterday survived by Y, his widow. If X and Y did not execute a marriage settlement, the regime that shall govern their property relations shall be absolute community of property regime.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The date of the marriage is not given. If X and Y married before August 3, 1988, the default regime is CPG (Art. 119, NCC). Only for marriages on or after that date is ACP the default (Art. 75). 'Consider the statement true if it is absolutely true.' It is not, because it depends on when the marriage was solemnized.",
+  "key_note": "The class notes first wrote 'TRUE ?? NOT SURE'. The discussion settled on False."
+ },
+ {
+  "id": "M-20",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) TF 4; Uribe samplex – True or False compilation (scanned) #27",
+  "type": "tf",
+  "stem": "The marriage settlements and any modification thereof shall be in a public instrument.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 77 requires only a writing, signed by the parties and executed before the celebration. Registration (which in practice needs a notarized document) matters only for binding third persons.",
+  "key_note": null
+ },
+ {
+  "id": "M-21",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe – PFR Answer Key Quiz 3 #2",
+  "type": "tf",
+  "stem": "The marriage settlements and any modification thereof shall be in public instrument, signed by parties and executed before the celebration of the marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 77: 'in writing', not 'public instrument'. The rest of the statement (signed by the parties, executed before the celebration) is correct, but one wrong word makes it false.",
+  "key_note": null
+ },
+ {
+  "id": "M-22",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #1 (scanned, handwritten key) TF 2",
+  "type": "tf",
+  "stem": "The marriage settlements and any modification thereof shall be in writing, signed by the parties and executed before the celebration of the marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim first sentence of Art. 77 FC.",
+  "key_note": null
+ },
+ {
+  "id": "M-23",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #1 (scanned, handwritten key) TF 3",
+  "type": "tf",
+  "stem": "Donations by reason of marriage are those which are made before its celebration, in consideration of the same.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 82 has three requisites: made (1) before the celebration, (2) in consideration of the marriage, and (3) in favor of one or both of the future spouses. The statement omits the third, so a donation made before the wedding 'in consideration' of it but to someone else (e.g., the bride's parents) would fit the statement yet is an ordinary donation.",
+  "key_note": "Typed key reads TRUE; the handwritten correction reads FALSE, Art. 82 ('& in favor of one or both of the future spouses'). The bank follows the correction."
+ },
+ {
+  "id": "M-24",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) TF 5",
+  "type": "tf",
+  "stem": "If the future spouses agree upon a regime of conjugal partnership of gains, they cannot donate to each other in their marriage settlements more than 1/5 of their personal property.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 84 says 'present property', not 'personal property'. CPG is a regime 'other than the absolute community', so the cap applies. But the cap is measured against PRESENT property (all property owned at the time of the donation, movable or immovable), not 'personal' (movable) property. Under the 'absolutely true' standard, the substituted word makes the statement false.",
+  "key_note": "The circulated compilation key says TRUE ('law states other than ACP which includes CPG'). That reasoning addresses only the regime and ignores the one-word change from 'present' to 'personal'. Expect Uribe to treat it as false. If you see this on the quiz, write False and give both reasons."
+ },
+ {
+  "id": "M-25",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) TF 10",
+  "type": "tf",
+  "stem": "A donation by reason of marriage may be revoked by the donor if the marriage is not celebrated.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 86(1): a DPN 'may be revoked by the donor … if the marriage is not celebrated or judicially declared void ab initio', except donations made in the marriage settlements, which are void under Art. 81. 'May be revoked' makes the statement true, because it does not claim that every DPN is revocable on this ground.",
+  "key_note": null
+ },
+ {
+  "id": "M-26",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe – PFR Answer Key Quiz 3 #12",
+  "type": "tf",
+  "stem": "The property relation between husband and wife shall be primarily governed by the marriage settlement executed before marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 74(1): marriage settlements executed before the marriage come first, followed by the Family Code and local custom.",
+  "key_note": null
+ },
+ {
+  "id": "M-27",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #3 (scanned, handwritten key) MCQ 8; Civ Rev samplex (scanned) MCQ 3; Uribe Quiz compilation (Studocu) MCQ 8",
+  "type": "mcq",
+  "stem": "Which among the following is not a ground to revoke a donation by reason of marriage:",
+  "choices": [
+   "When the marriage takes place without the consent of the parents or guardians as required by law",
+   "If it is with a resolutory condition and the condition is complied with",
+   "Donations made in the marriage settlements, if the marriage is not celebrated",
+   "Upon legal separation, the donee being the guilty spouse",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "C is not a ground for revocation. Donations made in the marriage settlements are rendered VOID by operation of Art. 81 if the marriage does not take place, and Art. 86(1) expressly excepts them. A, B and D are grounds under Art. 86(2), (5) and (4).",
+  "key_note": null
+ },
+ {
+  "id": "M-28",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe Quiz compilation (Studocu) (second set) MCQ 8",
+  "type": "mcq",
+  "stem": "Which among the following is not a ground to revoke a donation by reason of marriage:",
+  "choices": [
+   "When the marriage takes place without the consent of the parents or guardians as required by law",
+   "If it is with a resolutory condition and the condition is complied with",
+   "Donations made in the marriage settlements, if the marriage is judicially declared void ab initio",
+   "Upon legal separation, the donor being the guilty spouse.",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "D is the planted alteration. Art. 86(4) allows revocation 'upon legal separation, the DONEE being the guilty spouse', not the donor. A and B are grounds (Art. 86(2), (5)).",
+  "key_note": "C is arguably also not a ground for revocation by the donor. Art. 86(1) excepts 'donations made in the marriage settlements', which it sends to Art. 81. Because the item allows only one answer, D (the one-word alteration) is keyed. If asked to explain, mention that C is doubtful for the same reason as in the other version of this question."
+ },
+ {
+  "id": "M-29",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #16",
+  "type": "mcq",
+  "stem": "Which among the following is NOT a ground to revoke a donation by reason of marriage:",
+  "choices": [
+   "When the marriage takes place without the advice of the parents or guardians as required by law.",
+   "If it is with a suspensive condition and the condition is complied with.",
+   "Upon legal separation, the donor being the guilty spouse.",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Each choice has one altered word. A: Art. 86(2) requires the CONSENT of the parents (Art. 14), not their advice (Art. 15). B: Art. 86(5) refers to a RESOLUTORY condition. A suspensive condition delays the effectivity of the donation, while a resolutory condition terminates it when fulfilled. C: Art. 86(4) requires that the DONEE be the guilty spouse. So none of the three is a ground, and the answer is D (all of the above).",
+  "key_note": null
+ },
+ {
+  "id": "M-30",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #19",
+  "type": "mcq",
+  "stem": "A donation by reason of marriage involving a painting will be valid only if:",
+  "choices": [
+   "it is in writing",
+   "it is in a public instrument",
+   "it is a verbal donation",
+   "any of the above",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "A painting is a movable. Under Art. 83 FC and Art. 748 NCC, an oral donation is valid with simultaneous delivery, and writing is required only if the value exceeds ₱5,000. So none of A–C is a requisite 'only if'. Writing is not always needed, a public instrument is never required for a movable, and a verbal donation without simultaneous delivery is void. Uribe: 'maraming paintings sa tabi-tabi na ₱150 lang.'",
+  "key_note": "The class notes add a caveat: 'can be A' if the painting is worth more than ₱5,000. The facts do not say, so E is the absolutely correct answer."
+ },
+ {
+  "id": "M-31",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #17",
+  "type": "mcq",
+  "stem": "The property regime of the spouses married in 1987 will be absolute community of property if:",
+  "choices": [
+   "no marriage settlement was executed",
+   "the marriage settlement is void",
+   "a marriage settlement was executed",
+   "all of the above",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "In 1987 the Civil Code applied. Without a settlement, or if the settlement is void, the regime is the conjugal partnership of gains, so A and B are wrong. C is not absolutely true, because a settlement may adopt any regime, not necessarily ACP. Uribe pointed to the word 'will': '… malay mo separate property ang gusto nila.'",
+  "key_note": "The class notes record 'E or C'. The discussion rejected C because of the word 'will'."
+ },
+ {
+  "id": "M-32",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #3 (scanned, handwritten key) MCQ 9; Civ Rev samplex (scanned) MCQ 4; Uribe Quiz compilation (Studocu) MCQ 9",
+  "type": "mcq",
+  "stem": "The property regime of the spouses married in 1999 will NOT be absolute community of property if:",
+  "choices": [
+   "No marriage settlement was executed",
+   "The marriage settlement is void",
+   "The marriage settlement specified absolute community property",
+   "If one of the contracting parties is a surviving spouse who contracted a subsequent marriage without liquidating the community property",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "For a 1999 marriage, no settlement or a void settlement leads to ACP (Art. 75), and a settlement choosing ACP obviously leads to ACP. D triggers Art. 103 (and Art. 130 for a CPG): 'Should the surviving spouse contract a subsequent marriage without compliance with the foregoing requirements, a mandatory regime of complete separation of property shall govern the property relations of the subsequent marriage.'",
+  "key_note": "One version of the compilation reads 'married in 1989'. The answer is the same, since both years are after August 3, 1988."
+ },
+ {
+  "id": "M-33",
+  "topic": "ms",
+  "origin": "samplex",
+  "src": "Uribe CivRev Midterms (class discussion) pair #4 (Prof's answer: B)",
+  "type": "pair",
+  "stem": "If not absolutely true, the statement is false.",
+  "statements": [
+   "1. If A & B were married in 1989 with a verbal agreement for a conjugal partnership of gains, a donation in consideration of marriage by A to B in excess of 20% of his present property is void.",
+   "2. Children conceived and born outside of wedlock of parents who, at the time of the birth of the former, were not disqualified by any impediment to marry each other may be legitimated."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE. A verbal settlement is void (Art. 77), so with a 1989 marriage the regime is ACP (Art. 75), and Art. 84's one-fifth cap applies only to regimes 'other than the absolute community'. Uribe added that this does not mean there is no limit at all (e.g., legitimes), but the law does not declare such a donation void. No. 2 is FALSE. Art. 177 looks to the time of CONCEPTION, not birth: 'Children conceived and born outside of wedlock of parents who, at the time of the conception of the former, were not disqualified by any impediment to marry each other …' Uribe: 'the operative word is may be'. It is also not enough that there was no impediment, because a subsequent valid marriage of the parents is required (Art. 178).",
+  "key_note": null
+ },
+ {
+  "id": "M-34",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "UP BOC – 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "In the absence of contrary stipulation in a marriage settlement, property relations of Filipino spouses shall be governed by:",
+  "choices": [
+   "Philippine laws",
+   "Law of the place where the spouses reside",
+   "Law of the place where the properties are situated",
+   "Law of the place where they were married."
+  ],
+  "answer": 0,
+  "explanation": "Art. 80: '… governed by Philippine laws, regardless of the place of the celebration of the marriage and their residence.' This follows the nationality principle (Art. 15, NCC).",
+  "key_note": null
+ },
+ {
+  "id": "M-35",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "What happens to the property regimes that were subsisting under the New Civil Code when the Family Code took effect?",
+  "choices": [
+   "The original property regimes are immutable and remain effective.",
+   "Those enjoying specific regimes under the New Civil Code may adopt the regime of absolute community of property under the Family Code.",
+   "Those that married under the New Civil Code but did not choose any of its regimes shall now be governed by the regime of absolute community of property.",
+   "They are superseded by the Family Code which has retroactive effect."
+  ],
+  "answer": 0,
+  "explanation": "The FC does not convert an existing CPG into ACP. Art. 105, 2nd par. applies the FC's CPG chapter to CPGs already established, 'without prejudice to vested rights already acquired', and Art. 256 gives the Code retroactive effect only insofar as it does not impair vested rights. A spouse cannot change the regime during the marriage except through the judicial routes in Art. 76 (Arts. 66, 67, 128, 135, 136).",
+  "key_note": null
+ },
+ {
+  "id": "M-36",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "X and Y agreed verbally before their marriage (a) on the paternity of the illegitimate child of Y and (b) on the economic regime that will govern X and Y's property relations. Is the verbal agreement valid?",
+  "choices": [
+   "No, because a marriage settlement to be valid should be in writing.",
+   "Yes, since ante-nuptial agreements need not be in writing.",
+   "No, because a marriage settlement cannot include an agreement on the paternity of an illegitimate child.",
+   "Yes, since even if it is not a valid marriage settlement, it is a valid verbal contract."
+  ],
+  "answer": 0,
+  "explanation": "Art. 77: the settlement 'shall be in writing, signed by the parties and executed before the celebration of the marriage.' An oral settlement is void, so the default regime (ACP, Art. 75) governs.",
+  "key_note": null
+ },
+ {
+  "id": "M-37",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "X and Y, both Filipinos, were married and resided in Spain although they intend to return to the Philippines at some future time. They have not executed any marriage settlements. What law governs their property relations?",
+  "choices": [
+   "They may choose between Spanish law and Philippine law.",
+   "Philippine law since they are both Filipinos.",
+   "No regime of property relations will apply to them.",
+   "Spanish law since they live in Spain."
+  ],
+  "answer": 1,
+  "explanation": "Art. 80: absent a contrary stipulation, Philippine laws govern 'regardless of the place of the celebration of the marriage and their residence.' Their residence in Spain is irrelevant. Since there is no settlement, the regime is ACP under Art. 75 (assuming they married after August 3, 1988).",
+  "key_note": null
+ },
+ {
+  "id": "M-38",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "UP BOC – 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "Which of the following is not a requisite for a valid donation propter nuptias?",
+  "choices": [
+   "The donation must be made before the celebration of the marriage.",
+   "The donation shall be automatically revoked in case of non-celebration of the marriage.",
+   "The donation must be made in consideration of the marriage.",
+   "The donation must be made in favor of one or both of the future spouses."
+  ],
+  "answer": 1,
+  "explanation": "Art. 82 lists the three requisites: before the celebration, in consideration of the marriage, and in favor of one or both future spouses. Non-celebration is a ground for revocation by the donor (Art. 86(1)), not a requisite, and the revocation is not automatic. For donations made in the settlement, Art. 81 makes them void, not revoked.",
+  "key_note": null
+ },
+ {
+  "id": "M-39",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "In gratitude, the groom's parents made a donation of a property in writing to the bride's parents shortly before their children's wedding. The donation was accepted. What is the nature of the donation?",
+  "choices": [
+   "It is an ordinary donation since it was not given to the bride or groom.",
+   "It is donation propter nuptias since it was given with the marriage in mind.",
+   "It is an indirect donation propter nuptias since the bride would eventually inherit the property from her parents.",
+   "It is a remunatory donation."
+  ],
+  "answer": 0,
+  "explanation": "A DPN must be 'in favor of one or both of the future spouses' (Art. 82). A donation to the bride's parents is an ordinary donation, governed entirely by Title III, Book III of the Civil Code. Uribe asked the same thing in recitation (father of the groom donating a condo to the mother of the bride). It matters because the grounds for revocation differ: Art. 86 FC for a DPN, and Arts. 760, 764 and 765 NCC for an ordinary donation.",
+  "key_note": null
+ },
+ {
+  "id": "M-40",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "Can common-law spouses donate properties of substantial value to one another?",
+  "choices": [
+   "No, they are only allowed to give moderate gifts to each other during family rejoicing.",
+   "No, they cannot give anything of value to each other to prevent placing their legitimate relatives at a disadvantage.",
+   "Yes, unlike the case of legally married spouses, such donations are not prohibited.",
+   "Yes, as long as they leave sufficient property for themselves and for their dependents."
+  ],
+  "answer": 0,
+  "explanation": "Art. 87: donations between spouses during the marriage are void, except moderate gifts on the occasion of any family rejoicing, and 'the prohibition shall also apply to persons living together as husband and wife without a valid marriage.' This codifies Matabuena v. Cervantes (1971).",
+  "key_note": null
+ },
+ {
+  "id": "M-41",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "X insured himself for P5 million, designating Y, his wife, as his sole beneficiary. The designation was irrevocable. A few years later, X had their marriage annulled in court on the ground that Y had an existing prior marriage. X subsequently died. Is Y entitled to the insurance benefits?",
+  "choices": [
+   "Yes, since the insurance was not dependent on the marriage.",
+   "Yes, since her designation as beneficiary was irrevocable.",
+   "No, X's designation of Y is revoked by operation of law upon the annulment of their marriage based on Y's fault.",
+   "Yes, since without judicial revocation, X's designation of Y remains valid and binding."
+  ],
+  "answer": 2,
+  "explanation": "Art. 43(4) (applied to annulled and Art. 40 void marriages by Art. 50): 'The innocent spouse may revoke the designation of the other spouse who acted in bad faith as beneficiary in any insurance policy, even if such designation be stipulated as irrevocable.' The UP BOC suggested answer is C. Technically the strongest basis is that a marriage contracted during a prior subsisting marriage is void (bigamous), and the guilty spouse cannot profit from her bad faith.",
+  "key_note": "Art. 43(4) actually says the innocent spouse 'may revoke' the designation, so it is not automatic. The BOC still keyed C as the best of the four choices."
+ },
+ {
+  "id": "M-42",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "QuAMTO – 1995 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "On 10 September 1988, Kevin, 26, married Karla, 18. Without the knowledge of their parents or legal guardians, they had entered into an antenuptial contract the day before their marriage stipulating that conjugal partnership of gains shall govern their marriage. A month later Kevin died. What property regime governed the marriage of Kevin and Karla?",
+  "choices": [
+   "Co-ownership under Article 147",
+   "Absolute community of property",
+   "Complete separation of property",
+   "Conjugal partnership of gains, as stipulated"
+  ],
+  "answer": 1,
+  "explanation": "Karla was a minor in September 1988, because RA 6809, which lowered the age of majority to 18, took effect only on December 18, 1989. Under Art. 78, a minor's settlement 'shall be valid only if the persons designated in Article 14 to give consent to the marriage are made parties to the agreement.' They were not, so the settlement is void, and under Art. 75 the regime is ACP (a marriage after August 3, 1988).",
+  "key_note": null
+ },
+ {
+  "id": "M-43",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "QuAMTO – 1991 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Bar candidates Patricio and Rowena executed a marriage settlement in Rowena's handwriting providing for (1) a conjugal partnership of gains; (2) each donating to the other 50% of his/her present property; (3) Rowena administering the conjugal property; and (4) neither may sue for annulment or declaration of nullity of their marriage. Both signed it before two witnesses but did not acknowledge it before a notary public. Which statement is correct?",
+  "choices": [
+   "The settlement is void because it is not in a public instrument.",
+   "Stipulation (2) is void in its entirety.",
+   "The settlement is valid as to form but cannot be registered in the registry of property unless it is notarized.",
+   "Stipulation (4) is valid since the settlement is the law between the parties."
+  ],
+  "answer": 2,
+  "explanation": "Art. 77 requires only a signed writing executed before the celebration, so the settlement is valid as to form. To bind third persons it must be registered, and the registry of property requires a public document. Stipulation (2) is valid up to one-fifth of present property and void only as to the excess (Art. 84; the regime is CPG). Stipulation (4) is void, because the validity of a marriage is not subject to stipulation (Art. 1 FC; Art. 2035 NCC). Stipulations (1) and (3) are valid.",
+  "key_note": null
+ },
+ {
+  "id": "M-44",
+  "topic": "ms",
+  "origin": "bar",
+  "src": "QuAMTO – 2020–21 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "A couple executes a prenuptial agreement which principally provides that their marriage shall be valid for only 5 years but that it can be renewed through mutual consent negotiated at least 6 months before its expiration. Is this contract valid?",
+  "choices": [
+   "No, because it was not registered in the local civil registry.",
+   "Yes, because the parties may fix the terms of their own contract.",
+   "No, because marriage settlements may fix only the property relations, and the permanence of marriage is not subject to stipulation.",
+   "Yes, because marriage settlements may contain any stipulation not contrary to law."
+  ],
+  "answer": 2,
+  "explanation": "Art. 1: marriage is 'a special contract of PERMANENT union … whose nature, consequences, and incidents are governed by law and not subject to stipulation, except that marriage settlements may fix the property relations during the marriage within the limits provided by this Code.' A term on the marriage itself is void. The agreement says nothing about property relations, so it is not even a true marriage settlement (Arts. 74–75).",
+  "key_note": null
+ },
+ {
+  "id": "M-45",
+  "topic": "ms",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025), situation 4; Uribe recitation situationer (2018)",
+  "type": "mcq",
+  "stem": "A and B were married in December 1989. Days before the marriage, they executed a marriage settlement adopting the conjugal partnership of gains. At that time B was only 19 years old, and the marriage settlement was executed without the knowledge and participation of B's parents. What is the status of the marriage settlement?",
+  "choices": [
+   "Void, because under Article 78 the parents must be made parties to the settlement.",
+   "Valid, because RA 6809 has lowered the age of majority to 18.",
+   "Voidable at the instance of B's parents.",
+   "It depends on whether the settlement was executed before or after RA 6809 took effect on December 18, 1989."
+  ],
+  "answer": 3,
+  "explanation": "Art. 78 applies to a 'minor' who may marry: the settlement is valid only if the persons who must consent to the marriage are made parties. Before RA 6809 took effect on December 18, 1989, a 19-year-old was a minor, so the settlement is void without the parents as parties. On or after that date, B was of age. Art. 78, which speaks only of a 'minor', no longer applies, even though parental consent to the marriage itself is still required for ages 18–21 (Art. 14). Uribe: the facts say only 'December 1989', so the answer depends on the exact date.",
+  "key_note": null
+ },
+ {
+  "id": "M-46",
+  "topic": "ms",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025), situation 3",
+  "type": "mcq",
+  "stem": "The marriage of A and B was solemnized in 1988. Days before the solemnization, they verbally agreed that the regime of separation of property would govern their property relations. What is the status of their agreement as a marriage settlement?",
+  "choices": [
+   "Unenforceable, under the Statute of Frauds of the Civil Code.",
+   "Void, because a marriage settlement must be in writing under the Family Code.",
+   "It cannot be determined, because the exact date of the marriage in relation to August 3, 1988 is not given.",
+   "Valid, because separation of property may be agreed upon at any time."
+  ],
+  "answer": 2,
+  "explanation": "Uribe: 'Neither is correct, the facts do not provide for the exact date, so it did not provide whether FC or CC.' If the marriage was before August 3, 1988, the Civil Code governs (written settlement required; oral agreements in consideration of marriage fall under the old rules). From August 3, 1988, Art. 77 FC applies, and an oral settlement is void, so ACP governs. When the date decides the answer and is missing, answer in the alternative.",
+  "key_note": null
+ },
+ {
+  "id": "M-47",
+  "topic": "ms",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025), situation 7",
+  "type": "mcq",
+  "stem": "After the solemnization of their marriage, H gave his wife W a Rolls-Royce worth P30 million. H died thereafter, and his heirs question the validity of the donation. What is the status of the donation?",
+  "choices": [
+   "Valid, since it was given out of H's own money.",
+   "Valid, since donations between spouses are allowed during the marriage.",
+   "Voidable at the instance of H's compulsory heirs.",
+   "Void, unless it is a moderate gift given on the occasion of a family rejoicing."
+  ],
+  "answer": 3,
+  "explanation": "Art. 87: 'Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be void, except moderate gifts which the spouses may give each other on the occasion of any family rejoicing.' Uribe: 'The operative word is moderate gifts.' What is moderate depends on the spouses' means: for some families, ₱30M might be moderate.",
+  "key_note": null
+ },
+ {
+  "id": "M-48",
+  "topic": "ms",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025), situation 8 (from the 2025 Bar)",
+  "type": "mcq",
+  "stem": "While his wife was working abroad, H gave his paramour, who was living with him in the conjugal home, the rentals of a property which H had inherited before the marriage. There is no marriage settlement. What is the status of the donation?",
+  "choices": [
+   "Voidable at the instance of H's wife.",
+   "Void, because donations between persons living together as husband and wife without a valid marriage are prohibited, and the rentals are not H's alone to give.",
+   "Valid, because the property is H's exclusive property.",
+   "Valid, because the paramour is not H's spouse."
+  ],
+  "answer": 1,
+  "explanation": "By analogy to Art. 87 (last sentence) and under Art. 739(1) NCC (donations between persons guilty of adultery or concubinage at the time of the donation), the donation is void. Uribe's further point is to classify the property. The rentals are fruits. Under ACP, property owned at the celebration is community property (Art. 91) and so are its fruits. Under CPG, the net fruits of exclusive property are conjugal (Art. 117(3)). Either way, H could not donate them without his wife's consent (Arts. 98, 125).",
+  "key_note": null
+ },
+ {
+  "id": "M-49",
+  "topic": "ms",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025), situation 5",
+  "type": "mcq",
+  "stem": "A and B were married in 1995 without a marriage settlement. Before the solemnization, in consideration of the marriage, A donated to B 90% of his present property. Which statement is most accurate?",
+  "choices": [
+   "The donation is void as to the excess over one-fifth under Article 84.",
+   "The donation is valid without any limit, because the regime is ACP.",
+   "Article 84's one-fifth cap does not apply because the regime is ACP, but the donation is still subject to other limits such as the legitimes of compulsory heirs.",
+   "The donation is void because donations between future spouses are prohibited."
+  ],
+  "answer": 2,
+  "explanation": "Art. 84's cap applies only if the regime is 'other than the absolute community'. A 1995 marriage without a settlement is under ACP (Art. 75), so A is wrong. Uribe rejected B: 'You are correct that the law provides for a cap only if it is other than ACP, but does it follow that if it is ACP there is no limit? No.' A donation cannot exceed what the donor may give by will (Art. 752 NCC) and is reducible if inofficious. If A has legitimate descendants by a prior marriage, his property does not even enter the community (Art. 92(3)).",
+  "key_note": null
+ },
+ {
+  "id": "M-50",
+  "topic": "ms",
+  "origin": "recit",
+  "src": "Uribe recitation situationer (2018)",
+  "type": "mcq",
+  "stem": "Excited about his wedding five days away, A wrote B a letter stating that he was giving her his house and lot. Two days before the wedding, B died. Are B's heirs entitled to the house and lot?",
+  "choices": [
+   "Yes, because the donation was perfected by the letter.",
+   "Yes, because a donation propter nuptias takes effect upon the donee's acceptance.",
+   "No, because the donation of an immovable must be in a public document, and the marriage was in any case never celebrated.",
+   "No, because only future spouses may be donors."
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 83 FC, DPN formalities are those of ordinary donations. Art. 749 NCC requires a public document for the donation of an immovable, and a letter is not one, so the donation is void. Even if it had been valid, the marriage was never celebrated, which is a ground for revocation under Art. 86(1). D misstates the law, since anyone not disqualified may be a donor (Art. 82).",
+  "key_note": null
+ },
+ {
+  "id": "M-51",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 78–79)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. For the validity of any marriage settlement executed by a person upon whom a sentence of civil interdiction has been pronounced, it shall be indispensable for the guardian appointed by a competent court to be made a party thereto.",
+   "2. A minor who according to law may contract marriage may also execute his or her marriage settlements, but they shall be valid only if the persons designated to give consent to the marriage have knowledge thereof."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE (Art. 79). No. 2 is FALSE. Art. 78 requires that the persons designated in Art. 14 be 'MADE PARTIES to the agreement', not merely that they know of it.",
+  "key_note": null
+ },
+ {
+  "id": "M-52",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 77)",
+  "type": "tf",
+  "stem": "Marriage settlements shall not prejudice third persons unless they are registered in the local civil registry where the marriage contract is recorded or in the proper registries of property.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 77 requires registration in the local civil registry where the marriage contract is recorded 'AS WELL AS in the proper registries of properties'. Both are required, not either one.",
+  "key_note": null
+ },
+ {
+  "id": "M-53",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 76)",
+  "type": "tf",
+  "stem": "In order that any modification in the marriage settlements may be valid, it must be made before the celebration of the marriage, without exception.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 76 makes the rule 'subject to the provisions of Articles 66, 67, 128, 135 and 136', which are the judicial routes for changing the regime during the marriage: revival after reconciliation, sole administration or separation upon abandonment, and judicial separation for cause or voluntary.",
+  "key_note": null
+ },
+ {
+  "id": "M-54",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 80)",
+  "type": "tf",
+  "stem": "The rule that the property relations of the spouses shall be governed by Philippine laws, regardless of the place of the celebration of the marriage and their residence, shall not apply where both spouses are aliens.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 80(1). The other two exceptions concern the extrinsic validity of contracts affecting property abroad.",
+  "key_note": null
+ },
+ {
+  "id": "M-55",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 85)",
+  "type": "tf",
+  "stem": "Donations by reason of marriage of property subject to encumbrances shall be void.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 85: they 'shall be valid'. On foreclosure, the donee is not liable for any deficiency and is entitled to any excess.",
+  "key_note": null
+ },
+ {
+  "id": "M-56",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 87)",
+  "type": "tf",
+  "stem": "Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be voidable, except moderate gifts which the spouses may give each other on the occasion of any family rejoicing.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 87: such donations are VOID, not voidable. The prohibition also covers persons living together as husband and wife without a valid marriage.",
+  "key_note": null
+ },
+ {
+  "id": "M-57",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 87)",
+  "type": "tf",
+  "stem": "The prohibition against donations between the spouses during the marriage shall also apply to persons living together as husband and wife without a valid marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 87, last sentence, codifying Matabuena v. Cervantes (1971).",
+  "key_note": null
+ },
+ {
+  "id": "M-58",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 86)",
+  "type": "tf",
+  "stem": "A donation by reason of marriage may be revoked by the donor when the marriage takes place without the advice of the parents or guardian, as required by law.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 86(2): '… without the CONSENT of the parents or guardian'. Lack of parental advice (Art. 15, ages 21–25) affects only the issuance of the license (a three-month delay). It is not a ground to revoke a DPN.",
+  "key_note": null
+ },
+ {
+  "id": "M-59",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 86)",
+  "type": "tf",
+  "stem": "A donation by reason of marriage may be revoked by the donor when the marriage is annulled, and the donee acted in bad faith.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 86(3).",
+  "key_note": null
+ },
+ {
+  "id": "M-60",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Uribe format; FC 82–83)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The donor in a donation by reason of marriage must be one or both of the future spouses.",
+   "2. Donations by reason of marriage are governed by the rules on ordinary donations established in Title III of Book III of the Civil Code, insofar as they are not modified by the Family Code."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 82 requires the donation to be IN FAVOR OF one or both of the future spouses. The donor may be anyone not disqualified. No. 2 is TRUE (Art. 83).",
+  "key_note": null
+ },
+ {
+  "id": "M-61",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (FC 84)",
+  "type": "mcq",
+  "stem": "A and B, future spouses, executed a valid marriage settlement adopting the conjugal partnership of gains. In it, A donated to B one-third of his present property. The donation is:",
+  "choices": [
+   "voidable at A's instance",
+   "valid in its entirety",
+   "valid up to one-fifth of A's present property and void as to the excess",
+   "void in its entirety"
+  ],
+  "answer": 2,
+  "explanation": "Art. 84: under a regime other than ACP, the future spouses 'cannot donate to each other in their marriage settlements more than one-fifth of their present property. ANY EXCESS shall be considered void.' Only the excess is void. (Under ACP there would be no Art. 84 cap.)",
+  "key_note": null
+ },
+ {
+  "id": "M-62",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (FC 84, 2nd par.)",
+  "type": "mcq",
+  "stem": "In their marriage settlement adopting complete separation of property, A donated to B all the property A may acquire in the future. This donation is governed by:",
+  "choices": [
+   "the rules on ordinary donations inter vivos",
+   "the provisions on testamentary succession and the formalities of wills",
+   "the rules on the contract of partnership",
+   "the rules on co-ownership"
+  ],
+  "answer": 1,
+  "explanation": "Art. 84, 2nd par.: 'Donations of future property shall be governed by the provisions on testamentary succession and the formalities of wills.' It is a mortis causa disposition and an exception to Art. 751 NCC, which prohibits donations of future property.",
+  "key_note": null
+ },
+ {
+  "id": "M-63",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (FC 86; Arts. 43–44)",
+  "type": "mcq",
+  "stem": "Which of the following is a case of revocation of a donation by reason of marriage BY OPERATION OF LAW (not at the instance of the donor)?",
+  "choices": [
+   "The marriage takes place without the consent of the parents.",
+   "The donee commits an act of ingratitude.",
+   "Both spouses of a subsequent marriage under Article 41 acted in bad faith.",
+   "A resolutory condition in the donation is fulfilled."
+  ],
+  "answer": 2,
+  "explanation": "Art. 44: 'If both spouses of the subsequent marriage acted in bad faith, said marriage shall be void ab initio and all donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law.' See also Art. 43(3). A, B and D are grounds for revocation by the donor under Art. 86(2), (6) and (5).",
+  "key_note": null
+ },
+ {
+  "id": "M-64",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (Matabuena v. Cervantes, 38 SCRA 284)",
+  "type": "mcq",
+  "stem": "Felix donated a parcel of land to Petronila while they were living together as husband and wife without the benefit of marriage. Years later they married, and Felix died intestate shortly after. Felix's sister, his only other heir, sued to recover the land. Rule.",
+  "choices": [
+   "The donation is void because the prohibition against donations between spouses applies to common-law relationships.",
+   "The donation is valid because the parties were not yet married when it was made.",
+   "The donation is voidable and the action has prescribed.",
+   "The donation is valid but inofficious."
+  ],
+  "answer": 0,
+  "explanation": "Matabuena v. Cervantes: 'policy considerations of the most exigent character as well as the dictates of morality require that the same prohibition should apply to a common-law relationship.' If the reason for the prohibition is the fear of undue influence, cohabitation without marriage 'bespeaks greater influence of one party over the other.' The land therefore passed by intestacy, one-half to Petronila as surviving spouse and one-half to the sister. Art. 87 now codifies this rule.",
+  "key_note": null
+ },
+ {
+  "id": "M-65",
+  "topic": "ms",
+  "origin": "new",
+  "src": "New (FC 74, 75, 80)",
+  "type": "mcq",
+  "stem": "Filipinos A and B married in Hong Kong in 2015, where they reside. They executed no marriage settlement. Which governs their property relations?",
+  "choices": [
+   "Absolute community of property under the Family Code",
+   "Complete separation of property",
+   "Conjugal partnership of gains under the Civil Code",
+   "Hong Kong law, the law of their residence"
+  ],
+  "answer": 0,
+  "explanation": "Art. 80: absent a contrary stipulation, Philippine law governs Filipino spouses regardless of the place of the celebration and their residence. With no settlement and a marriage after August 3, 1988, Art. 75 supplies the ACP.",
+  "key_note": null
+ }
+]

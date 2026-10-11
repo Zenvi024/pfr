@@ -1,0 +1,536 @@
+[
+ {
+  "id": "U-1",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 2024 Bar; Uribe CivRev 2025 class slide (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "In 2021, Jesse and Celeste got married. After a year, Jesse took all their savings and abandoned Celeste for his paramour Diana. Jesse asked Diana to quit her job. Diana hesitated because she has no money and is drowning in debts. Yet, Jesse promised to provide for all of Diana's needs. Jesse and Diana then lived together. The following day, they bought a brand-new car exclusively registered under Diana's name. Celeste sued to recover the vehicle, claiming it is part of their community property. Diana countered that she and Jesse are co-owners. Can Celeste recover the vehicle from Diana?",
+  "choices": [
+   "Yes, because under Article 148 Diana must prove actual contribution, which she could not have made, and the funds came from the community property.",
+   "No, because the car is registered in Diana's name.",
+   "No, because Diana and Jesse are co-owners in equal shares under Article 147.",
+   "Yes, but only one-half of the car."
+  ],
+  "answer": 0,
+  "explanation": "Jesse is married to Celeste, so he and Diana are not capacitated to marry each other, and Art. 148 governs: only property acquired through their 'actual joint contribution of money, property, or industry' is co-owned. Diana was jobless and in debt, so she could not have contributed. The money came from the spouses' savings, which are community property (Arts. 75, 91, 93). In any event, Jesse's share in any co-ownership 'shall accrue to the absolute community' (Art. 148, 2nd par.). Registration in Diana's name is not proof of ownership. Uribe: support the claim with facts and law ('the money used was the salary only of the husband … Diana has no money').",
+  "key_note": null
+ },
+ {
+  "id": "U-2",
+  "topic": "unions",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025) (follow-up to the Jesse–Celeste–Diana problem)",
+  "type": "mcq",
+  "stem": "In the Jesse–Celeste–Diana problem, would it matter if Diana, though she had no money, did all the cooking, laundry and housekeeping for Jesse while they lived together?",
+  "choices": [
+   "Yes, she would be deemed to have contributed and would own one-half of the car.",
+   "Yes, she would be entitled to reimbursement for her services.",
+   "No, because under Article 148 contributions in the form of care and maintenance of the household are not considered.",
+   "No, because she is not Jesse's wife."
+  ],
+  "answer": 2,
+  "explanation": "Uribe: 'NO, Art. 148, contribution by way of maintenance of the household does not matter. It is only available if it would fall under 147.' Cariño v. Cariño: under Art. 148, 'contributions in the form of care of the home, children and household, or spiritual or moral inspiration, are excluded.' D gives a wrong reason, because even under Art. 147 the parties are not spouses.",
+  "key_note": null
+ },
+ {
+  "id": "U-3",
+  "topic": "unions",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025) (rule of thumb)",
+  "type": "mcq",
+  "stem": "A and B, first cousins, married each other and lived together. The marriage was later declared void as against public policy. Following Uribe's rule of thumb, what governs their property relations?",
+  "choices": [
+   "Conjugal partnership of gains",
+   "Article 147",
+   "Absolute community of property",
+   "Article 148"
+  ],
+  "answer": 1,
+  "explanation": "Uribe's rule of thumb: 'if one of them or both of them is or are married to other persons, a third person will be affected by the cohabitation or marriage (bigamous or adulterous in character): 148 will apply. All other grounds that will make a marriage void, as long as no 3rd person will be affected, 147 will apply.' First cousins: the marriage is void for public policy (Art. 38(1)), but no third person is affected, so Art. 147 applies. A void marriage never has an ACP or CPG.",
+  "key_note": "Textually, Art. 147 requires parties 'capacitated to marry each other', and some commentators therefore put a union with an Art. 37/38 impediment under Art. 148. On Uribe's exam, apply his rule of thumb and give the reason (no third person affected)."
+ },
+ {
+  "id": "U-4",
+  "topic": "unions",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "Under Article 147, how are the wages and salaries of the parties earned during their cohabitation owned, even if one of them merely gambled day and night and earned nothing?",
+  "choices": [
+   "In proportion to their actual contributions",
+   "By the common children",
+   "By them in equal shares",
+   "Exclusively by the party who earned them"
+  ],
+  "answer": 2,
+  "explanation": "Art. 147: 'their wages and salaries shall be owned by them in EQUAL SHARES'. Uribe confirmed this applies 'regardless of actual monetary contribution', even if one partner 'nagsusugal lang araw-araw at gabi-gabi … it does not matter.' For other property acquired through work or industry, co-ownership rules apply: equal shares are presumed, but proof of different contributions governs, except that care of the household counts as a joint contribution.",
+  "key_note": null
+ },
+ {
+  "id": "U-5",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 2023 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Santiago and Lucia, both single, lived together as common-law spouses from 2000 and acquired several properties, mainly from the earnings of Lucia's salon and water refilling business. The purchase records were destroyed by Typhoon Ondoy. In 2023, Lucia filed a case claiming she is entitled to all of the properties. Is Lucia correct?",
+  "choices": [
+   "No, because the properties belong to the State.",
+   "No, because properties acquired during their cohabitation are presumed obtained by their joint efforts and owned in equal shares, and care of the household is a contribution.",
+   "Yes, because Santiago failed to prove his contribution.",
+   "Yes, because the purchases came from her business."
+  ],
+  "answer": 1,
+  "explanation": "Assuming they were capacitated to marry each other, Art. 147 applies. In the absence of proof to the contrary, properties acquired while they lived together are presumed obtained by their joint efforts and owned equally, and a party whose efforts consisted in the care and maintenance of the family and household is deemed to have contributed (Paterno v. Paterno, 2020; Barrido v. Nonato, 2014). The burden is on Lucia, and she has no records. (If they were not capacitated, Art. 148 would require proof of Santiago's actual contribution.)",
+  "key_note": null
+ },
+ {
+  "id": "U-6",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 2018 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Sancho and Sandy, both single, married after agreeing in a marriage settlement on the conjugal partnership of gains. Their marriage was later declared void on the ground of psychological incapacity of both. What property regime will be liquidated, and is their child Shalimar entitled to the delivery of presumptive legitime?",
+  "choices": [
+   "Co-ownership under Article 148; yes",
+   "Conjugal partnership of gains; yes",
+   "Co-ownership under Article 147; no",
+   "Absolute community of property; yes"
+  ],
+  "answer": 2,
+  "explanation": "A void marriage never had a CPG, so the settlement's chosen regime never took effect. The parties were capacitated, and the marriage is void under Art. 36, so Art. 147 governs. The obligation to deliver presumptive legitimes under Arts. 50–51 applies to the liquidation of an ACP or CPG in annulled marriages and Art. 40 void marriages, not to an Art. 147 co-ownership (Valdes v. RTC, 1996; Diño v. Diño, 2011). In the liquidation, Sancho takes the land paid from his salary (Sandy's care of the household was not shown), and Sandy takes the jewelry bought with her lottery winnings, which are not from 'work or industry'.",
+  "key_note": null
+ },
+ {
+  "id": "U-7",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 2016 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Bernard and Dorothy lived together as common-law spouses although both were capacitated to marry. Dorothy worked abroad and regularly sent money to Bernard, who used it to buy a lot. Bernard later sold the lot without Dorothy's consent. Will Dorothy's suit to nullify the sale prosper?",
+  "choices": [
+   "Yes, in all cases, even against a buyer in good faith.",
+   "No, because the lot is registered in Bernard's name.",
+   "No, because common-law spouses are not co-owners.",
+   "Yes, unless the buyer is a buyer in good faith and for value, because neither party may dispose of his or her share in property acquired during cohabitation without the other's consent."
+  ],
+  "answer": 3,
+  "explanation": "Art. 147, 3rd par.: 'Neither party can encumber or dispose by acts inter vivos of his or her share in the property acquired during cohabitation and owned in common, without the consent of the other, until after the termination of their cohabitation.' The UPLC answer adds the protection of buyers in good faith. The answer is the same even if Dorothy were jobless and only cared for the family and household, since those efforts are deemed a joint contribution.",
+  "key_note": null
+ },
+ {
+  "id": "U-8",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 2015 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Bert and Joe, both male and single, lived together as common-law spouses for 20 years. Bert worked while Joe kept house and raised a boy they took in. They acquired real estate registered in both names as co-owners. Can Article 147 apply so that all the properties are presumed acquired by their joint industry and owned in equal shares?",
+  "choices": [
+   "No, because Bert is the only one who worked.",
+   "Yes, because Joe's care of the home is a contribution.",
+   "Yes, because they lived together exclusively for 20 years.",
+   "No, because Article 147 applies only to a man and a woman capacitated to marry each other."
+  ],
+  "answer": 3,
+  "explanation": "Art. 147 applies only when 'a man and a woman who are capacitated to marry each other live exclusively with each other as husband and wife.' Under Arts. 1 and 2, marriage is between a man and a woman, so Art. 147's presumptions do not apply. Their rights depend on ordinary co-ownership and proof of contribution (here, the properties are titled in both names as co-owners).",
+  "key_note": null
+ },
+ {
+  "id": "U-9",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 2010 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "In 1997, B and G started living together without the benefit of marriage, both being capacitated to marry each other, and acquired a residential lot. In 2001, they married without a license; the marriage was later declared void. To whom should the lot be awarded?",
+  "choices": [
+   "To G, who cared for the household",
+   "To their child, Venus",
+   "To B, who paid for it",
+   "To B and G as co-owners in equal shares"
+  ],
+  "answer": 3,
+  "explanation": "No ACP or CPG was ever established, so the Art. 147 special co-ownership applies. The lot, acquired during the cohabitation, is presumed acquired through their joint work and industry and owned in equal shares. Care and maintenance of the family counts. There is no forfeiture, because neither party is shown to be in bad faith.",
+  "key_note": null
+ },
+ {
+  "id": "U-10",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "UP BOC – 2009 Bar TF",
+  "type": "tf",
+  "stem": "If there is no marriage settlement, the salary of a 'spouse' in an adulterous marriage belongs to the conjugal partnership of gains.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "In an adulterous relationship, the salary of the married partner belongs to the absolute community or conjugal partnership of that partner and his or her LAWFUL spouse. Under Art. 148, the paramour becomes a co-owner only of what was acquired by actual joint contribution, and is deemed not to have contributed to earning the married partner's salary.",
+  "key_note": null
+ },
+ {
+  "id": "U-11",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "When A and B married, they chose conjugal partnership of gains to govern their property relations. After 3 years, B succeeded in getting her marriage to A annulled on ground of the latter's psychological incapacity. What liquidation procedure will they follow in disposing of their assets?",
+  "choices": [
+   "They will follow the rule governing the liquidation of a conjugal partnership of gains where the party who acted in bad faith forfeits his share in the net profits.",
+   "Since the marriage has been declared void, the rule for liquidation of absolute community of property shall be followed.",
+   "The liquidation of a co-ownership applies since the annulment brought their property relation under the chapter on property regimes without marriage.",
+   "The law on liquidation of partnerships applies."
+  ],
+  "answer": 2,
+  "explanation": "A marriage 'annulled' for psychological incapacity is actually void (Art. 36), so no CPG existed, and the property relations fall under Art. 147, liquidated as a co-ownership (Valdes v. RTC). The BOC answer is C.",
+  "key_note": "The question loosely says 'annulled'. Psychological incapacity makes a marriage void, not voidable. Answer as the BOC did, but use the correct term in an essay."
+ },
+ {
+  "id": "U-12",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "Venecio and Ester lived as common-law spouses since both have been married to other persons from whom they had been separated in fact for several years. Hardworking and bright, each earned incomes from their respective professions and enterprises. What is the nature of their incomes?",
+  "choices": [
+   "Conjugal since they earned the same while living as husband and wife.",
+   "Separate since their property relations with their legal spouses are still subsisting.",
+   "Co-ownership since they agreed to work for their mutual benefit.",
+   "Communal since they earned the same as common-law spouses."
+  ],
+  "answer": 1,
+  "explanation": "Art. 148 governs, since both are married to others. Wages and salaries belong to the earner and, through him or her, to the ACP or CPG of the subsisting valid marriage. Separation in fact does not dissolve those regimes (Arts. 100, 127).",
+  "key_note": null
+ },
+ {
+  "id": "U-13",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 2000, 1997, 1992 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "In 1989, Rico, a widower, cohabited with Cora, a widow; they bought rice land from their combined earnings. After they separated, Rico lived with Mabel, then 16, who kept house while Rico, a salaried employee, bought coconut land from his savings. They separated after a year, and Rico married Letty. Who owned the coconut land before Rico's marriage to Letty, and under what rule?",
+  "choices": [
+   "Rico alone, because Article 148 applies and Mabel made no actual contribution",
+   "Mabel alone, as the one who kept house",
+   "Rico and Mabel in equal shares, under Article 147",
+   "Rico and Mabel in proportion to their contributions, under Article 147"
+  ],
+  "answer": 0,
+  "explanation": "Mabel, at 16, was not capacitated to marry, so Art. 148 governs. Only actual joint contributions count, and her housekeeping does not. Rico was the exclusive owner, and the land became community property of Rico and Letty upon their marriage (Art. 91). By contrast, the rice land was co-owned by Rico and Cora under Art. 147, both being capacitated. Letty's mango orchard, bought during the marriage, belongs to their ACP.",
+  "key_note": null
+ },
+ {
+  "id": "U-14",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 2000 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Tony, a bank vice-president, and Susan, an entertainer who stopped working and merely kept house, lived together as husband and wife for five years from 1989. Tony bought a house and lot from his salary. Would it make a difference to Susan's rights if Tony could not marry Susan because he was legally separated from his wife, Alice?",
+  "choices": [
+   "No, because legal separation dissolves the marriage.",
+   "No, Susan is a co-owner in equal shares in either case.",
+   "Yes; under Article 148, Susan's housekeeping is not a contribution, so she has no share.",
+   "Yes; Susan would own the whole house and lot."
+  ],
+  "answer": 2,
+  "explanation": "If capacitated, Art. 147 makes them co-owners in equal shares, since Susan's care of the household counts. A legally separated spouse is still married, so Art. 148 applies, and Susan, who made no actual contribution, has no share. If Tony cohabited with Susan after the decree of legal separation, the house and lot is his exclusive property (his regime with Alice having been dissolved). If before, it belongs to his ACP or CPG with Alice.",
+  "key_note": null
+ },
+ {
+  "id": "U-15",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 1997 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Luis and Rizza, both single and 26, lived together as husband and wife for twenty years; Luis worked, Rizza kept house. Their properties are: (a) P200,000 in savings from Luis's salary; (b) a house and lot worth P500,000 bought with P200,000 from the sale of palay harvested from Luis's hacienda and P300,000 from rentals of Rizza's building; and (c) a car worth P100,000 donated to Rizza by her parents. How is the car owned?",
+  "choices": [
+   "Equally by Luis and Rizza",
+   "By the common children",
+   "By Rizza alone",
+   "In proportion to their contributions"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 147, only wages and salaries (shared equally) and property acquired through work or industry (co-ownership) are common. The car was acquired by gratuitous title, so it is Rizza's alone. In the UPLC answer, the savings are divided equally, and the house and lot, bought from fruits of separate properties, is shared in proportion: Luis two-fifths, Rizza three-fifths.",
+  "key_note": null
+ },
+ {
+  "id": "U-16",
+  "topic": "unions",
+  "origin": "bar",
+  "src": "QuAMTO – 1991 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "In June 1985, James married Mary. In September 1988, he also married Ophelia, with whom he had two children and acquired a residential lot. Mary died in July 1989; in July 1990 James married Shirley. What property regime governed the union of James and Ophelia?",
+  "choices": [
+   "Article 147 special co-ownership",
+   "Conjugal partnership of gains",
+   "Absolute community of property",
+   "Article 148 co-ownership limited to actual joint contribution"
+  ],
+  "answer": 3,
+  "explanation": "The marriage to Ophelia was bigamous and void, and James was not capacitated to marry her. Under Art. 148, only property acquired through actual joint contribution is co-owned, in proportion to the contributions (presumed equal absent proof), and James's share accrues to his CPG with Mary for as long as that marriage subsisted.",
+  "key_note": null
+ },
+ {
+  "id": "U-17",
+  "topic": "unions",
+  "origin": "recit",
+  "src": "Uribe recitation situationer (2018)",
+  "type": "mcq",
+  "stem": "The marriage between A and B was declared void. During the cohabitation, A saved P1 million in a bank and bought a condominium unit from his income, registered in his name. B inherited a parcel of land from her grandmother. Who owns the inherited land?",
+  "choices": [
+   "A and B in equal shares under Article 147",
+   "A and B in proportion to contributions under Article 148",
+   "B alone, under either Article 147 or 148",
+   "A alone"
+  ],
+  "answer": 2,
+  "explanation": "Neither co-ownership covers property acquired by gratuitous title. Art. 147 covers wages and salaries and property acquired 'through their work or industry', and Art. 148 covers property acquired through 'actual joint contribution'. So the land is B's alone. The savings and the condo depend on why the marriage was void (Uribe: 'Depends why marriage was declared void, Art. 147 & 148'). Under 147, they are shared equally, with B's care of the household counting. Under 148, they are A's unless B proves actual contribution.",
+  "key_note": null
+ },
+ {
+  "id": "U-18",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Uribe format; FC 147)",
+  "type": "tf",
+  "stem": "When a man and a woman who are capacitated to marry each other live exclusively with each other as husband and wife without the benefit of marriage, their wages and salaries shall be owned by them in proportion to their respective contributions.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 147: their wages and salaries 'shall be owned by them in EQUAL SHARES'. It is the property acquired through their work or industry that is governed by the rules on co-ownership, where proven contributions matter, subject to the presumption of equal shares and the rule on care of the household.",
+  "key_note": null
+ },
+ {
+  "id": "U-19",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Uribe format; FC 147)",
+  "type": "tf",
+  "stem": "For purposes of Article 147, a party who did not participate in the acquisition by the other party of any property shall be deemed to have contributed jointly in the acquisition thereof if the former's efforts consisted in the care and maintenance of the family and of the household.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 147, 2nd par., last sentence. This is the key difference from Art. 148.",
+  "key_note": null
+ },
+ {
+  "id": "U-20",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Uribe format; FC 147)",
+  "type": "tf",
+  "stem": "Under Article 147, neither party can encumber or dispose by acts inter vivos of his or her share in the property acquired during cohabitation and owned in common, without the consent of the other, until after the termination of their cohabitation.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 147, 3rd par.",
+  "key_note": null
+ },
+ {
+  "id": "U-21",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Uribe format; FC 147)",
+  "type": "tf",
+  "stem": "When only one of the parties to a void marriage is in good faith, the share of the party in bad faith in the co-ownership shall be forfeited in favor of the innocent party.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 147, 4th par.: forfeited 'in favor of their COMMON CHILDREN'. If any or all of them default or waive, each vacant share goes to their respective surviving descendants. Only in the absence of descendants does the share go to the innocent party. In all cases, the forfeiture takes place upon termination of the cohabitation.",
+  "key_note": null
+ },
+ {
+  "id": "U-22",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Uribe format; FC 148)",
+  "type": "tf",
+  "stem": "In cases of cohabitation not falling under Article 147, only the properties acquired by both of the parties through their actual joint contribution of money, property, or industry shall be owned by them in common in proportion to their respective contributions. In the absence of proof to the contrary, their contributions and corresponding shares are presumed to be equal.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 148, 1st par. Note that the presumption of equal shares presupposes proof that both actually contributed (Ventura v. Abuda; Borromeo v. Descallar).",
+  "key_note": null
+ },
+ {
+  "id": "U-23",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Uribe format; FC 148)",
+  "type": "tf",
+  "stem": "Under Article 148, the rules on forfeiture of the share of the party in bad faith shall not apply if both parties are in bad faith.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 148, last par.: 'The foregoing rules on forfeiture shall likewise apply EVEN IF BOTH PARTIES ARE IN BAD FAITH.'",
+  "key_note": null
+ },
+ {
+  "id": "U-24",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Uribe format; FC 148)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Under Article 148, if one of the parties is validly married to another, his or her share in the co-ownership shall accrue to the absolute community or conjugal partnership existing in such valid marriage.",
+   "2. Under Article 148, the efforts of a party consisting in the care and maintenance of the family and household shall be deemed a contribution to the acquisition of property."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE (Art. 148, 2nd par.). No. 2 is FALSE. That rule appears only in Art. 147. Under Art. 148, 'contributions in the form of care of the home, children and household, or spiritual or moral inspiration, are excluded' (Cariño v. Cariño).",
+  "key_note": null
+ },
+ {
+  "id": "U-25",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Maxey v. CA, 129 SCRA 187)",
+  "type": "mcq",
+  "stem": "Under Article 144 of the Civil Code (now Article 147), if only the man works and the woman takes care of the children and the household during their cohabitation, how is the property acquired during the cohabitation owned?",
+  "choices": [
+   "By the man alone",
+   "By both, in proportion to their monetary contributions",
+   "By the common children",
+   "By both, on a fifty-fifty basis"
+  ],
+  "answer": 3,
+  "explanation": "Maxey v. CA: 'Even if it is only the man who works, the property acquired during the man and wife relationship belongs through a fifty-fifty sharing to the two of them.' The woman's 'real contribution' includes 'caring for the children, administering the household, husbanding scarce resources, freeing her husband from household tasks.'",
+  "key_note": null
+ },
+ {
+  "id": "U-26",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Juaniza v. Jose, 89 SCRA 306)",
+  "type": "mcq",
+  "stem": "E, a married man, lived with R and registered a jeepney in his own name. The jeepney figured in a collision, and the victims sought to hold R liable as a co-owner of the jeepney. Is R a co-owner?",
+  "choices": [
+   "Yes, because she lived with E as his wife.",
+   "Yes, under Article 144 of the Civil Code.",
+   "No, because the co-ownership under Article 144 requires that the parties not be incapacitated to marry; the jeepney belongs to E's conjugal partnership with his legal wife.",
+   "No, because the jeepney is registered in E's name."
+  ],
+  "answer": 2,
+  "explanation": "Juaniza v. Jose: the co-ownership under NCC 144 'requires that the man and the woman living together must not in any way be incapacitated to contract marriage.' E was legally married to another, so R 'cannot be a co-owner of the jeepney. The jeepney belongs to the conjugal partnership of Jose and his legal wife.' Art. 148 now codifies this.",
+  "key_note": null
+ },
+ {
+  "id": "U-27",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Vda. de Consuegra v. GSIS; Gomez v. Lipana)",
+  "type": "mcq",
+  "stem": "J married R. While that marriage subsisted, he married B in good faith. Both marriages were celebrated under the old law, and the second was never judicially declared void before J's death. How are J's retirement benefits divided between the first and second wives, under the rule applied in Vda. de Consuegra v. GSIS?",
+  "choices": [
+   "Equally among all the children",
+   "All to the first wife",
+   "One-half to the second wife (her share in the property acquired with her), the other half to the conjugal partnership of the first marriage",
+   "All to the second wife and her children"
+  ],
+  "answer": 2,
+  "explanation": "Consuegra, following Gomez v. Lipana: since the first marriage was never dissolved, its conjugal partnership never ceased. 'The only just and equitable solution in this case would be to recognize the right of the second wife to her share of one-half in the property acquired by her and her husband and consider the other half as pertaining to the conjugal partnership of the first marriage.'",
+  "key_note": null
+ },
+ {
+  "id": "U-28",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Yap v. CA, 145 SCRA 229)",
+  "type": "mcq",
+  "stem": "M validly married T, and later contracted a void second marriage with N. Under Yap v. CA, is N entitled to a share in M's estate as his 'wife'?",
+  "choices": [
+   "Yes, one-half of the estate",
+   "Yes, as a legal heir",
+   "No; only the legal wife shares in the estate",
+   "Yes, equally with T"
+  ],
+  "answer": 2,
+  "explanation": "Yap v. CA: the second marriage was void under the Marriage Law, and the second 'wife' got no share in the husband's estate. Only the legal wife did.",
+  "key_note": null
+ },
+ {
+  "id": "U-29",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Cariño v. Cariño, 351 SCRA 127)",
+  "type": "mcq",
+  "stem": "Under Article 148, as explained in Cariño v. Cariño, which of the following is correct?",
+  "choices": [
+   "Wages and salaries earned by each party belong to him or her exclusively.",
+   "Wages and salaries earned by each party are owned in equal shares.",
+   "All property acquired during cohabitation is presumed co-owned in equal shares.",
+   "Care of the home and children counts as a contribution."
+  ],
+  "answer": 0,
+  "explanation": "Cariño: in the Art. 148 regime (bigamous marriages, adulterous relationships, concubinage, both parties married to others, multiple alliances), 'the properties acquired by the parties through their actual joint contribution shall belong to the co-ownership. Wages and salaries earned by each party belong to him or her exclusively. Then too, contributions in the form of care of the home, children and household, or spiritual or moral inspiration, are excluded.'",
+  "key_note": null
+ },
+ {
+  "id": "U-30",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Go-Bangayan v. Bangayan; Ventura v. Abuda)",
+  "type": "mcq",
+  "stem": "B, validly married to A, lived with S under a void marriage. Properties were titled in the name of 'B, married to S'. S claims co-ownership but offers no proof of her actual contribution. Is S a co-owner?",
+  "choices": [
+   "Yes, because the title names her as B's wife.",
+   "No, because 'married to' is merely descriptive, and without proof of actual contribution there is no co-ownership under Article 148.",
+   "No, because S is in bad faith.",
+   "Yes, because contributions are presumed equal."
+  ],
+  "answer": 1,
+  "explanation": "Go-Bangayan: 'the words married to preceding the name of a spouse are merely descriptive of the civil status of the registered owner. Such words do not prove co-ownership. Without proof of actual contribution from either or both spouses, there can be no co-ownership under Article 148.' Ventura v. Abuda: 'Presumptions of co-ownership and equal contribution do not apply' until actual contribution is proved.",
+  "key_note": null
+ },
+ {
+  "id": "U-31",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (Salas, Jr. v. Aguila, G.R. No. 202370, 2013)",
+  "type": "mcq",
+  "stem": "The marriage of J and E was declared void on the ground of psychological incapacity. Properties acquired during their union were later discovered. On what basis should they be partitioned?",
+  "choices": [
+   "Conjugal partnership of gains",
+   "Co-ownership under Article 147",
+   "Absolute community of property",
+   "Article 148, upon proof of actual contribution"
+  ],
+  "answer": 1,
+  "explanation": "Salas v. Aguila: for a marriage void under Art. 36 between capacitated parties, 'property acquired during the marriage is prima facie presumed to have been obtained through the couple's joint efforts and governed by the rules on co-ownership.' The partition was sustained 'but on the basis of co-ownership and not on the regime of conjugal partnership of gains.'",
+  "key_note": null
+ },
+ {
+  "id": "U-32",
+  "topic": "unions",
+  "origin": "new",
+  "src": "New (FC 147 vs 148)",
+  "type": "mcq",
+  "stem": "Which of the following unions is governed by Article 148 rather than Article 147?",
+  "choices": [
+   "A man and a woman, both single and of age, living together without marriage",
+   "Spouses whose marriage was declared void for lack of a marriage license",
+   "A married man living with his paramour",
+   "Spouses whose marriage was declared void on the ground of psychological incapacity"
+  ],
+  "answer": 2,
+  "explanation": "Art. 148 covers cohabitation 'not falling under' Art. 147, i.e., where the parties are not capacitated to marry each other, as with a married man and his paramour (Cariño). A, B and D involve parties capacitated to marry each other, living exclusively as husband and wife without marriage or under a void marriage, so Art. 147 applies.",
+  "key_note": null
+ }
+]

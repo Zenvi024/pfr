@@ -1,0 +1,182 @@
+{
+ "title": "Uribe PFR Desk",
+ "eyebrow": "Law 100 · Persons &amp; Family Relations · Atty. Uribe",
+ "intro": "Samplex items from Sir Uribe's past quizzes, recitation questions, bar questions and new drills, from NCC 1–51 through the Family Code's <b>property relations (FC 74–148)</b>. Take quizzes by coverage (start with the <b>Quiz 4: Property relations</b> preset), read the full reviewer per topic with blur mode for self-testing, or drill with spaced review: codal blanks, spotting Sir's one-word changes, and the periods, ACP vs CPG, and Art. 147 vs 148 grids.",
+ "footer": "Tags: <b>Samplex</b> = verbatim from Sir Uribe's past quizzes and exams (several copies merged), including CivRev 2025 Quiz 4 and the CivRev midterms with his answers from the class discussion. <b>Recitation</b> = questions Sir asked in class (CivRev 2025 and the 2018 online situationers). <b>Bar</b> = QuAMTO / UP BOC bar questions, verbatim or adapted to multiple choice. <b>New</b> = written for this bank in Uribe's format. A yellow note means the circulated key differed from the answer here or the point is debatable; read it before trusting either. Consider a statement true only when it is absolutely true.",
+ "profLabel": "Uribe",
+ "pairInstruction": "Consider the statement true only where it is absolutely true.",
+ "topics": [
+  {
+   "key": "laws",
+   "name": "Effect & Application of Laws",
+   "range": "NCC 1–18"
+  },
+  {
+   "key": "human",
+   "name": "Human Relations & Prejudicial Question",
+   "range": "NCC 19–36"
+  },
+  {
+   "key": "persons",
+   "name": "Civil Personality, Capacity & Domicile",
+   "range": "NCC 37–51"
+  },
+  {
+   "key": "req",
+   "name": "Marriage: Nature & Requisites",
+   "range": "FC 1–34"
+  },
+  {
+   "key": "void",
+   "name": "Void Marriages",
+   "range": "FC 35–44"
+  },
+  {
+   "key": "voidable",
+   "name": "Voidable Marriages",
+   "range": "FC 45–54"
+  },
+  {
+   "key": "ls",
+   "name": "Legal Separation",
+   "range": "FC 55–67"
+  },
+  {
+   "key": "rights",
+   "name": "Rights & Obligations of Spouses",
+   "range": "FC 68–73"
+  },
+  {
+   "key": "ms",
+   "name": "Marriage Settlements, Governing Law & Donations by Reason of Marriage",
+   "range": "FC 74–87"
+  },
+  {
+   "key": "acp",
+   "name": "Absolute Community of Property",
+   "range": "FC 88–104"
+  },
+  {
+   "key": "cpg",
+   "name": "Conjugal Partnership of Gains",
+   "range": "FC 105–133"
+  },
+  {
+   "key": "sep",
+   "name": "Separation of Property & Judicial Separation",
+   "range": "FC 134–146"
+  },
+  {
+   "key": "unions",
+   "name": "Unions Without Marriage",
+   "range": "FC 147–148"
+  }
+ ],
+ "origins": [
+  {
+   "key": "samplex",
+   "label": "Samplex"
+  },
+  {
+   "key": "recit",
+   "label": "Recitation"
+  },
+  {
+   "key": "bar",
+   "label": "Bar / QuAMTO"
+  },
+  {
+   "key": "new",
+   "label": "New"
+  }
+ ],
+ "presets": [
+  {
+   "id": "pr",
+   "name": "Quiz 4: Property relations",
+   "sub": "FC 74–148: settlements, DPN, ACP, CPG, separation, Arts. 147–148",
+   "topics": [
+    "ms",
+    "acp",
+    "cpg",
+    "sep",
+    "unions"
+   ]
+  },
+  {
+   "id": "q1",
+   "name": "Quiz 1: Marriage",
+   "sub": "Requisites, void, voidable",
+   "topics": [
+    "req",
+    "void",
+    "voidable"
+   ]
+  },
+  {
+   "id": "q2",
+   "name": "Quiz 2: Voidable to spouses",
+   "sub": "Voidable, legal separation, rights & obligations",
+   "topics": [
+    "voidable",
+    "ls",
+    "rights"
+   ]
+  },
+  {
+   "id": "mid",
+   "name": "Midterms",
+   "sub": "NCC 1–51 through FC 73",
+   "topics": [
+    "laws",
+    "human",
+    "persons",
+    "req",
+    "void",
+    "voidable",
+    "ls",
+    "rights"
+   ]
+  },
+  {
+   "id": "all",
+   "name": "Everything",
+   "sub": "NCC 1–51 through FC 148",
+   "topics": "all"
+  }
+ ],
+ "defaultTopics": [
+  "ms",
+  "acp",
+  "cpg",
+  "sep",
+  "unions"
+ ],
+ "reviewerGroups": [
+  {
+   "label": "Midterms coverage (NCC 1–51, FC 1–73)",
+   "ids": [
+    "laws",
+    "human",
+    "persons",
+    "nature",
+    "req",
+    "void",
+    "voidable",
+    "ls",
+    "rights"
+   ]
+  },
+  {
+   "label": "Property relations (FC 74–148)",
+   "ids": [
+    "ms",
+    "acp",
+    "cpg",
+    "sep",
+    "unions"
+   ]
+  }
+ ],
+ "defaultSection": "ms"
+}

@@ -1,0 +1,1656 @@
+[
+ {
+  "id": "P-1",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #1",
+  "type": "tf",
+  "stem": "Laws shall take effect after 15 days following the completion of their publication in the Official Gazette and in a newspaper of general circulation, unless otherwise provided.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 2, as amended by E.O. 200, provides that laws take effect after fifteen days following the completion of their publication EITHER in the Official Gazette OR in a newspaper of general circulation in the Philippines, unless it is otherwise provided. Publication in one of the two suffices; the statement wrongly requires publication in both. (A law may itself require both, as in the 1990 bar problem, but that falls under 'unless otherwise provided'.)",
+  "key_note": null
+ },
+ {
+  "id": "P-2",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "tf",
+  "stem": "Laws shall take effect fifteen days after their complete publication in the Official Gazette, unless it is otherwise provided.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 2 (as amended by E.O. 200) reads: laws shall take effect 'after fifteen days following the completion of their publication either in the Official Gazette or in a newspaper of general circulation.' The statement is not absolutely true. It limits publication to the Official Gazette, when publication in a newspaper of general circulation is equally sufficient. It also says 'fifteen days after', whereas under Uribe's reading of 'after fifteen days following' the law takes effect only on the 16th day.",
+  "key_note": null
+ },
+ {
+  "id": "P-3",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "tf",
+  "stem": "If the law states the specific date for its effectivity, then it shall take effect on such date.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The clause 'unless it is otherwise provided' in Art. 2 refers only to the fifteen-day period, not to the requirement of publication. Publication is indispensable (Tanada v. Tuvera, 1986). A law fixing a specific effectivity date therefore cannot take effect on that date if its publication has not yet been completed by then; it takes effect only once publication is complete. Hence the statement is not absolutely true.",
+  "key_note": null
+ },
+ {
+  "id": "P-4",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #3; Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1); Uribe samplex MCQ set (Studocu, 1st Quiz); Uribe CivRev recitation (2025)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A law may be given retroactive effect even if it does not expressly so provide.",
+   "2. The law shall be given retroactive effect, if it expressly so provides."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "Art. 4: 'Laws shall have no retroactive effect, unless the contrary is provided.' No. 1 is TRUE. Several kinds of laws may be given retroactive effect even without an express provision: procedural laws, curative laws, interpretative laws, penal laws favorable to an accused who is not a habitual criminal (RPC Art. 22), and laws creating new rights (Art. 2253), all provided no vested right is impaired. No. 2 is FALSE. An express provision does not guarantee retroactivity: an ex post facto law or bill of attainder (Const. Art. III, Sec. 22), or a law impairing the obligation of contracts or vested rights (Uson v. Del Rosario), cannot be applied retroactively even if it so provides. Uribe calls No. 2 an 'incorrect translation' of Art. 4.",
+  "key_note": "Built from separate samplex T/F items: 'may be given retroactive effect even if it does not expressly so provide' (True); 'shall be given retroactive effect, if it expressly so provides', 'only if the law itself expressly so provides', and 'if the law does not expressly provide retroactive effect, then it cannot be given retroactive effect' (all False)."
+ },
+ {
+  "id": "P-5",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #13",
+  "type": "mcq",
+  "stem": "This law may not be given retroactive effect even if it expressly so provides:",
+  "choices": [
+   "A law creating new rights",
+   "Curative law",
+   "Interpretative law",
+   "Procedural law",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Note: the samplex key marked (a); this is incorrect because a law creating new rights is not barred from retroactive effect. Under Art. 2253, rights declared for the first time are effective at once, even as to acts done under prior legislation, provided no vested or acquired right of the same origin is impaired. In the companion samplex item, Atty. Uribe's own answer was that a law creating new rights MAY be retroactive. Curative, interpretative and procedural laws are likewise retroactive. Laws that cannot be retroactive even if they so provide are ex post facto laws, bills of attainder, and laws impairing contracts or vested rights. That vested-rights limit applies to every law listed, so none of them is barred per se.",
+  "key_note": "Samplex key: (a). Changed to (e) to match Art. 2253 and Uribe's own answer to the companion item (retroactivity 'except' question = None of the above). Caution for the quiz: Uribe's own 2025 key is (a), on the reasoning that a law creating new rights cannot be retroactive where it impairs vested rights (Uson v. Del Rosario). If this exact item appears, Uribe will likely expect (a)."
+ },
+ {
+  "id": "P-6",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "mcq",
+  "stem": "This law may be given retroactive effect even if it does not expressly so provide, except:",
+  "choices": [
+   "Procedural law",
+   "Curative law",
+   "Penal law",
+   "A law creating new right",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Atty. Uribe's answer is (e). Each of the listed laws may be retroactive without an express provision. Procedural laws apply to pending actions. Curative laws validate acts that were defective under the old law. Penal laws are retroactive insofar as they favor an accused who is not a habitual criminal (RPC Art. 22). Laws creating new rights take effect at once under Art. 2253, provided no vested right is impaired. The word 'may' makes each choice correct as a possibility, so none is an exception.",
+  "key_note": "The note-taker thought (d), but Atty. Uribe answered (e) (Art. 2253)."
+ },
+ {
+  "id": "P-7",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "mcq",
+  "stem": "This law cannot be given retroactive effect even if it expressly so provides:",
+  "choices": [
+   "Procedural law",
+   "Curative law",
+   "Ex post facto law",
+   "A law creating new rights",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "The Constitution (Art. III, Sec. 22) provides that no ex post facto law or bill of attainder shall be enacted. A law that criminalizes an act done before its passage, or aggravates a crime, increases its penalty, or alters the rules of evidence to the accused's prejudice cannot be applied retroactively even if it expressly says so. Procedural laws, curative laws and laws creating new rights (Art. 2253) may be retroactive.",
+  "key_note": null
+ },
+ {
+  "id": "P-8",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #4; Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "tf",
+  "stem": "Laws relating to legal capacity of persons are binding upon citizens of the Philippines, even though living abroad.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 15: 'Laws relating to family rights and duties, or to the status, condition and legal capacity of persons are binding upon citizens of the Philippines, even though living abroad.' This is the nationality principle. A Filipino's capacity to marry or to contract abroad is governed by Philippine law wherever he is. Even FC Art. 26(2) operates through Philippine law itself: Philippine law grants the Filipino spouse capacity to remarry after a valid foreign divorce (Republic v. Manalo), so it is consistent with Art. 15.",
+  "key_note": null
+ },
+ {
+  "id": "P-9",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #5",
+  "type": "tf",
+  "stem": "Real property as well as personal property is subject to the law of the country where it is situated.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The statement is Art. 16 par. 1 (lex situs), but it is not ABSOLUTELY true. Under par. 2, intestate and testamentary succession is regulated by the national law of the decedent, whatever the nature of the property and regardless of the country where it is found. This covers the order of succession, the amount of successional rights and the intrinsic validity of testamentary provisions. Applying Uribe's 'absolutely true' test, he marked it False because of this exception.",
+  "key_note": "Debatable: the statement reproduces Art. 16 par. 1 verbatim; Uribe marked it False because of the par. 2 succession exception. Other examiners may treat a verbatim provision as True."
+ },
+ {
+  "id": "P-10",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #7",
+  "type": "tf",
+  "stem": "Under the Civil Code, when the laws speak of years, months, days or nights, it shall be understood that years are of 365 days each; months of 31 days; days of 24 hours; and nights from sunset to sunrise.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 13 par. 1: years are of 365 days each; months, of THIRTY days; days, of twenty-four hours; and nights from sunset to sunrise. The statement alters the month to 31 days. (As to 'year', Sec. 31, Book I of the Administrative Code of 1987 now provides twelve calendar months: CIR v. Primetown, 2007.)",
+  "key_note": null
+ },
+ {
+  "id": "P-11",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1); Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. When the laws speak of years, months, days or nights, it shall be understood that the years are of three hundred sixty-five days each; months, of thirty days; days, of twenty-four hours; and nights, from sunrise to sunset.",
+   "2. When the laws speak of years, months, days or nights, it shall be understood that years are of three hundred sixty-six days each; months, of thirty days; days, of twenty-four hours, and nights from sunset to sunrise."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "Art. 13 par. 1: 'When the laws speak of years, months, days or nights, it shall be understood that years are of three hundred sixty-five days each; months, of thirty days; days, of twenty-four hours; and nights from sunset to sunrise.' No. 1 is FALSE: nights run from sunset to sunrise, not from sunrise to sunset. No. 2 is FALSE: years are of 365 days, not 366, even in a leap year. (Under current law, CIR v. Primetown holds that a 'year' is twelve calendar months per the Administrative Code of 1987.)",
+  "key_note": "Built from two separate samplex T/F items, both keyed False."
+ },
+ {
+  "id": "P-12",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1); Uribe samplex MCQ set (Studocu, 1st Quiz); Uribe CivRev 2025 Quiz 1 #8",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Penal laws and those of public security and safety shall be obligatory upon all who live or sojourn in the Philippine territory, subject to the principles of public international law and to treaty stipulations.",
+   "2. Penal laws and those of public security and safety shall be obligatory not only upon all citizens of the Philippines, but also upon all who live or sojourn in the Philippine territory subject to the principles of public international law and to treaty stipulations."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "Art. 14: 'Penal laws and those of public security and safety shall be obligatory upon all who live or sojourn in the Philippine territory, subject to the principles of public international law and to treaty stipulations.' No. 1 is TRUE as a direct translation of the article (territoriality principle). The qualifications cover, for example, the immunity of foreign heads of state and diplomats, and treaty arrangements. No. 2 is FALSE: Art. 14 is based on territoriality, not on citizenship, and Philippine penal laws do not, as a rule, follow Filipinos abroad. The extraterritorial cases in RPC Art. 2 are exceptions.",
+  "key_note": "Built from separate samplex T/F items (verbatim Art. 14 keyed True; 'not only upon all citizens' version keyed False)."
+ },
+ {
+  "id": "P-13",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #12",
+  "type": "mcq",
+  "stem": "If a law is silent as to the date of its effectivity and it was published in the Official Gazette on January 20, 2020, it is effective on:",
+  "choices": [
+   "February 4, 2020",
+   "February 5, 2020",
+   "February 6, 2020",
+   "February 20, 2020",
+   "February 21, 2020"
+  ],
+  "answer": 1,
+  "explanation": "Art. 2: laws take effect 'after fifteen days following the completion of their publication.' Under Art. 13 par. 3, the first day (January 20) is excluded and the last day included. January 21-31 is 11 days and February 1-4 is 4 more, so February 4 is the fifteenth day. The law takes effect AFTER the fifteenth day, on the sixteenth day: February 5, 2020.",
+  "key_note": null
+ },
+ {
+  "id": "P-14",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1); cf. Uribe samplex MCQ set (Studocu, 1st Quiz) (same computation, Jan. 5, 2016 -> Jan. 21, 2016)",
+  "type": "mcq",
+  "stem": "If a law is silent as to the date of its effectivity and it was published in the Official Gazette on February 15, 2016, it is effective on:",
+  "choices": [
+   "February 15, 2016",
+   "March 1, 2016",
+   "March 2, 2016",
+   "March 3, 2016",
+   "March 4, 2016"
+  ],
+  "answer": 2,
+  "explanation": "Per Atty. Uribe, the word 'after' in Art. 2 means the law takes effect on the 16th day, with the day of publication excluded (Art. 13 par. 3). 2016 is a leap year, so February has 29 days. February 16-29 is 14 days, which makes March 1 the fifteenth day. The law therefore takes effect on March 2, 2016.",
+  "key_note": null
+ },
+ {
+  "id": "P-15",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #14",
+  "type": "mcq",
+  "stem": "One month from February 1, 2021 is:",
+  "choices": [
+   "March 1, 2021",
+   "February 29, 2021",
+   "March 2, 2021",
+   "March 3, 2021",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Art. 13 par. 1: months are of thirty days. Par. 3: in computing a period, exclude the first day and include the last. February 2021 has 28 days, so February 2-28 gives 27 days, and March 1, 2 and 3 complete the thirty. One month from February 1, 2021 is therefore March 3, 2021.",
+  "key_note": "Follows Art. 13 (month = 30 days) as taught by Uribe. Alternative view: if 'month' is read as a calendar month (Admin. Code of 1987, Sec. 31, for a specific calendar month; cf. CIR v. Primetown on years), the answer would be March 1, 2021."
+ },
+ {
+  "id": "P-16",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "mcq",
+  "stem": "\"One Month\" from February 1, 2016 is:",
+  "choices": [
+   "February 31, 2016",
+   "March 1, 2016",
+   "March 2, 2016",
+   "March 3, 2016",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 13: a month is thirty days; exclude the first day and include the last. 2016 is a leap year, so February has 29 days. February 2-29 gives 28 days, and March 1 and 2 complete the thirty. One month from February 1, 2016 is March 2, 2016. (Choice a, 'February 31', is a non-existent date.)",
+  "key_note": "Follows Art. 13 (30-day month) per Uribe's key. Alternative view: on a calendar-month reading (Admin. Code of 1987, Sec. 31; cf. CIR v. Primetown), one month from Feb. 1, 2016 is March 1, 2016."
+ },
+ {
+  "id": "P-17",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "mcq",
+  "stem": "\"One year\" from January 1, 2016 is:",
+  "choices": [
+   "December 30, 2016",
+   "December 31, 2016",
+   "January 1, 2017",
+   "January 2, 2017",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Note: the samplex key marked (b) December 31, 2016; this is incorrect under current law. CIR v. Primetown Property Group (2007) held that Sec. 31, Book I of the Administrative Code of 1987, which defines a 'year' as twelve calendar months, impliedly repealed Art. 13 of the Civil Code as to years, being the later law. Twelve calendar months from January 1, 2016 ends on January 1, 2017. Under the old Art. 13 rule (365 days, with the first day excluded), the leap year 2016 would make the period end on December 31, 2016, which was the basis of the key.",
+  "key_note": "Samplex key: (b) December 31, 2016 (Art. 13, 365 days). Changed to (c) per CIR v. Primetown (2007). If Uribe insists on Art. 13 in class, (b) would be his expected answer."
+ },
+ {
+  "id": "P-18",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #15",
+  "type": "mcq",
+  "stem": "The following shall be governed by the nationality principle, except:",
+  "choices": [
+   "Family rights and duties",
+   "Validity of wills",
+   "Legal capacity of persons",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Under Art. 15, family rights and duties and the legal capacity of persons follow the national law. The 'validity of wills' is not wholly governed by nationality. Its intrinsic validity follows the decedent's national law (Art. 16 par. 2), but its extrinsic validity (forms and solemnities) is governed by the law of the place of execution (lex loci celebrationis, Art. 17; see also Arts. 815-817). Validity of wills is therefore the exception.",
+  "key_note": null
+ },
+ {
+  "id": "P-19",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #21; Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex MCQ set (Studocu, 1st Quiz); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "mcq",
+  "stem": "This rule is based on a presumption established because of the obligatory force of law. It is dictated not only by expediency but also by necessity.",
+  "choices": [
+   "Stare decisis",
+   "In pari delicto",
+   "Estoppel",
+   "Ignorantia legis non excusat",
+   "Dura lex sed lex"
+  ],
+  "answer": 3,
+  "explanation": "Art. 3: 'Ignorance of the law excuses no one from compliance therewith.' As explained in Zulueta v. Zulueta, the rule rests on a conclusive presumption that everyone knows the law, founded not only on expediency and policy but also on necessity; otherwise anyone could evade the law by pleading ignorance. Per Tolentino, the presumption covers only Philippine laws. Foreign laws must be alleged and proved, so ignorance of them is treated as a mistake of fact.",
+  "key_note": null
+ },
+ {
+  "id": "P-20",
+  "topic": "laws",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "tf",
+  "stem": "B.P. Blg. 22, which itself provides that it shall take effect fifteen days after its publication in the Official Gazette, was published on June 14, 1979. Therefore, it took effect on June 30, 1979.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "In People v. Veridiano (1984), B.P. 22 took effect on June 29, 1979. The law itself fixed its effectivity at 'fifteen days after publication', which falls under the 'unless it is otherwise provided' clause of Art. 2. Excluding June 14 (Art. 13), the fifteenth day is June 29. The Art. 2 default formula, 'after fifteen days following the completion of publication', makes a law effective on the 16th day. That formula does not apply where the law fixes its own period.",
+  "key_note": null
+ },
+ {
+  "id": "P-21",
+  "topic": "laws",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025) (bar exam problem)",
+  "type": "mcq",
+  "stem": "A leased equipment from B for one month. The agreement was entered into on February 15, 2021, and B delivered the equipment that same day. On March 15, 2021, B demanded by phone the return of the equipment, but A failed to return it because his truck broke down. On March 16, 2021, the equipment was burned in a fire that started in another establishment, without A's fault. Is A liable for the loss?",
+  "choices": [
+   "Yes, because he was in delay from March 15, 2021, when B demanded the return of the equipment",
+   "Yes, because a lessee is always liable for the loss of the thing leased",
+   "No, because the one-month lease expired only on March 17, 2021, so the demand was premature, A was not in delay, and the loss was due to a fortuitous event",
+   "No, because a demand made by phone is not a valid demand",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 13, a month is thirty days, counted by excluding the first day and including the last. February 16-28, 2021 is 13 days, and March 1-17 adds 17, so the one-month lease expired on March 17, 2021. B's March 15 demand was premature, so A was not in delay (Art. 1169) when the fire occurred. No one is liable for a fortuitous event absent delay or other exceptions (Art. 1174), and the lessee is not liable for a loss he proves took place without his fault (Art. 1667). Had A been in delay, he would have been liable even for the fortuitous event (Art. 1165 par. 3).",
+  "key_note": "Follows Art. 13 (30-day month) per Uribe's class discussion. On a calendar-month reckoning, the lease would end March 15, the demand would put A in delay, and A would be liable even for the fortuitous event (Art. 1165)."
+ },
+ {
+  "id": "P-22",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 6 #13",
+  "type": "mcq",
+  "stem": "The extrinsic validity of the will of X, a Filipino but a permanent resident of Canada, shall be governed by the:",
+  "choices": [
+   "Law of the country where the will was executed",
+   "Law of the country where the decedent died",
+   "Law of the country where the decedent was a resident at the time of his death",
+   "National law of the heir",
+   "Law of the country where the properties of the decedent are located"
+  ],
+  "answer": 0,
+  "explanation": "Art. 17 par. 1: the forms and solemnities of contracts, wills and other public instruments are governed by the law of the country in which they are executed (lex loci celebrationis). Art. 815 likewise allows a Filipino abroad to make a will in the forms established by the law of the country where he may be. The place of death, the place of residence, the heir's nationality and the location of the properties do not govern extrinsic validity.",
+  "key_note": null
+ },
+ {
+  "id": "P-23",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1); Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Laws are repealed only by existing ones, and their violation or non-observance shall not be excused by disuse, or custom or practice to the contrary.",
+   "2. Laws are repealed only by subsequent ones, and their violation or non-observance shall not be excused by disuse, or custom or practice to the contrary."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "Art. 7 par. 1: 'Laws are repealed only by SUBSEQUENT ones, and their violation or non-observance shall not be excused by disuse, or custom or practice to the contrary.' No. 1 is FALSE because it says 'existing' instead of 'subsequent'. No. 2 is TRUE, being the text of the article. Repeal may be express or implied; implied repeals are disfavored and require irreconcilable inconsistency. Desuetude does not repeal a law.",
+  "key_note": "Built from separate samplex T/F items ('existing' keyed False; 'subsequent' keyed True)."
+ },
+ {
+  "id": "P-24",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1); Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. When the courts declare a law to be inconsistent with the Constitution, the former shall be void and the latter shall govern.",
+   "2. When the courts declare a law to be inconsistent with the Constitution, the latter shall be void and the former shall govern."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "Art. 7 par. 2: 'When the courts declare a law to be inconsistent with the Constitution, the former shall be void and the latter shall govern.' Here 'the former' is the law and 'the latter' is the Constitution, which is supreme. No. 1 is the text of the article and is TRUE. No. 2 reverses the terms, voiding the Constitution in favor of the law, and is FALSE.",
+  "key_note": "Built from separate samplex T/F items (keyed True and False respectively)."
+ },
+ {
+  "id": "P-25",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1); Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Administrative or executive acts, orders and regulations shall be valid when they are not contrary to the existing laws.",
+   "2. Administrative or executive acts, orders and regulations shall be valid only when they are not contrary to the laws or the Constitution."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "Art. 7 par. 3: 'Administrative or executive acts, orders and regulations shall be valid only when they are not contrary to the laws or the Constitution.' No. 1 is FALSE. It omits the Constitution as a standard, and it drops 'only', turning a condition for validity into a sufficient ground (Teoxon v. Members of the Board of Administrators). No. 2 is TRUE, being the text of the article.",
+  "key_note": "Built from separate samplex T/F items (keyed False and True respectively); OCR typos fixed ('not to' -> 'not contrary to'; 'laws of the Constitution' -> 'laws or the Constitution')."
+ },
+ {
+  "id": "P-26",
+  "topic": "laws",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "tf",
+  "stem": "The intrinsic validity of testamentary provisions shall be regulated by the national law of the person whose succession is under consideration.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 16 par. 2: intestate and testamentary successions, as to the order of succession, the amount of successional rights and the intrinsic validity of testamentary provisions, are regulated by the national law of the person whose succession is under consideration. This applies whatever the nature of the property and regardless of the country where it may be found. Formal (extrinsic) validity is a different matter, governed by Art. 17 and Arts. 815-817.",
+  "key_note": null
+ },
+ {
+  "id": "P-27",
+  "topic": "laws",
+  "origin": "bar",
+  "src": "QuAMTO - 1998 Bar; QuAMTO 1987-2017 - 1998 Bar; Bar Q&A in PFR Reviewer 2013 (Bar 1998)",
+  "type": "mcq",
+  "stem": "Juan is a Filipino citizen residing in Tokyo, Japan. What law governs his capacity to contract marriage in Japan?",
+  "choices": [
+   "Philippine law, under the nationality principle of Art. 15 of the Civil Code",
+   "Japanese law, as the law of the place of celebration",
+   "Japanese law, as the law of his domicile",
+   "Either Philippine or Japanese law, at Juan's option"
+  ],
+  "answer": 0,
+  "explanation": "Art. 15: laws relating to family rights and duties, or to the status, condition and legal capacity of persons, are binding upon citizens of the Philippines even though living abroad. Juan's capacity to marry is a matter of legal capacity, so it is governed by Philippine law (the Family Code). This holds although the forms of the marriage are governed by the lex loci celebrationis (Art. 17; FC Art. 26 par. 1).",
+  "key_note": null
+ },
+ {
+  "id": "P-28",
+  "topic": "laws",
+  "origin": "bar",
+  "src": "QuAMTO - 2016 Bar; UP BOC - 2016 Bar",
+  "type": "mcq",
+  "stem": "Sec. 1 of P.D. No. 755 states: \"Section 1. Declaration of National Policy - It is hereby declared that the policy of the State is to provide readily available credit facilities to the coconut farmers at preferential rates, that this policy can be expeditiously and efficiently realized by the implementation of the 'Agreement for the Acquisition of a Commercial Bank for the Benefit of the Coconut Farmers' executed by the Philippine Coconut Authority, the terms of which 'Agreement' are hereby incorporated by reference; xxx\" A copy of the Agreement was not attached to the Presidential Decree. P.D. No. 755 was published in the Official Gazette but the text of the Agreement described in Section 1 was not published. Can the Agreement in question be accorded the status of a law?",
+  "choices": [
+   "Yes, because it was incorporated by reference in a law that was duly published in the Official Gazette",
+   "No, because the full text of the Agreement was neither published nor attached as an annex to the decree; publication of the full text is indispensable for effectivity",
+   "Yes, because publication is required only for laws of general application, not for agreements",
+   "No, because a contract executed by a government agency can never be given the force of law"
+  ],
+  "answer": 1,
+  "explanation": "No. Art. 2 and Tanada v. Tuvera require publication of the full text of a law as a condition for its effectivity. In Cojuangco, Jr. v. Republic (2012), the Court held that this very Agreement, though 'incorporated by reference' in P.D. 755, was neither reproduced in nor attached as an annex to the decree. It therefore cannot be accorded the status of a law. See also Nagkakaisang Maralita v. Military Shrine Services (2013), where an unpublished addendum was held to have no force and effect.",
+  "key_note": null
+ },
+ {
+  "id": "P-29",
+  "topic": "laws",
+  "origin": "bar",
+  "src": "QuAMTO - 2014 Bar",
+  "type": "mcq",
+  "stem": "Mabuhay Elementary School organized a fieldtrip for its Grade VI students in Fort Santiago, Manila Zoo, and Star City. To be able to join, the parents of the students had to sign a piece of paper that reads as follows: \"I allow my child (name of student), Grade - Section, to join the school's field trip on 14 Feb. 2014. I will not file any claim against the school, administrator or teacher in case something happens to my child during the trip.\" Joey, a 7-year-old student of Mabuhay Elementary School was bitten by a snake while the group was touring Manila Zoo. The parents of Joey sued the school for damages. The school, as a defense, presented the waiver signed by Joey's parents. Was there a valid waiver of right to sue the school?",
+  "choices": [
+   "Yes, because the parents voluntarily signed the waiver as a condition for joining the trip",
+   "Yes, because rights may be waived unless the waiver is prejudicial to a third person",
+   "No, because the waiver is contrary to public policy as it exonerates the school from liability for future negligence",
+   "No, because a waiver of the right to sue must always be notarized"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 6, rights may be waived unless the waiver is contrary to law, public order, public policy, morals or good customs, or prejudicial to a third person with a right recognized by law. The waiver here is void as contrary to public policy. It would exempt the school in advance from liability for future negligence, allowing it to dispense with even ordinary diligence over pupils in its custody (cf. Art. 1171: any waiver of an action for future fraud is void; Art. 1172: responsibility arising from negligence is demandable in every kind of obligation; Art. 2180 on the liability of schools and teachers). Notarization is not a requisite of waiver.",
+  "key_note": null
+ },
+ {
+  "id": "P-30",
+  "topic": "laws",
+  "origin": "bar",
+  "src": "QuAMTO - 2011 Bar; UP BOC - 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "The doctrine of stare decisis prescribes adherence to precedents in order to promote the stability of the law. But the doctrine can be abandoned:",
+  "choices": [
+   "When adherence to it would result in the Government's loss of its case",
+   "When the application of the doctrine would cause great prejudice to a foreign national",
+   "When necessary to promote the passage of a new law",
+   "When the precedent has ceased to be beneficial and useful"
+  ],
+  "answer": 3,
+  "explanation": "Art. 8: 'Judicial decisions applying or interpreting the laws or the Constitution shall form a part of the legal system of the Philippines.' Stare decisis et non quieta movere requires adherence to precedent, but it is not absolute. The Supreme Court may abandon a precedent that has ceased to be beneficial and useful, or that is shown to be erroneous. The government's loss of a case, prejudice to a foreign national, or a wish to promote new legislation are not grounds.",
+  "key_note": null
+ },
+ {
+  "id": "P-31",
+  "topic": "laws",
+  "origin": "bar",
+  "src": "QuAMTO - 2012 Bar; UP BOC - 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "Even if the applicable law is a foreign law, a court in the Philippines may be constrained to apply Philippine law under any of the following instances, except:",
+  "choices": [
+   "When the foreign law, judgment or contract is contrary to a sound and important public policy of the forum",
+   "When the property subject of the case is located outside of the Philippines",
+   "When the foreign law or judgment is penal in nature",
+   "When the foreign law is procedural in nature"
+  ],
+  "answer": 1,
+  "explanation": "Philippine courts may refuse to apply an otherwise applicable foreign law in several situations. They may refuse when the foreign law, judgment or contract is contrary to a sound and important public policy of the forum (Art. 17 par. 3: prohibitive laws and those concerning public order, public policy and good customs are not rendered ineffective by foreign laws, judgments or conventions). They may also refuse when the foreign law is penal in nature, or when it is procedural, since procedure is governed by the lex fori. The location of the property outside the Philippines is not such a ground; if anything, it points to the foreign lex situs (Art. 16 par. 1).",
+  "key_note": null
+ },
+ {
+  "id": "P-32",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Laws shall have no retroactive effect, unless the contrary is provided; in case of doubt, the doubt must be resolved in favor of retroactivity.",
+   "2. Penal laws shall have a retroactive effect insofar as they favor the accused who is not a habitual criminal, even though at the time of their enactment final sentence has already been rendered."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "Art. 4 and RPC Art. 22. No. 1 is FALSE. Laws are construed as prospective unless retroactivity is expressly declared or necessarily implied, and in every case of doubt the doubt is resolved AGAINST retroactivity (Tolentino, Vol. I, pp. 23-24). No. 2 is TRUE. Under RPC Art. 22, penal laws favorable to a person guilty of a felony who is not a habitual criminal are retroactive, even if final sentence was pronounced before their publication and the convict is serving it.",
+  "key_note": null
+ },
+ {
+  "id": "P-33",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Acts executed against the provisions of mandatory or prohibitory laws shall be voidable, except when the law itself authorizes their validity.",
+   "2. A marriage where there is a mere irregularity in the formal requisites, which the law holds valid while making the party or parties responsible for the irregularity civilly, criminally and administratively liable, illustrates the exception where the law itself authorizes the validity of the act."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "Art. 5: 'Acts executed against the provisions of mandatory or prohibitory laws shall be VOID, except when the law itself authorizes their validity.' No. 1 is FALSE because it says 'voidable'. No. 2 is TRUE. FC Art. 4 par. 3 provides that an irregularity in the formal requisites does not affect the validity of the marriage, but the party or parties responsible are civilly, criminally and administratively liable. This is a law expressly authorizing the validity of an act done in violation of a mandatory rule (Tolentino, Vol. I, pp. 26-27).",
+  "key_note": null
+ },
+ {
+  "id": "P-34",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Rights may be waived, unless the waiver is contrary to law, public order, public policy, morals, or good customs, or prejudicial to a third person with a right recognized by law.",
+   "2. Rights of personality and family rights, like patrimonial rights, are generally subject to waiver."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "Art. 6: 'Rights may be waived, unless the waiver is contrary to law, public order, public policy, morals, or good customs, or prejudicial to a third person with a right recognized by law.' No. 1 is the text of the article and is TRUE. No. 2 is FALSE. Tolentino (Vol. I, p. 29) explains that rights of personality and family rights are not subject to waiver, while patrimonial rights generally may be waived. For example, the right to future support cannot be waived (Art. 2035; FC Art. 203).",
+  "key_note": null
+ },
+ {
+  "id": "P-35",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "X and Y, both Filipinos residing in Tokyo, executed a deed before the Philippine Consul in Tokyo. The solemnities of the deed shall be governed by:",
+  "choices": [
+   "Japanese law, as the law of the place of execution",
+   "Philippine law",
+   "Either Japanese or Philippine law, at the option of the parties",
+   "The law of the place where the subject property is situated",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Art. 17 par. 1: the forms and solemnities of contracts, wills and other public instruments are, as a rule, governed by the law of the country where they are executed. Par. 2 makes an exception: 'When the acts referred to are executed before the diplomatic or consular officials of the Republic of the Philippines in a foreign country, the solemnities established by Philippine laws shall be observed in their execution.' Since the deed was executed before the Philippine Consul, Philippine law governs (Tolentino, Vol. I, p. 55).",
+  "key_note": null
+ },
+ {
+  "id": "P-36",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (codal, Arts. 9-10)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. No judge or court shall decline to render judgment by reason of the silence or obscurity of the laws; but he may decline to render judgment by reason of the insufficiency of the laws.",
+   "2. In case of doubt in the interpretation or application of laws, it is presumed that the lawmaking body intended right and justice to prevail."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "Art. 9: 'No judge or court shall decline to render judgment by reason of the silence, obscurity or insufficiency of the laws.' No. 1 is FALSE because insufficiency of the law is expressly NOT a ground to decline judgment. The judge must decide, applying customs, analogy, judicial precedents and general principles of law and equity. In criminal cases, the absence of a penal law results in acquittal (nullum crimen sine lege), which is still a judgment. No. 2 is TRUE, being the text of Art. 10: 'In case of doubt in the interpretation or application of laws, it is presumed that the lawmaking body intended right and justice to prevail.'",
+  "key_note": null
+ },
+ {
+  "id": "P-37",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (codal, Arts. 11-12)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Customs which are contrary to law, public order or public policy shall not be countenanced.",
+   "2. A custom need not be proved as a fact, since courts are bound to take judicial notice of customs."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being the text of Art. 11. No. 2 is FALSE. Art. 12 provides that 'A custom must be proved as a fact, according to the rules of evidence.' Courts do not take judicial notice of customs; the party relying on one must prove it. To be applied, a custom must also not be contrary to law, public order or public policy (Art. 11).",
+  "key_note": null
+ },
+ {
+  "id": "P-38",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (codal, Art. 18)",
+  "type": "tf",
+  "stem": "In matters which are governed by the Code of Commerce and special laws, the provisions of the Civil Code shall prevail over the latter in case of conflict.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 18: 'In matters which are governed by the Code of Commerce and special laws, their deficiency shall be supplied by the provisions of this Code.' The Civil Code has only a suppletory role. In case of conflict, the Code of Commerce or the special law, being the specific law on the matter, prevails. The Civil Code applies only to fill gaps (deficiencies).",
+  "key_note": null
+ },
+ {
+  "id": "P-39",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (codal, Arts. 1-2; Lara v. Del Rosario)",
+  "type": "mcq",
+  "stem": "Republic Act No. 386, which under its Article 1 'shall be known as the Civil Code of the Philippines,' provided in its original Article 2 that 'this Code shall take effect one year after such publication.' According to the Supreme Court, the Civil Code took effect on:",
+  "choices": [
+   "June 18, 1949",
+   "August 30, 1950",
+   "August 3, 1988",
+   "January 1, 1950",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Art. 1 gives the Code its name. The original Art. 2 provided that the Code would take effect one year after its publication, and in Lara v. Del Rosario (1954) the Supreme Court held that the Civil Code took effect on August 30, 1950. (Do not confuse this with the Family Code, E.O. 209, which took effect on August 3, 1988, one year after its publication on August 4, 1987 under FC Art. 257.)",
+  "key_note": null
+ },
+ {
+  "id": "P-40",
+  "topic": "laws",
+  "origin": "new",
+  "src": "New (Art. 2; Tanada v. Tuvera, 1986)",
+  "type": "mcq",
+  "stem": "Under Article 2 of the Civil Code as interpreted in Tanada v. Tuvera, which of the following need NOT be published for its effectivity?",
+  "choices": [
+   "A presidential decree of general application",
+   "A letter of instructions issued by an administrative superior to his subordinates concerning the guidelines to be followed in the performance of their duties",
+   "A statute of purely local application",
+   "An administrative regulation implementing a statute and imposing penalties for its violation",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Tanada v. Tuvera (1986) held that 'all statutes, including those of local application and private laws, shall be published as a condition for their effectivity.' Publication is also required of administrative rules and regulations that enforce or implement existing law under a valid delegation, and of presidential decrees and executive orders of general application. Publication is NOT required for interpretative regulations and those merely internal in nature, which regulate only the agency's personnel and not the public. Nor is it required for letters of instructions issued by administrative superiors on the rules or guidelines their subordinates follow in performing their duties.",
+  "key_note": null
+ },
+ {
+  "id": "P-41",
+  "topic": "human",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #6",
+  "type": "tf",
+  "stem": "Every person who, through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter, shall return the same to him.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 22 (unjust enrichment) reads: 'Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter WITHOUT JUST OR LEGAL GROUND, shall return the same to him.' The statement omits the essential qualification. One who acquires something at another's expense WITH a just or legal ground, such as a payment of a debt actually due, a donation or a sale, need not return it.",
+  "key_note": null
+ },
+ {
+  "id": "P-42",
+  "topic": "human",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #10; Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "tf",
+  "stem": "Under the Abuse of Rights Principle, every person must, in the performance of his duties, act with justice, give everyone his due, and observe honesty and good faith.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 19 reads: 'Every person must, IN THE EXERCISE OF HIS RIGHTS and in the performance of his duties, act with justice, give everyone his due, and observe honesty and good faith.' The abuse of rights principle concerns precisely the EXERCISE OF RIGHTS, which the statement omits, so the statement is incomplete and not absolutely true. Under Globe Mackay v. CA, abuse of rights requires (1) a legal right or duty, (2) exercised in bad faith, (3) for the sole intent of prejudicing or injuring another.",
+  "key_note": null
+ },
+ {
+  "id": "P-43",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Arts. 20-21)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Every person who, contrary to law, wilfully or negligently causes damage to another, shall indemnify the latter for the same.",
+   "2. Any person who wilfully or negligently causes loss or injury to another in a manner that is contrary to morals, good customs or public policy shall compensate the latter for the damage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being the text of Art. 20, the general sanction for violations of law that do not provide their own civil sanction. Liability under it arises from willful or negligent acts. No. 2 is FALSE. Art. 21 covers only one who WILFULLY causes loss or injury to another in a manner contrary to morals, good customs or public policy. A merely negligent act that is not contrary to law falls under quasi-delict (Art. 2176), not Art. 21. Art. 21 also covers acts that are not illegal (e.g., Wassmer v. Velez).",
+  "key_note": null
+ },
+ {
+  "id": "P-44",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. The classical rule that 'he who uses a right injures no one' is maintained under the Civil Code, so that no liability can arise from the exercise of a right granted by law.",
+   "2. Under Article 19, the absence of good faith is essential to abuse of right."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. The Civil Code abandoned the classical rule 'qui jure suo utitur neminem laedit' (he who uses a right injures no one). Under Art. 19, a person is protected only when he acts in the legitimate exercise of his right, that is, with prudence and in good faith; an abnormal exercise of a right, contrary to its socio-economic purpose, gives rise to liability (Tolentino, Vol. I, pp. 60-62). No. 2 is TRUE. Bad faith, meaning the absence of good faith or an intent to injure, is essential to abuse of right. One who merely uses his right without bad faith or intent to injure is not liable even if another is prejudiced (damnum absque injuria).",
+  "key_note": null
+ },
+ {
+  "id": "P-45",
+  "topic": "human",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 - 1996 Bar",
+  "type": "mcq",
+  "stem": "Rosa was leasing an apartment in the city. Because of the Rent Control Law, her landlord could not increase the rental as much as he wanted to, nor terminate her lease as long as she was paying her rent. In order to force her to leave the premises, the landlord stopped making repairs on the apartment, and caused the water and electricity services to be disconnected. The difficulty of living without electricity and running water resulted in Rosa's suffering a nervous breakdown. She sued the landlord for actual and moral damages. Will the action prosper?",
+  "choices": [
+   "No, because the landlord was merely exercising his rights as owner",
+   "No, because Rosa's only remedy is under the lease contract",
+   "Yes, under the human relations provisions (Arts. 19, 20 and 21), since the landlord's acts are contrary to morals and good customs; moral damages are recoverable under Art. 2219(10)",
+   "Yes, but only for actual damages"
+  ],
+  "answer": 2,
+  "explanation": "Yes. The landlord's acts were done willfully to force Rosa out in circumvention of the Rent Control Law, in a manner contrary to morals, good customs and public policy. That is an abuse of right under Arts. 19 and 21, and Art. 20 also applies if the acts violate the lessor's legal duty to make necessary repairs (Art. 1654). Moral damages are recoverable for acts referred to in Art. 21 (Art. 2219[10]), and actual damages upon proof. The owner's rights must be exercised in good faith and not merely to injure another.",
+  "key_note": null
+ },
+ {
+  "id": "P-46",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A promise to marry has obligatory force; hence its breach is per se an actionable wrong.",
+   "2. A prospective bride or groom who capriciously breaks an engagement without reason, thereby causing moral and material injury to the other party, may be held liable for damages, especially where the break occurs just before the wedding."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. A promise to marry has no obligatory force, and a mere breach of promise to marry is not an actionable wrong (Hermosisima v. CA; Tolentino, Vol. I, p. 67). Freedom of consent to marriage entitles either party to withdraw. No. 2 is TRUE. The right to withdraw must not be exercised unjustly or abusively, so one who capriciously breaks an engagement without reason, especially on the eve of the wedding after public preparations, may be liable under Arts. 19 and 21 (Wassmer v. Velez).",
+  "key_note": null
+ },
+ {
+  "id": "P-47",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (Wassmer v. Velez, 1964)",
+  "type": "mcq",
+  "stem": "B and F applied for a marriage license and set their wedding date. Invitations were printed and distributed, the bride's gown and the reception were arranged, and bridal showers were given. Two days before the wedding, F left a note for B saying the wedding had to be postponed because his mother opposed it. The next day he wired her that nothing had changed and that he would return, but he never appeared and was not heard from again. B sued F for damages. Which is correct?",
+  "choices": [
+   "B cannot recover anything because a mere breach of promise to marry is not an actionable wrong",
+   "B may recover only the expenses she incurred, as damages for breach of contract",
+   "B may recover actual, moral and exemplary damages under Article 21, since walking out of a wedding so publicized and prepared for is palpably contrary to good customs",
+   "B may compel F to marry her by an action for specific performance",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "These are the facts of Wassmer v. Velez (1964). Mere breach of promise to marry is not actionable. However, the Court held that formally setting a wedding, going through all the preparation and publicity, and then walking out of it when the wedding was about to be solemnized is 'palpably and unjustifiably contrary to good customs.' The defendant was therefore answerable in damages under Art. 21. The Court awarded actual damages for the wedding expenses, moral damages (Art. 2219[10]) and exemplary damages, though it reduced the trial court's award of moral and exemplary damages as excessive. Marriage cannot be compelled by specific performance.",
+  "key_note": null
+ },
+ {
+  "id": "P-48",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (Tanjanco v. CA, 1966; Baksh v. CA, 1993)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Where a woman of legal age, induced by a man's promise of marriage, voluntarily maintained sexual relations with him for about a year, his subsequent refusal to marry her makes him liable for damages under Article 21 for seduction.",
+   "2. A man who promised to marry a woman without intending to fulfill the promise, using it only as a ruse to entice her to live with him, and who later refused to marry her, may be held liable for damages under Article 21, not because of the breach of promise itself but because of the fraud and deceit behind it."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE (Tanjanco v. CA). Seduction actionable under Art. 21 connotes deceit, enticement, superior power or abuse of confidence that induces the woman to yield against her will. Where a woman of adult age maintained intimate sexual relations with the man, with repeated acts of intercourse, for about a year, the Court found this incompatible with seduction and indicative of mutual passion, so there was no cause of action. No. 2 is TRUE (Baksh v. CA). The man was held liable under Art. 21 not because of the breach of promise itself, but because of the fraud and deceit behind it: the promise was a ruse to entice the woman to live with him. The in pari delicto defense did not apply because her fault was not equal to his.",
+  "key_note": null
+ },
+ {
+  "id": "P-49",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Arts. 22-23)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter without just or legal ground, shall return the same to him.",
+   "2. When an act or event causing damage to another's property was not due to the fault or negligence of the defendant, the latter shall not be liable for indemnity even if through the act or event he was benefited."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being the text of Art. 22 (unjust enrichment, accion in rem verso). Its requisites are: (1) the defendant has been enriched; (2) the plaintiff has suffered a loss; (3) the enrichment is without just or legal ground; and (4) the plaintiff has no other action based on contract, quasi-contract, crime or quasi-delict. No. 2 is FALSE. Art. 23 provides that even when the act or event causing damage to another's property was not due to the defendant's fault or negligence, the defendant SHALL be liable for indemnity if he was benefited by it. Per Tolentino, liability is limited to the extent of the enrichment. The Code Commission's example: a flood drives A's cattle onto B's cultivated highland, saving the cattle but destroying B's crops; A must indemnify B.",
+  "key_note": null
+ },
+ {
+  "id": "P-50",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Arts. 24-25)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. In all contractual, property or other relations, when one of the parties is at a disadvantage on account of his moral dependence, ignorance, indigence, mental weakness, tender age or other handicap, the courts must be vigilant for his protection.",
+   "2. Thoughtless extravagance in expenses for pleasure or display during a period of acute public want or emergency may be stopped by order of the courts at the instance of any person."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being the text of Art. 24 (parens patriae), which qualifies the rule that the contract is the law between the parties when one party is handicapped (cf. Art. 1337 on undue influence). No. 2 is FALSE. Under Art. 25, thoughtless extravagance in expenses for pleasure or display during a period of acute public want or emergency may be stopped by court order only 'at the instance of any government or private charitable institution', not of any person.",
+  "key_note": null
+ },
+ {
+  "id": "P-51",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Art. 26)",
+  "type": "mcq",
+  "stem": "Under Article 26 of the Civil Code, the following acts, though they may not constitute a criminal offense, shall produce a cause of action for damages, prevention and other relief, except:",
+  "choices": [
+   "Prying into the privacy of another's residence",
+   "Meddling with or disturbing the private life or family relations of another",
+   "Intriguing to cause another to be alienated from his friends",
+   "Vexing or humiliating another on account of his lowly station in life or physical defect",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Art. 26 requires every person to respect the dignity, personality, privacy and peace of mind of his neighbors and other persons. It expressly lists, among 'the following and similar acts': (1) prying into the privacy of another's residence; (2) meddling with or disturbing the private life or family relations of another; (3) intriguing to cause another to be alienated from his friends; and (4) vexing or humiliating another on account of his religious beliefs, lowly station in life, place of birth, physical defect, or other personal condition. All four choices are in the enumeration, so none is an exception. The list is not exclusive ('and similar acts').",
+  "key_note": null
+ },
+ {
+  "id": "P-52",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Arts. 27-28)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Any person suffering material or moral loss because a public servant or employee refuses or neglects, without just cause, to perform his official duty may file an action for damages and other relief against the latter, without prejudice to any disciplinary administrative action that may be taken.",
+   "2. Unfair competition in agricultural, commercial or industrial enterprises or in labor gives rise to a right of action by the person who thereby suffers damage only if the unfair competition constitutes a crime under the Revised Penal Code."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being the text of Art. 27, which gives a remedy against public officers who refuse or neglect, without just cause, to perform official duty, independent of administrative sanctions. No. 2 is FALSE. Art. 28 provides that unfair competition in agricultural, commercial or industrial enterprises or in labor 'through the use of force, intimidation, deceit, machination or any other unjust, oppressive or highhanded method' gives rise to a right of action by the person damaged. It does not require that the act be a crime.",
+  "key_note": null
+ },
+ {
+  "id": "P-53",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Art. 29; Rules of Court, Rule 111, Sec. 2)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. When the accused in a criminal prosecution is acquitted on the ground that his guilt has not been proved beyond reasonable doubt, a civil action for damages for the same act or omission may be instituted, and such action requires only a preponderance of evidence.",
+   "2. Even if the final judgment of acquittal declares that the act or omission from which the civil liability may arise did not exist, the offended party may still file a civil action based on the delict, which requires only a preponderance of evidence."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being Art. 29. Acquittal on reasonable doubt does not bar a civil action for the same act or omission, which needs only a preponderance of evidence; upon the defendant's motion, the court may require the plaintiff to post a bond against a malicious complaint. No. 2 is FALSE. Under Rule 111, Sec. 2, last paragraph, the civil action based on delict shall be deemed extinguished when a final judgment in the criminal action finds that the act or omission from which civil liability may arise did not exist. Civil actions on other sources of obligation, such as quasi-delict or the independent civil actions, are a different matter.",
+  "key_note": null
+ },
+ {
+  "id": "P-54",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Arts. 30 and 33)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. In cases of defamation, fraud, and physical injuries, a civil action for damages, entirely separate and distinct from the criminal action, may be brought by the injured party; but such civil action shall require proof beyond reasonable doubt.",
+   "2. When a separate civil action is brought to demand civil liability arising from a criminal offense, and no criminal proceedings are instituted during the pendency of the civil case, a preponderance of evidence shall likewise be sufficient to prove the act complained of."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Under Art. 33, in cases of defamation, fraud and physical injuries, the independent civil action for damages, entirely separate and distinct from the criminal action, 'shall require only a preponderance of evidence', not proof beyond reasonable doubt. 'Physical injuries' is used in its generic sense and includes death (Madeja v. Caro). No. 2 is TRUE, being the text of Art. 30.",
+  "key_note": null
+ },
+ {
+  "id": "P-55",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Art. 32)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A judge who issues an order violating a person's freedom from arbitrary detention is liable for damages under Article 32 even if his act does not constitute a violation of the Revised Penal Code or of any other penal statute.",
+   "2. Under Article 32, the civil action of the person whose constitutional rights were violated shall proceed independently of any criminal prosecution, may be proved by a preponderance of evidence, and the indemnity shall include moral damages."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 32, last paragraph, provides that 'the responsibility herein set forth is not demandable from a judge unless his act or omission constitutes a violation of the Penal Code or other penal statute.' No. 2 is TRUE. Art. 32 gives the aggrieved party an entirely separate and distinct civil action that proceeds independently of any criminal prosecution, may be proved by a preponderance of evidence, and whose indemnity includes moral damages; exemplary damages may also be awarded.",
+  "key_note": null
+ },
+ {
+  "id": "P-56",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (Aberca v. Ver, 1988; Lim v. Ponce de Leon, 1975)",
+  "type": "mcq",
+  "stem": "Pursuant to orders of General V, military agents raided several houses without search warrants, seized personal belongings, and detained the occupants. The victims sued General V and the agents for damages under Article 32. General V moved to dismiss, arguing that he did not personally take part in the raids and that he acted in good faith in the performance of his official duties. Should the motion be granted?",
+  "choices": [
+   "Yes, because only those who personally participated in the raids may be held liable",
+   "Yes, because public officers who perform official duties in good faith are immune from suit",
+   "No, because Article 32 makes liable any public officer who directly or indirectly violates or impairs the enumerated rights, and good faith is not a defense",
+   "No, but General V may be held liable only after he is criminally convicted",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "No. Art. 32 makes liable 'any public officer or employee, or any private individual, who directly or indirectly obstructs, defeats, violates or in any manner impedes or impairs' the enumerated rights, including freedom from arbitrary detention and the right against unreasonable searches and seizures. In Aberca v. Ver, the Court held that the superior officer who is indirectly responsible must also answer. Good faith is not a defense, because Art. 32 does not require malice or bad faith (Lim v. Ponce de Leon); otherwise its purpose would be defeated. The action is independent of any criminal prosecution.",
+  "key_note": null
+ },
+ {
+  "id": "P-57",
+  "topic": "human",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "tf",
+  "stem": "When a member of a city or municipal police force refuses or fails to render aid or protection to any person in case of danger to life or property, such peace officer shall be primarily liable and the city or municipality shall be solidarily responsible therefor.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 34: the peace officer 'shall be primarily liable for damages, and the city or municipality shall be SUBSIDIARILY responsible therefor.' The city or municipality is not solidarily liable. The civil action is independent of any criminal proceedings, and a preponderance of evidence suffices.",
+  "key_note": null
+ },
+ {
+  "id": "P-58",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (codal, Arts. 31 and 35)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. When the civil action is based on an obligation not arising from the act or omission complained of as a felony, such civil action may proceed independently of the criminal proceedings and regardless of the result of the latter.",
+   "2. When the prosecuting attorney refuses or fails to institute criminal proceedings on a complaint for an offense for which no independent civil action is granted, the complainant may bring a civil action for damages against the alleged offender; and if an information is later presented during the pendency of the civil action, the criminal action shall be suspended until the termination of the civil action."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being the text of Art. 31. A civil action based on an obligation not arising from the crime, such as contract or quasi-delict, is independent of the criminal case. No. 2 is FALSE. Under Art. 35, the civil action may be brought when the prosecutor refuses or fails to institute criminal proceedings for an offense with no independent civil action; but if an information is filed during the pendency of the civil action, it is the CIVIL action that 'shall be suspended until the termination of the criminal proceedings.'",
+  "key_note": null
+ },
+ {
+  "id": "P-59",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (Art. 36; Rules of Court, Rule 111, Secs. 6-7 as amended; Dreamwork Construction v. Janiola)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A prejudicial question may be raised to suspend a criminal action even if the civil action involving the similar or intimately related issue was instituted only after the criminal action.",
+   "2. A petition for suspension of the criminal action based on a prejudicial question may be filed in the office of the prosecutor or the court conducting the preliminary investigation; when the criminal action has been filed in court for trial, it shall be filed in the same criminal action at any time before the prosecution rests."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "Art. 36 leaves prejudicial questions to the Rules of Court. Rule 111, Sec. 7 (2000 Rules) lists the elements: (a) the PREVIOUSLY INSTITUTED civil action involves an issue similar or intimately related to the issue raised in the subsequent criminal action, and (b) the resolution of that issue determines whether or not the criminal action may proceed. No. 1 is FALSE: a civil case filed after the criminal action cannot be a prejudicial question (Dreamwork Construction v. Janiola, 2009; Pimentel v. Pimentel, 2010). No. 2 is TRUE, being Rule 111, Sec. 6.",
+  "key_note": null
+ },
+ {
+  "id": "P-60",
+  "topic": "human",
+  "origin": "samplex",
+  "src": "Uribe samplex - 2nd Quiz (scanned); Uribe samplex - Quiz #3 (scanned, handwritten key); Uribe samplex - Multiple Choice compilation (scanned); Uribe samplex - Midterm Exam (scanned); Uribe samplex (FC quiz set 2, T/F & MCQ); Uribe samplex (Leviathan Quiz No. 2)",
+  "type": "mcq",
+  "stem": "This may involve a prejudicial question in the case for bigamy:",
+  "choices": [
+   "Legal separation",
+   "Annulment of the first marriage",
+   "Annulment of the second marriage",
+   "Nullity of the second marriage due to psychological incapacity",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Under jurisprudence, an action to annul the SECOND marriage may be a prejudicial question in a bigamy case. This holds where the accused claims his consent to that marriage was obtained through force, intimidation or other vitiating cause (Zapanta v. Montesa), because then the act of contracting it would not be voluntary. If the action is filed by the second spouse alleging the accused's own deceit, it is not prejudicial (Donato v. Luna). Annulment of the first marriage is not prejudicial, because a voidable marriage is valid until annulled and the crime is consummated upon the second marriage. Nor is a declaration of nullity of the second marriage for psychological incapacity (Tenebro v. CA). Legal separation does not affect the existence of the marriage.",
+  "key_note": "Answer follows the samplex key and jurisprudence; the Leviathan source notes that Atty. Uribe personally does not subscribe to this ruling."
+ },
+ {
+  "id": "P-61",
+  "topic": "human",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "A married B. While that marriage subsisted, A married C. A few months later, A was charged with bigamy. A moved to suspend the criminal proceedings on the ground of a prejudicial question, citing a pending case he had filed for the annulment of his marriage to B (the FIRST marriage) on the ground of fraud. How should the motion be resolved?",
+  "choices": [
+   "Granted, because if the first marriage is annulled, there would be no prior marriage to speak of",
+   "Granted, because every action affecting the validity of a marriage is a prejudicial question to bigamy",
+   "Denied, because a voidable marriage is valid until annulled, so the first marriage was subsisting when A contracted the second marriage, and its later annulment would not negate the crime",
+   "Denied, because a prejudicial question can arise only in civil cases",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "The motion should be denied. A voidable marriage is valid until annulled (FC Arts. 45-47). When A contracted the second marriage, the first was subsisting, and bigamy was consummated at that moment. A later annulment of the first marriage cannot erase the crime, so the civil case does not determine A's guilt. Per Uribe, it would be different if the pending case sought to annul the SECOND marriage on the ground that A's own consent was vitiated by force or intimidation (Zapanta v. Montesa). Even then, an action filed by the second spouse alleging A's deceit is not prejudicial (Donato v. Luna).",
+  "key_note": null
+ },
+ {
+  "id": "P-62",
+  "topic": "human",
+  "origin": "new",
+  "src": "New (Pimentel v. Pimentel, 2010)",
+  "type": "mcq",
+  "stem": "H was charged with frustrated parricide for attacking his wife W. A few weeks after the information was filed, W filed a petition to declare their marriage void on the ground of psychological incapacity. H moved to suspend the criminal case on the ground of a prejudicial question. Should the motion be granted?",
+  "choices": [
+   "Yes, because if the marriage is declared void, the element of relationship would be absent",
+   "Yes, because a declaration of nullity retroacts to the date of the celebration of the marriage",
+   "No, because the civil action was not previously instituted and, in any event, the parties were married at the time of the attack, so its outcome would not determine guilt",
+   "No, because a petition based on psychological incapacity can never involve a prejudicial question",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "No (Pimentel v. Pimentel, 2010). First, under Rule 111, Sec. 7 the civil action must be PREVIOUSLY instituted, and here it was filed after the criminal action. Second, the issue in the civil case does not determine guilt. Relationship is an element of parricide, and at the time of the attack H and W were married; a later declaration of nullity would not change that fact for purposes of the crime. A petition for nullity based on psychological incapacity can in principle raise a prejudicial question, so choice d is too broad.",
+  "key_note": null
+ },
+ {
+  "id": "P-63",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #9; Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Juridical capacity, which is the fitness to be the subject of legal relations, is inherent in every natural person and is lost only through death.",
+   "2. Juridical capacity, which is the power to do acts with legal effect, is acquired and may be lost."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "Art. 37: 'Juridical capacity, which is the fitness to be the subject of legal relations, is inherent in every natural person and is lost only through death. Capacity to act, which is the power to do acts with legal effect, is acquired and may be lost.' No. 1 is TRUE, being the first sentence of the article. No. 2 is FALSE because it attributes to juridical capacity the definition and characteristics of capacity to act. Juridical capacity can exist without capacity to act, as with an infant, but not the reverse.",
+  "key_note": "Built from two separate samplex T/F items (keyed True and False respectively)."
+ },
+ {
+  "id": "P-64",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #16; Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "mcq",
+  "stem": "Capacity to act:",
+  "choices": [
+   "Is the fitness to be the subject of legal relations",
+   "Is inherent in every natural person",
+   "Is acquired and may be lost",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 37: capacity to act is 'the power to do acts with legal effect' and 'is acquired and may be lost.' Choices a and b describe JURIDICAL capacity, which is the fitness to be the subject of legal relations and is inherent in every natural person. Only c correctly describes capacity to act.",
+  "key_note": null
+ },
+ {
+  "id": "P-65",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #17; cf. Uribe samplex MCQ set (Studocu, 1st Quiz) (age, insanity, penalty -> None of the above)",
+  "type": "mcq",
+  "stem": "The following circumstances modify or limit capacity to act, except:",
+  "choices": [
+   "Alienage",
+   "Insanity",
+   "Civil interdiction",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Note: the samplex key marked (c) civil interdiction; this is incorrect because civil interdiction clearly limits capacity to act. Art. 38 calls it a 'restriction on capacity to act'. Art. 39 lists 'penalty' among the circumstances that modify or limit capacity, and civil interdiction is an accessory penalty that deprives the offender of parental authority, marital authority, management of his property and disposition of it inter vivos (RPC Art. 34). Art. 39 also says 'among others', so its list is not exclusive, and Tolentino (Vol. I, pp. 158, 166) treats the Art. 38 and Art. 39 circumstances together as causes of incapacity. Alienage (Art. 39) and insanity (Arts. 38-39) are expressly listed, so none of the choices is an exception.",
+  "key_note": "Samplex key: (c), on Uribe's reasoning that civil interdiction appears in Art. 38 (restrictions) and not by name in Art. 39. Changed to (e) because Art. 39 lists 'penalty' and is non-exclusive ('among others'). Be aware Uribe may expect (c)."
+ },
+ {
+  "id": "P-66",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "mcq",
+  "stem": "The following circumstances modify or limit capacity to act:",
+  "choices": [
+   "Imbecility",
+   "Prodigality",
+   "Alienage",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Art. 39: 'The following circumstances, among others, modify or limit capacity to act: age, insanity, imbecility, the state of being a deaf-mute, penalty, prodigality, family relations, alienage, absence, insolvency and trusteeship.' Imbecility and prodigality are also restrictions under Art. 38, and alienage is listed in Art. 39. All three modify or limit capacity to act. By contrast, capacity to act is not limited on account of religious belief or political opinion.",
+  "key_note": null
+ },
+ {
+  "id": "P-67",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (codal, Arts. 38-39)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Minority, insanity or imbecility, the state of being a deaf-mute, prodigality and civil interdiction are mere restrictions on capacity to act, and exempt the incapacitated person from all obligations, including those arising from his acts or from property relations, such as easements.",
+   "2. Capacity to act is not limited on account of religious belief or political opinion."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 38 provides that these are mere restrictions on capacity to act that 'do NOT exempt the incapacitated person from certain obligations, as when the latter arise from his acts or from property relations, such as easements.' For example, a minor or insane person may be liable for quasi-delicts with his own property (Art. 2182), and his land remains burdened by easements. No. 2 is TRUE, being the last sentence of Art. 39, par. 1.",
+  "key_note": null
+ },
+ {
+  "id": "P-68",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (Art. 40; Art. 742; Quimiguing v. Icao, 1970)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Birth determines personality; but the conceived child shall be considered born for all purposes, provided it be born later with the conditions specified in Article 41.",
+   "2. A conceived child, although as yet unborn, may receive donations and may claim support from its progenitor through an action brought on its behalf, provided it is later born under the conditions of Article 41."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 40 grants the conceived child provisional personality only 'for all purposes that are FAVORABLE to it', provided it is born later under the conditions of Art. 41 (also PD 603, Art. 5). No. 2 is TRUE. Being favorable, a donation to a conceived child may be accepted by those who would legally represent it if already born (Art. 742). In Quimiguing v. Icao, the Court held that a conceived child has a right to support from its progenitors even while in the mother's womb, enforceable by an action brought on its behalf.",
+  "key_note": null
+ },
+ {
+  "id": "P-69",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #11",
+  "type": "tf",
+  "stem": "For civil purposes, the foetus is considered born if it is alive at the time it is completely delivered from the mother's womb.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "This states only the first sentence of Art. 41 and is not absolutely true. The article continues: 'However, if the foetus had an intra-uterine life of less than seven months, it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.' A premature foetus that is alive at complete delivery but dies within 24 hours is not considered born.",
+  "key_note": null
+ },
+ {
+  "id": "P-70",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #18; Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex MCQ set (Studocu, 1st Quiz); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "mcq",
+  "stem": "For civil purposes, the fetus is considered born if it is alive at the time it is completely delivered from the mother's womb. However, it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb, if:",
+  "choices": [
+   "The child is born less than 7 months from the death of the child's father",
+   "The child is born less than 6 months from the death of the child's father",
+   "The child is born less than 5 months from the death of the child's father",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Art. 41: the 24-hour survival requirement applies when 'the foetus had an INTRA-UTERINE LIFE of less than seven months.' The test is the length of gestation, not the time between the father's death and the child's birth. A child born five months after the father's death may well have had more than seven months of intra-uterine life. None of the choices states the correct test.",
+  "key_note": null
+ },
+ {
+  "id": "P-71",
+  "topic": "persons",
+  "origin": "bar",
+  "src": "QuAMTO - 2022 Bar",
+  "type": "mcq",
+  "stem": "During Remy's pregnancy, her father Gavin executed a will bequeathing his rest house in Calatagan, Batangas to Remy's unborn child. While Gavin and Remy, who was then 7 months pregnant, were on their way to Calatagan, they figured in a car accident on 01 Dec. 2021 which resulted in the instantaneous death of Gavin and the premature delivery of Remy on the same day. At 8:30 A.M. on 03 Dec. 2021, the newborn baby died. Is the devise in favor of the baby valid?",
+  "choices": [
+   "Yes, because the baby, having an intrauterine life of 7 months, was born alive and thus acquired personality entitling it to the devise",
+   "No, because the baby died before the will could be probated",
+   "No, because a premature baby must survive at least 24 hours regardless of its intrauterine life, and the devise lapsed when Gavin died first",
+   "No, because an unborn child cannot be instituted as an heir or devisee"
+  ],
+  "answer": 0,
+  "explanation": "Yes. Under Art. 40, the conceived child is considered born for all purposes favorable to it, including a devise, provided it is born under the conditions of Art. 41. With an intra-uterine life of seven months, the baby is considered born if alive at complete delivery, and the 24-hour rule applies only to fetuses of less than seven months. The baby also in fact survived more than 24 hours (December 1 to December 3), so it acquired personality either way. Having been conceived when Gavin died, it could succeed to the devise (Art. 1025).",
+  "key_note": null
+ },
+ {
+  "id": "P-72",
+  "topic": "persons",
+  "origin": "bar",
+  "src": "QuAMTO - 2012 Bar; QuAMTO 1987-2017 - 2012 Bar",
+  "type": "mcq",
+  "stem": "Ricky donated P1 million to the unborn child of his pregnant girlfriend, which she accepted. After six (6) months of pregnancy, the fetus was born and baptized as Angela. However, Angela died 20 hours after birth. Ricky sought to recover the P1 million. Is Ricky entitled to recover?",
+  "choices": [
+   "Yes, because Angela, with an intrauterine life of less than 7 months, died within 24 hours after delivery and was thus never considered born; the donation never took effect",
+   "No, because Angela was born alive and was baptized, and so acquired personality",
+   "No, because the donation was validly accepted by the mother and is irrevocable",
+   "Yes, because donations to unborn children are void in all cases"
+  ],
+  "answer": 0,
+  "explanation": "Yes. Under Art. 41, a foetus with an intra-uterine life of less than seven months is not deemed born if it dies within 24 hours after complete delivery. Angela, born after six months and dead after 20 hours, never acquired personality. Her provisional personality under Art. 40 never became definite, so she had no juridical capacity to be a donee and the donation never took effect. Baptism is irrelevant, and retention of the money would be unjust enrichment (Art. 22).",
+  "key_note": null
+ },
+ {
+  "id": "P-73",
+  "topic": "persons",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 - 2003, 2014 Bar; cf. QuAMTO - 2011 Bar; UP BOC - 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "If a pregnant woman passenger of a bus were to suffer an abortion following a vehicular accident due to the gross negligence of the bus driver, may she and her husband claim damages from the bus company for the death of their unborn child?",
+  "choices": [
+   "Yes, they may recover indemnity for the loss of life of the unborn child",
+   "No, they cannot recover any damages at all",
+   "They cannot recover indemnity for the loss of life of the unborn child, which was not yet a person, but they may recover damages for the mother's injuries, moral damages for their own mental anguish, and exemplary damages due to gross negligence",
+   "Only the husband may recover"
+  ],
+  "answer": 2,
+  "explanation": "Geluz v. CA (1961): an aborted foetus that was never born alive never acquired personality (Arts. 40-41). The provisional personality of the conceived child applies only to purposes favorable to it and depends on its later birth, so there can be no indemnity for loss of the life of a 'person.' The parents may, however, recover for injuries inflicted directly on them. These include damages for the mother's physical injuries, moral damages for their own mental anguish and the frustration of their parental hopes, and exemplary damages for the driver's gross negligence (Art. 2232 for a breach of contract of carriage done in a wanton or reckless manner; Art. 2231 if the suit is based on quasi-delict).",
+  "key_note": null
+ },
+ {
+  "id": "P-74",
+  "topic": "persons",
+  "origin": "bar",
+  "src": "UP BOC - 2008 Bar; QuAMTO - 2012, 1999 Bar; Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "At age 18, Marian found out that she was pregnant. She insured her own life and named her unborn child as her sole beneficiary. When she was already due to give birth, she and her boyfriend Pietro, the father of her unborn child, were kidnapped in a resort in Bataan where they were vacationing. The military gave chase and after one week, they were found in an abandoned hut in Cavite. Marian and Pietro were hacked with bolos. Marian and the baby she delivered were both found dead, with the baby's umbilical cord already cut. Pietro survived. Can Marian's baby be the beneficiary of the insurance taken on the life of the mother?",
+  "choices": [
+   "No, because an unborn child has no juridical capacity at all",
+   "Yes, it may be designated since the designation is favorable to it, but it acquires rights to the proceeds only if it was alive at the time of complete delivery; absent such proof, it acquired no right",
+   "Yes, and it acquired the proceeds unconditionally upon designation",
+   "No, because the baby did not live for 24 hours after delivery"
+  ],
+  "answer": 1,
+  "explanation": "Under Art. 40, the conceived child is considered born for all purposes favorable to it, so it may validly be designated a beneficiary. That personality is provisional, however, and becomes definite only if the child is born under Art. 41. Since Marian was already due to give birth, the intra-uterine life was at least seven months, and the baby need only be alive at complete delivery. Whoever claims for the baby must prove it was born alive. Without such proof the baby never acquired personality or any right to the proceeds, which then go to Marian's estate.",
+  "key_note": null
+ },
+ {
+  "id": "P-75",
+  "topic": "persons",
+  "origin": "bar",
+  "src": "UP BOC - 2008 Bar; QuAMTO - 2012, 1999 Bar; Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "(Same facts as Marian and Pietro: Marian, 18, and the baby she delivered were both found dead after the attack, with the baby's umbilical cord already cut.) Between Marian and the baby, who is presumed to have died ahead?",
+  "choices": [
+   "Marian, because the mother is presumed to die first in childbirth",
+   "They are presumed to have died at the same time under Article 43 of the Civil Code",
+   "Assuming the baby was born alive, the baby is presumed to have died ahead under the Rules of Court survivorship presumptions (one under 15 and one aged 18), since the question involves insurance, not succession",
+   "Neither; the question cannot be resolved"
+  ],
+  "answer": 2,
+  "explanation": "If the baby was not born alive, it never became a person and no question of survivorship arises. If it was, the question here concerns the insurance proceeds, not succession between persons called to succeed each other. Art. 43 therefore does not apply, and the Rules of Court survivorship presumptions (Rule 131, Sec. 3[jj]) govern. Under the rule that where one is under 15 and the other between 15 and 60 the latter is deemed to have survived, Marian (18) is presumed to have survived the baby. The baby is thus presumed to have died first. Uribe stresses that this is a presumption, not proof.",
+  "key_note": null
+ },
+ {
+  "id": "P-76",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (codal, Art. 42)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Civil personality is extinguished by death.",
+   "2. The effect of death upon the rights and obligations of the deceased is determined by law and by will only."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being the first paragraph of Art. 42. Only natural death is recognized; civil death no longer exists. No. 2 is FALSE. Art. 42 par. 2 provides that 'the effect of death upon the rights and obligations of the deceased is determined by law, by CONTRACT and by will.' For example, a contract may stipulate that rights under it are not transmissible (Art. 1311). The statement omits contract.",
+  "key_note": null
+ },
+ {
+  "id": "P-77",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1); Uribe CivRev 2025 Quiz 1 #19; Uribe samplex MCQ set (Studocu, 1st Quiz)",
+  "type": "mcq",
+  "stem": "If there is doubt, as between two or more persons who are called to succeed each other, as to who of them died first:",
+  "choices": [
+   "The older is presumed to have survived",
+   "The younger is presumed to have survived",
+   "The male is presumed to have survived if the other is a female",
+   "They are conclusively presumed to have died at the same time",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Choices a to c are survivorship presumptions of the Rules of Court (Rule 131, Sec. 3[jj]), which do not apply to persons called to succeed each other. Choice d is wrong because the Art. 43 presumption is not conclusive. Under Art. 43, 'whoever alleges the death of one prior to the other, shall prove the same.' Only 'in the absence of proof' is it presumed that they died at the same time, with no transmission of rights between them. The presumption is disputable.",
+  "key_note": "Some transcriptions (CivRev 2025 Quiz 1 #19; Studocu set) render choice d as 'They are deemed to have died at the same time' with the same key (e). Uribe's explanation turns on d being 'conclusive', so the 'conclusively presumed' version is used here."
+ },
+ {
+  "id": "P-78",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "tf",
+  "stem": "If there is a doubt, as between two or more persons who are called to succeed each other, as to which of them died first, they are deemed to have died at the same time and there shall be no transmission of rights from one to the other.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 43 first places the burden of proof: 'whoever alleges the death of one prior to the other, shall prove the same.' Only 'in the absence of proof' is it PRESUMED that they died at the same time. The statement skips the proof requirement and makes simultaneous death automatic ('deemed'), when it is only a disputable presumption arising in the absence of proof.",
+  "key_note": null
+ },
+ {
+  "id": "P-79",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe samplex (succession quiz, persons item)",
+  "type": "tf",
+  "stem": "If there is a doubt, as between two or more persons, as to which of them died first, whoever alleges the death of one prior to the other, shall prove the same; in the absence of proof, it is presumed that they died at the same time.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 43 applies only to persons 'who are called to succeed each other.' The statement omits that qualification and so states the rule as if it covered every case of doubt about the order of deaths. Where the persons are not called to succeed each other, or the question is not one of succession (e.g., insurance proceeds), the Rules of Court survivorship presumptions apply instead (Rule 131, Sec. 3[jj]).",
+  "key_note": null
+ },
+ {
+  "id": "P-80",
+  "topic": "persons",
+  "origin": "bar",
+  "src": "UP BOC - 2009 Bar",
+  "type": "mcq",
+  "stem": "Dr. Lopez, a 70-year old widower, and his son Roberto both died in a fire that gutted their home while they were sleeping in their air-conditioned rooms. Roberto's wife, Marilyn, and their two children were spared because they were in the province at the time. Dr. Lopez left an estate worth P20M and a life insurance policy in the amount of P1M with his three children --- one of whom is Roberto --- as beneficiaries. Marilyn is now claiming for herself and her children her husband's share in the estate left by Dr. Lopez, and her husband's share in the proceeds of Dr. Lopez's life insurance policy. Rule on the validity of Marilyn's claims.",
+  "choices": [
+   "Marilyn is entitled to both Roberto's share in the estate and in the insurance proceeds, since Roberto, being younger, is presumed to have survived",
+   "Marilyn is not entitled to a share in the estate (Art. 43 presumes simultaneous death in succession, and a spouse cannot inherit by representation), but Roberto's heirs, including Marilyn, are entitled to Roberto's one-third share of the insurance proceeds under the Rules of Court survivorship presumptions",
+   "Marilyn is entitled to a share in the estate but not in the insurance proceeds",
+   "Marilyn is entitled to neither, since both died at the same time for all purposes"
+  ],
+  "answer": 1,
+  "explanation": "As to the estate, which is a matter of succession between father and son, Art. 43 applies. Absent proof of who died first, they are presumed to have died at the same time and nothing passed from Dr. Lopez to Roberto. Roberto's children may inherit from their grandfather by right of representation (Art. 982), but Marilyn, as spouse, cannot represent. As to the insurance proceeds, which do not involve succession, the Rules of Court apply. Between a person over 60 (Dr. Lopez, 70) and one between 15 and 60 (Roberto), the latter is deemed to have survived. Roberto's one-third share of the proceeds therefore vested in him and passes to his heirs, including Marilyn.",
+  "key_note": null
+ },
+ {
+  "id": "P-81",
+  "topic": "persons",
+  "origin": "bar",
+  "src": "UP BOC - 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "Birth determines personality. Death extinguishes it. Under what circumstances may the personality of a deceased person continue to exist?",
+  "choices": [
+   "In case of re-appearance of a missing person presumed dead",
+   "In protecting the works of a deceased under intellectual property laws",
+   "In case of declaration of presumptive death of a missing spouse",
+   "In the settlement of the estate of a deceased person"
+  ],
+  "answer": 3,
+  "explanation": "The estate of a deceased person is considered, for purposes of its settlement, an extension or continuation of the decedent's personality. It may sue and be sued and hold rights and incur obligations through its administrator (Limjoco v. Intestate Estate of Fragante). The reappearance of a missing person shows he never died. A declaration of presumptive death concerns a living person presumed dead. Intellectual property rights after death pass to heirs or assigns as property and do not continue the author's personality.",
+  "key_note": null
+ },
+ {
+  "id": "P-82",
+  "topic": "persons",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 1 #20; Uribe samplex (old Quiz No. 1, answered w/ reasons); Uribe samplex MCQ set (Studocu, 1st Quiz); Uribe samplex (Leviathan Quiz No. 1)",
+  "type": "mcq",
+  "stem": "A minor may not have the right to institute an action for annulment if he actively misrepresented as to his age under the principle of:",
+  "choices": [
+   "Ignorantia legis non excusat",
+   "Prescription",
+   "In pari delicto",
+   "Estoppel",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Mercado v. Espiritu: minors who pretend to be of legal age when they sell real property, and thereby induce the other party to contract, are estopped from later seeking to annul the contract on the ground of minority. Minority is a restriction on capacity to act (Art. 38) and ordinarily makes a contract voidable (Art. 1390). Active misrepresentation of age, however, bars the minor from invoking it. Mere silence or a passive statement would not produce estoppel (cf. Braganza v. Villa Abrille).",
+  "key_note": null
+ },
+ {
+  "id": "P-83",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (codal, Arts. 44-45)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. The personality of corporations, institutions and entities for public interest or purpose, created by law, begins as soon as they have been constituted according to law.",
+   "2. Partnerships and associations for private interest or purpose are governed by the laws creating or recognizing them."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE, being Art. 44(2). No. 2 is FALSE. Under Art. 45, only the juridical persons in Nos. 1 and 2 of Art. 44 (the State and its political subdivisions, and public-interest entities created by law) are governed by the laws creating or recognizing them. Private corporations are regulated by laws of general application on the subject (now the Revised Corporation Code), and 'partnerships and associations for private interest or purpose are governed by the provisions of this Code concerning partnerships.'",
+  "key_note": null
+ },
+ {
+  "id": "P-84",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (codal, Arts. 46-47)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Juridical persons may acquire and possess property of all kinds, as well as incur obligations and bring civil actions; but they may not bring criminal actions.",
+   "2. Upon the dissolution of corporations, institutions and other entities for public interest or purpose created by law, if nothing has been specified by law or charter on the disposition of their assets, the property and other assets shall be applied to similar purposes for the benefit of the region, province, city or municipality which during the existence of the institution derived the principal benefits from the same."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 46 provides that juridical persons may acquire and possess property of all kinds, incur obligations, and 'bring civil OR CRIMINAL actions, in conformity with the laws and regulations of their organization.' No. 2 is TRUE, being the rule of Art. 47 for the dissolution of public-interest entities under Art. 44(2) when neither the law nor the charter provides for disposition of the assets.",
+  "key_note": null
+ },
+ {
+  "id": "P-85",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (codal, Arts. 48-49)",
+  "type": "tf",
+  "stem": "Naturalization and the loss and reacquisition of citizenship of the Philippines are governed by the Civil Code.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 49: 'Naturalization and the loss and reacquisition of citizenship of the Philippines are governed by SPECIAL LAWS.' These include C.A. 473 (Revised Naturalization Law), R.A. 9139 (Administrative Naturalization Law of 2000), C.A. 63 (loss and reacquisition), and R.A. 9225 (Citizenship Retention and Re-acquisition Act of 2003). The enumeration of citizens in Art. 48 has been superseded by Art. IV of the 1987 Constitution.",
+  "key_note": null
+ },
+ {
+  "id": "P-86",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (codal, Arts. 50-51)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. For the exercise of civil rights and the fulfillment of civil obligations, the domicile of natural persons is the place of their actual residence.",
+   "2. When the law creating or recognizing them, or any other provision does not fix the domicile of juridical persons, the same shall be understood to be the place where their legal representation is established or where they exercise their principal functions."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. Art. 50 fixes the domicile of natural persons at the place of their HABITUAL residence, not mere actual residence. Domicile requires physical presence plus the intention to remain (animus manendi), while residence may be temporary. No. 2 is TRUE, being the text of Art. 51 on the domicile of juridical persons.",
+  "key_note": null
+ },
+ {
+  "id": "P-87",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (FC Art. 69)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. The husband shall fix the family domicile; in case of disagreement between the spouses, the decision of the husband shall prevail.",
+   "2. The court may exempt one spouse from living with the other if the latter should live abroad or there are other valid and compelling reasons for the exemption; however, such exemption shall not apply if the same is not compatible with the solidarity of the family."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE. FC Art. 69 provides that 'the husband and wife shall fix the family domicile. In case of disagreement, the COURT shall decide.' Under the old Civil Code (Art. 110), the husband fixed the residence. The Family Code made it a joint decision of the spouses, consistent with their equality. No. 2 is TRUE, being the second paragraph of FC Art. 69.",
+  "key_note": null
+ },
+ {
+  "id": "P-88",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (Art. 50; Romualdez-Marcos v. COMELEC, 1995)",
+  "type": "mcq",
+  "stem": "To effect a change of domicile, the following must concur, except:",
+  "choices": [
+   "An actual removal or an actual change of domicile",
+   "A bona fide intention of abandoning the former place of residence and establishing a new one",
+   "Definite acts which correspond with the purpose",
+   "Continuous physical presence in the new place for at least one year",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Romualdez-Marcos v. COMELEC (1995): to change domicile, there must be (1) an actual removal or actual change of domicile; (2) a bona fide intention of abandoning the former place of residence and establishing a new one; and (3) definite acts which correspond with the purpose. Without these, the domicile of origin continues. Domicile, once acquired, is retained until a new one is gained, and absence alone does not cause its loss. The Court also held that a wife does not automatically lose her domicile of origin by marriage. No minimum period of physical presence is an element of a change of domicile; the one-year residence requirement for congressional candidates is a separate constitutional qualification.",
+  "key_note": null
+ },
+ {
+  "id": "P-89",
+  "topic": "persons",
+  "origin": "new",
+  "src": "New (R.A. 6809, Secs. 1 and 4)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Under R.A. 6809, emancipation takes place by the attainment of majority, and unless otherwise provided, majority commences at the age of eighteen years.",
+   "2. Upon the effectivity of R.A. 6809, existing wills, bequests, donations, grants, insurance policies and similar instruments containing references and provisions favorable to minors shall retroact to their prejudice."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE. R.A. 6809 (approved Dec. 13, 1989), Sec. 1, amended FC Art. 234 to lower the age of majority from 21 to 18. Emancipation terminates parental authority, and the child becomes qualified and responsible for all acts of civil life, save exceptions in special laws (FC Art. 236). One such exception: parental consent to marry is still required until age 21 (FC Art. 14). No. 2 is FALSE. Sec. 4 of R.A. 6809 provides that existing wills, bequests, donations, grants, insurance policies and similar instruments containing references and provisions favorable to minors 'will NOT retroact to their prejudice.'",
+  "key_note": null
+ },
+ {
+  "id": "P-90",
+  "topic": "persons",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 - 1994 Bar; QuAMTO - 1994 Bar",
+  "type": "mcq",
+  "stem": "The complete publication of the Family Code was made on August 4, 1987. On September 4, 1987, Junior Cruz and Gemma Reyes were married before a municipal mayor. Was the marriage valid?",
+  "choices": [
+   "No, because the Family Code removed the mayor's authority to solemnize marriages",
+   "Yes, because the Family Code took effect only on August 3, 1988; at the time, municipal mayors were empowered to solemnize marriages under the Civil Code",
+   "No, because the Family Code took effect 15 days after publication",
+   "Yes, because mayors have always been authorized under the Family Code"
+  ],
+  "answer": 1,
+  "explanation": "Yes. FC Art. 257 provides that the Code 'shall take effect one year after the completion of its publication in a newspaper of general circulation.' Publication was completed on August 4, 1987, so the Family Code took effect on August 3, 1988, 1988 being a leap year. On September 4, 1987, the Civil Code of 1950 still governed, and it authorized municipal mayors to solemnize marriages. (Under the Family Code, mayors were later authorized by the Local Government Code of 1991.)",
+  "key_note": "The August 3, 1988 effectivity date follows the 365-day count. Under the calendar-year reading (Admin. Code Sec. 31; CIR v. Primetown) it would be August 4, 1988. Either way, the answer is unaffected."
+ }
+]

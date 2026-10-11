@@ -1,0 +1,7 @@
+# Drill card authoring — Uribe PFR (UP Law), midterms coverage NCC 1-51, FC 1-73
+Student drills provisions by verbatim recall. Atty. Uribe's quizzes reproduce a provision with ONE word/phrase changed (void/voidable, either/both, shall/may, any/the, periods, ages, who may file, "only", "even if pardoned", "whether in the Philippines or abroad", "without justifiable cause", "more than one year", etc.).
+
+Codal source of truth (verbatim): /home/claude/txt/16b4cd0f-00_Law_100_B29_Midterms_Reviewer_-_Provisions.txt (NCC 1-51, FC 1-54) and /home/claude/txt/33dd17bf-00_Law_100_B29_Finals_Reviewer_-_Provisions.txt (FC 26, 55-73, etc.). The reviewer HTML in /home/claude/rev/0*.html has clean codal boxes (<div class="codal">) you can copy from. Text must be the CURRENT text (RA 6809, RA 10572 Art 73, EO 227 Art 26 and 36, RA 8533 Art 39). Where B29 has an obvious typo, use the official text.
+Topic keys: laws (NCC 1-18), human (NCC 19-36), persons (NCC 37-51), req (FC 1-34 incl. 26), void (FC 35-44, 50-54 as to void), voidable (FC 45-54), ls (FC 55-67), rights (FC 68-73).
+Prioritize what Uribe tests: every period/number/age, who may file, void vs voidable, exceptions, the exact list items of Arts 7, 26, 35, 37, 38, 41, 45, 46, 47, 55, 56, 63, 64, 69, 73, NCC 2, 4, 6, 13, 15-17, 19-21, 36, 37-43, 50-51.
+Validate: python json load; check each card's codal text (with the answer filled in / the original) appears in the source text after normalizing whitespace and quotes (report any you could not match and fix them). Reply with counts per topic.

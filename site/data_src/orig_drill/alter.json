@@ -1,0 +1,1362 @@
+[
+ {
+  "id": "AL-1",
+  "topic": "laws",
+  "art": "Art. 2, NCC (as amended by E.O. 200)",
+  "original": "Laws shall take effect after fifteen days following the completion of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.",
+  "altered": "Laws shall take effect after ten days following the completion of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.",
+  "why": "The default period is fifteen days. Tanada v. Tuvera: the 'unless otherwise provided' clause may change the period, but publication itself can never be dispensed with."
+ },
+ {
+  "id": "AL-2",
+  "topic": "laws",
+  "art": "Art. 2, NCC (as amended by E.O. 200)",
+  "original": "Laws shall take effect after fifteen days following the completion of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.",
+  "altered": "Laws shall take effect after fifteen days following the date of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.",
+  "why": "The fifteen days run from the COMPLETION of publication, not from the date of publication. When a law is published serially, count from the last installment."
+ },
+ {
+  "id": "AL-3",
+  "topic": "laws",
+  "art": "Art. 2, NCC (as amended by E.O. 200)",
+  "original": "Laws shall take effect after fifteen days following the completion of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.",
+  "altered": "Laws shall take effect after fifteen days following the completion of their publication either in the Official Gazette and in a newspaper of general circulation in the Philippines, unless it is otherwise provided.",
+  "why": "E.O. 200 made publication in EITHER the Official Gazette OR a newspaper of general circulation enough. Publication in both is not required."
+ },
+ {
+  "id": "AL-4",
+  "topic": "laws",
+  "art": "Art. 3, NCC",
+  "original": "Ignorance of the law excuses no one from compliance therewith.",
+  "altered": "Ignorance of the fact excuses no one from compliance therewith.",
+  "why": "Art. 3 covers ignorance of the LAW. Mistake of fact may excuse, and under Art. 526(3), a mistake on a doubtful or difficult question of law may be the basis of good faith."
+ },
+ {
+  "id": "AL-5",
+  "topic": "laws",
+  "art": "Art. 4, NCC",
+  "original": "Laws shall have no retroactive effect, unless the contrary is provided.",
+  "altered": "Laws shall have no prospective effect, unless the contrary is provided.",
+  "why": "The rule is prospectivity: no RETROACTIVE effect unless provided. Exceptions include penal laws favorable to the accused, procedural laws, curative laws, and FC 256."
+ },
+ {
+  "id": "AL-6",
+  "topic": "laws",
+  "art": "Art. 5, NCC",
+  "original": "Acts executed against the provisions of mandatory or prohibitory laws shall be void, except when the law itself authorizes their validity.",
+  "altered": "Acts executed against the provisions of mandatory or prohibitory laws shall be voidable, except when the law itself authorizes their validity.",
+  "why": "Acts against mandatory or prohibitory laws are VOID, not voidable. The only exception is when the law itself authorizes their validity."
+ },
+ {
+  "id": "AL-7",
+  "topic": "laws",
+  "art": "Art. 6, NCC",
+  "original": "Rights may be waived, unless the waiver is contrary to law, public order, public policy, morals, or good customs, or prejudicial to a third person with a right recognized by law.",
+  "altered": "Rights cannot be waived, unless the waiver is contrary to law, public order, public policy, morals, or good customs, or prejudicial to a third person with a right recognized by law.",
+  "why": "The general rule is that rights MAY be waived. The exceptions are a waiver contrary to law, public order, public policy, morals or good customs, or one prejudicial to a third person (e.g., future support, Art. 301; Art. 2035)."
+ },
+ {
+  "id": "AL-8",
+  "topic": "laws",
+  "art": "Art. 7, NCC",
+  "original": "Laws are repealed only by subsequent ones, and their violation or non-observance shall not be excused by disuse, or custom or practice to the contrary.",
+  "altered": "Laws are repealed only by subsequent ones, and their violation or non-observance shall be excused by disuse, or custom or practice to the contrary.",
+  "why": "Disuse, custom or contrary practice NEVER excuses violation of a law. Laws are repealed only by subsequent laws."
+ },
+ {
+  "id": "AL-9",
+  "topic": "laws",
+  "art": "Art. 7, NCC",
+  "original": "When the courts declare a law to be inconsistent with the Constitution, the former shall be void and the latter shall govern.",
+  "altered": "When the courts declare a law to be inconsistent with the Constitution, the former shall be voidable and the latter shall govern.",
+  "why": "A law declared inconsistent with the Constitution is VOID, and the Constitution governs."
+ },
+ {
+  "id": "AL-10",
+  "topic": "laws",
+  "art": "Art. 7, NCC",
+  "original": "Administrative or executive acts, orders and regulations shall be valid only when they are not contrary to the laws or the Constitution.",
+  "altered": "Administrative or executive acts, orders and regulations shall be valid even when they are not contrary to the laws or the Constitution.",
+  "why": "Administrative and executive issuances are valid ONLY when they are not contrary to the laws or the Constitution. They cannot amend or override a statute."
+ },
+ {
+  "id": "AL-11",
+  "topic": "laws",
+  "art": "Art. 9, NCC",
+  "original": "No judge or court shall decline to render judgment by reason of the silence, obscurity or insufficiency of the laws.",
+  "altered": "No judge or court shall decline to render judgment except by reason of the silence, obscurity or insufficiency of the laws.",
+  "why": "Silence, obscurity or insufficiency of the law is NEVER a ground to decline judgment in civil cases. Customs, analogy and general principles fill the gap. (Contrast: in criminal cases, RPC Art. 5 applies.)"
+ },
+ {
+  "id": "AL-12",
+  "topic": "laws",
+  "art": "Art. 12, NCC",
+  "original": "A custom must be proved as a fact, according to the rules of evidence.",
+  "altered": "A custom must be proved as a law, according to the rules of evidence.",
+  "why": "A custom is proved as a FACT, under the rules of evidence. Courts do not take judicial notice of it as law. It must also not be contrary to law, public order or public policy (Art. 11)."
+ },
+ {
+  "id": "AL-13",
+  "topic": "laws",
+  "art": "Art. 13, NCC",
+  "original": "When the laws speak of years, months, days or nights, it shall be understood that years are of three hundred sixty-five days each; months, of thirty days; days, of twenty-four hours; and nights from sunset to sunrise.",
+  "altered": "When the laws speak of years, months, days or nights, it shall be understood that years are of three hundred sixty-five days each; months, of thirty-one days; days, of twenty-four hours; and nights from sunset to sunrise.",
+  "why": "Under the codal text, a month is THIRTY days unless it is designated by name. (Note: Admin. Code Sec. 31 / CIR v. Primetown now treats a year as twelve calendar months.)"
+ },
+ {
+  "id": "AL-14",
+  "topic": "laws",
+  "art": "Art. 13, NCC",
+  "original": "In computing a period, the first day shall be excluded, and the last day included.",
+  "altered": "In computing a period, the first day shall be included, and the last day included.",
+  "why": "The FIRST day is EXCLUDED and the last day included. Rule 22, Sec. 1 of the Rules of Court is the same rule."
+ },
+ {
+  "id": "AL-15",
+  "topic": "laws",
+  "art": "Art. 14, NCC",
+  "original": "Penal laws and those of public security and safety shall be obligatory upon all who live or sojourn in Philippine territory, subject to the principles of public international law and to treaty stipulations.",
+  "altered": "Penal laws and those of public security and safety shcitizens be obligatory upon all who live or sojourn in Philippine territory, subject to the principles of public international law and to treaty stipulations.",
+  "why": "Territoriality: penal laws bind ALL who live or sojourn in Philippine territory, foreigners included. This is subject only to public international law and treaty stipulations."
+ },
+ {
+  "id": "AL-16",
+  "topic": "laws",
+  "art": "Art. 15, NCC",
+  "original": "Laws relating to family rights and duties, or to the status, condition and legal capacity of persons are binding upon citizens of the Philippines, even though living abroad.",
+  "altered": "Laws relating to family rights and duties, or to the status, condition and legal capacity of persons are binding upon residents of the Philippines, even though living abroad.",
+  "why": "Art. 15 is the NATIONALITY principle. Status laws follow CITIZENS, not residents or domiciliaries."
+ },
+ {
+  "id": "AL-17",
+  "topic": "laws",
+  "art": "Art. 15, NCC",
+  "original": "Laws relating to family rights and duties, or to the status, condition and legal capacity of persons are binding upon citizens of the Philippines, even though living abroad.",
+  "altered": "Laws relating to family rights and duties, or to the status, condition and legal capacity of persons are binding upon citizens of the Philippines, unless living abroad.",
+  "why": "Philippine status laws bind Filipinos EVEN THOUGH they live abroad. This is why a divorce obtained abroad by a Filipino is generally not recognized (except under FC 26(2))."
+ },
+ {
+  "id": "AL-18",
+  "topic": "laws",
+  "art": "Art. 16, NCC",
+  "original": "Real property as well as personal property is subject to the law of the country where it is situated.",
+  "altered": "Real property but not personal property is subject to the law of the country where it is situated.",
+  "why": "Lex situs governs BOTH real and personal property. For succession, however, par. 2 applies the national law of the decedent."
+ },
+ {
+  "id": "AL-19",
+  "topic": "laws",
+  "art": "Art. 16, NCC",
+  "original": "However, intestate and testamentary successions, both with respect to the order of succession and to the amount of successional rights and to the intrinsic validity of testamentary provisions, shall be regulated by the national law of the person whose succession is under consideration, whatever may be the nature of the property and regardless of the country wherein said property may be found.",
+  "altered": "However, intestate and testamentary successions, both with respect to the order of succession and to the amount of successional rights and to the intrinsic validity of testamentary provisions, shall be regulated by the domiciliary law of the person whose succession is under consideration, whatever may be the nature of the property and regardless of the country wherein said property may be found.",
+  "why": "Succession (order, amount, intrinsic validity) is governed by the NATIONAL law of the decedent, whatever the property and wherever it is located. See also Art. 1039."
+ },
+ {
+  "id": "AL-20",
+  "topic": "laws",
+  "art": "Art. 17, NCC",
+  "original": "The forms and solemnities of contracts, wills, and other public instruments shall be governed by the laws of the country in which they are executed.",
+  "altered": "The forms and solemnities of contracts, wills, and other public instruments shall be governed by the laws of the country in which they are performed.",
+  "why": "Lex loci celebrationis: extrinsic validity (forms and solemnities) follows the law of the place of EXECUTION."
+ },
+ {
+  "id": "AL-21",
+  "topic": "laws",
+  "art": "Art. 17, NCC",
+  "original": "Prohibitive laws concerning persons, their acts or property, and those which have for their object public order, public policy and good customs shall not be rendered ineffective by laws or judgments promulgated, or by determinations or conventions agreed upon in a foreign country.",
+  "altered": "Prohibitive laws concerning persons, their acts or property, and those which have for their object public order, public policy and good customs may be rendered ineffective by laws or judgments promulgated, or by determinations or conventions agreed upon in a foreign country.",
+  "why": "Our prohibitive and public-policy laws CANNOT be defeated by foreign laws, judgments or conventions. This is the public-policy exception to Arts. 15-17."
+ },
+ {
+  "id": "AL-22",
+  "topic": "laws",
+  "art": "Art. 18, NCC",
+  "original": "In matters which are governed by the Code of Commerce and special laws, their deficiency shall be supplied by the provisions of this Code.",
+  "altered": "In matters which are governed by the Code of Commerce and special laws, their deficiency shall not be supplied by the provisions of this Code.",
+  "why": "The Civil Code is SUPPLETORY to the Code of Commerce and special laws. It fills their gaps."
+ },
+ {
+  "id": "AL-23",
+  "topic": "human",
+  "art": "Art. 19, NCC",
+  "original": "Every person must, in the exercise of his rights and in the performance of his duties, act with justice, give everyone his due, and observe honesty and good faith.",
+  "altered": "Every person must, in the exercise of his rights and in the performance of his duties, act with justice, give everyone his due, and observe honesty and due diligence.",
+  "why": "Art. 19 (abuse of rights) requires honesty and GOOD FAITH. Its elements are a legal right or duty, exercised in bad faith, for the sole intent of prejudicing another."
+ },
+ {
+  "id": "AL-24",
+  "topic": "human",
+  "art": "Art. 20, NCC",
+  "original": "Every person who, contrary to law, wilfully or negligently causes damage to another, shall indemnify the latter for the same.",
+  "altered": "Every person who, contrary to law, wilfully causes damage to another, shall indemnify the latter for the same.",
+  "why": "Art. 20 covers damage caused contrary to law, whether WILFULLY OR NEGLIGENTLY. Art. 21, by contrast, requires a wilful act."
+ },
+ {
+  "id": "AL-25",
+  "topic": "human",
+  "art": "Art. 21, NCC",
+  "original": "Any person who wilfully causes loss or injury to another in a manner that is contrary to morals, good customs or public policy shall compensate the latter for the damage.",
+  "altered": "Any person who negligently causes loss or injury to another in a manner that is contrary to morals, good customs or public policy shall compensate the latter for the damage.",
+  "why": "Art. 21 requires a WILFUL act, contrary to morals, good customs or public policy, even if not contrary to law (e.g., breach of promise to marry plus a wilful wrong). Negligence alone falls under Art. 20 or 2176."
+ },
+ {
+  "id": "AL-26",
+  "topic": "human",
+  "art": "Art. 22, NCC",
+  "original": "Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter without just or legal ground, shall return the same to him.",
+  "altered": "Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter with just or legal ground, shall return the same to him.",
+  "why": "Unjust enrichment (accion in rem verso) requires acquisition WITHOUT just or legal ground."
+ },
+ {
+  "id": "AL-27",
+  "topic": "human",
+  "art": "Art. 25, NCC",
+  "original": "Thoughtless extravagance in expenses for pleasure or display during a period of acute public want or emergency may be stopped by order of the courts at the instance of any government or private charitable institution.",
+  "altered": "Thoughtless extravagance in expenses for pleasure or display during a period of acute public want or emergency may be stopped by order of the courts at the instance of any government charitable institution.",
+  "why": "ANY government OR PRIVATE charitable institution may bring the action. Private charities are not excluded."
+ },
+ {
+  "id": "AL-28",
+  "topic": "human",
+  "art": "Art. 26, NCC",
+  "original": "Every person shall respect the dignity, personality, privacy and peace of mind of his neighbors and other persons. The following and similar acts, though they may not constitute a criminal offense, shall produce a cause of action for damages, prevention and other relief:",
+  "altered": "Every person shall respect the dignity, personality, privacy and peace of mind of his neighbors and other persons. The following and similar acts, provided these constitute a criminal offense, shall produce a cause of action for damages, prevention and other relief:",
+  "why": "Art. 26 acts give rise to a civil action EVEN IF they do not constitute a criminal offense. The list is not exclusive ('and similar acts')."
+ },
+ {
+  "id": "AL-29",
+  "topic": "human",
+  "art": "Art. 27, NCC",
+  "original": "Any person suffering material or moral loss because a public servant or employee refuses or neglects, without just cause, to perform his official duty may file an action for damages and other relief against the latter, without prejudice to any disciplinary administrative action that may be taken.",
+  "altered": "Any person suffering material or moral loss because a public servant or employee refuses or neglects to perform his official duty may file an action for damages and other relief against the latter, without prejudice to any disciplinary administrative action that may be taken.",
+  "why": "Liability under Art. 27 attaches only to a refusal or neglect WITHOUT JUST CAUSE to perform an official (ministerial) duty."
+ },
+ {
+  "id": "AL-30",
+  "topic": "human",
+  "art": "Art. 29, NCC",
+  "original": "When the accused in a criminal prosecution is acquitted on the ground that his guilt has not been proved beyond reasonable doubt, a civil action for damages for the same act or omission may be instituted. Such action requires only a preponderance of evidence.",
+  "altered": "When the accused in a criminal prosecution is acquitted on the ground that his guilt has not been proved beyond reasonable doubt, a civil action for damages for the same act or omission may be instituted. Such action requires only proof beyond reasonable doubt.",
+  "why": "After an acquittal on reasonable doubt, the civil action needs only a PREPONDERANCE OF EVIDENCE. If the acquittal is because the act did not exist, civil liability ex delicto is extinguished."
+ },
+ {
+  "id": "AL-31",
+  "topic": "human",
+  "art": "Art. 34, NCC",
+  "original": "When a member of a city or municipal police force refuses or fails to render aid or protection to any person in case of danger to life or property, such peace officer shall be primarily liable for damages, and the city or municipality shall be subsidiarily responsible therefor.",
+  "altered": "When a member of a city or municipal police force refuses or fails to render aid or protection to any person in case of danger to life or property, such peace officer shall be primarily liable for damages, and the city or municipality shall be solidarily responsible therefor.",
+  "why": "The peace officer is PRIMARILY liable, and the city or municipality is only SUBSIDIARILY responsible. This is an independent civil action proved by a preponderance of evidence."
+ },
+ {
+  "id": "AL-32",
+  "topic": "human",
+  "art": "Art. 36, NCC",
+  "original": "Pre-judicial questions, which must be decided before any criminal prosecution may be instituted or may proceed, shall be governed by rules of court which the Supreme Court shall promulgate and which shall not be in conflict with the provisions of this Code.",
+  "altered": "Pre-judicial questions, which must be decided before any civil prosecution may be instituted or may proceed, shall be governed by rules of court which the Supreme Court shall promulgate and which shall not be in conflict with the provisions of this Code.",
+  "why": "A prejudicial question arises in a CIVIL case and must be decided before the CRIMINAL case may proceed. Under Rule 111 Sec. 7, the civil action must be previously instituted and its issue must determine whether the criminal action may proceed."
+ },
+ {
+  "id": "AL-33",
+  "topic": "persons",
+  "art": "Art. 37, NCC",
+  "original": "Juridical capacity, which is the fitness to be the subject of legal relations, is inherent in every natural person and is lost only through death.",
+  "altered": "Juridical capacity, which is the fitness to be the subject of legal relations, is acquired by every natural person and is lost only through death.",
+  "why": "Juridical capacity is INHERENT and is lost only through death. It is capacity to act that is acquired and may be lost."
+ },
+ {
+  "id": "AL-34",
+  "topic": "persons",
+  "art": "Art. 37, NCC",
+  "original": "Capacity to act, which is the power to do acts with legal effect, is acquired and may be lost.",
+  "altered": "Capacity to act, which is the power to do acts with legal effect, is inherent and may be lost.",
+  "why": "Capacity to act is ACQUIRED and may be lost. Juridical capacity, by contrast, is inherent and lost only through death."
+ },
+ {
+  "id": "AL-35",
+  "topic": "persons",
+  "art": "Art. 38, NCC",
+  "original": "Minority, insanity or imbecility, the state of being a deaf-mute, prodigality and civil interdiction are mere restrictions on capacity to act, and do not exempt the incapacitated person from certain obligations, as when the latter arise from his acts or from property relations, such as easements.",
+  "altered": "Minority, insanity or imbecility, the state of being a deaf-mute, prodigality and civil interdiction are mere restrictions on juridical capacity, and do not exempt the incapacitated person from certain obligations, as when the latter arise from his acts or from property relations, such as easements.",
+  "why": "The Art. 38 circumstances restrict only CAPACITY TO ACT. Juridical capacity is never restricted, since it is lost only through death."
+ },
+ {
+  "id": "AL-36",
+  "topic": "persons",
+  "art": "Art. 38, NCC",
+  "original": "Minority, insanity or imbecility, the state of being a deaf-mute, prodigality and civil interdiction are mere restrictions on capacity to act, and do not exempt the incapacitated person from certain obligations, as when the latter arise from his acts or from property relations, such as easements.",
+  "altered": "Minority, insanity or imbecility, the state of being a deaf-mute, prodigality and civil interdiction are mere restrictions on capacity to act, and exempt the incapacitated person from certain obligations, as when the latter arise from his acts or from property relations, such as easements.",
+  "why": "These restrictions do NOT exempt the incapacitated person from obligations arising from his acts or from property relations (e.g., easements, quasi-delicts)."
+ },
+ {
+  "id": "AL-37",
+  "topic": "persons",
+  "art": "Art. 39, NCC",
+  "original": "Capacity to act is not limited on account of religious belief or political opinion.",
+  "altered": "Capacity to act is limited on account of religious belief or political opinion.",
+  "why": "Religious belief and political opinion NEVER limit capacity to act. Contrast the Art. 39 list: age, insanity, imbecility, deaf-mutism, penalty, prodigality, family relations, alienage, absence, insolvency, trusteeship."
+ },
+ {
+  "id": "AL-38",
+  "topic": "persons",
+  "art": "Art. 40, NCC",
+  "original": "Birth determines personality; but the conceived child shall be considered born for all purposes that are favorable to it, provided it be born later with the conditions specified in the following article.",
+  "altered": "Conception determines personality; but the conceived child shall be considered born for all purposes that are favorable to it, provided it be born later with the conditions specified in the following article.",
+  "why": "BIRTH determines personality. The conceived child has only a provisional personality, for favorable purposes, on condition that it is born later under Art. 41."
+ },
+ {
+  "id": "AL-39",
+  "topic": "persons",
+  "art": "Art. 41, NCC",
+  "original": "For civil purposes, the foetus is considered born if it is alive at the time it is completely delivered from the mother's womb. However, if the foetus had an intra-uterine life of less than seven months, it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.",
+  "altered": "For civil purposes, the foetus is considered born if it is alive at the time it is completely delivered from the mother's womb. However, if the foetus had an intra-uterine life of less than six months, it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.",
+  "why": "The threshold is SEVEN months of intra-uterine life. A foetus of less than seven months must survive twenty-four hours after complete delivery to be deemed born."
+ },
+ {
+  "id": "AL-40",
+  "topic": "persons",
+  "art": "Art. 41, NCC",
+  "original": "For civil purposes, the foetus is considered born if it is alive at the time it is completely delivered from the mother's womb. However, if the foetus had an intra-uterine life of less than seven months, it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.",
+  "altered": "For civil purposes, the foetus is considered born if it is alive at the time it is completely delivered from the mother's womb. However, if the foetus had an intra-uterine life of less than seven months, it is not deemed born if it dies within seventy-two hours after its complete delivery from the maternal womb.",
+  "why": "A premature foetus (less than seven months) must live more than TWENTY-FOUR hours after complete delivery. A foetus of seven months or more needs only to be alive at complete delivery."
+ },
+ {
+  "id": "AL-41",
+  "topic": "persons",
+  "art": "Art. 41, NCC",
+  "original": "For civil purposes, the foetus is considered born if it is alive at the time it is completely delivered from the mother's womb. However, if the foetus had an intra-uterine life of less than seven months, it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.",
+  "altered": "For civil purposes, the foetus is considered born if it is alive at the time it is partially delivered from the mother's womb. However, if the foetus had an intra-uterine life of less than seven months, it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.",
+  "why": "The foetus must be alive at the time it is COMPLETELY delivered (the umbilical cord is cut). Partial delivery is not enough."
+ },
+ {
+  "id": "AL-42",
+  "topic": "persons",
+  "art": "Art. 42, NCC",
+  "original": "The effect of death upon the rights and obligations of the deceased is determined by law, by contract and by will.",
+  "altered": "The effect of death upon the rights and obligations of the deceased is determined by law and by will.",
+  "why": "The effects of death are determined by LAW, by CONTRACT, and by WILL. Contract is one of the three sources (e.g., intransmissible obligations under Art. 1311)."
+ },
+ {
+  "id": "AL-43",
+  "topic": "persons",
+  "art": "Art. 43, NCC",
+  "original": "... in the absence of proof, it is presumed that they died at the same time and there shall be no transmission of rights from one to the other.",
+  "altered": "... in the absence of proof, it is presumed that they died at the same time and there shall be transmission of rights from one to the other.",
+  "why": "Survivorship under Art. 43 (persons called to succeed each other): absent proof, they are presumed to have died at the same time, with NO transmission of rights. The Rule 131 age/sex presumptions apply only for non-succession purposes."
+ },
+ {
+  "id": "AL-44",
+  "topic": "persons",
+  "art": "Art. 44(2), NCC",
+  "original": "(2) Other corporations, institutions and entities for public interest or purpose, created by law; their personality begins as soon as they have been constituted according to law;",
+  "altered": "(2) Other corporations, institutions and entities for public interest or purpose, created by contract; their personality begins as soon as they have been constituted according to law;",
+  "why": "Public-interest entities under No. 2 are CREATED BY LAW. Private corporations, partnerships and associations under No. 3 are those to which the law grants juridical personality."
+ },
+ {
+  "id": "AL-45",
+  "topic": "persons",
+  "art": "Art. 44(3), NCC",
+  "original": "(3) Corporations, partnerships and associations for private interest or purpose to which the law grants a juridical personality, separate and distinct from that of each shareholder, partner or member.",
+  "altered": "(3) Corporations, partnerships and associations for private interest or purpose to which the law grants a juridical personality, identical with that of each shareholder, partner or member.",
+  "why": "A juridical person's personality is SEPARATE AND DISTINCT from that of its shareholders, partners or members. This is the basis of the doctrine of piercing the corporate veil."
+ },
+ {
+  "id": "AL-46",
+  "topic": "persons",
+  "art": "Art. 46, NCC",
+  "original": "Juridical persons may acquire and possess property of all kinds, as well as incur obligations and bring civil or criminal actions, in conformity with the laws and regulations of their organization.",
+  "altered": "Juridical persons may acquire and possess property of all kinds, as well as incur obligations and bring civil but not criminal actions, in conformity with the laws and regulations of their organization.",
+  "why": "Juridical persons may bring civil OR criminal actions, in conformity with the laws of their organization."
+ },
+ {
+  "id": "AL-47",
+  "topic": "persons",
+  "art": "Art. 47, NCC",
+  "original": "Upon the dissolution of corporations, institutions and other entities for public interest or purpose mentioned in No. 2 of Article 44, their property and other assets shall be disposed of in pursuance of law or the charter creating them.",
+  "altered": "Upon the dissolution of corporations, institutions and other entities for public interest or purpose mentioned in No. 3 of Article 44, their property and other assets shall be disposed of in pursuance of law or the charter creating them.",
+  "why": "Art. 47 governs the dissolution of PUBLIC-interest entities (No. 2). Absent a provision, their assets go to similar purposes for the benefit of the LGU that principally benefited."
+ },
+ {
+  "id": "AL-48",
+  "topic": "persons",
+  "art": "Art. 50, NCC",
+  "original": "For the exercise of civil rights and the fulfillment of civil obligations, the domicile of natural persons is the place of their habitual residence.",
+  "altered": "For the exercise of civil rights and the fulfillment of civil obligations, the domicile of natural persons is the place of their birth.",
+  "why": "The domicile of natural persons is the place of HABITUAL RESIDENCE. Domicile of origin (birth) is only the starting point."
+ },
+ {
+  "id": "AL-49",
+  "topic": "persons",
+  "art": "Art. 50, NCC",
+  "original": "For the exercise of civil rights and the fulfillment of civil obligations, the domicile of natural persons is the place of their habitual residence.",
+  "altered": "For the exercise of civil rights and the fulfillment of civil obligations, the domicile of juridical persons is the place of their habitual residence.",
+  "why": "Art. 50 is for NATURAL persons. Under Art. 51, juridical persons are domiciled where their legal representation is established or where they exercise their principal functions."
+ },
+ {
+  "id": "AL-50",
+  "topic": "persons",
+  "art": "Art. 51, NCC",
+  "original": "When the law creating or recognizing them, or any other provision does not fix the domicile of juridical persons, the same shall be understood to be the place where their legal representation is established or where they exercise their principal functions.",
+  "altered": "When the law creating or recognizing them, or any other provision does not fix the domicile of juridical persons, the same shall be understood to be the place where their legal representation is established and where they exercise their principal functions.",
+  "why": "The two places are ALTERNATIVES: where legal representation is established OR where principal functions are exercised. They need not coincide."
+ },
+ {
+  "id": "AL-51",
+  "topic": "req",
+  "art": "Art. 1, FC",
+  "original": "Marriage is a special contract of permanent union between a man and a woman entered into in accordance with law for the establishment of conjugal and family life.",
+  "altered": "Marriage is a special contract of temporary union between a man and a woman entered into in accordance with law for the establishment of conjugal and family life.",
+  "why": "Marriage is a special contract of PERMANENT union. Its nature, consequences and incidents are fixed by law, not by stipulation."
+ },
+ {
+  "id": "AL-52",
+  "topic": "req",
+  "art": "Art. 2, FC",
+  "original": "No marriage shall be valid, unless these essential requisites are present: (1) Legal capacity of the contracting parties who must be a male and a female; and (2) Consent freely given in the presence of the solemnizing officer.",
+  "altered": "No marriage shall be valid, unless these essential requisites are present: (1) Legal capacity of the contracting parties who must be a male and a female; and (2) Consent freely given in the presence of the two witnesses.",
+  "why": "The essential requisite is consent freely given in the presence of the SOLEMNIZING OFFICER. The two witnesses of legal age belong to the formal requisite of a ceremony under Art. 3(3)."
+ },
+ {
+  "id": "AL-53",
+  "topic": "req",
+  "art": "Art. 3(3), FC",
+  "original": "(3) A marriage ceremony which takes place with the appearance of the contracting parties before the solemnizing officer and their personal declaration that they take each other as husband and wife in the presence of not less than two witnesses of legal age.",
+  "altered": "(3) A marriage ceremony which takes place with the appearance of the contracting parties before the solemnizing officer and their written declaration that they take each other as husband and wife in the presence of not less than two witnesses of legal age.",
+  "why": "The ceremony requires a PERSONAL declaration before the solemnizer. No form is prescribed (Art. 6), and there is no proxy marriage."
+ },
+ {
+  "id": "AL-54",
+  "topic": "req",
+  "art": "Art. 3(3), FC",
+  "original": "(3) A marriage ceremony which takes place with the appearance of the contracting parties before the solemnizing officer and their personal declaration that they take each other as husband and wife in the presence of not less than two witnesses of legal age.",
+  "altered": "(3) A marriage ceremony which takes place with the appearance of the contracting parties before the solemnizing officer and their personal declaration that they take each other as husband and wife in the presence of not less than two witnesses of any age.",
+  "why": "The witnesses must be at least two, and of LEGAL AGE (18)."
+ },
+ {
+  "id": "AL-55",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "original": "The absence of any of the essential or formal requisites shall render the marriage void ab initio, except as stated in Article 35 (2).",
+  "altered": "The absence of any of the essential or formal requisites shall render the marriage voidable, except as stated in Article 35 (2).",
+  "why": "ABSENCE of any essential or formal requisite makes the marriage VOID AB INITIO. A defect (essential) makes it voidable, and an irregularity (formal) does not affect validity."
+ },
+ {
+  "id": "AL-56",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "original": "The absence of any of the essential or formal requisites shall render the marriage void ab initio, except as stated in Article 35 (2).",
+  "altered": "The absence of any of the essential or formal requisites shall render the marriage void ab initio, except as stated in Article 35 (3).",
+  "why": "The only exception is Art. 35(2): a solemnizer without authority, where either or both parties believed in good faith in his authority. Lack of license under 35(3) is not excepted."
+ },
+ {
+  "id": "AL-57",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "original": "A defect in any of the essential requisites shall render the marriage voidable as provided in Article 45.",
+  "altered": "A defect in any of the formal requisites shall render the marriage voidable as provided in Article 45.",
+  "why": "A DEFECT in an ESSENTIAL requisite makes the marriage voidable. For formal requisites, absence makes it void, while mere irregularity leaves it valid."
+ },
+ {
+  "id": "AL-58",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "original": "An irregularity in the formal requisites shall not affect the validity of the marriage but the party or parties responsible for the irregularity shall be civilly, criminally and administratively liable.",
+  "altered": "An irregularity in the essential requisites shall not affect the validity of the marriage but the party or parties responsible for the irregularity shall be civilly, criminally and administratively liable.",
+  "why": "Only an irregularity in the FORMAL requisites leaves the marriage valid. A defect in an essential requisite makes it voidable."
+ },
+ {
+  "id": "AL-59",
+  "topic": "req",
+  "art": "Art. 5, FC",
+  "original": "Any male or female of the age of eighteen years or upwards not under any of the impediments mentioned in Articles 37 and 38, may contract marriage.",
+  "altered": "Any male or female of the age of twenty-one years or upwards not under any of the impediments mentioned in Articles 37 and 38, may contract marriage.",
+  "why": "The minimum age is EIGHTEEN, and below eighteen the marriage is void (Art. 35(1)). From 18 to 21, parental consent is needed (Art. 14), and its absence makes the marriage voidable (Art. 45(1))."
+ },
+ {
+  "id": "AL-60",
+  "topic": "req",
+  "art": "Art. 6, FC",
+  "original": "No prescribed form or religious rite for the solemnization of the marriage is required. It shall be necessary, however, for the contracting parties to appear personally before the solemnizing officer and declare in the presence of not less than two witnesses of legal age that they take each other as husband and wife.",
+  "altered": "A prescribed form or religious rite for the solemnization of the marriage is required. It shall be necessary, however, for the contracting parties to appear personally before the solemnizing officer and declare in the presence of not less than two witnesses of legal age that they take each other as husband and wife.",
+  "why": "NO prescribed form or religious rite is required. All that is needed is personal appearance and a declaration before the solemnizer and two witnesses of legal age."
+ },
+ {
+  "id": "AL-61",
+  "topic": "req",
+  "art": "Art. 7(1), FC",
+  "original": "(1) Any incumbent member of the judiciary within the court's jurisdiction;",
+  "altered": "(1) Any retired member of the judiciary within the court's jurisdiction;",
+  "why": "Only an INCUMBENT member of the judiciary may solemnize, and only WITHIN the court's jurisdiction (Navarro v. Domagtoy). A retired judge has no authority."
+ },
+ {
+  "id": "AL-62",
+  "topic": "req",
+  "art": "Art. 7(1), FC",
+  "original": "(1) Any incumbent member of the judiciary within the court's jurisdiction;",
+  "altered": "(1) Any incumbent member of the judiciary anywhere in Philippine territory;",
+  "why": "A judge's authority is limited to WITHIN the court's jurisdiction. Outside it, the act is an irregularity per Navarro v. Domagtoy (the judge is administratively liable)."
+ },
+ {
+  "id": "AL-63",
+  "topic": "req",
+  "art": "Art. 7(2), FC",
+  "original": "(2) Any priest, rabbi, imam, or minister of any church or religious sect duly authorized by his church or religious sect and registered with the civil registrar general, acting within the limits of the written authority granted by his church or religious sect and provided that at least one of the contracting parties belongs to the solemnizing officer's church or religious sect;",
+  "altered": "(2) Any priest, rabbi, imam, or minister of any church or religious sect duly authorized by his church or religious sect and registered with the civil registrar general, acting within the limits of the written authority granted by his church or religious sect and provided that both of the contracting parties belongs to the solemnizing officer's church or religious sect;",
+  "why": "Only AT LEAST ONE party need belong to the solemnizer's church or sect."
+ },
+ {
+  "id": "AL-64",
+  "topic": "req",
+  "art": "Art. 7(4), FC",
+  "original": "(4) Any military commander of a unit to which a chaplain is assigned, in the absence of the latter, during a military operation, likewise only in the cases mentioned in Article 32;",
+  "altered": "(4) Any military commander of a unit to which a chaplain is assigned, in the presence of the latter, during a military operation, likewise only in the cases mentioned in Article 32;",
+  "why": "A military commander may solemnize only in the ABSENCE of the chaplain, during a military operation, and only in articulo mortis (Art. 32)."
+ },
+ {
+  "id": "AL-65",
+  "topic": "req",
+  "art": "Art. 8, FC",
+  "original": "... or where both of the parties request the solemnizing officer in writing in which case the marriage may be solemnized at a house or place designated by them in a sworn statement to that effect.",
+  "altered": "... or where either of the parties request the solemnizing officer in writing in which case the marriage may be solemnized at a house or place designated by them in a sworn statement to that effect.",
+  "why": "Venue elsewhere requires a written request by BOTH parties, plus a sworn statement designating the place. Wrong venue is a mere irregularity."
+ },
+ {
+  "id": "AL-66",
+  "topic": "req",
+  "art": "Art. 9, FC",
+  "original": "A marriage license shall be issued by the local civil registrar of the city or municipality where either contracting party habitually resides, except in marriages where no license is required in accordance with Chapter 2 of this Title.",
+  "altered": "A marriage license shall be issued by the local civil registrar of the city or municipality where either contracting party was born, except in marriages where no license is required in accordance with Chapter 2 of this Title.",
+  "why": "The license is issued by the LCR where EITHER party HABITUALLY RESIDES. Issuance by the wrong LCR is a mere irregularity (Alcantara v. Alcantara)."
+ },
+ {
+  "id": "AL-67",
+  "topic": "req",
+  "art": "Art. 10, FC",
+  "original": "Marriages between Filipino citizens abroad may be solemnized by a consul-general, consul or vice-consul of the Republic of the Philippines.",
+  "altered": "Marriages between Filipinos and foreigners abroad may be solemnized by a consul-general, consul or vice-consul of the Republic of the Philippines.",
+  "why": "Consular solemnization covers only marriages BETWEEN FILIPINO CITIZENS abroad."
+ },
+ {
+  "id": "AL-68",
+  "topic": "req",
+  "art": "Art. 11, FC",
+  "original": "Where a marriage license is required, each of the contracting parties shall file separately a sworn application for such license with the proper local civil registrar which shall specify the following:",
+  "altered": "Where a marriage license is required, each of the contracting parties shall file jointly a sworn application for such license with the proper local civil registrar which shall specify the following:",
+  "why": "Each party files SEPARATELY a sworn application."
+ },
+ {
+  "id": "AL-69",
+  "topic": "req",
+  "art": "Art. 14, FC",
+  "original": "In case either or both of the contracting parties, not having been emancipated by a previous marriage, are between the ages of eighteen and twenty-one, they shall, in addition to the requirements of the preceding articles, exhibit to the local civil registrar, the consent to their marriage of their father, mother, surviving parent or guardian, or persons having legal charge of them, in the order mentioned.",
+  "altered": "In case either or both of the contracting parties, not having been emancipated by a previous marriage, are between the ages of eighteen and twenty-one, they shall, in addition to the requirements of the preceding articles, exhibit to the local civil registrar, the consent to their marriage of their father, mother, surviving parent or guardian, or persons having legal charge of them, in any order.",
+  "why": "Parental consent follows the ORDER MENTIONED: father, mother, surviving parent or guardian, then persons having legal charge. Art. 45(1) likewise says 'in that order'."
+ },
+ {
+  "id": "AL-70",
+  "topic": "req",
+  "art": "Art. 15, FC",
+  "original": "Any contracting party between the age of twenty-one and twenty-five shall be obliged to ask their parents or guardian for advice upon the intended marriage. If they do not obtain such advice, or if it be unfavorable, the marriage license shall not be issued till after three months following the completion of the publication of the application therefor.",
+  "altered": "Any contracting party between the age of twenty-one and twenty-five shall be obliged to ask their parents or guardian for advice upon the intended marriage. If they do not obtain such advice, or if it be unfavorable, the marriage license shall not be issued till after six months following the completion of the publication of the application therefor.",
+  "why": "If advice is not obtained or is unfavorable, issuance is suspended for THREE months after publication is completed. The marriage itself remains valid even if the license is issued early."
+ },
+ {
+  "id": "AL-71",
+  "topic": "req",
+  "art": "Art. 15, FC",
+  "original": "Any contracting party between the age of twenty-one and twenty-five shall be obliged to ask their parents or guardian for advice upon the intended marriage. If they do not obtain such advice, or if it be unfavorable, the marriage license shall not be issued till after three months following the completion of the publication of the application therefor.",
+  "altered": "Any contracting party between the age of twenty-one and twenty-five shall be obliged to ask their parents or guardian for consent upon the intended marriage. If they do not obtain such advice, or if it be unfavorable, the marriage license shall not be issued till after three months following the completion of the publication of the application therefor.",
+  "why": "Ages 21 to 25 need only parental ADVICE, which is not binding. CONSENT is required only for ages 18 to 21 (Art. 14)."
+ },
+ {
+  "id": "AL-72",
+  "topic": "req",
+  "art": "Art. 16, FC",
+  "original": "Failure to attach said certificates of marriage counseling shall suspend the issuance of the marriage license for a period of three months from the completion of the publication of the application. Issuance of the marriage license within the prohibited period shall subject the issuing officer to administrative sanctions but shall not affect the validity of the marriage.",
+  "altered": "Failure to attach said certificates of marriage counseling shall suspend the issuance of the marriage license for a period of three months from the completion of the publication of the application. Issuance of the marriage license within the prohibited period shall subject the issuing officer to administrative sanctions but shall affect the validity of the marriage.",
+  "why": "An early issuance of the license is only an irregularity. The officer is administratively liable, but the marriage stays VALID."
+ },
+ {
+  "id": "AL-73",
+  "topic": "req",
+  "art": "Art. 17, FC",
+  "original": "The notice shall be posted for ten consecutive days on a bulletin board outside the office of the local civil registrar located in a conspicuous place within the building and accessible to the general public.",
+  "altered": "The notice shall be posted for fifteen consecutive days on a bulletin board outside the office of the local civil registrar located in a conspicuous place within the building and accessible to the general public.",
+  "why": "The notice is posted for TEN consecutive days. (Compare: 15 days to send the certificate under Art. 23, and 30 days to send the affidavit under Art. 30.)"
+ },
+ {
+  "id": "AL-74",
+  "topic": "req",
+  "art": "Art. 18, FC",
+  "original": "In case of any impediment known to the local civil registrar or brought to his attention, he shall note down the particulars thereof and his findings thereon in the application for marriage license, but shall nonetheless issue said license after the completion of the period of publication, unless ordered otherwise by a competent court at his own instance or that of any interested party.",
+  "altered": "In case of any impediment known to the local civil registrar or brought to his attention, he shall note down the particulars thereof and his findings thereon in the application for marriage license, but shall not issue said license after the completion of the period of publication, unless ordered otherwise by a competent court at his own instance or that of any interested party.",
+  "why": "The LCR's duty is ministerial. He notes the impediment but MUST NONETHELESS issue the license, unless a competent court orders otherwise."
+ },
+ {
+  "id": "AL-75",
+  "topic": "req",
+  "art": "Art. 20, FC",
+  "original": "The license shall be valid in any part of the Philippines for a period of one hundred twenty days from the date of issue, and shall be deemed automatically canceled at the expiration of the said period if the contracting parties have not made use of it.",
+  "altered": "The license shall be valid in any part of the Philippines for a period of ninety days from the date of issue, and shall be deemed automatically canceled at the expiration of the said period if the contracting parties have not made use of it.",
+  "why": "The license is valid ANYWHERE in the Philippines for ONE HUNDRED TWENTY days from issue. A marriage on an expired license is a marriage without a license, which is void."
+ },
+ {
+  "id": "AL-76",
+  "topic": "req",
+  "art": "Art. 21, FC",
+  "original": "When either or both of the contracting parties are citizens of a foreign country, it shall be necessary for them before a marriage license can be obtained, to submit a certificate of legal capacity to contract marriage, issued by their respective diplomatic or consular officials.",
+  "altered": "When both of the contracting parties are citizens of a foreign country, it shall be necessary for them before a marriage license can be obtained, to submit a certificate of legal capacity to contract marriage, issued by their respective diplomatic or consular officials.",
+  "why": "The certificate is required when EITHER OR BOTH parties are foreigners. Stateless persons and refugees submit an affidavit instead."
+ },
+ {
+  "id": "AL-77",
+  "topic": "req",
+  "art": "Art. 23, FC",
+  "original": "It shall be the duty of the person solemnizing the marriage to furnish either of the contracting parties the original of the marriage certificate referred to in Article 6 and to send the duplicate and triplicate copies of the certificate not later than fifteen days after the marriage, to the local civil registrar of the place where the marriage was solemnized.",
+  "altered": "It shall be the duty of the person solemnizing the marriage to furnish either of the contracting parties the original of the marriage certificate referred to in Article 6 and to send the duplicate and triplicate copies of the certificate not later than thirty days after the marriage, to the local civil registrar of the place where the marriage was solemnized.",
+  "why": "The copies of the certificate are sent within FIFTEEN days. Thirty days applies to the affidavit in licenseless marriages (Art. 30)."
+ },
+ {
+  "id": "AL-78",
+  "topic": "req",
+  "art": "Art. 26, FC",
+  "original": "All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country, except those prohibited under Articles 35 (1), (4), (5) and (6), 36, 37 and 38.",
+  "altered": "All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country, except those prohibited under Articles 35 (1), (2), (4), (5) and (6), 36, 37 and 38.",
+  "why": "The exceptions are 35(1), (4), (5) and (6), 36, 37 and 38. Lack of authority (35(2)) and lack of license (35(3)) are NOT exceptions, because lex loci celebrationis governs formal requisites."
+ },
+ {
+  "id": "AL-79",
+  "topic": "req",
+  "art": "Art. 26, FC",
+  "original": "All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country, except those prohibited under Articles 35 (1), (4), (5) and (6), 36, 37 and 38.",
+  "altered": "All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country, except those prohibited under Articles 35 (1), (4), (5) and (6), 37 and 38.",
+  "why": "Art. 36 (psychological incapacity) IS among the exceptions. A foreign marriage void under Art. 36 is void here too."
+ },
+ {
+  "id": "AL-80",
+  "topic": "req",
+  "art": "Art. 26, FC (as amended by E.O. 227)",
+  "original": "Where a marriage between a Filipino citizen and a foreigner is validly celebrated and a divorce is thereafter validly obtained abroad by the alien spouse capacitating him or her to remarry, the Filipino spouse shall have capacity to remarry under Philippine law.",
+  "altered": "Where a marriage between a Filipino citizen and a foreigner is validly celebrated and a divorce is thereafter validly obtained in the Philippines by the alien spouse capacitating him or her to remarry, the Filipino spouse shall have capacity to remarry under Philippine law.",
+  "why": "The divorce must be validly obtained ABROAD. There is no divorce in the Philippines for non-Muslims. The foreign divorce and the foreign law must be proved (Garcia v. Recio)."
+ },
+ {
+  "id": "AL-81",
+  "topic": "req",
+  "art": "Art. 27, FC",
+  "original": "In case either or both of the contracting parties are at the point of death, the marriage may be solemnized without necessity of a marriage license and shall remain valid even if the ailing party subsequently survives.",
+  "altered": "In case either or both of the contracting parties are at the point of death, the marriage may be solemnized without necessity of a marriage license and shall become voidable even if the ailing party subsequently survives.",
+  "why": "An articulo mortis marriage REMAINS VALID even if the ailing party survives."
+ },
+ {
+  "id": "AL-82",
+  "topic": "req",
+  "art": "Art. 28, FC",
+  "original": "If the residence of either party is so located that there is no means of transportation to enable such party to appear personally before the local civil registrar, the marriage may be solemnized without necessity of a marriage license.",
+  "altered": "If the residence of both parties is so located that there is no means of transportation to enable such party to appear personally before the local civil registrar, the marriage may be solemnized without necessity of a marriage license.",
+  "why": "The remote-place exemption applies if EITHER party's residence lacks means of transportation."
+ },
+ {
+  "id": "AL-83",
+  "topic": "req",
+  "art": "Art. 30, FC",
+  "original": "The original of the affidavit required in the last preceding article, together with the legible copy of the marriage contract, shall be sent by the person solemnizing the marriage to the local civil registrar of the municipality where it was performed within the period of thirty days after the performance of the marriage.",
+  "altered": "The original of the affidavit required in the last preceding article, together with the legible copy of the marriage contract, shall be sent by the person solemnizing the marriage to the local civil registrar of the municipality where it was performed within the period of fifteen days after the performance of the marriage.",
+  "why": "The affidavit for licenseless marriages is sent within THIRTY days. Fifteen days applies to the copies of the certificate under Art. 23."
+ },
+ {
+  "id": "AL-84",
+  "topic": "req",
+  "art": "Art. 32, FC",
+  "original": "A military commander of a unit, who is a commissioned officer, shall likewise have authority to solemnize marriages in articulo mortis between persons within the zone of military operation, whether members of the armed forces or civilians.",
+  "altered": "A military commander of a unit, who is a commissioned officer, shall likewise have authority to solemnize marriages in articulo mortis between persons within the zone of military operation, whether members of the armed forces but not civilians.",
+  "why": "The commander may marry persons within the zone of military operation, WHETHER soldiers OR CIVILIANS."
+ },
+ {
+  "id": "AL-85",
+  "topic": "req",
+  "art": "Art. 34, FC",
+  "original": "No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for at least five years and without any legal impediment to marry each other.",
+  "altered": "No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for at least two years and without any legal impediment to marry each other.",
+  "why": "Cohabitation must be for at least FIVE years. The strict view (Niñal v. Bayadog) requires the five years to be free of impediment throughout; Uribe teaches that under the FC it is enough that there is no impediment at the time of the marriage. A false affidavit means there was no license, so the marriage is void."
+ },
+ {
+  "id": "AL-86",
+  "topic": "void",
+  "art": "Art. 35(1), FC",
+  "original": "(1) Those contracted by any party below eighteen years of age even with the consent of parents or guardians;",
+  "altered": "(1) Those contracted by any party below eighteen years of age without the consent of parents or guardians;",
+  "why": "Below eighteen, the marriage is VOID EVEN WITH parental consent. From 18 to 21 without consent, it is voidable (Art. 45(1))."
+ },
+ {
+  "id": "AL-87",
+  "topic": "void",
+  "art": "Art. 35(2), FC",
+  "original": "(2) Those solemnized by any person not legally authorized to perform marriages unless such marriages were contracted with either or both parties believing in good faith that the solemnizing officer had the legal authority to do so;",
+  "altered": "(2) Those solemnized by any person not legally authorized to perform marriages unless such marriages were contracted with both parties believing in good faith that the solemnizing officer had the legal authority to do so;",
+  "why": "The good-faith exception needs only EITHER party to believe in good faith in the solemnizer's authority."
+ },
+ {
+  "id": "AL-88",
+  "topic": "void",
+  "art": "Art. 35(3), FC",
+  "original": "(3) Those solemnized without license, except those covered by the preceding Chapter;",
+  "altered": "(3) Those solemnized without license, including those covered by the preceding Chapter;",
+  "why": "The licenseless marriages EXCEPTED are the Arts. 27-34 cases (articulo mortis, remote place, Muslims/ICCs, five-year cohabitation)."
+ },
+ {
+  "id": "AL-89",
+  "topic": "void",
+  "art": "Art. 35(4), FC",
+  "original": "(4) Those bigamous or polygamous marriages not falling under Article 41;",
+  "altered": "(4) Those bigamous or polygamous marriages not falling under Article 40;",
+  "why": "The exception is Art. 41: a subsequent marriage after a judicial declaration of presumptive death of the absent spouse."
+ },
+ {
+  "id": "AL-90",
+  "topic": "void",
+  "art": "Art. 35(5), FC",
+  "original": "(5) Those contracted through mistake of one contracting party as to the identity of the other; and",
+  "altered": "(5) Those contracted through mistake of one contracting party as to the character of the other; and",
+  "why": "Only mistake as to IDENTITY makes the marriage void. Misrepresentation as to character, health, rank, fortune or chastity is not even fraud (Art. 46, last par.)."
+ },
+ {
+  "id": "AL-91",
+  "topic": "void",
+  "art": "Art. 36, FC (as amended by E.O. 227)",
+  "original": "A marriage contracted by any party who, at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization.",
+  "altered": "A marriage contracted by any party who, at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be voidable even if such incapacity becomes manifest only after its solemnization.",
+  "why": "Psychological incapacity makes the marriage VOID, not voidable. The action does not prescribe (Art. 39)."
+ },
+ {
+  "id": "AL-92",
+  "topic": "void",
+  "art": "Art. 36, FC (as amended by E.O. 227)",
+  "original": "A marriage contracted by any party who, at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization.",
+  "altered": "A marriage contracted by any party who, after the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization.",
+  "why": "The incapacity must EXIST at the time of celebration (juridical antecedence), even though it may become manifest only later."
+ },
+ {
+  "id": "AL-93",
+  "topic": "void",
+  "art": "Art. 36, FC (as amended by E.O. 227)",
+  "original": "A marriage contracted by any party who, at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization.",
+  "altered": "A marriage contracted by any party who, at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void unless such incapacity becomes manifest only after its solemnization.",
+  "why": "The marriage is void EVEN IF the incapacity becomes manifest only after solemnization."
+ },
+ {
+  "id": "AL-94",
+  "topic": "void",
+  "art": "Art. 37(1), FC",
+  "original": "(1) Between ascendants and descendants of any degree; and",
+  "altered": "(1) Between ascendants and descendants of the first degree; and",
+  "why": "Incest in the direct line covers ascendants and descendants of ANY degree, legitimate or illegitimate."
+ },
+ {
+  "id": "AL-95",
+  "topic": "void",
+  "art": "Art. 37(2), FC",
+  "original": "(2) Between brothers and sisters, whether of the full or half blood.",
+  "altered": "(2) Between brothers and sisters, whether of the full blood.",
+  "why": "Siblings of the FULL OR HALF blood are both covered."
+ },
+ {
+  "id": "AL-96",
+  "topic": "void",
+  "art": "Art. 38(1), FC",
+  "original": "(1) Between collateral blood relatives whether legitimate or illegitimate, up to the fourth civil degree;",
+  "altered": "(1) Between collateral blood relatives whether legitimate or illegitimate, up to the third civil degree;",
+  "why": "The limit is UP TO THE FOURTH civil degree, so first cousins cannot marry. Second cousins (sixth degree) may marry."
+ },
+ {
+  "id": "AL-97",
+  "topic": "void",
+  "art": "Art. 38(2), FC",
+  "original": "(2) Between step-parents and step-children;",
+  "altered": "(2) Between step-siblings;",
+  "why": "Only step-parents and step-children are covered. Step-brothers and step-sisters MAY marry (they were prohibited under old NCC Art. 82, but not under the FC)."
+ },
+ {
+  "id": "AL-98",
+  "topic": "void",
+  "art": "Art. 38(3), FC",
+  "original": "(3) Between parents-in-law and children-in-law;",
+  "altered": "(3) Between siblings-in-law;",
+  "why": "Only parents-in-law and children-in-law are covered. Brothers- and sisters-in-law MAY marry under the FC."
+ },
+ {
+  "id": "AL-99",
+  "topic": "void",
+  "art": "Art. 38(7), FC",
+  "original": "(7) Between an adopted child and a legitimate child of the adopter;",
+  "altered": "(7) Between an adopted child and a illegitimate child of the adopter;",
+  "why": "The text covers the adopted child and a LEGITIMATE child of the adopter. An illegitimate child of the adopter is not listed."
+ },
+ {
+  "id": "AL-100",
+  "topic": "void",
+  "art": "Art. 38(9), FC",
+  "original": "(9) Between parties where one, with the intention to marry the other, killed that other person's spouse, or his or her own spouse.",
+  "altered": "(9) Between parties where one, with the intention to marry the other, injured that other person's spouse, or his or her own spouse.",
+  "why": "The impediment requires an actual KILLING with intent to marry. No conviction is required under the FC."
+ },
+ {
+  "id": "AL-101",
+  "topic": "void",
+  "art": "Art. 39, FC (as amended by E.O. 227 and RA 8533)",
+  "original": "The action or defense for the declaration of absolute nullity of a marriage shall not prescribe.",
+  "altered": "The action or defense for the declaration of absolute nullity of a marriage shall prescribe in ten years.",
+  "why": "The action or defense for nullity NEVER prescribes. RA 8533 removed the old ten-year limit for Art. 36 cases."
+ },
+ {
+  "id": "AL-102",
+  "topic": "void",
+  "art": "Art. 40, FC",
+  "original": "The absolute nullity of a previous marriage may be invoked for purposes of remarriage on the basis solely of a final judgment declaring such previous marriage void.",
+  "altered": "The absolute nullity of a previous marriage may be invoked for purposes of remarriage on the basis solely of a church decree declaring such previous marriage void.",
+  "why": "For REMARRIAGE, the nullity of the prior marriage may be invoked SOLELY on the basis of a FINAL JUDGMENT. A church annulment has no civil effect."
+ },
+ {
+  "id": "AL-103",
+  "topic": "void",
+  "art": "Art. 40, FC",
+  "original": "The absolute nullity of a previous marriage may be invoked for purposes of remarriage on the basis solely of a final judgment declaring such previous marriage void.",
+  "altered": "The absolute nullity of a previous marriage may be invoked for purposes other than remarriage on the basis solely of a final judgment declaring such previous marriage void.",
+  "why": "The final-judgment requirement applies only for purposes of REMARRIAGE. For other purposes (e.g., succession), nullity may be proved collaterally (Ninal v. Bayadog)."
+ },
+ {
+  "id": "AL-104",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "original": "A marriage contracted by any person during subsistence of a previous marriage shall be null and void, unless before the celebration of the subsequent marriage, the prior spouse had been absent for four consecutive years and the spouse present has a well-founded belief that the absent spouse was already dead.",
+  "altered": "A marriage contracted by any person during subsistence of a previous marriage shall be null and void, unless before the celebration of the subsequent marriage, the prior spouse had been absent for seven consecutive years and the spouse present has a well-founded belief that the absent spouse was already dead.",
+  "why": "For remarriage, absence must be for FOUR consecutive years, or two years if there was danger of death. The NCC 390 seven-year period applies for other purposes."
+ },
+ {
+  "id": "AL-105",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "original": "A marriage contracted by any person during subsistence of a previous marriage shall be null and void, unless before the celebration of the subsequent marriage, the prior spouse had been absent for four consecutive years and the spouse present has a well-founded belief that the absent spouse was already dead.",
+  "altered": "A marriage contracted by any person during subsistence of a previous marriage shall be null and void, unless after the celebration of the subsequent marriage, the prior spouse had been absent for four consecutive years and the spouse present has a well-founded belief that the absent spouse was already dead.",
+  "why": "The absence and the well-founded belief must exist BEFORE the celebration of the subsequent marriage. A judicial declaration of presumptive death is also required (par. 2)."
+ },
+ {
+  "id": "AL-106",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "original": "In case of disappearance where there is danger of death under the circumstances set forth in the provisions of Article 391 of the Civil Code, an absence of only two years shall be sufficient.",
+  "altered": "In case of disappearance where there is danger of death under the circumstances set forth in the provisions of Article 391 of the Civil Code, an absence of only four years shall be sufficient.",
+  "why": "With danger of death (NCC 391 circumstances), only TWO years are needed for remarriage. NCC 391 uses four years for other purposes."
+ },
+ {
+  "id": "AL-107",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "original": "For the purpose of contracting the subsequent marriage under the preceding paragraph the spouse present must institute a summary proceeding as provided in this Code for the declaration of presumptive death of the absentee, without prejudice to the effect of reappearance of the absent spouse.",
+  "altered": "For the purpose of contracting the subsequent marriage under the preceding paragraph the spouse present must institute a ordinary proceeding as provided in this Code for the declaration of presumptive death of the absentee, without prejudice to the effect of reappearance of the absent spouse.",
+  "why": "It is a SUMMARY proceeding (Art. 253), and the judgment is immediately final and executory. The remedy is certiorari, not appeal."
+ },
+ {
+  "id": "AL-108",
+  "topic": "void",
+  "art": "Art. 42, FC",
+  "original": "The subsequent marriage referred to in the preceding Article shall be automatically terminated by the recording of the affidavit of reappearance of the absent spouse, unless there is a judgment annulling the previous marriage or declaring it void ab initio.",
+  "altered": "The subsequent marriage referred to in the preceding Article shall be automatically terminated by the execution of the affidavit of reappearance of the absent spouse, unless there is a judgment annulling the previous marriage or declaring it void ab initio.",
+  "why": "Termination happens by the RECORDING of the sworn statement of reappearance in the civil registry. Mere reappearance or execution of the affidavit is not enough."
+ },
+ {
+  "id": "AL-109",
+  "topic": "void",
+  "art": "Art. 43(1), FC",
+  "original": "(1) The children of the subsequent marriage conceived prior to its termination shall be considered legitimate, and their custody and support in case of dispute shall be decided by the court in a proper proceeding;",
+  "altered": "(1) The children of the subsequent marriage conceived prior to its termination shall be considered illegitimate, and their custody and support in case of dispute shall be decided by the court in a proper proceeding;",
+  "why": "Children of the Art. 41 subsequent marriage conceived before its termination are LEGITIMATE."
+ },
+ {
+  "id": "AL-110",
+  "topic": "void",
+  "art": "Art. 43(2), FC",
+  "original": "... his or her share of the net profits of the community property or conjugal partnership property shall be forfeited in favor of the common children or, if there are none, the children of the guilty spouse by a previous marriage or in default of children, the innocent spouse;",
+  "altered": "... his or her share of the net profits of the community property or conjugal partnership property shall be forfeited in favor of the common children or, if there are none, the children of the innocent spouse by a previous marriage or in default of children, the innocent spouse;",
+  "why": "The order of forfeiture is: (1) the common children; (2) if none, the children of the GUILTY spouse by a previous marriage; (3) if none, the innocent spouse."
+ },
+ {
+  "id": "AL-111",
+  "topic": "void",
+  "art": "Art. 43(3), FC",
+  "original": "(3) Donations by reason of marriage shall remain valid, except that if the donee contracted the marriage in bad faith, such donations made to said donee are revoked by operation of law;",
+  "altered": "(3) Donations by reason of marriage shall remain valid, except that if the donee contracted the marriage in bad faith, such donations made to said donee are revoked by judicial action;",
+  "why": "Under Art. 43(3), donations to a bad-faith donee are revoked BY OPERATION OF LAW. Contrast Art. 64 (legal separation), where the innocent spouse MAY revoke."
+ },
+ {
+  "id": "AL-112",
+  "topic": "void",
+  "art": "Art. 43(4), FC",
+  "original": "(4) The innocent spouse may revoke the designation of the other spouse who acted in bad faith as beneficiary in any insurance policy, even if such designation be stipulated as irrevocable; and",
+  "altered": "(4) The innocent spouse may revoke the designation of the other spouse who acted in bad faith as beneficiary in any insurance policy, unless such designation be stipulated as irrevocable; and",
+  "why": "The innocent spouse may revoke the beneficiary designation EVEN IF it is stipulated as irrevocable. This is not automatic; it is the innocent spouse's option."
+ },
+ {
+  "id": "AL-113",
+  "topic": "void",
+  "art": "Art. 43(5), FC",
+  "original": "(5) The spouse who contracted the subsequent marriage in bad faith shall be disqualified to inherit from the innocent spouse by testate and intestate succession.",
+  "altered": "(5) The spouse who contracted the subsequent marriage in bad faith shall be disqualified to inherit from the innocent spouse by intestate succession.",
+  "why": "Under Art. 43(5), the bad-faith spouse is barred from BOTH testate and intestate succession. Contrast Art. 63(4) (legal separation): intestate only, with provisions in the will revoked by law."
+ },
+ {
+  "id": "AL-114",
+  "topic": "void",
+  "art": "Art. 44, FC",
+  "original": "If both spouses of the subsequent marriage acted in bad faith, said marriage shall be void ab initio and all donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law.",
+  "altered": "If either spouse of the subsequent marriage acted in bad faith, said marriage shall be void ab initio and all donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law.",
+  "why": "Art. 44 applies only if BOTH spouses acted in bad faith. If only one did, Art. 43 governs and the marriage was valid until terminated."
+ },
+ {
+  "id": "AL-115",
+  "topic": "void",
+  "art": "Art. 44, FC",
+  "original": "If both spouses of the subsequent marriage acted in bad faith, said marriage shall be void ab initio and all donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law.",
+  "altered": "If both spouses of the subsequent marriage acted in bad faith, said marriage shall be voidable and all donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law.",
+  "why": "If both spouses are in bad faith, the subsequent marriage is VOID AB INITIO, and donations and testamentary dispositions in each other's favor are revoked by operation of law."
+ },
+ {
+  "id": "AL-116",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "original": "A marriage may be annulled for any of the following causes, existing at the time of the marriage:",
+  "altered": "A marriage may be annulled for any of the following causes, existing after the marriage:",
+  "why": "Every Art. 45 ground must EXIST AT THE TIME OF THE MARRIAGE. Supervening causes are not grounds for annulment."
+ },
+ {
+  "id": "AL-117",
+  "topic": "voidable",
+  "art": "Art. 45(1), FC",
+  "original": "... unless after attaining the age of twenty-one, such party freely cohabited with the other and both lived together as husband and wife;",
+  "altered": "... unless before attaining the age of twenty-one, such party freely cohabited with the other and both lived together as husband and wife;",
+  "why": "Ratification happens through free cohabitation AFTER attaining twenty-one. Cohabitation before 21 does not ratify."
+ },
+ {
+  "id": "AL-118",
+  "topic": "voidable",
+  "art": "Art. 45(2), FC",
+  "original": "(2) That either party was of unsound mind, unless such party after coming to reason, freely cohabited with the other as husband and wife;",
+  "altered": "(2) That either party was of unsound mind, unless such party while of unsound mind, freely cohabited with the other as husband and wife;",
+  "why": "Ratification needs free cohabitation AFTER COMING TO REASON."
+ },
+ {
+  "id": "AL-119",
+  "topic": "voidable",
+  "art": "Art. 45(3), FC",
+  "original": "(3) That the consent of either party was obtained by fraud, unless such party afterwards, with full knowledge of the facts constituting the fraud, freely cohabited with the other as husband and wife;",
+  "altered": "(3) That the consent of either party was obtained by fraud, unless such party afterwards, without knowledge of the facts constituting the fraud, freely cohabited with the other as husband and wife;",
+  "why": "Fraud is ratified only by cohabitation WITH FULL KNOWLEDGE of the facts constituting the fraud."
+ },
+ {
+  "id": "AL-120",
+  "topic": "voidable",
+  "art": "Art. 45(4), FC",
+  "original": "(4) That the consent of either party was obtained by force, intimidation or undue influence, unless the same having disappeared or ceased, such party thereafter freely cohabited with the other as husband and wife;",
+  "altered": "(4) That the consent of either party was obtained by force, intimidation or undue influence, unless the same still continuing, such party thereafter freely cohabited with the other as husband and wife;",
+  "why": "Force or intimidation is ratified only by cohabitation AFTER it has disappeared or ceased."
+ },
+ {
+  "id": "AL-121",
+  "topic": "voidable",
+  "art": "Art. 45(5), FC",
+  "original": "(5) That either party was physically incapable of consummating the marriage with the other, and such incapacity continues and appears to be incurable; or",
+  "altered": "(5) That either party was physically incapable of consummating the marriage with the other, and such incapacity continues and appears to be curable; or",
+  "why": "Impotence must exist at the time of the marriage, continue, and APPEAR INCURABLE. Along with STD (No. 6), it is a ground that cannot be ratified by cohabitation."
+ },
+ {
+  "id": "AL-122",
+  "topic": "voidable",
+  "art": "Art. 45(6), FC",
+  "original": "(6) That either party was afflicted with a sexually-transmissible disease found to be serious and appears to be incurable.",
+  "altered": "(6) That either party was afflicted with a sexually-transmissible disease found to be serious or appears to be incurable.",
+  "why": "Under Art. 45(6), the STD must be BOTH serious AND apparently incurable. By contrast, CONCEALMENT of any STD, regardless of its nature, is fraud under Art. 46(3)."
+ },
+ {
+  "id": "AL-123",
+  "topic": "voidable",
+  "art": "Art. 46(1), FC",
+  "original": "(1) Non-disclosure of a previous conviction by final judgment of the other party of a crime involving moral turpitude;",
+  "altered": "(1) Non-disclosure of a previous conviction by final judgment of the other party of a crime whatsoever;",
+  "why": "Only non-disclosure of a conviction by final judgment of a crime INVOLVING MORAL TURPITUDE is fraud."
+ },
+ {
+  "id": "AL-124",
+  "topic": "voidable",
+  "art": "Art. 46(2), FC",
+  "original": "(2) Concealment by the wife of the fact that at the time of the marriage, she was pregnant by a man other than her husband;",
+  "altered": "(2) Concealment by the wife of the fact that at the time of the marriage, she was pregnant by her husband;",
+  "why": "The fraud is concealing pregnancy by a man OTHER THAN her husband. Concealing pregnancy by the husband himself is not fraud (Aquino v. Delizo)."
+ },
+ {
+  "id": "AL-125",
+  "topic": "voidable",
+  "art": "Art. 46(3), FC",
+  "original": "(3) Concealment of sexually transmissible disease, regardless of its nature, existing at the time of the marriage; or",
+  "altered": "(3) Concealment of sexually transmissible disease, if serious and incurable, existing at the time of the marriage; or",
+  "why": "Under Art. 46(3), CONCEALMENT of an STD is fraud REGARDLESS OF ITS NATURE. The 'serious and incurable' requirement belongs to the separate ground in Art. 45(6)."
+ },
+ {
+  "id": "AL-126",
+  "topic": "voidable",
+  "art": "Art. 46(4), FC",
+  "original": "(4) Concealment of drug addiction, habitual alcoholism or homosexuality or lesbianism existing at the time of the marriage.",
+  "altered": "(4) Concealment of drug addiction, habitual alcoholism or homosexuality or lesbianism existing after the marriage.",
+  "why": "The condition concealed must EXIST AT THE TIME OF THE MARRIAGE. Note that in Art. 55, these are legal separation grounds even if they arise later."
+ },
+ {
+  "id": "AL-127",
+  "topic": "voidable",
+  "art": "Art. 46, FC (last par.)",
+  "original": "No other misrepresentation or deceit as to character, health, rank, fortune or chastity shall constitute such fraud as will give grounds for action for the annulment of marriage.",
+  "altered": "Any misrepresentation or deceit as to character, health, rank, fortune or chastity shall constitute such fraud as will give grounds for action for the annulment of marriage.",
+  "why": "The Art. 46 list is EXCLUSIVE. No other misrepresentation as to character, health, rank, fortune or chastity is fraud."
+ },
+ {
+  "id": "AL-128",
+  "topic": "voidable",
+  "art": "Art. 47(1), FC",
+  "original": "(1) For causes mentioned in number 1 of Article 45 by the party whose parent or guardian did not give his or her consent, within five years after attaining the age of twenty-one, or by the parent or guardian or person having legal charge of the minor, at any time before such party has reached the age of twenty-one;",
+  "altered": "(1) For causes mentioned in number 1 of Article 45 by the party whose parent or guardian did not give his or her consent, within two years after attaining the age of twenty-one, or by the parent or guardian or person having legal charge of the minor, at any time before such party has reached the age of twenty-one;",
+  "why": "The party may file within FIVE years after attaining 21. The parent may file any time before the party reaches 21."
+ },
+ {
+  "id": "AL-129",
+  "topic": "voidable",
+  "art": "Art. 47(2), FC",
+  "original": "... or by any relative or guardian or person having legal charge of the insane, at any time before the death of either party, or by the insane spouse during a lucid interval or after regaining sanity;",
+  "altered": "... or by any relative or guardian or person having legal charge of the insane, at any time after the death of either party, or by the insane spouse during a lucid interval or after regaining sanity;",
+  "why": "For insanity, the sane spouse (without knowledge), a relative or guardian may file at any time BEFORE the death of either party. The insane spouse may file during a lucid interval or after regaining sanity."
+ },
+ {
+  "id": "AL-130",
+  "topic": "voidable",
+  "art": "Art. 47(3), FC",
+  "original": "(3) For causes mentioned in number 3 of Articles 45, by the injured party, within five years after the discovery of the fraud;",
+  "altered": "(3) For causes mentioned in number 3 of Articles 45, by the injured party, within five years after the marriage;",
+  "why": "For fraud, the five years run from the DISCOVERY of the fraud. (Five years after the marriage applies to Nos. 5 and 6.)"
+ },
+ {
+  "id": "AL-131",
+  "topic": "voidable",
+  "art": "Art. 47(4), FC",
+  "original": "(4) For causes mentioned in number 4 of Article 45, by the injured party, within five years from the time the force, intimidation or undue influence disappeared or ceased;",
+  "altered": "(4) For causes mentioned in number 4 of Article 45, by the injured party, within five years from the time the force, intimidation or undue influence was employed;",
+  "why": "For force or intimidation, the five years run from the time it DISAPPEARED OR CEASED."
+ },
+ {
+  "id": "AL-132",
+  "topic": "voidable",
+  "art": "Art. 47(5), FC",
+  "original": "(5) For causes mentioned in number 5 and 6 of Article 45, by the injured party, within five years after the marriage.",
+  "altered": "(5) For causes mentioned in number 5 and 6 of Article 45, by the injured party, within five years after its discovery.",
+  "why": "For impotence and STD, the five years run from the MARRIAGE (celebration), not from discovery."
+ },
+ {
+  "id": "AL-133",
+  "topic": "voidable",
+  "art": "Art. 50, FC",
+  "original": "The effects provided for by paragraphs (2), (3), (4) and (5) of Article 43 and by Article 44 shall also apply in the proper cases to marriages which are declared ab initio or annulled by final judgment under Articles 40 and 45.",
+  "altered": "The effects provided for by paragraphs (1), (2), (3), (4) and (5) of Article 43 and by Article 44 shall also apply in the proper cases to marriages which are declared ab initio or annulled by final judgment under Articles 40 and 45.",
+  "why": "Only pars. (2) to (5) of Art. 43 apply. Par. (1) (children legitimate) is excluded, since the status of children is governed by Art. 54."
+ },
+ {
+  "id": "AL-134",
+  "topic": "voidable",
+  "art": "Art. 51, FC",
+  "original": "The delivery of the presumptive legitimes herein prescribed shall in no way prejudice the ultimate successional rights of the children accruing upon the death of either or both of the parents; but the value of the properties already received under the decree of annulment or absolute nullity shall be considered as advances on their legitime.",
+  "altered": "The delivery of the presumptive legitimes herein prescribed shall extinguish the ultimate successional rights of the children accruing upon the death of either or both of the parents; but the value of the properties already received under the decree of annulment or absolute nullity shall be considered as advances on their legitime.",
+  "why": "Delivery of presumptive legitimes does NOT prejudice the children's ultimate successional rights. What they receive is counted as an ADVANCE on their legitime."
+ },
+ {
+  "id": "AL-135",
+  "topic": "voidable",
+  "art": "Art. 52, FC",
+  "original": "The judgment of annulment or of absolute nullity of the marriage, the partition and distribution of the properties of the spouses and the delivery of the children's presumptive legitimes shall be recorded in the appropriate civil registry and registries of property; otherwise, the same shall not affect third persons.",
+  "altered": "The judgment of annulment or of absolute nullity of the marriage, the partition and distribution of the properties of the spouses and the delivery of the children's presumptive legitimes shall be recorded in the appropriate civil registry and registries of property; otherwise, the same shall be void.",
+  "why": "Non-recording means the judgment, partition and delivery do NOT AFFECT THIRD PERSONS. The 'null and void' consequence belongs to Art. 53 (a remarriage without compliance)."
+ },
+ {
+  "id": "AL-136",
+  "topic": "voidable",
+  "art": "Art. 53, FC",
+  "original": "Either of the former spouses may marry again after compliance with the requirements of the immediately preceding Article; otherwise, the subsequent marriage shall be null and void.",
+  "altered": "Either of the former spouses may marry again after compliance with the requirements of the immediately preceding Article; otherwise, the subsequent marriage shall be voidable.",
+  "why": "A remarriage without complying with Art. 52 (recording, partition, delivery of presumptive legitimes) is NULL AND VOID under Art. 35(6). Children of that marriage are still legitimate (Art. 54)."
+ },
+ {
+  "id": "AL-137",
+  "topic": "voidable",
+  "art": "Art. 54, FC",
+  "original": "Children conceived or born before the judgment of annulment or absolute nullity of the marriage under Article 36 has become final and executory shall be considered legitimate.",
+  "altered": "Children conceived or born before the judgment of annulment or absolute nullity of the marriage under Article 37 has become final and executory shall be considered legitimate.",
+  "why": "Only children of Art. 36 (psychological incapacity) void marriages and Art. 53 marriages are legitimate. Children of other void marriages (e.g., incestuous ones under Art. 37) are illegitimate. Children of voidable marriages are legitimate."
+ },
+ {
+  "id": "AL-138",
+  "topic": "ls",
+  "art": "Art. 55(1), FC",
+  "original": "(1) Repeated physical violence or grossly abusive conduct directed against the petitioner, a common child, or a child of the petitioner;",
+  "altered": "(1) Physical violence or grossly abusive conduct directed against the petitioner, a common child, or a child of the petitioner;",
+  "why": "Under No. 1, physical violence must be REPEATED. A single act may fall under No. 9 (attempt on life) if it applies."
+ },
+ {
+  "id": "AL-139",
+  "topic": "ls",
+  "art": "Art. 55(1), FC",
+  "original": "(1) Repeated physical violence or grossly abusive conduct directed against the petitioner, a common child, or a child of the petitioner;",
+  "altered": "(1) Repeated physical violence or grossly abusive conduct directed against the petitioner, a common child, or a child of the respondent;",
+  "why": "The victims under No. 1 are the petitioner, a common child, or a child of the PETITIONER."
+ },
+ {
+  "id": "AL-140",
+  "topic": "ls",
+  "art": "Art. 55(2), FC",
+  "original": "(2) Physical violence or moral pressure to compel the petitioner to change religious or political affiliation;",
+  "altered": "(2) Physical violence or moral pressure to compel the petitioner, a common child, to change religious or political affiliation;",
+  "why": "No. 2 protects ONLY THE PETITIONER. A common child or the petitioner's child appears only in Nos. 1 and 3."
+ },
+ {
+  "id": "AL-141",
+  "topic": "ls",
+  "art": "Art. 55(4), FC",
+  "original": "(4) Final judgment sentencing the respondent to imprisonment of more than six years, even if pardoned;",
+  "altered": "(4) Final judgment sentencing the respondent to imprisonment of more than six years;",
+  "why": "The ground exists EVEN IF the respondent is PARDONED."
+ },
+ {
+  "id": "AL-142",
+  "topic": "ls",
+  "art": "Art. 55(4), FC",
+  "original": "(4) Final judgment sentencing the respondent to imprisonment of more than six years, even if pardoned;",
+  "altered": "(4) Final judgment sentencing the respondent to imprisonment of at least six years, even if pardoned;",
+  "why": "The sentence must be MORE THAN six years by final judgment. A sentence of exactly six years is not enough."
+ },
+ {
+  "id": "AL-143",
+  "topic": "ls",
+  "art": "Art. 55(7), FC",
+  "original": "(7) Contracting by the respondent of a subsequent bigamous marriage, whether in the Philippines or abroad;",
+  "altered": "(7) Contracting by the respondent of a subsequent bigamous marriage, whether in the Philippines;",
+  "why": "A bigamous marriage is a ground WHETHER IN THE PHILIPPINES OR ABROAD."
+ },
+ {
+  "id": "AL-144",
+  "topic": "ls",
+  "art": "Art. 55(8), FC",
+  "original": "(8) Sexual infidelity or perversion;",
+  "altered": "(8) Repeated sexual infidelity or perversion;",
+  "why": "Sexual infidelity need NOT be repeated, and no criminal conviction (adultery or concubinage) is required."
+ },
+ {
+  "id": "AL-145",
+  "topic": "ls",
+  "art": "Art. 55(9), FC",
+  "original": "(9) Attempt by the respondent against the life of the petitioner; or",
+  "altered": "(9) Attempt by the respondent against the life of a common child; or",
+  "why": "No. 9 covers an attempt against the life of the PETITIONER only. No conviction is required."
+ },
+ {
+  "id": "AL-146",
+  "topic": "ls",
+  "art": "Art. 55(10), FC",
+  "original": "(10) Abandonment of petitioner by respondent without justifiable cause for more than one year.",
+  "altered": "(10) Abandonment of petitioner by respondent without justifiable cause for more than three months.",
+  "why": "Abandonment as a legal separation ground needs MORE THAN ONE YEAR. The three-month period is the Art. 101 presumption for judicial separation of property."
+ },
+ {
+  "id": "AL-147",
+  "topic": "ls",
+  "art": "Art. 55(10), FC",
+  "original": "(10) Abandonment of petitioner by respondent without justifiable cause for more than one year.",
+  "altered": "(10) Abandonment of petitioner by respondent for more than one year.",
+  "why": "Abandonment must be WITHOUT JUSTIFIABLE CAUSE."
+ },
+ {
+  "id": "AL-148",
+  "topic": "ls",
+  "art": "Art. 56(4), FC",
+  "original": "(4) Where both parties have given ground for legal separation;",
+  "altered": "(4) Where either party has given ground for legal separation;",
+  "why": "Mutual guilt (recrimination) bars the action only if BOTH parties have given ground."
+ },
+ {
+  "id": "AL-149",
+  "topic": "ls",
+  "art": "Art. 57, FC",
+  "original": "An action for legal separation shall be filed within five years from the time of the occurrence of the cause.",
+  "altered": "An action for legal separation shall be filed within ten years from the time of the occurrence of the cause.",
+  "why": "The prescriptive period is FIVE years. Prescription is a ground for denial under Art. 56(6)."
+ },
+ {
+  "id": "AL-150",
+  "topic": "ls",
+  "art": "Art. 57, FC",
+  "original": "An action for legal separation shall be filed within five years from the time of the occurrence of the cause.",
+  "altered": "An action for legal separation shall be filed within five years from the time of the discovery of the cause.",
+  "why": "The five years run from the OCCURRENCE of the cause, not its discovery (contrast Art. 47(3), fraud)."
+ },
+ {
+  "id": "AL-151",
+  "topic": "ls",
+  "art": "Art. 58, FC",
+  "original": "An action for legal separation shall in no case be tried before six months shall have elapsed since the filing of the petition.",
+  "altered": "An action for legal separation shall in no case be tried before three months shall have elapsed since the filing of the petition.",
+  "why": "The cooling-off period is SIX months from filing. It does not apply where VAWC violence is alleged (RA 9262, Sec. 19)."
+ },
+ {
+  "id": "AL-152",
+  "topic": "ls",
+  "art": "Art. 60, FC",
+  "original": "No decree of legal separation shall be based upon a stipulation of facts or a confession of judgment.",
+  "altered": "A decree of legal separation shall be based upon a stipulation of facts or a confession of judgment.",
+  "why": "NO decree may be based on a stipulation of facts or a confession of judgment. The prosecutor guards against collusion."
+ },
+ {
+  "id": "AL-153",
+  "topic": "ls",
+  "art": "Art. 61, FC",
+  "original": "After the filing of the petition for legal separation, the spouses shall be entitled to live separately from each other.",
+  "altered": "After the filing of the petition for legal separation, the spouses shall not be entitled to live separately from each other.",
+  "why": "The spouses may live separately right after the PETITION is FILED. They need not wait for the decree."
+ },
+ {
+  "id": "AL-154",
+  "topic": "ls",
+  "art": "Art. 63(1), FC",
+  "original": "(1) The spouses shall be entitled to live separately from each other, but the marriage bonds shall not be severed;",
+  "altered": "(1) The spouses shall be entitled to live separately from each other, but the marriage bonds shall be severed;",
+  "why": "Legal separation does NOT sever the marriage bond, so neither spouse may remarry."
+ },
+ {
+  "id": "AL-155",
+  "topic": "ls",
+  "art": "Art. 63(4), FC",
+  "original": "(4) The offending spouse shall be disqualified from inheriting from the innocent spouse by intestate succession. Moreover, provisions in favor of the offending spouse made in the will of the innocent spouse shall be revoked by operation of law.",
+  "altered": "(4) The offending spouse shall be disqualified from inheriting from the innocent spouse by testate and intestate succession. Moreover, provisions in favor of the offending spouse made in the will of the innocent spouse shall be revoked by operation of law.",
+  "why": "Under Art. 63(4), the disqualification is from INTESTATE succession only, while provisions in the will are revoked by law. Contrast Art. 43(5), which bars both testate and intestate succession."
+ },
+ {
+  "id": "AL-156",
+  "topic": "ls",
+  "art": "Art. 64, FC",
+  "original": "After the finality of the decree of legal separation, the innocent spouse may revoke the donations made by him or by her in favor of the offending spouse, as well as the designation of the latter as beneficiary in any insurance policy, even if such designation be stipulated as irrevocable.",
+  "altered": "After the finality of the decree of legal separation, the innocent spouse may revoke the donations made by him or by her in favor of the offending spouse, as well as the designation of the latter as beneficiary in any insurance policy, unless such designation be stipulated as irrevocable.",
+  "why": "Revocation is allowed EVEN IF the designation is stipulated as irrevocable. Revocation is optional ('may'), unlike the revocation by operation of law in Art. 43(3)."
+ },
+ {
+  "id": "AL-157",
+  "topic": "ls",
+  "art": "Art. 64, FC",
+  "original": "The action to revoke the donation under this Article must be brought within five (5) years from the time the decree of legal separation has become final.",
+  "altered": "The action to revoke the donation under this Article must be brought within one (1) year from the time the decree of legal separation has become final.",
+  "why": "The action to revoke donations must be brought within FIVE years from the FINALITY of the decree."
+ },
+ {
+  "id": "AL-158",
+  "topic": "ls",
+  "art": "Art. 65, FC",
+  "original": "If the spouses should reconcile, a corresponding joint manifestation under oath duly signed by them shall be filed with the court in the same proceeding for legal separation.",
+  "altered": "If the spouses should reconcile, a corresponding joint manifestation under oath duly signed by them shall be filed with the court in a separate proceeding for legal separation.",
+  "why": "The joint sworn manifestation of reconciliation is filed IN THE SAME proceeding."
+ },
+ {
+  "id": "AL-159",
+  "topic": "ls",
+  "art": "Art. 66(2), FC",
+  "original": "(2) The final decree of legal separation shall be set aside, but the separation of property and any forfeiture of the share of the guilty spouse already effected shall subsist, unless the spouses agree to revive their former property regime.",
+  "altered": "(2) The final decree of legal separation shall be set aside, but the separation of property and any forfeiture of the share of the guilty spouse already effected shall be restored, unless the spouses agree to revive their former property regime.",
+  "why": "After reconciliation, the separation of property and forfeiture SUBSIST unless the spouses agree to revive their regime under oath (Art. 67)."
+ },
+ {
+  "id": "AL-160",
+  "topic": "rights",
+  "art": "Art. 69, FC",
+  "original": "The husband and wife shall fix the family domicile. In case of disagreement, the court shall decide.",
+  "altered": "The husband shall fix the family domicile. In case of disagreement, the court shall decide.",
+  "why": "BOTH spouses fix the family domicile. The rule under the repealed NCC Art. 110 that the husband fixes the residence no longer applies."
+ },
+ {
+  "id": "AL-161",
+  "topic": "rights",
+  "art": "Art. 69, FC",
+  "original": "The husband and wife shall fix the family domicile. In case of disagreement, the court shall decide.",
+  "altered": "The husband and wife shall fix the family domicile. In case of disagreement, the husband shall decide.",
+  "why": "In case of disagreement, the COURT decides. Neither spouse has the final say."
+ },
+ {
+  "id": "AL-162",
+  "topic": "rights",
+  "art": "Art. 69, FC",
+  "original": "The court may exempt one spouse from living with the other if the latter should live abroad or there are other valid and compelling reasons for the exemption. However, such exemption shall not apply if the same is not compatible with the solidarity of the family.",
+  "altered": "The court may exempt one spouse from living with the other if the latter should live abroad or there are other valid and compelling reasons for the exemption. However, such exemption shall apply if the same is not compatible with the solidarity of the family.",
+  "why": "The exemption does NOT apply if it is incompatible with the solidarity of the family."
+ },
+ {
+  "id": "AL-163",
+  "topic": "rights",
+  "art": "Art. 70, FC",
+  "original": "The spouses are jointly responsible for the support of the family.",
+  "altered": "The husband is primarily responsible for the support of the family.",
+  "why": "BOTH spouses are jointly responsible. The order is: community property first, then the income or fruits of separate property, then the separate property itself."
+ },
+ {
+  "id": "AL-164",
+  "topic": "rights",
+  "art": "Art. 71, FC",
+  "original": "The management of the household shall be the right and the duty of both spouses.",
+  "altered": "The management of the household shall be the right and the duty of the wife.",
+  "why": "Household management is the right and duty of BOTH spouses."
+ },
+ {
+  "id": "AL-165",
+  "topic": "rights",
+  "art": "Art. 72, FC",
+  "original": "When one of the spouses neglects his or her duties to the conjugal union or commits acts which tend to bring danger, dishonor or injury to the other or to the family, the aggrieved party may apply to the court for relief.",
+  "altered": "When one of the spouses neglects his or her duties to the conjugal union or commits acts which tend to bring danger, dishonor or injury to the other or to the family, the aggrieved party may apply to the court for legal separation.",
+  "why": "The Art. 72 remedy is to apply to the court for RELIEF (e.g., receivership or injunction). Neglect of duties is not by itself a ground for legal separation under Art. 55."
+ },
+ {
+  "id": "AL-166",
+  "topic": "rights",
+  "art": "Art. 73, FC (as amended by RA 10572)",
+  "original": "Either spouse may exercise any legitimate profession, occupation, business or activity without the consent of the other. The latter may object only on valid, serious, and moral grounds.",
+  "altered": "Either spouse may exercise any legitimate profession, occupation, business or activity with the consent of the other. The latter may object only on valid, serious, and moral grounds.",
+  "why": "Since RA 10572 (2013), EITHER spouse may exercise a profession WITHOUT the other's consent."
+ },
+ {
+  "id": "AL-167",
+  "topic": "rights",
+  "art": "Art. 73, FC (as amended by RA 10572)",
+  "original": "Either spouse may exercise any legitimate profession, occupation, business or activity without the consent of the other. The latter may object only on valid, serious, and moral grounds.",
+  "altered": "Either spouse may exercise any legitimate profession, occupation, business or activity without the consent of the other. The latter may not object only on valid, serious, and moral grounds.",
+  "why": "The other spouse MAY object, but only on VALID, SERIOUS, AND MORAL grounds. If they disagree, the court decides."
+ },
+ {
+  "id": "AL-168",
+  "topic": "rights",
+  "art": "Art. 73(2), FC (as amended by RA 10572)",
+  "original": "If the benefit accrued prior to the objection, the resulting obligation shall be enforced against the community property. If the benefit accrued thereafter, such obligation shall be enforced against the separate property of the spouse who has not obtained consent.",
+  "altered": "If the benefit accrued prior to the objection, the resulting obligation shall be enforced against the separate property. If the benefit accrued thereafter, such obligation shall be enforced against the separate property of the spouse who has not obtained consent.",
+  "why": "If the benefit accrued BEFORE the objection, the obligation is enforced against the COMMUNITY property."
+ },
+ {
+  "id": "AL-169",
+  "topic": "rights",
+  "art": "Art. 73(2), FC (as amended by RA 10572)",
+  "original": "If the benefit accrued prior to the objection, the resulting obligation shall be enforced against the community property. If the benefit accrued thereafter, such obligation shall be enforced against the separate property of the spouse who has not obtained consent.",
+  "altered": "If the benefit accrued prior to the objection, the resulting obligation shall be enforced against the community property. If the benefit accrued thereafter, such obligation shall be enforced against the community property of the spouse who has not obtained consent.",
+  "why": "If the benefit accrued AFTER the objection, the obligation is enforced against the SEPARATE property of the spouse who has not obtained consent."
+ },
+ {
+  "id": "AL-170",
+  "topic": "rights",
+  "art": "Art. 73, FC (as amended by RA 10572)",
+  "original": "The foregoing provisions shall not prejudice the rights of creditors who acted in good faith.",
+  "altered": "The foregoing provisions shall prejudice the rights of creditors who acted in good faith.",
+  "why": "The rights of creditors in GOOD FAITH are NOT prejudiced by the spouses' disagreement."
+ }
+]

@@ -1,0 +1,8 @@
+# Verification pass — midterms reviewer section (Uribe PFR)
+You are an independent legal fact-checker. The section HTML file was written by another agent following /home/claude/rev/SPEC.md (read it for sources and format rules). Your job:
+1. Read the whole section file.
+2. Check codal quotations against the B29 provisions reviewer text (/home/claude/txt/16b4cd0f-00_Law_100_B29_Midterms_Reviewer_-_Provisions.txt; finals: /home/claude/txt/33dd17bf-00_Law_100_B29_Finals_Reviewer_-_Provisions.txt). Fix any wording/number errors.
+3. Check every legal statement, period, who-may-file rule, effect, and case holding for accuracy under current Philippine law. Remove or correct anything fabricated or doubtful (unknown case names, wrong years/GR numbers — if unsure, delete the year/GR rather than guess).
+4. Check consistency with the verified quiz bank answers in /home/claude/final/out_*.json for the same topic (grep by article number). If the reviewer contradicts a bank answer, decide which is right; fix the reviewer, or if the bank is wrong, record it in /home/claude/rev/bankfix_<slug>.txt (item id, what to change, why).
+5. Check every case listed in the syllabus (/home/claude/txt/7b489bb1-00_PFR_Syllabus_-_Uribe.txt) under this section appears; add a short case block for any missing one, using /home/claude/txt/20b6a4eb-00_0.6-Online-Uribe-Doctrines_3.txt and the B29 case repositories.
+Edit the file IN PLACE with targeted edits (keep the allowed tags/classes; keep h3 ids unique). Re-validate the HTML balances afterwards (python html.parser). Write a changelog to /home/claude/rev/verify_<slug>.txt. Reply briefly with the number and nature of corrections.

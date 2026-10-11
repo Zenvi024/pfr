@@ -1,0 +1,888 @@
+[
+ {
+  "id": "g45",
+  "topic": "voidable",
+  "title": "Voidable marriages: who may file, when, and ratification",
+  "src": "Arts. 45 and 47, FC",
+  "cols": [
+   {
+    "h": "Who may file (Art. 47)",
+    "t": "pick"
+   },
+   {
+    "h": "When to file (Art. 47)",
+    "t": "pick"
+   },
+   {
+    "h": "Ratified by free cohabitation? (Art. 45)",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "(1) No parental consent, party 18 to below 21",
+    "c": [
+     "The party whose parent or guardian did not give consent; or the parent, guardian or person having legal charge of the party",
+     "Party: within five years after attaining 21. Parent or guardian: at any time before the party reaches 21",
+     "Yes: if the party freely cohabited with the other after attaining 21"
+    ]
+   },
+   {
+    "h": "(2) Either party of unsound mind",
+    "c": [
+     "The sane spouse who had no knowledge of the other's insanity; any relative, guardian or person having legal charge of the insane; or the insane spouse during a lucid interval or after regaining sanity",
+     "At any time before the death of either party",
+     "Yes: if the insane party, after coming to reason, freely cohabited with the other"
+    ]
+   },
+   {
+    "h": "(3) Consent obtained by fraud (Art. 46)",
+    "c": [
+     "The injured party",
+     "Within five years after the discovery of the fraud",
+     "Yes: if the injured party, with full knowledge of the facts constituting the fraud, freely cohabited with the other"
+    ]
+   },
+   {
+    "h": "(4) Consent obtained by force, intimidation or undue influence",
+    "c": [
+     "The injured party",
+     "Within five years from the time the force, intimidation or undue influence disappeared or ceased",
+     "Yes: if, after the force, intimidation or undue influence disappeared or ceased, the injured party freely cohabited with the other"
+    ]
+   },
+   {
+    "h": "(5) Physical incapacity to consummate, continuing and appearing incurable",
+    "c": [
+     "The injured party",
+     "Within five years after the celebration of the marriage",
+     "No: cannot be ratified by cohabitation"
+    ]
+   },
+   {
+    "h": "(6) Sexually transmissible disease, serious and appearing incurable",
+    "c": [
+     "The injured party",
+     "Within five years after the celebration of the marriage",
+     "No: cannot be ratified by cohabitation"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gnum",
+  "topic": "mixed",
+  "title": "Numbers and periods",
+  "src": "Civil Code and Family Code",
+  "cols": [
+   {
+    "h": "Answer",
+    "t": "num"
+   }
+  ],
+  "rows": [
+   {
+    "h": "NCC 2: laws take effect after ___ days following the completion of their publication",
+    "topic": "laws",
+    "c": [
+     [
+      "15",
+      "fifteen"
+     ]
+    ]
+   },
+   {
+    "h": "NCC 13: months are of ___ days each",
+    "topic": "laws",
+    "c": [
+     [
+      "30",
+      "thirty"
+     ]
+    ]
+   },
+   {
+    "h": "NCC 13: years are of ___ days each",
+    "topic": "laws",
+    "c": [
+     [
+      "365",
+      "three hundred sixty-five",
+      "three hundred sixty five"
+     ]
+    ]
+   },
+   {
+    "h": "NCC 41: a fetus with an intra-uterine life of less than ___ months is deemed born only if it lives 24 hours after complete delivery",
+    "topic": "persons",
+    "c": [
+     [
+      "7",
+      "seven"
+     ]
+    ]
+   },
+   {
+    "h": "NCC 41: if intra-uterine life was less than seven months, the fetus must live ___ hours after its complete delivery from the maternal womb",
+    "topic": "persons",
+    "c": [
+     [
+      "24",
+      "twenty-four",
+      "twenty four"
+     ]
+    ]
+   },
+   {
+    "h": "NCC 390: absentee presumed dead for all purposes except succession after an absence of ___ years",
+    "topic": "persons",
+    "c": [
+     [
+      "7",
+      "seven"
+     ]
+    ]
+   },
+   {
+    "h": "NCC 390: absentee presumed dead for opening his succession after an absence of ___ years",
+    "topic": "persons",
+    "c": [
+     [
+      "10",
+      "ten"
+     ]
+    ]
+   },
+   {
+    "h": "NCC 390: if he disappeared after the age of seventy-five, an absence of ___ years suffices for succession",
+    "topic": "persons",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "NCC 391: persons lost in a vessel or aircraft, in war, or in danger of death are presumed dead after ___ years",
+    "topic": "persons",
+    "c": [
+     [
+      "4",
+      "four"
+     ]
+    ]
+   },
+   {
+    "h": "RA 6809: age of majority",
+    "topic": "persons",
+    "c": [
+     [
+      "18",
+      "eighteen"
+     ]
+    ]
+   },
+   {
+    "h": "FC 5: minimum age of each contracting party",
+    "topic": "req",
+    "c": [
+     [
+      "18",
+      "eighteen"
+     ]
+    ]
+   },
+   {
+    "h": "FC 14: parental consent required if either party is at least 18 but below ___",
+    "topic": "req",
+    "c": [
+     [
+      "21",
+      "twenty-one",
+      "twenty one"
+     ]
+    ]
+   },
+   {
+    "h": "FC 15: parental advice required if either party is between 21 and ___",
+    "topic": "req",
+    "c": [
+     [
+      "25",
+      "twenty-five",
+      "twenty five"
+     ]
+    ]
+   },
+   {
+    "h": "FC 15: if parental advice is refused or unfavorable, the license shall not be issued until ___ months after the completion of publication",
+    "topic": "req",
+    "c": [
+     [
+      "3",
+      "three"
+     ]
+    ]
+   },
+   {
+    "h": "FC 17: notice of the application posted for ___ consecutive days",
+    "topic": "req",
+    "c": [
+     [
+      "10",
+      "ten"
+     ]
+    ]
+   },
+   {
+    "h": "FC 20: the marriage license is valid in any part of the Philippines for ___ days from the date of issue",
+    "topic": "req",
+    "c": [
+     [
+      "120",
+      "one hundred twenty",
+      "one hundred and twenty"
+     ]
+    ]
+   },
+   {
+    "h": "FC 34: license-exempt cohabitation as husband and wife for at least ___ years",
+    "topic": "req",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "FC 38(1): collateral blood relatives are barred up to the ___ civil degree",
+    "topic": "void",
+    "c": [
+     [
+      "4th",
+      "fourth",
+      "4"
+     ]
+    ]
+   },
+   {
+    "h": "FC 41: absent spouse for ___ consecutive years (ordinary case)",
+    "topic": "void",
+    "c": [
+     [
+      "4",
+      "four"
+     ]
+    ]
+   },
+   {
+    "h": "FC 41: absence of only ___ years where there is danger of death (NCC 391 circumstances)",
+    "topic": "void",
+    "c": [
+     [
+      "2",
+      "two"
+     ]
+    ]
+   },
+   {
+    "h": "FC 47(1): the party may sue within ___ years after attaining the age of 21",
+    "topic": "voidable",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "FC 55(4): final judgment sentencing respondent to imprisonment of more than ___ years, even if pardoned",
+    "topic": "ls",
+    "c": [
+     [
+      "6",
+      "six"
+     ]
+    ]
+   },
+   {
+    "h": "FC 55(10): abandonment without justifiable cause for more than ___ year(s)",
+    "topic": "ls",
+    "c": [
+     [
+      "1",
+      "one"
+     ]
+    ]
+   },
+   {
+    "h": "FC 57: action for legal separation filed within ___ years from the occurrence of the cause",
+    "topic": "ls",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "FC 58: no trial on a petition for legal separation before ___ months from filing",
+    "topic": "ls",
+    "c": [
+     [
+      "6",
+      "six"
+     ]
+    ]
+   },
+   {
+    "h": "FC 64: action to revoke donations brought within ___ years from finality of the decree of legal separation",
+    "topic": "ls",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "FC 101: spouse who left the conjugal dwelling for ___ months is prima facie presumed to have no intention of returning",
+    "topic": "rights",
+    "c": [
+     [
+      "3",
+      "three"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gcmp",
+  "topic": "mixed",
+  "title": "Void vs. voidable vs. legal separation",
+  "src": "Arts. 35-67, FC; A.M. Nos. 02-11-10-SC and 02-11-11-SC",
+  "cols": [
+   {
+    "h": "Status before judgment",
+    "t": "pick"
+   },
+   {
+    "h": "Who may file",
+    "t": "pick"
+   },
+   {
+    "h": "Prescription",
+    "t": "pick"
+   },
+   {
+    "h": "Marriage bond after the decree",
+    "t": "pick"
+   },
+   {
+    "h": "Children conceived or born before the decree",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Declaration of absolute nullity (void marriage)",
+    "topic": "void",
+    "c": [
+     "Void from the beginning, but a judicial declaration is needed before remarrying (Art. 40)",
+     "Solely the husband or the wife (A.M. No. 02-11-10-SC), for marriages governed by the Family Code",
+     "Imprescriptible (Art. 39)",
+     "No valid bond ever existed",
+     "Illegitimate, except children of Art. 36 and Art. 53 marriages, who are legitimate (Art. 54)"
+    ]
+   },
+   {
+    "h": "Annulment (voidable marriage)",
+    "topic": "voidable",
+    "c": [
+     "Valid until annulled",
+     "Only the persons named in Art. 47 for each ground",
+     "The periods in Art. 47 for each ground",
+     "Severed; a party may remarry once the Art. 52 requirements are recorded",
+     "Legitimate if conceived or born before the judgment becomes final and executory (Art. 54)"
+    ]
+   },
+   {
+    "h": "Legal separation",
+    "topic": "ls",
+    "c": [
+     "Valid and subsisting",
+     "Only the aggrieved spouse",
+     "Within five years from the occurrence of the cause (Art. 57)",
+     "Not severed; the spouses are entitled to live separately (Art. 63(1))",
+     "Legitimate"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gsol",
+  "topic": "req",
+  "title": "Solemnizing officers and their limits",
+  "src": "Arts. 7, 10, 31, 32, FC; Local Government Code",
+  "cols": [
+   {
+    "h": "Limit on authority",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Incumbent member of the judiciary",
+    "c": [
+     "Only within the court's jurisdiction"
+    ]
+   },
+   {
+    "h": "Priest, rabbi, imam or minister of a church or religious sect",
+    "c": [
+     "Duly authorized by his church, registered with the civil registrar general, acting within the limits of his written authority, and at least one party belongs to his church"
+    ]
+   },
+   {
+    "h": "Ship captain or airplane chief",
+    "c": [
+     "Only marriages in articulo mortis between passengers or crew members, while at sea or in flight, and also during stopovers at ports of call (Art. 31)"
+    ]
+   },
+   {
+    "h": "Military commander of a unit to which a chaplain is assigned",
+    "c": [
+     "Only marriages in articulo mortis between persons within the zone of military operation, in the absence of the chaplain (Art. 32)"
+    ]
+   },
+   {
+    "h": "Consul-general, consul or vice-consul",
+    "c": [
+     "Only marriages between Filipino citizens abroad (Art. 10)"
+    ]
+   },
+   {
+    "h": "City or municipal mayor",
+    "c": [
+     "Authority restored by the Local Government Code of 1991"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gexm",
+  "topic": "req",
+  "title": "Marriages exempt from the license requirement",
+  "src": "Arts. 27-34, FC",
+  "cols": [
+   {
+    "h": "Situation",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Art. 27",
+    "c": [
+     "Either or both parties at the point of death; the marriage stays valid even if the ailing party survives"
+    ]
+   },
+   {
+    "h": "Art. 28",
+    "c": [
+     "The residence of either party has no means of transportation to enable them to appear personally before the local civil registrar"
+    ]
+   },
+   {
+    "h": "Art. 31",
+    "c": [
+     "In articulo mortis between passengers or crew members, solemnized by the ship captain or airplane pilot"
+    ]
+   },
+   {
+    "h": "Art. 32",
+    "c": [
+     "In articulo mortis between persons within the zone of military operation, solemnized by the military commander in the absence of the chaplain"
+    ]
+   },
+   {
+    "h": "Art. 33",
+    "c": [
+     "Among Muslims or members of ethnic cultural communities, performed according to their customs, rites or practices"
+    ]
+   },
+   {
+    "h": "Art. 34",
+    "c": [
+     "A man and a woman who have lived together as husband and wife for at least five years without any legal impediment to marry each other"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "g56",
+  "topic": "ls",
+  "title": "Defenses to legal separation",
+  "src": "Art. 56, FC",
+  "cols": [
+   {
+    "h": "What it means under Art. 56",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Condonation",
+    "c": [
+     "The aggrieved party has forgiven the offense or act complained of, after it was committed"
+    ]
+   },
+   {
+    "h": "Consent",
+    "c": [
+     "The aggrieved party agreed in advance to the commission of the offense or act"
+    ]
+   },
+   {
+    "h": "Connivance",
+    "c": [
+     "The parties cooperated in bringing about the commission of the offense or act"
+    ]
+   },
+   {
+    "h": "Mutual guilt (recrimination)",
+    "c": [
+     "Both parties have given ground for legal separation"
+    ]
+   },
+   {
+    "h": "Collusion",
+    "c": [
+     "The parties agreed to obtain the decree of legal separation, as by fabricating a ground"
+    ]
+   },
+   {
+    "h": "Prescription",
+    "c": [
+     "The action was not filed within five years from the occurrence of the cause"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gacp",
+  "topic": "acp",
+  "title": "ACP vs CPG: whose is it?",
+  "src": "Arts. 91–93, 109, 116–119, FC",
+  "cols": [
+   {
+    "h": "Under ACP",
+    "t": "pick"
+   },
+   {
+    "h": "Under CPG",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Land owned by a spouse at the celebration (no legitimate descendants by a former marriage)",
+    "c": [
+     "Community",
+     "Exclusive"
+    ]
+   },
+   {
+    "h": "Land inherited by a spouse during the marriage (will silent)",
+    "c": [
+     "Separate (excluded)",
+     "Exclusive"
+    ]
+   },
+   {
+    "h": "Rentals during the marriage from that inherited land",
+    "c": [
+     "Separate (excluded)",
+     "Conjugal"
+    ]
+   },
+   {
+    "h": "Rentals during the marriage from land owned at the celebration",
+    "c": [
+     "Community",
+     "Conjugal"
+    ]
+   },
+   {
+    "h": "Salary of either spouse during the marriage",
+    "c": [
+     "Community",
+     "Conjugal"
+    ]
+   },
+   {
+    "h": "Jewelry for the wife's personal and exclusive use",
+    "c": [
+     "Community",
+     "Depends on source of funds"
+    ]
+   },
+   {
+    "h": "Clothes and personal effects of one spouse",
+    "c": [
+     "Separate (excluded)",
+     "Depends on source of funds"
+    ]
+   },
+   {
+    "h": "Property brought to the marriage by a spouse with legitimate children by a former marriage",
+    "c": [
+     "Separate (excluded)",
+     "Exclusive"
+    ]
+   },
+   {
+    "h": "Car bought during the marriage with money the wife inherited before the marriage",
+    "c": [
+     "Community",
+     "Exclusive"
+    ]
+   },
+   {
+    "h": "Lottery winnings during the marriage",
+    "c": [
+     "Community",
+     "Conjugal"
+    ]
+   },
+   {
+    "h": "Interest falling due during the marriage on a spouse's premarital credit",
+    "c": [
+     "Community",
+     "Conjugal"
+    ]
+   },
+   {
+    "h": "Principal collected during the marriage on a spouse's premarital credit",
+    "c": [
+     "Community",
+     "Exclusive"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gchg",
+  "topic": "acp",
+  "title": "Charges, periods and suppletory rules: ACP vs CPG",
+  "src": "Arts. 90, 94, 103, 108, 121, 130, FC",
+  "cols": [
+   {
+    "h": "ACP",
+    "t": "pick"
+   },
+   {
+    "h": "CPG",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Suppletory rules",
+    "c": [
+     "Co-ownership (Art. 90)",
+     "Contract of partnership (Art. 108)"
+    ]
+   },
+   {
+    "h": "Preservation expenses on a spouse's separate property",
+    "c": [
+     "Only if used by the family (Art. 94(5))",
+     "Always chargeable (Art. 121(5))"
+    ]
+   },
+   {
+    "h": "Liquidation period after death, no estate proceeding",
+    "c": [
+     "One year (Art. 103)",
+     "Six months (Art. 130)"
+    ]
+   },
+   {
+    "h": "What is divided equally on liquidation",
+    "c": [
+     "Net assets (Art. 102(4))",
+     "Net profits (Art. 129(7))"
+    ]
+   },
+   {
+    "h": "Improvement on a spouse's separate property",
+    "c": [
+     "No reverse accession rule",
+     "Art. 120 test: cost + increase vs value"
+    ]
+   },
+   {
+    "h": "Disposition without the other's written consent or court authority",
+    "c": [
+     "Void; continuing offer (Art. 96)",
+     "Void; continuing offer (Art. 124)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "guni",
+  "topic": "unions",
+  "title": "Unions without marriage: Art. 147 vs Art. 148",
+  "src": "Arts. 147–148, FC; Cariño v. Cariño",
+  "cols": [
+   {
+    "h": "Art. 147",
+    "t": "pick"
+   },
+   {
+    "h": "Art. 148",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Parties",
+    "c": [
+     "Capacitated to marry each other",
+     "Not capacitated (impediment)"
+    ]
+   },
+   {
+    "h": "Wages and salaries",
+    "c": [
+     "Equal shares",
+     "Belong to the earner"
+    ]
+   },
+   {
+    "h": "Property acquired during cohabitation",
+    "c": [
+     "Presumed joint, equal shares",
+     "Only if actual joint contribution, in proportion"
+    ]
+   },
+   {
+    "h": "Care of family and household",
+    "c": [
+     "Counts as contribution",
+     "Does not count"
+    ]
+   },
+   {
+    "h": "Share of a party validly married to another",
+    "c": [
+     "Not applicable",
+     "Accrues to that marriage's ACP or CPG"
+    ]
+   },
+   {
+    "h": "Forfeiture of bad-faith party's share",
+    "c": [
+     "Common children → descendants → innocent party",
+     "Same as 147, even if both in bad faith"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gper",
+  "topic": "ms",
+  "title": "Property relations numbers",
+  "src": "Arts. 84, 96, 101, 102, 103, 130, 135, FC; RA 6809; NCC 748",
+  "cols": [
+   {
+    "h": "Number",
+    "t": "num"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Cap on donations between future spouses in the settlement (regime other than ACP): fraction of present property",
+    "c": [
+     [
+      "one-fifth",
+      "1/5",
+      "one fifth",
+      "20%"
+     ]
+    ]
+   },
+   {
+    "h": "Value of a donated movable above which writing is required (₱)",
+    "c": [
+     [
+      "5000",
+      "5,000",
+      "five thousand",
+      "P5,000",
+      "₱5,000"
+     ]
+    ]
+   },
+   {
+    "h": "Wife's recourse against the husband's prevailing decision: years from the contract implementing it",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "Absence after which a spouse is prima facie presumed to have no intention of returning: months",
+    "c": [
+     [
+      "3",
+      "three"
+     ]
+    ]
+   },
+   {
+    "h": "Liquidation of ACP after death without estate proceeding: years",
+    "c": [
+     [
+      "1",
+      "one"
+     ]
+    ]
+   },
+   {
+    "h": "Liquidation of CPG after death without estate proceeding: months",
+    "c": [
+     [
+      "6",
+      "six"
+     ]
+    ]
+   },
+   {
+    "h": "Separation in fact as a cause for judicial separation of property: at least how many years",
+    "c": [
+     [
+      "1",
+      "one"
+     ]
+    ]
+   },
+   {
+    "h": "Children below this age are deemed to have chosen the mother (conjugal dwelling)",
+    "c": [
+     [
+      "7",
+      "seven"
+     ]
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,1870 @@
+[
+ {
+  "id": "R-1",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Art. 1)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Marriage is a special contract of permanent union between a man and a woman entered into in accordance with law for the establishment of conjugal and family life.",
+   "2. The nature, consequences and incidents of marriage are governed by law and not subject to stipulation, except that marriage settlements may fix the property relations during the marriage without any limitation."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "FC Art. 1. No. 1 is the first sentence of Art. 1 verbatim, so it is true. No. 2 is false because Art. 1 allows marriage settlements to fix the property relations during the marriage only 'within the limits provided by this Code'. Marriage settlements are subject to Arts. 74-81 (e.g., they cannot be contrary to law, morals or public policy). Tolentino notes that marriage is a special contract because, unlike ordinary contracts, its nature, consequences and incidents are fixed by law and it cannot be terminated by the parties' agreement.",
+  "key_note": null
+ },
+ {
+  "id": "R-2",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2020-21 Bar",
+  "type": "mcq",
+  "stem": "A couple executes a prenuptial agreement which principally provides that their marriage shall be valid for only 5 years but that it can be renewed through mutual consent negotiated at least 6 months before its expiration. Is this contract valid?",
+  "choices": [
+   "Yes, because future spouses may stipulate on any matter in their marriage settlement.",
+   "Yes, provided the agreement is in writing and registered.",
+   "No, because marriage is a permanent union whose nature and incidents are governed by law and not subject to stipulation, except property relations.",
+   "No, because prenuptial agreements must be executed after the marriage."
+  ],
+  "answer": 2,
+  "explanation": "FC Art. 1: marriage is a special contract of PERMANENT union, and its nature, consequences and incidents are governed by law and not subject to stipulation. The only exception is that marriage settlements may fix the property relations during the marriage within the limits of the Code (see also Arts. 74-75). A stipulation that the marriage lasts only five years, renewable by mutual consent, attempts to fix the duration and dissolution of the marriage by agreement. It is void. Choice a ignores the Art. 1 exception's limit to property relations, and d is wrong because marriage settlements must be executed BEFORE the celebration of the marriage (Art. 76).",
+  "key_note": null
+ },
+ {
+  "id": "R-3",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (NCC Art. 220; Rules of Court, Rule 131, Sec. 3(aa))",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A man and a woman deporting themselves as husband and wife are conclusively presumed to have entered into a lawful contract of marriage.",
+   "2. In case of doubt, all presumptions favor the solidarity of the family; thus, every intendment of law or facts leans toward the validity of marriage and the indissolubility of the marriage bonds."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false because Rule 131, Sec. 3(aa) of the Rules of Court makes this a DISPUTABLE presumption ('satisfactory if uncontradicted, but may be contradicted and overcome by other evidence'), not a conclusive one. No. 2 is true: it reproduces Civil Code Art. 220. Together these reflect the policy of Art. XV, Sec. 2 of the Constitution and FC Art. 1 that marriage is an inviolable social institution. Courts therefore presume a marriage valid and require strong evidence to overturn it.",
+  "key_note": null
+ },
+ {
+  "id": "R-4",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (NCC Art. 220; Rule 131, Sec. 3(aa); FC Arts. 6, 22-23)",
+  "type": "mcq",
+  "stem": "A and B lived together openly for thirty years. They were known in their community as husband and wife, and the birth certificates of their children named them as married. No marriage certificate can be found. After B died, B's collateral relatives claimed that A is not B's surviving spouse. Which statement is correct?",
+  "choices": [
+   "A must produce the marriage certificate; without it, no marriage can be proved",
+   "A and B are presumed to have been validly married, but the relatives may overcome the presumption by competent evidence to the contrary",
+   "A and B are conclusively presumed to have been married, so no contrary evidence may be received",
+   "The marriage may be proved only by the testimony of the solemnizing officer",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Under Rule 131, Sec. 3(aa), a man and woman deporting themselves as husband and wife are disputably presumed to have entered into a lawful contract of marriage. Civil Code Art. 220 adds that every intendment of law leans toward the validity of marriage. The marriage certificate (FC Arts. 6, 22) is the best evidence of marriage but not the only evidence. Tolentino notes that the testimony of a party or of witnesses to the ceremony, open cohabitation, and the children's birth and baptismal records are competent proof (see also Vda. de Jacob v. CA, 1999). The presumption is disputable, not conclusive, so c is wrong, and a and d state requirements the law does not impose.",
+  "key_note": null
+ },
+ {
+  "id": "R-5",
+  "topic": "req",
+  "origin": "bar",
+  "src": "UP BOC – 2014 Bar MCQ",
+  "type": "mcq",
+  "stem": "After undergoing sex reassignment in a foreign country, Jose, who is now using the name of \"Josie,\" married his partner Ador. Is the marriage valid?",
+  "choices": [
+   "Yes, the marriage is valid for as long as it is valid in the place where it is celebrated following Article 17 of the Civil Code.",
+   "Yes, the marriage is valid if all the essential and formal elements of marriage under the Family Code are present.",
+   "No, the marriage is not valid because one essential element of marriage is absent.",
+   "No, the marriage is not valid but is voidable because \"Josie\" concealed her real identity."
+  ],
+  "answer": 2,
+  "explanation": "FC Art. 2(1) requires that the contracting parties be 'a male and a female'. In Silverio v. Republic (G.R. No. 174689, Oct. 22, 2007), the Supreme Court held that no Philippine law allows the change of the entry of sex in the birth certificate by reason of sex reassignment surgery. Sex is determined at birth. Jose therefore remains legally male, the parties are of the same sex, and an essential requisite is absent, so the marriage is void (Art. 4, par. 1). D is wrong because this is an absence of an essential requisite, not fraud under Art. 46.",
+  "key_note": null
+ },
+ {
+  "id": "R-6",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2009 Bar; UP BOC – 2009 Bar",
+  "type": "mcq",
+  "stem": "In December 2000, Michael and Anna, after obtaining a valid marriage license, went to the Office of the Mayor of Urbano, Bulacan, to get married. The Mayor was not there, but the Mayor's secretary asked Michael and Anna and their witnesses to fill up and sign the required marriage contract forms. The secretary then told them to wait and went out to look for the Mayor who was attending a wedding in a neighboring municipality. When the secretary caught up with the Mayor at the wedding reception, she showed him the marriage contract forms and told him that the couple and their witnesses were waiting in his office. The Mayor forthwith signed all the copies of the marriage contract, gave them to the secretary who returned to the Mayor's office. She then gave copies of the marriage contract to the parties and told Michael and Anna that they were already married. Thereafter, the couple lived together as husband and wife, and had three (3) sons. Is the marriage of Michael and Anna valid, voidable, or void?",
+  "choices": [
+   "Valid, because they had a valid marriage license and the Mayor signed the marriage contract.",
+   "Valid, because the absence of the Mayor is a mere irregularity in a formal requisite.",
+   "Void, because there was no marriage ceremony and no declaration of consent in the presence of the solemnizing officer.",
+   "Voidable, because their consent was obtained by mistake as to the solemnization."
+  ],
+  "answer": 2,
+  "explanation": "Void. Art. 2(2) requires consent freely given IN THE PRESENCE of the solemnizing officer. Art. 3(3) requires a marriage ceremony with the personal appearance of the parties before the solemnizing officer and their personal declaration, before at least two witnesses of legal age, that they take each other as husband and wife (see also Art. 6). Here the mayor merely signed forms away from the parties. There was no ceremony and no declaration before him, so both an essential and a formal requisite are absent, and the marriage is void ab initio under Art. 4, par. 1. Signing the marriage contract is not a substitute: the certificate is only evidence of the marriage, not a requisite. The children are illegitimate (Art. 165).",
+  "key_note": null
+ },
+ {
+  "id": "R-7",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "mcq",
+  "stem": "One of the parties was 17 years old at the time of solemnization of the marriage. The fact that one of them is less than 18, does it pertain to legal impediment or legal capacity?",
+  "choices": [
+   "Legal impediment",
+   "Legal capacity",
+   "Both legal impediment and legal capacity",
+   "Neither; it pertains only to a formal requisite"
+  ],
+  "answer": 1,
+  "explanation": "Being below 18 is a matter of LEGAL CAPACITY (Arts. 2(1), 5), not a legal impediment. Art. 5 itself distinguishes the two: 'Any male or female of the age of eighteen years or upwards not under any of the impediments mentioned in Articles 37 and 38, may contract marriage.' Legal impediments refer to Arts. 37 and 38 (incestuous and public-policy marriages). The marriage of a 17-year-old is still void, but under Art. 35(1) for lack of capacity, not because of an impediment. (Uribe recitation, Aug. 30, 2018.)",
+  "key_note": null
+ },
+ {
+  "id": "R-8",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "mcq",
+  "stem": "One of the parties was 17 years old at the time of solemnization of the marriage. Why is there a need to make a distinction between legal impediment v. capacity?",
+  "choices": [
+   "Because legal impediment is relevant for the application of Arts. 37 and 38 (e.g., legitimation of a child born to underage parents who later marry, so long as they do not fall under Arts. 37 and 38)",
+   "Because lack of capacity makes a marriage voidable while legal impediment makes it valid",
+   "Because only legal impediments may be ratified by free cohabitation",
+   "Because there is no practical difference; the terms are interchangeable"
+  ],
+  "answer": 0,
+  "explanation": "Uribe's point is that 'legal impediment' (Arts. 37-38) has independent consequences. For example, under the rules on legitimation (Art. 177, as amended by R.A. 9858), a child conceived and born outside wedlock of parents who, at the time of conception, were not disqualified by any impediment to marry each other, or were disqualified only because either or both were below 18, may be legitimated by their subsequent valid marriage. Minority is a matter of capacity, not an impediment, so it does not bar legitimation, while an Art. 37-38 impediment does. Choices b and c are wrong (lack of capacity under Art. 35(1) makes the marriage void and it cannot be ratified), and d ignores the distinction.",
+  "key_note": null
+ },
+ {
+  "id": "R-9",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Any male or female of the age of eighteen years or upwards not under any of the impediments mentioned in Articles 37 and 38 may contract marriage.",
+   "2. A marriage contracted by a party below eighteen years of age is merely voidable if the parents of such party gave their consent."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is the text of FC Art. 5, so it is true. No. 2 is false: under Art. 35(1), marriages contracted by any party below eighteen years of age are void 'even with the consent of parents or guardians'. Tolentino explains that 18 is the age of legal capacity for both sexes and that below it a party cannot give binding consent. R.A. 11596 (2021) now also declares child marriages void ab initio and penalizes those who facilitate or solemnize them. Parental consent matters only for parties 18 to below 21 (Art. 14); without it, the marriage is voidable (Art. 45(1)).",
+  "key_note": null
+ },
+ {
+  "id": "R-10",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "In 2025, A, a 17-year-old girl, was the offended party in a crime of seduction committed by B, 25. To extinguish B's criminal liability, A's parents consented to A's marriage to B, which was solemnized by a judge after a marriage license was somehow issued. The marriage is:",
+  "choices": [
+   "Valid, because the marriage of the offender with the offended party is an exception recognized by the Revised Penal Code",
+   "Void, and the persons who facilitated or solemnized it may be held criminally liable under R.A. 11596",
+   "Voidable, because A was below 18 but her parents consented",
+   "Valid, but B remains criminally liable",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Under FC Arts. 5 and 35(1), a marriage contracted by a party below 18 is void even with parental consent. Tolentino (PDF p. 150, book p. 239) submitted that a girl below eighteen who was the victim of rape, seduction, abduction or acts of lasciviousness can validly marry the offender, treating such marriages as exceptional. That view is outdated: Art. 35(1) declares void marriages of parties below 18 even with parental consent, and R.A. 11596 declares child marriages void ab initio and penalizes those who facilitate or solemnize them. (R.A. 8353 also limits the pardon-by-marriage rule in rape.) Art. 344 of the Revised Penal Code (extinction of criminal liability by marriage of the offender to the offended party) presupposes a VALID marriage. It cannot validate a marriage that the Family Code and R.A. 11596 declare void.",
+  "key_note": null
+ },
+ {
+  "id": "R-11",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2 #17 (no. inferred); Uribe samplex – Quiz #1 (scanned, handwritten key); Uribe samplex (old Quiz No. 3, answered w/ reasons); Uribe samplex (Leviathan Quiz 3)",
+  "type": "mcq",
+  "stem": "A and B were married in September 2, 1988 when both were only 17 years old. The marriage is:",
+  "choices": [
+   "Valid if with the consent of their parents.",
+   "Voidable if without parental consent",
+   "voidable if without parental advice",
+   "Void even if with parental consent",
+   "Valid if both misrepresented as to their age"
+  ],
+  "answer": 3,
+  "explanation": "The Family Code took effect on August 3, 1988, so a marriage on September 2, 1988 is governed by it. Under Arts. 2(1) and 5, the minimum age of capacity is 18 for both parties. Under Art. 35(1), a marriage contracted by any party below 18 is void 'even with the consent of parents or guardians'. Parental consent (Art. 14) and advice (Art. 15) matter only for parties 18-21 and 21-25. Misrepresentation as to age cannot supply capacity the law withholds. R.A. 11596 (2021) now also penalizes child marriages.",
+  "key_note": null
+ },
+ {
+  "id": "R-12",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 2, T/F & MCQ); Uribe samplex – Quiz #1 (scanned, handwritten key); Uribe samplex (QUIZ, FC T/F - copy 1); Uribe samplex (QUIZ, FC T/F - copy 2)",
+  "type": "tf",
+  "stem": "A marriage certificate is one of the formal requisites of marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "FC Art. 3 enumerates only three formal requisites: (1) authority of the solemnizing officer; (2) a valid marriage license, except in the cases in Chapter 2; and (3) a marriage ceremony with the personal appearance of the parties before the solemnizing officer and their personal declaration, in the presence of at least two witnesses of legal age, that they take each other as husband and wife. The marriage certificate (also called the marriage contract) is not among them. It is merely the best evidence of the marriage (Arts. 6, 22-23), and failure to sign or register it does not affect validity. (Variants of this item say 'marriage contract' or 'formal contract'; the answer is the same.)",
+  "key_note": null
+ },
+ {
+  "id": "R-13",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 3, answered w/ reasons); Uribe CivRev 2025 Quiz 2 #2; Uribe samplex – Quiz #1 (scanned, handwritten key); Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted); Uribe samplex (QUIZ, FC T/F - copy 1); Uribe samplex (QUIZ, FC T/F - copy 2); Uribe samplex (Leviathan Quiz 3); Uribe CivRev 2025 Quiz 3 #5; Uribe samplex – Midterm Exam (scanned)",
+  "type": "tf",
+  "stem": "The absence of any of the formal requisites of marriage shall render the marriage void ab initio.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "FC Art. 4, par. 1: 'The absence of any of the essential or formal requisites shall render the marriage void ab initio, EXCEPT as stated in Article 35(2).' Under Art. 35(2), a marriage solemnized by a person without authority is not void if either or both parties believed in good faith that the officer had authority. Also, the license requirement (a formal requisite) does not apply to the marriages of exceptional character in Arts. 27-34 (Art. 35(3)). Because of these exceptions the statement is not absolutely true. (Variants read 'essential or formal requisites' or 'essential and formal requisites'; they are false for the same reason.)",
+  "key_note": null
+ },
+ {
+  "id": "R-14",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 2, T/F & MCQ)",
+  "type": "tf",
+  "stem": "The absence of any of the essential requisites shall render the marriage void ab initio.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "FC Arts. 2 and 4, par. 1. The only exception in Art. 4, par. 1 (Art. 35(2), good-faith belief in the authority of the solemnizing officer) concerns a FORMAL requisite. There is no exception for the absence of an ESSENTIAL requisite: no legal capacity (e.g., same sex, below 18) or no consent at all. Such a marriage is always void ab initio. Contrast a DEFECT in an essential requisite (e.g., vitiated consent), which makes it voidable under Art. 45 (Art. 4, par. 2).",
+  "key_note": null
+ },
+ {
+  "id": "R-15",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (QUIZ, FC T/F - copy 1); Uribe samplex (QUIZ, FC T/F - copy 2)",
+  "type": "tf",
+  "stem": "A defect in any of the essential requisites shall not affect the validity of the marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "FC Art. 4, par. 2: 'A defect in any of the essential requisites shall render the marriage voidable as provided in Article 45.' Examples are lack of parental consent for a party 18-21, insanity, fraud, force, intimidation or undue influence. The statement confuses this with Art. 4, par. 3, under which it is an IRREGULARITY in the FORMAL requisites that does not affect validity.",
+  "key_note": null
+ },
+ {
+  "id": "R-16",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #1 (scanned, handwritten key); Uribe CivRev 2025 Quiz 2 #18 (no. inferred); Uribe samplex (old Quiz No. 3, answered w/ reasons); Uribe samplex (Leviathan Quiz 3)",
+  "type": "mcq",
+  "stem": "An irregularity in the formal requisites shall:",
+  "choices": [
+   "render the marriage void",
+   "render the marriage voidable",
+   "not affect the validity of the marriage",
+   "give rise to its correction"
+  ],
+  "answer": 2,
+  "explanation": "FC Art. 4, par. 3: 'An irregularity in the formal requisites shall not affect the validity of the marriage but the party or parties responsible for the irregularity shall be civilly, criminally and administratively liable.' It does not make the marriage void (that is for ABSENCE of a requisite, Art. 4, par. 1) or voidable (that is for a DEFECT in an ESSENTIAL requisite, Art. 4, par. 2). Examples include license issued in the wrong city, before the posting period ends, or without parental advice, and a judge solemnizing outside his territory.",
+  "key_note": null
+ },
+ {
+  "id": "R-17",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #2 (scanned, handwritten key)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The absence of any of the formal requisites shall render the marriage void ab initio.",
+   "2. No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for at least five years and without any legal impediment to marry each other."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false: Art. 4, par. 1 states the rule 'except as stated in Article 35(2)' (good-faith belief in the authority of the solemnizing officer), and license-exempt marriages under Arts. 27-34 do not need the license. No. 2 is true: it is the first sentence of Art. 34. Under Niñal v. Bayadog and Manzano v. Sanchez, the five-year cohabitation must be exclusive, continuous and free of legal impediment, and there must be no impediment at the time of the marriage.",
+  "key_note": null
+ },
+ {
+  "id": "R-18",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "mcq",
+  "stem": "The marriage will not be void even if:",
+  "choices": [
+   "there is no certificate of legal capacity to contract marriage of an alien who is one of the contracting parties.",
+   "there was no parental consent and one of the contracting parties was 20 years old at the time of the solemnization of the marriage.",
+   "the marriage was solemnized outside the jurisdiction of the court.",
+   "all of the above",
+   "none of the above."
+  ],
+  "answer": 3,
+  "explanation": "All three situations leave the marriage not void. (a) The certificate of legal capacity (Art. 21) is a requirement for issuing the license. Its absence is an irregularity in a formal requisite, and the alien's actual capacity is governed by his national law. (b) A party aged 18 to below 21 who marries without parental consent makes the marriage VOIDABLE, not void (Arts. 14, 45(1)). (c) A judge solemnizing outside his court's territorial jurisdiction commits only an irregularity in the formal requisite of authority (Navarro v. Domagtoy, 1996; Aranes v. Occiano, 2002). The marriage is valid but the judge is administratively liable.",
+  "key_note": null
+ },
+ {
+  "id": "R-19",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "Which of the following will render a marriage VOID?",
+  "choices": [
+   "The marriage was solemnized by a person not legally authorized to solemnize marriages, and both parties knew of his lack of authority",
+   "The marriage license was issued before the expiration of the ten-day period of posting of the notice of the application",
+   "The marriage was solemnized by a judge in a restaurant without a written request of the parties",
+   "The marriage license was issued by the local civil registrar without requiring the documentary proofs required by law",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "Under FC Arts. 4 and 35(2), the ABSENCE of authority of the solemnizing officer makes the marriage void unless either or both parties believed in good faith that he had authority. Since both parties knew he had none, the exception does not apply and the marriage is void. The others are mere irregularities in formal requisites that do not affect validity (Art. 4, par. 3): (b) early issuance of the license before the 10-day posting (Art. 17), (c) solemnization in a place other than those in Art. 8 without a written request, and (d) issuance without the documents required by Arts. 11-13. Tolentino (book p. 237) gives these as examples of irregularities.",
+  "key_note": null
+ },
+ {
+  "id": "R-20",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A marriage which preceded the issuance of the marriage license is void, and the subsequent issuance of such license cannot render it valid.",
+   "2. The person solemnizing a marriage has the duty to investigate whether the license was issued by the local civil registrar of the habitual residence of either party; his failure to do so renders the marriage voidable."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true. A valid license is a formal requisite (Art. 3(2)), and a marriage without it is void (Arts. 4, 35(3)). A license issued after the ceremony cannot retroactively validate the marriage (Tolentino, book p. 235). No. 2 is false. The law imposes no duty on the solemnizing officer to investigate whether the license was issued by the registrar of the habitual residence of either party (Art. 9). He may presume regularity, and issuance by the wrong registrar is only an irregularity that does not affect validity, so it cannot make the marriage voidable. Voidability arises only from the defects in Art. 45.",
+  "key_note": null
+ },
+ {
+  "id": "R-21",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. No prescribed form or religious rite for the solemnization of the marriage is required.",
+   "2. Marriage by proxy is valid in this jurisdiction, provided the proxy appears before the solemnizing officer in the presence of not less than two witnesses of legal age."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true: it is the first sentence of FC Art. 6. No. 2 is false. Art. 6 requires the contracting parties to 'appear personally before the solemnizing officer and declare in the presence of not less than two witnesses of legal age that they take each other as husband and wife' (see also Arts. 2(2), 3(3)). Tolentino (book pp. 240-241) concludes that a marriage by proxy is not legally possible in the Philippines. A proxy marriage celebrated ABROAD is a different question, governed by Art. 26, par. 1 (lex loci celebrationis).",
+  "key_note": null
+ },
+ {
+  "id": "R-22",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The failure of the contracting parties to sign the marriage certificate renders the marriage void for want of a formal requisite.",
+   "2. In case of a marriage in articulo mortis, when the party at the point of death is unable to sign the marriage certificate, it shall be sufficient for one of the witnesses to the marriage to write the name of said party, which fact shall be attested by the solemnizing officer."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Signing the marriage certificate is not a requisite of marriage. Validity depends on the parties' personal appearance and declaration before the solemnizing officer and two witnesses (Arts. 2(2), 3(3), 6), and the certificate is only evidence. Tolentino (book pp. 241-242) treats non-signing, and even non-execution, of the certificate as at most an irregularity. No. 2 is true: it is Art. 6, par. 2 verbatim. In a marriage in articulo mortis, if the dying party cannot sign, one of the WITNESSES writes the party's name, and the solemnizing officer attests to this fact.",
+  "key_note": null
+ },
+ {
+  "id": "R-23",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Multiple Choice compilation (scanned); Uribe samplex MCQ set (Studocu, Quiz #1 unknown source)",
+  "type": "mcq",
+  "stem": "Marriages may be solemnized by, except:",
+  "choices": [
+   "Provincial Governor, within the province;",
+   "Any priest, rabbi, imam, or minister of any church or religious sect;",
+   "Any consul or vice-consul in the case provided in Article 10.",
+   "Any incumbent member of the judiciary within the court's jurisdiction",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "FC Art. 7 authorizes: (1) any incumbent member of the judiciary within the court's jurisdiction; (2) any priest, rabbi, imam or minister of any church or religious sect, subject to the conditions in that paragraph; (3) ship captains and airplane chiefs in the case of Art. 31; (4) military commanders in the case of Art. 32; and (5) consuls-general, consuls and vice-consuls in the case of Art. 10. City and municipal mayors were later re-authorized by the Local Government Code of 1991 (Secs. 444(b)(1)(xviii), 455(b)(1)(xviii)). Provincial governors have never been given authority under the Family Code or the LGC. Choices b, c and d paraphrase Art. 7 (b omits the conditions on religious ministers, but it is offered as the codal grant).",
+  "key_note": null
+ },
+ {
+  "id": "R-24",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #16",
+  "type": "mcq",
+  "stem": "As of August 2, 1988, the following have the authority to solemnize marriage except:",
+  "choices": [
+   "priest",
+   "incumbent member of the judiciary",
+   "imam",
+   "city mayor",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "August 2, 1988 is one day BEFORE the Family Code took effect (August 3, 1988), so the Civil Code governed. Civil Code Art. 56 authorized justices and judges, priests and ministers of any denomination, and mayors of cities and municipalities to solemnize marriages. Imams could solemnize Muslim marriages under P.D. 1083 (1977). All four therefore had authority, so the answer is 'none of the above'. Compare the 1989 version of this item: from August 3, 1988 until the LGC of 1991, mayors had no authority.",
+  "key_note": null
+ },
+ {
+  "id": "R-25",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 2, answered w/ reasons); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 2, T/F & MCQ); Uribe samplex (Leviathan Quiz No. 2)",
+  "type": "mcq",
+  "stem": "As of August 2, 1989, the following have the authority to solemnize marriage except:",
+  "choices": [
+   "Priest",
+   "Incumbent member of the judiciary",
+   "Imam",
+   "City mayor",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "On August 2, 1989 the Family Code was in force. Art. 7 as originally enacted dropped mayors from the list of solemnizing officers (Tolentino, book p. 242). Their authority was restored only by the Local Government Code of 1991 (R.A. 7160, effective January 1, 1992; Secs. 444(b)(1)(xviii) and 455(b)(1)(xviii)). Priests and imams (Art. 7(2)) and incumbent members of the judiciary (Art. 7(1)) were authorized throughout. A city mayor therefore had no authority on August 2, 1989.",
+  "key_note": null
+ },
+ {
+  "id": "R-26",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "On July 30, 1988, Alex and Ben, both residents of Marikina, eloped and applied for a marriage license at the Manila City Hall. Alex was then 17. On December 5, 1988, using the marriage license issued by the civil registrar of Manila, Alex and Ben were married in Taguig by the city mayor of Makati. The only persons present were C and D, both 16 years old. Alex and Ben did not sign any marriage certificate. Assume that Alex had turned 18 (but was below 21) by December 5, 1988, that no parent ever consented, and that both Alex and Ben believed in good faith that the mayor had authority to marry them. The marriage is:",
+  "choices": [
+   "Void, because city mayors had no authority to solemnize marriages at that time",
+   "Void, because the two witnesses were below the age of majority",
+   "Voidable, because Alex married without parental consent",
+   "Valid, because all the defects are mere irregularities in the formal requisites",
+   "Void, because the license was not issued by the civil registrar of the place where either party habitually resides"
+  ],
+  "answer": 2,
+  "explanation": "Age is reckoned at the time of solemnization, not of the license application (DOJ Opinion No. 146, s. 1991), so Alex had capacity on December 5, 1988. Being 18-21 and having eloped, however, Alex lacked parental consent, which makes the marriage voidable (Arts. 14, 45(1)). From August 3, 1988 until the LGC of 1991, mayors had no authority to solemnize marriages. The marriage would therefore be void under Art. 35(2), except that both parties believed in good faith that the mayor had authority. The minor witnesses, the license from Manila where neither party resides (Art. 9), and the unsigned certificate are mere irregularities (Art. 4, par. 3; Uribe counts only three formal requisites). The only remaining defect is in an essential requisite, so the marriage is voidable.",
+  "key_note": "Converted from a class recitation that had no single answer. Uribe stressed that the result depends on Alex's age at solemnization and on the parties' good faith. Without good faith the marriage is void (Art. 35(2)). If Alex were still 17 on Dec. 5, 1988 it is void (Art. 35(1)). When grounds for both nullity and annulment exist, treat the marriage as void."
+ },
+ {
+  "id": "R-27",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – 2nd Quiz (scanned); Uribe samplex MCQ set (Studocu, Quiz #2 unknown source); Uribe samplex – True or False compilation (scanned)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A marriage solemnized in Makati City by Mayor of San Juan is void.",
+   "2. A marriage is void if solemnized by one without authority to solemnize marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is false. Mayors' authority to solemnize marriages comes from the LGC (Secs. 444(b)(1)(xviii), 455(b)(1)(xviii)). The samplex key reasons, by analogy with judges (Navarro v. Domagtoy), that a mayor solemnizing outside his territory commits at most an irregularity that does not affect validity, so the marriage is not void. Even on the stricter view that the mayor lacks authority outside his territory, the marriage would still not be void if either or both parties believed in good faith that he had authority (Art. 35(2)), so No. 1 is not absolutely true either way. No. 2 is false because of the same Art. 35(2) exception: a marriage solemnized by one without authority is not void if either or both parties believed in good faith that he had authority.",
+  "key_note": "No Supreme Court case squarely rules on a mayor solemnizing outside his territory; the 'mere irregularity' reasoning is the samplex key's analogy to Navarro v. Domagtoy. Some commentators treat it as lack of authority. Either way No. 1 is false (good-faith exception), so the answer is unchanged."
+ },
+ {
+  "id": "R-28",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 2, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 2); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 2, T/F & MCQ)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A marriage solemnized in Makati City by an RTC Judge of Quezon City is void.",
+   "2. If one of the contracting parties is between 18 and 21, the civil registrar must suspend the issuance of the marriage license for 90 days if parental consent is lacking."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is false. In Navarro v. Domagtoy (1996) and Aranes v. Occiano (2002), the Court held that a judge who solemnizes a marriage outside his court's territorial jurisdiction commits an IRREGULARITY in a formal requisite (Art. 4, par. 3). Jurisdiction is not the same as authority. The marriage is valid, and only the judge is administratively liable. No. 2 is false because Art. 14 provides no suspension for lack of parental consent: the parties must simply exhibit the consent, and if they marry without it the marriage is voidable (Art. 45(1)). The three-month suspension applies to lack of parental ADVICE (Art. 15) and to a missing marriage-counseling certificate (Art. 16). (Standalone T/F versions, 'may suspend' or 'is void', are false for the same reasons.)",
+  "key_note": "Some answer keys reasoned that No. 1 is false because of the Art. 35(2) good-faith exception. The correct reason is that solemnizing outside the judge's territory is a mere irregularity (Navarro v. Domagtoy), not a lack of authority."
+ },
+ {
+  "id": "R-29",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "tf",
+  "stem": "A marriage solemnized by a Presbyterian Minister where both parties are Catholics is valid; there is only an irregularity in a formal requisite.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "This is Uribe's recitation answer. The officer is an authorized minister, but Art. 7(2) adds the proviso 'that at least one of the contracting parties belongs to the solemnizing officer's church or religious sect'. Uribe treats non-compliance with this proviso as only an irregularity in the formal requisite of authority, so the marriage stays valid (Art. 4, par. 3) and the minister is liable.",
+  "key_note": "Debatable. Under the contrary view (2006 Bar suggested answer; several commentators), the membership proviso limits the minister's authority. A marriage of two non-members would then be void under Art. 35(2) unless a party believed in good faith that he had authority, and some say a belief based on a mistake of law does not qualify. For Uribe's quizzes, follow his answer: valid, mere irregularity."
+ },
+ {
+  "id": "R-30",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. For a priest, rabbi, imam or minister to solemnize a marriage, at least one of the contracting parties must belong to the solemnizing officer's church or religious sect.",
+   "2. For a priest or minister to validly solemnize a marriage, it is sufficient that he be registered with the local civil registrar of the place where the marriage is celebrated."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "FC Art. 7(2) authorizes a priest, rabbi, imam or minister who is (a) duly authorized by his church or religious sect, (b) registered with the civil registrar GENERAL, and (c) acting within the limits of the written authority granted by his church. It adds the proviso that at least one of the contracting parties belongs to his church or sect (Tolentino, book p. 243). No. 1 restates the proviso, so it is true (the proviso applies only to religious solemnizing officers, not to judges, consuls, etc.). No. 2 is false: registration is with the Civil Registrar General, not the local civil registrar, and registration alone is not enough.",
+  "key_note": null
+ },
+ {
+  "id": "R-31",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "Which of the following has NO authority to solemnize the marriage described?",
+  "choices": [
+   "The Philippine Consul-General in Dubai, for a marriage between two Filipinos",
+   "A ship captain, for a marriage in articulo mortis between passengers during a stopover at a port of call",
+   "A military commander of a unit who is a commissioned officer, in the absence of a chaplain, for a marriage in articulo mortis between civilians within the zone of military operation",
+   "The Philippine Ambassador to Japan, as head of the diplomatic mission, for a marriage between two Filipinos in Tokyo",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "FC Arts. 7(5) and 10 grant authority to a consul-general, consul or vice-consul for marriages between Filipino citizens abroad. Tolentino (book p. 243) notes that an ambassador, though head of the diplomatic mission, has no such authority, because consuls handle matters affecting Filipino citizens. The others are authorized. (a) The consul-general may marry two Filipinos abroad. (b) Under Art. 31, a ship captain may solemnize an articulo mortis marriage between passengers or crew members while at sea or during stopovers at ports of call. (c) Under Art. 32, a military commander who is a commissioned officer may solemnize an articulo mortis marriage between persons within the zone of military operation, whether members of the armed forces or civilians, in the absence of the chaplain (Art. 7(4)).",
+  "key_note": null
+ },
+ {
+  "id": "R-32",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "tf",
+  "stem": "The First Officer of an airplane (not the airplane chief/pilot) has authority to solemnize a marriage in articulo mortis on board.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 7(3) authorizes 'any ship captain or airplane chief only in the case mentioned in Article 31' (Art. 31 says 'airplane pilot'). Uribe's answer is that a First Officer, not being the airplane chief, has no authority under Art. 7. A marriage he solemnizes is void for lack of authority unless either or both parties believed in good faith that he had authority (Art. 35(2)). Uribe acknowledged the textual inconsistency between 'chief' in Art. 7 and 'pilot' in Art. 31.",
+  "key_note": "The 1995 Bar suggested answer (hijacking problem) treated an assistant pilot acting for a chief pilot held hostage as authorized because of extraordinary circumstances. That reasoning is debatable and does not apply in ordinary situations."
+ },
+ {
+  "id": "R-33",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "tf",
+  "stem": "If the parties were married by the airplane chief in Manila Hotel (not on board the plane in flight), the marriage would be valid.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "An airplane chief's authority is special and limited. Under Arts. 7(3) and 31, he may solemnize only a marriage in articulo mortis between passengers or crew members, while the plane is in flight or during stopovers at ports of call. Uribe: 'only in flight' (technically, once the engine has started). A marriage he solemnizes in a hotel is solemnized by a person without authority. It is void unless either party believed in good faith that he had authority (Art. 35(2)), so the statement that it 'would be valid' is not absolutely true.",
+  "key_note": null
+ },
+ {
+  "id": "R-34",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 1994 Bar; QuAMTO – 1994 Bar",
+  "type": "mcq",
+  "stem": "Suppose the couple got married on September 1, 1994 at the Manila Hotel before the Philippine Consul General to Hongkong, who was on vacation in Manila. The couple executed an affidavit consenting to the celebration of the marriage at the Manila Hotel. Is the marriage valid?",
+  "choices": [
+   "Valid, since the couple executed an affidavit consenting to the venue.",
+   "Valid, since consuls-general are authorized to solemnize marriages anywhere.",
+   "Void, since a consul has no authority to solemnize marriages in the Philippines – unless either or both parties believed in good faith that he had authority.",
+   "Voidable."
+  ],
+  "answer": 2,
+  "explanation": "Under Arts. 7(5) and 10, consuls-general, consuls and vice-consuls may solemnize marriages only 'between Filipino citizens abroad', in the consular office (Art. 8). They have no authority to solemnize marriages on Philippine soil, even while on vacation here. The affidavit on venue (Art. 8) cures only an irregularity of place. It cannot supply authority. The marriage is therefore void for lack of authority of the solemnizing officer (Art. 35(2)) unless either or both parties believed in good faith that he had authority.",
+  "key_note": null
+ },
+ {
+  "id": "R-35",
+  "topic": "req",
+  "origin": "bar",
+  "src": "UP BOC – 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "Agay, a Filipino citizen and Topacio, an Australian citizen, got married in the consular office of the Philippines in Australia. According to the laws of Australia, a marriage solemnized by a consular official is valid, provided that such marriage is celebrated in accordance with the laws of such consular official. Under Philippine law, what is the status of the marriage of Agay and Topacio? Choose the best answer.",
+  "choices": [
+   "Void, because the consular official only has authority to solemnize marriages between Filipinos.",
+   "Valid, because according to the laws of Australia, such consular official has authority to celebrate the marriage.",
+   "Voidable, because there is an irregularity in the authority of the consular official to solemnize marriages.",
+   "Valid, because such marriage is recognized as valid in the place where it was celebrated."
+  ],
+  "answer": 0,
+  "explanation": "Under FC Arts. 7(5) and 10, a Philippine consul may solemnize only marriages 'between Filipino citizens abroad'. Topacio is Australian, so the consul had no authority to marry him to Agay. Australian law itself makes the validity of a consular marriage depend on the consul's own (Philippine) law, so lex loci (Art. 26, par. 1) gives no independent basis of validity. The marriage is void for lack of authority (Arts. 4, 35(2)). On the given choices, the good-faith exception is not in issue. C is wrong because absence of authority is not a mere irregularity and is never a ground for annulment.",
+  "key_note": null
+ },
+ {
+  "id": "R-36",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2020-21 Bar",
+  "type": "mcq",
+  "stem": "Two college sweethearts were married inside a Roman Catholic church in the Philippines with a Supreme Court Justice serving as solemnizing officer. A few years following the ceremony, one of the two (2) filed an action for the declaration of nullity of marriage on the ground that the marriage was void ab initio because it was solemnized inside a Roman Catholic church by a Supreme Court Justice, and not by a Roman Catholic priest. Is the position legally tenable?",
+  "choices": [
+   "Yes, because a marriage in a Catholic church may be solemnized only by a Catholic priest.",
+   "No, because a Supreme Court Justice has authority to solemnize marriages anywhere in the Philippines, and the venue is neither an essential nor a formal requisite.",
+   "Yes, because a member of the judiciary may solemnize marriages only in chambers or in open court.",
+   "No, but the marriage is voidable for irregularity in the venue."
+  ],
+  "answer": 1,
+  "explanation": "Any incumbent member of the judiciary may solemnize marriages 'within the court's jurisdiction' (Art. 7(1)), and a Justice of the Supreme Court has jurisdiction over the entire Philippines. Art. 8 requires a judge to solemnize marriages in chambers or in open court, while churches, chapels and temples are the venues for religious solemnizing officers. But the place of the marriage is neither an essential nor a formal requisite (Arts. 2-3). A wrong venue is at most an irregularity that does not affect validity (Art. 4, par. 3). The marriage is valid and the action will fail.",
+  "key_note": null
+ },
+ {
+  "id": "R-37",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Art. 8)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Marriages contracted at the point of death and marriages in remote places in accordance with Article 29 may be solemnized elsewhere than in the chambers of the judge, in open court, in a church, chapel or temple, or in the consular office.",
+   "2. A marriage may be solemnized at a house or place designated in a sworn statement if either of the contracting parties requests the solemnizing officer in writing."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "FC Art. 8 requires public solemnization in the judge's chambers or open court, in the church, chapel or temple, or in the consular office, 'and not elsewhere, except in cases of marriages contracted at the point of death or in remote places in accordance with Article 29 of this Code, or where BOTH of the parties request the solemnizing officer in writing'. No. 1 is true. No. 2 is false because the written request must come from both parties, not either. In any case, solemnization in an unauthorized place is only an irregularity (Art. 4, par. 3).",
+  "key_note": null
+ },
+ {
+  "id": "R-38",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 2, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 2); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex MCQ set (Studocu, 2nd Quiz); Uribe samplex (FC quiz set 1, T/F & MCQ); Uribe samplex (FC quiz set 2, T/F & MCQ)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A marriage certificate is one of the formal requisites of marriage.",
+   "2. A marriage license shall be issued by the local civil registrar of the city or municipality where both contracting parties habitually reside."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is false. Art. 3 lists only three formal requisites: authority of the solemnizing officer, a valid marriage license, and a marriage ceremony. The marriage certificate is merely evidence of the marriage (Arts. 6, 22). No. 2 is false: under Art. 9, the license is issued by the local civil registrar of the city or municipality where EITHER contracting party habitually resides, not both. Even a license issued by the registrar of a place where neither party resides is only an irregularity (Art. 4, par. 3). (A standalone T/F version of No. 2 appears in several samplexes; answer: False.)",
+  "key_note": null
+ },
+ {
+  "id": "R-39",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. In marriages between Filipino citizens abroad solemnized by a consul-general, consul or vice-consul, the issuance of the marriage license and the duties of the local civil registrar shall be performed by said consular official.",
+   "2. A marriage license shall be issued by the local civil registrar of the city or municipality where either contracting party habitually resides; a license obtained from the civil registrar of another place renders the marriage void."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true: it restates FC Art. 10, under which the consular official also performs the duties of the solemnizing officer. No. 2 is false. Its first clause is Art. 9, but obtaining the license from the registrar of a place where neither party resides is only an irregularity in a formal requisite (Art. 4, par. 3). The license still exists, so the marriage is valid. Tolentino (book pp. 244-245) adds that the solemnizing officer need not investigate where the license was issued.",
+  "key_note": null
+ },
+ {
+  "id": "R-40",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, 2nd Quiz); Uribe samplex – Multiple Choice compilation (scanned); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 1, T/F & MCQ); Uribe samplex MCQ set (Studocu, Quiz #1 unknown source); Uribe samplex – Midterm Exam (scanned); Uribe samplex MCQ set (Studocu, 'kuya R' version)",
+  "type": "mcq",
+  "stem": "A marriage license is required in the following:",
+  "choices": [
+   "A marriage in articulo mortis between passengers or crew members of airlines",
+   "A marriage in articulo mortis between persons within the zone of military operation",
+   "A marriage between Filipino citizens abroad solemnized by a consul",
+   "A marriage where the residence of either party is so located that there is no means of transportation to enable such party to appear personally before the local civil registrar",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 10, in a marriage between Filipino citizens abroad solemnized by a consul, 'the issuance of the marriage license and the duties of the local civil registrar' are performed by the consular official. A license is therefore still required, and the consul issues it. The others are marriages of exceptional character exempt from the license requirement: (a) articulo mortis between passengers or crew members (Arts. 27, 31); (b) articulo mortis within the zone of military operation (Arts. 27, 32); and (d) residence with no means of transportation to appear before the LCR (Art. 28).",
+  "key_note": "One samplex variant (Midterm) offers 'A marriage between Filipino citizens abroad' (without 'solemnized by a consul') alongside ethnic-community marriages (Art. 33). The keyed answer is the same, on the Art. 10 reasoning."
+ },
+ {
+  "id": "R-41",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted)",
+  "type": "mcq",
+  "stem": "A marriage license is required in the following:",
+  "choices": [
+   "a marriage in articulo mortis between passengers or crew members of ships",
+   "a marriage in articulo mortis between persons within the zone of military operations",
+   "a marriage where the residence of either party is so located that there is no means of transportation to enable such party to appear personally before the local civil registrar",
+   "marriages among members of the ethnic cultural communities, provided they are solemnized in accordance with their customs, rites or practices",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "None of these requires a license. (a) A marriage in articulo mortis between passengers or crew members of a ship (Arts. 27, 31). (b) A marriage in articulo mortis between persons within the zone of military operations (Arts. 27, 32). (c) A marriage where a party's residence has no means of transportation to appear before the LCR (Art. 28). (d) Marriages among members of the ethnic cultural communities solemnized according to their customs, rites or practices (Art. 33). Compare the variant with 'Filipino citizens abroad solemnized by a consul', which does require a license (Art. 10).",
+  "key_note": null
+ },
+ {
+  "id": "R-42",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Art. 11)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Where a marriage license is required, each of the contracting parties shall file separately a sworn application for such license with the proper local civil registrar.",
+   "2. The applicants, their parents or guardians shall be required to exhibit their residence certificates in connection with the securing of the marriage license."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true: it is the opening clause of FC Art. 11. The application must state, among others, full name, place of birth, age and date of birth, civil status, how and when any previous marriage was dissolved or annulled, present residence and citizenship, degree of relationship of the parties, and the parents' names. No. 2 is false: the last paragraph of Art. 11 says the applicants, their parents or guardians 'shall NOT be required to exhibit their residence certificates in any formality in connection with the securing of the marriage license.'",
+  "key_note": null
+ },
+ {
+  "id": "R-43",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Art. 12)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A contracting party may furnish, in lieu of his birth or baptismal certificate, an instrument sworn to by two witnesses of lawful age, if the certificate has not yet been received although it was required of the person having custody thereof at least thirty days prior to the date of the application.",
+   "2. The presentation of the birth or baptismal certificate shall not be required when the local civil registrar shall, by merely looking at the applicants upon their personally appearing before him, be convinced that either or both of them have the required age."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Under FC Art. 12, par. 2, the substitute proof may be used if the certificate has not been received although it was required of its custodian 'at least FIFTEEN days prior to the date of the application'. The substitute is the current residence certificate or a sworn instrument containing the declaration of two witnesses of lawful age, with nearest of kin preferred. No. 2 is true: it is the last clause of Art. 12. The certificate is also dispensed with if the parents appear personally and swear to the correctness of the parties' lawful age.",
+  "key_note": null
+ },
+ {
+  "id": "R-44",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Art. 13)",
+  "type": "mcq",
+  "stem": "A, a widower, applies for a marriage license to marry B. A cannot secure the death certificate of his deceased wife. What must A do?",
+  "choices": [
+   "Make an affidavit setting forth this circumstance, his actual civil status, and the name and date of death of his deceased spouse",
+   "Obtain a judicial declaration of presumptive death of his deceased wife",
+   "Present only his birth certificate, since his first marriage has been dissolved by death",
+   "Wait until the lapse of four years from the death of his wife",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "FC Art. 13: a previously married applicant must furnish, INSTEAD of the birth or baptismal certificate, the death certificate of the deceased spouse or the judicial decree of absolute divorce, annulment or declaration of nullity of the previous marriage. 'In case the death certificate cannot be secured, the party shall make an affidavit setting forth this circumstance and his or her actual civil status and the name and date of death of the deceased spouse.' A declaration of presumptive death (Art. 41) is for an ABSENT spouse whose death is uncertain, not one known to be dead.",
+  "key_note": null
+ },
+ {
+  "id": "R-45",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2 #3; Uribe samplex – Quiz #1 (scanned, handwritten key); Uribe samplex (old Quiz No. 3, answered w/ reasons); Uribe samplex (Leviathan Quiz 3)",
+  "type": "tf",
+  "stem": "Any contracting party between the age of twenty-one and twenty-five shall be obliged to ask their parents or guardian for consent upon the intended marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "FC Art. 15 requires parties between 21 and 25 to ask their parents or guardian for ADVICE, not consent. Parental CONSENT is required only of parties between 18 and 21 not emancipated by a previous marriage (Art. 14). Lack of consent makes the marriage voidable (Art. 45(1)). Lack of advice only delays issuance of the license for three months and does not affect validity.",
+  "key_note": null
+ },
+ {
+  "id": "R-46",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (QUIZ, FC T/F - copy 1); Uribe samplex (QUIZ, FC T/F - copy 2)",
+  "type": "tf",
+  "stem": "Any contracting party between the age of 21 and 25 shall be obliged to ask their parents or guardian for advice upon the intended marriage",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "This is the first sentence of FC Art. 15. If advice is not obtained, or is unfavorable, the license shall not be issued until three months after the completion of the publication of the application. A sworn statement that advice was sought, together with the written advice if any, must be attached to the application, and the parents' refusal to give advice must be stated in it. Compare the 'consent' version of this item, which is false.",
+  "key_note": null
+ },
+ {
+  "id": "R-47",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Art. 14; Tolentino)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The parental consent required of contracting parties between eighteen and twenty-one shall be manifested in writing by the interested party, who personally appears before the proper local civil registrar, or in the form of an affidavit made in the presence of two witnesses and attested before any official authorized by law to administer oaths.",
+   "2. The consent to the marriage of a contracting party between eighteen and twenty-one may be given by the father, mother, surviving parent or guardian, or persons having legal charge of the party, in any order."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true: it reproduces the second sentence of FC Art. 14. The personal manifestation is recorded in both applications, and the affidavit, if executed instead, is attached to them. No. 2 is false: Art. 14 requires the consent of the 'father, mother, surviving parent or guardian, or persons having legal charge of them, IN THE ORDER MENTIONED' (see also Art. 45(1), 'in that order'). Tolentino notes that the consent should refer to the marriage with the particular person intended, not a blanket authorization.",
+  "key_note": null
+ },
+ {
+  "id": "R-48",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A person between eighteen and twenty-one years of age whose previous marriage was terminated by the death of the spouse must again secure parental consent before contracting a subsequent marriage.",
+   "2. The reduction of the age of majority to eighteen by R.A. No. 6809 did not dispense with the requirement of parental consent for contracting parties between eighteen and twenty-one."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Art. 14 applies to parties between 18 and 21 'NOT having been emancipated by a previous marriage'. Tolentino (book pp. 248-249) explains that a person below 21 whose earlier marriage ended with the spouse's death does not need parental consent to remarry, because consent was given in the first marriage and need not be repeated. No. 2 is true. R.A. 6809 (1989) lowered the age of majority to 18 but expressly provides that 'contracting marriage shall require parental consent until the age of twenty-one'.",
+  "key_note": null
+ },
+ {
+  "id": "R-49",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, 'kuya R' version); Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted)",
+  "type": "mcq",
+  "stem": "A, 22 years old, and B, 20 years old, applied for a marriage license on January 2, 2011. Without parental consent or advice, the civil registrar issued the license on January 15, 2011. They were married on May 5, 2011. Is the marriage valid?",
+  "choices": [
+   "Valid, because all the essential and formal requisites are present without any defect in the former or any irregularity in the latter.",
+   "Voidable, because one of the contracting parties is below 21 and there was no parental consent.",
+   "Void, because the license had already expired",
+   "Valid, but there was an irregularity in the issuance of a marriage license."
+  ],
+  "answer": 1,
+  "explanation": "B, 20 and never married, needed parental consent (Art. 14). Marrying without it makes the marriage VOIDABLE under Art. 45(1), ratifiable by free cohabitation after B turns 21. The license was not expired: issued January 15, it was valid for 120 days (Art. 20), until about May 15, so the May 5 marriage was within the period. Issuing the license without A's parental advice (A is 22; Art. 15) and without the counseling certificate (Art. 16) before three months had passed are irregularities that do not affect validity. Because of the defect in B's consent, however, 'valid but irregular' is not the answer.",
+  "key_note": "Note: the samplex key marked 'Valid, but there was an irregularity in the issuance of the marriage license'; this is incorrect because B, 20 and not emancipated by a previous marriage, married without parental consent, which makes the marriage voidable (Art. 45(1)). That key fits only the version where B is a widow. (A variant with the license issued Jan. 5 and the marriage on May 1 has the same answer.)"
+ },
+ {
+  "id": "R-50",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned)",
+  "type": "mcq",
+  "stem": "A, 22 years old, and B, a widow, 20 years old, applied for a marriage license on January 2, 2011. Without parental consent nor advice, the civil registrar issued a license on January 15, 2011. They were married on May 5, 2011. Is the marriage valid?",
+  "choices": [
+   "Valid, because all the essential and formal requisites are present without any defect in the former nor any irregularity in the latter.",
+   "Voidable, because one of the contracting parties is below 21 and there was no parental consent.",
+   "Void, because the license had already expired.",
+   "Valid, but there was an irregularity in the issuance of the marriage license."
+  ],
+  "answer": 3,
+  "explanation": "B, though only 20, is a widow emancipated by a previous marriage, so she needs no parental consent (Art. 14). A, 22, needed parental advice (Art. 15) and marriage counseling (Art. 16). Without them the license should have been withheld until three months after publication, so issuing it on January 15 was an irregularity. It does not affect validity (Art. 4, par. 3; Art. 16, par. 1). The license, valid for 120 days from January 15 (Art. 20), had not expired on May 5. The marriage is valid, but the license was irregularly issued.",
+  "key_note": null
+ },
+ {
+  "id": "R-51",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 1999 Bar",
+  "type": "mcq",
+  "stem": "What is the status of the following marriage and why? A marriage between two 19-year-olds without parental consent.",
+  "choices": [
+   "Valid, but the parties are subject to administrative liability.",
+   "Voidable, for lack of parental consent of parties between 18 and 21.",
+   "Void, for lack of legal capacity.",
+   "Valid, since parties 18 and above have full capacity to marry."
+  ],
+  "answer": 1,
+  "explanation": "Voidable. Parties aged 18 to below 21 have legal capacity (Art. 5) but must obtain parental consent (Art. 14), and R.A. 6809 retained this requirement. A marriage solemnized without it may be annulled under Art. 45(1). Under Art. 47(1), the action may be brought by the party concerned within five years after reaching 21, or by the parent or guardian at any time before the party reaches 21. It is ratified if the party, after reaching 21, freely cohabits with the other as husband and wife. It is not void because the parties are not below 18 (Art. 35(1)).",
+  "key_note": null
+ },
+ {
+  "id": "R-52",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "tf",
+  "stem": "If one of the contracting parties was 19 years old at the time of the application for a marriage license and he did not present parental consent, the local civil registrar can refuse to issue the license.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "This is Uribe's recitation answer. The registrar's duty to issue the license is ministerial. Under Art. 18, even when an impediment is known to him, he only notes its particulars and his findings in the application and 'shall nonetheless issue said license after the completion of the period of publication, unless ordered otherwise by a competent court'. Lack of parental consent does not make the marriage void; it only makes it voidable (Art. 45(1)). A party who was previously married would not need consent at all (Art. 14).",
+  "key_note": "Debatable. Contrary view: Art. 14 requires parties 18-21 to 'exhibit' the parental consent 'in addition to the requirements of the preceding articles', and Art. 18 speaks only of impediments. On that reading, the registrar may withhold the license until the consent is presented. For Uribe's quizzes, follow his answer (False)."
+ },
+ {
+  "id": "R-53",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #3",
+  "type": "tf",
+  "stem": "Even if there is lack of parental advice, despite the fact that one of the contracting parties is between 18 and 21, there will be no irregularity in the issuance of the marriage license.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "FC Art. 15 requires parental ADVICE only of parties between 21 and 25. A party between 18 and 21 needs parental CONSENT instead (Art. 14), so the absence of 'advice' for that party is not a deficiency, and issuing the license on that account involves no irregularity. If consent is also lacking, the marriage is voidable (Art. 45(1)), but that is a different matter. Uribe's quizzes reward reading the age brackets exactly.",
+  "key_note": "Uribe's key (CivRev 2025 Quiz 3 #3) is True: the item tests that advice (Art. 15) is not required of a party aged 18-21, who needs consent instead (Art. 14). Read it as 'the lack of advice of that party causes no irregularity'. If another party is 21-25 and lacks advice, or the license is otherwise irregular, that is a different defect not raised by the statement."
+ },
+ {
+  "id": "R-54",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #12; Uribe samplex – Midterm Exam (scanned); Uribe samplex MCQ set (Studocu, 'kuya R' version)",
+  "type": "mcq",
+  "stem": "There may not be an irregularity in the issuance of a marriage license even if:",
+  "choices": [
+   "there is lack of parental advice",
+   "none of the contracting parties habitually resides in the city where the license was issued.",
+   "there is no certificate of legal capacity to contract marriage of an alien who is one of the contracting parties.",
+   "there is lack of publication of the application for a marriage license.",
+   "none of the above."
+  ],
+  "answer": 0,
+  "explanation": "If parental advice is lacking (Art. 15), the license 'shall not be issued till after three months following the completion of the publication'. Lack of advice only suspends issuance. A license issued after the three months, even without advice, is regularly issued, so lack of advice need not involve any irregularity. Each of the others is necessarily an irregularity: (b) issuance by the registrar of a place where neither party habitually resides (Art. 9); (c) no certificate of legal capacity for an alien party (Art. 21); and (d) no publication of the application (Art. 17).",
+  "key_note": "Quiz #3 (scanned) has a garbled variant with 'lack of parental consent' and 'lack of participation [publication]', with choice d underlined. In that version every option is an irregularity, so it was not merged."
+ },
+ {
+  "id": "R-55",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 1999 Bar; QuAMTO 1987-2017 – 1999 Bar",
+  "type": "mcq",
+  "stem": "What is the status of the following marriage and why? A marriage between two 21-year-olds without parental advice.",
+  "choices": [
+   "Valid; lack of parental advice is a mere irregularity that does not affect validity.",
+   "Voidable, at the instance of the parents.",
+   "Void, for absence of a formal requisite.",
+   "Void, because the license could not have been issued."
+  ],
+  "answer": 0,
+  "explanation": "Valid. For parties between 21 and 25, the absence of parental advice only means the license may not be issued until three months after the completion of publication (Art. 15). If the license is issued after that, there is no irregularity at all. If it is issued earlier, the early issuance is an irregularity in the formal requisite of a license that does not affect validity, without prejudice to the liability of those responsible (Art. 4, par. 3). Lack of parental advice is not a ground for annulment (Art. 45(1) covers only lack of parental consent for parties 18 to below 21).",
+  "key_note": null
+ },
+ {
+  "id": "R-56",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "mcq",
+  "stem": "X, 23 years old and Y, a widow, 20 years old, applied for a marriage license on January 2, 2019. Without parental consent nor advice, they were married on May 31, 2019. Is the marriage valid?",
+  "choices": [
+   "May be valid, because all the essential and formal requisites are present and there may not be an irregularity in the issuance of the license.",
+   "Voidable, because one of the contracting parties is below 21 and there was no parental consent.",
+   "Valid, but there was an irregularity in the issuance of the marriage license",
+   "Void, because the license had already expired.",
+   "none of the above"
+  ],
+  "answer": 0,
+  "explanation": "Y, a widow, is emancipated by her previous marriage and needs no parental consent (Art. 14), so b is wrong. X, 23, needed parental advice. Without it, the license could issue only three months after publication was completed (Arts. 15, 16), roughly mid-April 2019 if posting started on January 2. The facts do not say when the license was issued. A license issued in April would be properly issued and still valid on May 31 (120 days, Art. 20), so expiry cannot be assumed. On these facts the marriage MAY be valid with no irregularity.",
+  "key_note": "Note: the quiz key (class answer) marked d (expired license, assuming issuance around Jan. 15); this is incorrect because the issuance date is not given. Uribe himself answered a in the class discussion."
+ },
+ {
+  "id": "R-57",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. In the cases where parental consent or parental advice is needed, the party or parties concerned shall attach a certificate that the contracting parties have undergone marriage counselling.",
+   "2. Should only one of the contracting parties need parental consent or parental advice, only that party is required to undergo the marriage counselling."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "FC Art. 16 requires the parties, where parental consent or advice is needed, to attach a certificate from a priest, imam or minister authorized under Art. 7, or an accredited marriage counselor, that they have undergone marriage counseling. No. 1 is true: it paraphrases Art. 16, par. 1. (Note that the need depends on whether consent or advice is actually required, not on age alone: a party 18-21 emancipated by a previous marriage needs no parental consent, Art. 14.) No. 2 is false: Art. 16, par. 2 provides that 'should only one of the contracting parties need parental consent or parental advice, the OTHER party must be present at the counseling.' Failure to attach the certificate suspends issuance of the license for three months from the completion of publication, but issuance within that period does not affect validity. It only subjects the issuing officer to administrative sanctions.",
+  "key_note": null
+ },
+ {
+  "id": "R-58",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The issuance of the marriage license before the completion of the ten-day period of posting of the notice renders the marriage void for want of a valid license.",
+   "2. In case of any impediment known to the local civil registrar, he shall note down the particulars thereof and his findings thereon in the application, but shall nonetheless issue the license after the completion of the period of publication, unless ordered otherwise by a competent court."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Art. 17 requires the notice to be posted for ten consecutive days and the license to be issued after the period of publication. Issuing it before then is an irregularity in a formal requisite that does not invalidate the marriage (Art. 4, par. 3; Tolentino, book p. 254). No. 2 is true: it reproduces Art. 18. Unlike the old Civil Code, the registrar does not withhold the license because of a reported impediment. He notes it and must still issue the license unless a competent court orders otherwise. If the impediment really exists, the marriage is void on that ground, not because of the license.",
+  "key_note": null
+ },
+ {
+  "id": "R-59",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #10",
+  "type": "tf",
+  "stem": "In case of any impediment known to the local civil registrar or brought to his attention, he shall not issue the marriage license, unless ordered otherwise by a competent court at his own instance or that of any interested party.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "FC Art. 18 states the opposite. The registrar 'shall note down the particulars thereof and his findings thereon in the application for marriage license, but shall NONETHELESS ISSUE said license after the completion of the period of publication, unless ordered otherwise by a competent court at his own instance or that of any interested party.' No filing fee is charged for the petition and no bond is required. Issuing the license is ministerial, and it is the court, not the registrar, that may stop it.",
+  "key_note": null
+ },
+ {
+  "id": "R-60",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 2, answered w/ reasons); Uribe samplex (Leviathan Quiz No. 2); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 2, T/F & MCQ)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The lack of certificate of legal capacity does not affect the validity of marriage.",
+   "2. In case of any impediment known to the local registrar or brought to his attention, he shall nonetheless issue said license after the completion of the period of publication, unless otherwise ordered by a competent court at his own instance."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true. The certificate of legal capacity (Art. 21) is required only to obtain the license. It is neither an essential nor a formal requisite, so its absence is at most an irregularity (Art. 4, par. 3). Whether the alien actually has capacity depends on his national law. No. 2 is false because it omits a phrase: under Art. 18, the court may order otherwise 'at his own instance OR THAT OF ANY INTERESTED PARTY.' The standalone T/F version of No. 2 is likewise false.",
+  "key_note": "One source wrote 'Final Answer: C - no. 1 is false, no. 2 is true'. The letter C (No. 1 true, No. 2 false) is correct; the label was mistyped."
+ },
+ {
+  "id": "R-61",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Arts. 19, 24)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The marriage license shall be issued free of charge to indigent parties, that is, those who have no visible means of income or whose income is insufficient for their subsistence, a fact established by their affidavit or by their oath before the local civil registrar.",
+   "2. It shall be the duty of the local civil registrar to prepare the documents required for the marriage license and to administer oaths to all interested parties for a reasonable fee."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true: it reproduces the last sentence of FC Art. 19. Otherwise the registrar collects only the fees prescribed by law or regulations, and 'no other sum shall be collected in the nature of a fee or tax of any kind'. No. 2 is false: Art. 24 requires the local civil registrar to prepare the documents and administer oaths to all interested parties 'WITHOUT ANY CHARGE in both cases'. The documents and affidavits filed in connection with license applications are also exempt from documentary stamp tax.",
+  "key_note": null
+ },
+ {
+  "id": "R-62",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 3, answered w/ reasons); Uribe samplex (QUIZ, FC T/F - copy 1); Uribe samplex (QUIZ, FC T/F - copy 2); Uribe samplex (Leviathan Quiz 3); Uribe CivRev 2025 Quiz 2 #4; Uribe samplex – Quiz #1 (scanned, handwritten key)",
+  "type": "tf",
+  "stem": "The license shall be valid in any part of the Philippines for a period of four months from the date of issue.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "FC Art. 20: 'The license shall be valid in any part of the Philippines for a period of one hundred twenty days from the date of issue, and shall be deemed automatically cancelled at the expiration of the said period if the contracting parties have not made use of it.' The expiry date is stamped in bold on the license. A month is 30 days (Civil Code Art. 13; Administrative Code of 1987, Sec. 31, unless a specific calendar month is meant), so four months equals 120 days. The '120 days' version of this item is also true.",
+  "key_note": null
+ },
+ {
+  "id": "R-63",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "A and B obtained a marriage license issued on January 2, 2025 by the civil registrar of Lucena City. They were married in Manila on June 15, 2025 using that license. The marriage is:",
+  "choices": [
+   "Void",
+   "Valid, but the solemnizing officer is administratively liable",
+   "Voidable",
+   "Valid, because a marriage license is valid in any part of the Philippines",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "Under FC Art. 20, the license is valid anywhere in the Philippines for 120 days from issue and is 'deemed automatically cancelled' if not used. Counting from January 2, 2025, the 120 days ended on May 2, 2025. A marriage on June 15, 2025 was therefore solemnized without a license. This is the ABSENCE of a formal requisite, not a mere irregularity, so the marriage is void ab initio (Arts. 4, 35(3); Tolentino, book p. 256). Choice d misreads Art. 20: the license is valid anywhere in the Philippines only within the 120-day period.",
+  "key_note": null
+ },
+ {
+  "id": "R-64",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #1 (scanned, handwritten key); Uribe samplex (old Quiz No. 3, answered w/ reasons); Uribe samplex (QUIZ, FC T/F - copy 1); Uribe samplex (QUIZ, FC T/F - copy 2); Uribe samplex (Leviathan Quiz 3)",
+  "type": "tf",
+  "stem": "Stateless persons or refugees from other countries shall submit a certificate of legal capacity.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "FC Art. 21, par. 2: 'Stateless persons or refugees from other countries shall, IN LIEU OF the certificate of legal capacity herein required, submit an affidavit stating the circumstances showing such capacity to contract marriage.' Having no state, or being unable to get one from their own state, they cannot obtain a certificate from diplomatic or consular officials. Tolentino adds that their capacity is determined by Philippine law.",
+  "key_note": null
+ },
+ {
+  "id": "R-65",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – True or False compilation (scanned); Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 2, T/F & MCQ)",
+  "type": "tf",
+  "stem": "The lack of certificate of legal capacity does not affect the validity of the marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "The certificate of legal capacity (Art. 21) is a document required BEFORE a license can be obtained. It is neither an essential requisite (Art. 2) nor a formal requisite (Art. 3). Its absence is at most an irregularity in the issuance of the license, which does not affect validity (Art. 4, par. 3; DOJ Opinion No. 050, s. 1991). Whether the foreigner actually had capacity is a separate question governed by his national law. In Garcia v. Recio (2001), the Court treated a duly authenticated certificate as only prima facie evidence of capacity.",
+  "key_note": null
+ },
+ {
+  "id": "R-66",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. When either or both of the contracting parties are citizens of a foreign country, it shall be necessary for them, before a marriage license can be obtained, to submit a certificate of legal capacity to contract marriage, issued by their respective diplomatic or consular officials.",
+   "2. Stateless persons or refugees from other countries shall, in lieu of the certificate of legal capacity, submit an affidavit stating the circumstances showing such capacity to contract marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 0,
+  "explanation": "Both statements reproduce FC Art. 21, pars. 1 and 2. A foreigner's capacity to marry is governed by his national law (nationality principle). The certificate from his diplomatic or consular officials is the means of proving it before the license issues. A stateless person or refugee, who cannot obtain such a certificate, submits his own affidavit of the circumstances showing capacity, and his capacity is determined by Philippine law (Tolentino, book pp. 256-257). Absence of the certificate does not by itself affect validity.",
+  "key_note": null
+ },
+ {
+  "id": "R-67",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Arts. 22, 25)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The local civil registrar shall enter all applications for marriage licenses filed with him in a registry book strictly in the order in which the same are received.",
+   "2. The marriage certificate shall state, among others, that the parties have entered into a marriage settlement, if any, attaching a copy thereof."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 0,
+  "explanation": "Both are true. No. 1 reproduces FC Art. 25. The registrar also records the names of the applicants, the date the license was issued and other necessary data. No. 2 reproduces Art. 22(7). The certificate, in which the parties declare that they take each other as husband and wife, must also state the parties' names, sex and age; citizenship, religion and habitual residence; the date and precise time of celebration; that the license was issued (except in license-exempt marriages); and compliance with parental consent and advice in appropriate cases.",
+  "key_note": null
+ },
+ {
+  "id": "R-68",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The marriage certificate is the best proof of marriage, but it is not the only proof; the testimony of one of the parties or of persons present at the celebration is competent proof of the marriage.",
+   "2. The failure of the solemnizing officer to send copies of the marriage certificate to the local civil registrar within fifteen days invalidates the marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true (Tolentino, book pp. 258-259; Rule 131, Sec. 3(aa); Civil Code Art. 220). No. 2 is false. Art. 23 does require the solemnizing officer to give the original certificate to either party and to send the duplicate and triplicate to the LCR of the place of solemnization 'not later than fifteen days after the marriage'. He keeps the quadruplicate, the original license and, in proper cases, the venue affidavit. But the certificate and its registration are not requisites of marriage, so non-compliance does not affect validity and only exposes the officer to liability.",
+  "key_note": null
+ },
+ {
+  "id": "R-69",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Arts. 29-30)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. In marriages in articulo mortis or in remote places without means of transportation, the contracting parties shall state in an affidavit executed before the local civil registrar that the marriage was performed in articulo mortis or that the residence of either party is so located that there is no means of transportation.",
+   "2. The original of the affidavit required for marriages in articulo mortis or in remote places, together with a legible copy of the marriage contract, shall be sent by the person solemnizing the marriage to the local civil registrar of the municipality where it was performed within thirty days after the performance of the marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Under FC Art. 29, the SOLEMNIZING OFFICER, not the parties, executes the affidavit before the LCR or any person authorized to administer oaths. It states that the marriage was performed in articulo mortis, or that the residence of either party (specifying the barrio or barangay) has no means of transportation, and that he took the necessary steps to ascertain the parties' ages and relationship and the absence of legal impediment. Compare Art. 34, where the PARTIES execute the affidavit of five-year cohabitation and the officer also states under oath that he found no legal impediment. No. 2 is true: it reproduces Art. 30.",
+  "key_note": null
+ },
+ {
+  "id": "R-70",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (codal, FC Arts. 16, 17, 23, 30)",
+  "type": "mcq",
+  "stem": "Which of the following periods is CORRECTLY stated?",
+  "choices": [
+   "The notice of the application for a marriage license shall be posted for fifteen consecutive days.",
+   "The solemnizing officer shall send the duplicate and triplicate copies of the marriage certificate to the local civil registrar not later than thirty days after the marriage.",
+   "The affidavit of the solemnizing officer in a marriage in articulo mortis, together with a legible copy of the marriage contract, shall be sent to the local civil registrar within thirty days after the performance of the marriage.",
+   "Failure to attach the certificate of marriage counseling shall suspend the issuance of the marriage license for ninety days from the filing of the application.",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Only c is correct (Art. 30: within thirty days). (a) Art. 17 requires posting for TEN consecutive days. (b) Art. 23 requires sending the duplicate and triplicate copies not later than FIFTEEN days after the marriage. (d) Art. 16 suspends issuance for THREE MONTHS from the COMPLETION OF THE PUBLICATION, not from the filing of the application. Other periods to remember: the license is valid for 120 days (Art. 20), and a birth certificate must have been requested at least 15 days before the application to use substitute proof (Art. 12).",
+  "key_note": null
+ },
+ {
+  "id": "R-71",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 3, answered w/ reasons); Uribe samplex – True or False compilation (scanned); Uribe samplex MCQ set (Studocu, Quiz #1 unknown source); Uribe samplex (Leviathan Quiz 3)",
+  "type": "tf",
+  "stem": "All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "FC Art. 26, par. 1 adopts lex loci celebrationis but adds 'EXCEPT those prohibited under Articles 35(1), (4), (5) and (6), 36, 37 and 38.' These are: a party below 18; bigamous or polygamous marriages not under Art. 41; mistake as to identity; subsequent marriages void under Art. 53; psychological incapacity; incestuous marriages; and marriages void for public policy. Such marriages are void here even if valid where celebrated. Because of these exceptions, the statement is not absolutely true.",
+  "key_note": null
+ },
+ {
+  "id": "R-72",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #3 (scanned, handwritten key)",
+  "type": "mcq",
+  "stem": "the marriage of A and B, both Filipinos, were solemnized in London in accordance with the laws in force in London and valid there as such. the marriage shall also be valid here in the Philippines even if:",
+  "choices": [
+   "A and B are first cousins",
+   "B was only 17 during the marriage and there was no parental consent",
+   "C represented B during the marriage",
+   "bigamous marriage not falling under Article 41 of the Family Code",
+   "none of the above"
+  ],
+  "answer": 2,
+  "explanation": "Under Art. 26, par. 1, a marriage valid where celebrated is valid here, except those prohibited under Arts. 35(1), (4), (5), (6), 36, 37 and 38. A proxy marriage involves the FORM of celebration (personal appearance), which is governed by lex loci celebrationis and is not among the exceptions. If valid in London, it is valid here. The others are exceptions: (a) first cousins are collateral blood relatives within the fourth civil degree (Art. 38(1)); (b) a party below 18 (Art. 35(1)), void even with parental consent; (d) a bigamous marriage not falling under Art. 41 (Art. 35(4)).",
+  "key_note": "Some commentators (e.g., Sempio-Diy) argue that personal appearance goes to consent, an essential requisite, so a proxy marriage of Filipinos abroad would be void despite lex loci. Uribe's key (and his recitation answer) follows lex loci: valid."
+ },
+ {
+  "id": "R-73",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned); Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted); Uribe samplex MCQ set (Studocu, 'kuya R' version)",
+  "type": "mcq",
+  "stem": "The marriage of A and B, both Filipinos, were solemnized in London in accordance with the laws in force in London and valid there as such. The marriage shall also be valid here in the Philippines even if:",
+  "choices": [
+   "A and B are first cousins.",
+   "B was only 17 during the marriage and there was no parental consent.",
+   "Bigamous marriage not falling under Article 41 of the Family Code.",
+   "There was mistake of one contracting party as to the identity of the other.",
+   "None of the above."
+  ],
+  "answer": 4,
+  "explanation": "Each choice is an exception under Art. 26, par. 1, so the marriage would be void here despite its validity in London. (a) First cousins: Art. 38(1), collateral blood relatives up to the fourth civil degree. (b) A party aged 17: Art. 35(1), void whether or not parents consented. (c) A bigamous marriage not falling under Art. 41: Art. 35(4). (d) Mistake as to the identity of the other party: Art. 35(5). (Studocu variants read 'B was only 17 but there was parental consent'; the answer is the same.)",
+  "key_note": null
+ },
+ {
+  "id": "R-74",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "mcq",
+  "stem": "The marriage of A and B, both Filipinos, were solemnized in London in accordance with the laws in force in London and valid there as such. The marriage may be valid under Philippine law even if:",
+  "choices": [
+   "A is the first cousin of B.",
+   "B was only 17 during the marriage and there was no parental consent.",
+   "the marriage is bigamous",
+   "There was mistake of one contracting party as to the identity of the other",
+   "None of the above."
+  ],
+  "answer": 2,
+  "explanation": "The stem asks what MAY leave the marriage valid. Art. 26, par. 1 excepts only bigamous marriages 'not falling under Article 41' (Art. 35(4)). A subsequent marriage contracted after a well-founded belief that the prior spouse is dead, under Art. 41, is valid. Since choice c says only 'the marriage is bigamous' without excluding Art. 41, the marriage may still be valid. The other choices are always void: (a) Art. 38(1); (b) Art. 35(1), below 18, with or without consent; (d) Art. 35(5).",
+  "key_note": "The class consensus was e (all excluded by Art. 26(1)); Uribe agreed with c in the discussion because of the word 'may' and the Art. 41 carve-out. Read the exact wording: 'bigamous marriage NOT falling under Art. 41' (another version) is always void."
+ },
+ {
+  "id": "R-75",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned); Uribe samplex MCQ set (Studocu, 'kuya R' version)",
+  "type": "mcq",
+  "stem": "The marriage of A and B, both Filipinos, were solemnized in London in accordance with the laws in force in London and valid there as such. The marriage shall be void here in the Philippines if:",
+  "choices": [
+   "A was 18 years old, without parental authority.",
+   "It is a proxy marriage.",
+   "A & B are stepbrother and stepsister.",
+   "The marriage was solemnized by the Prime Minister of the United Kingdom.",
+   "None of the above."
+  ],
+  "answer": 4,
+  "explanation": "None of these is among the Art. 26, par. 1 exceptions. (a) A party aged 18 without parental consent ('authority' in the source) makes the marriage merely VOIDABLE (Art. 45(1)). Voidable marriages are not excepted, so it is valid until annulled. (b) A proxy marriage concerns form, governed by lex loci celebrationis. (c) Stepbrother and stepsister are not within the prohibited degrees. Art. 38(2) bars only step-parents and step-children, and the Family Code dropped the Civil Code's broader list. (d) The solemnizing officer's authority is a formal requisite, governed by the law of the place of celebration.",
+  "key_note": "One Studocu copy marks b (proxy) in red, conflicting with its bold e. The answer is e: a proxy marriage valid where celebrated is valid here under Art. 26, par. 1."
+ },
+ {
+  "id": "R-76",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted)",
+  "type": "mcq",
+  "stem": "The marriage of A and B, both Filipinos, were solemnized in London in accordance with the laws in force in London and valid there as such. The marriage shall be void here in the Philippines if:",
+  "choices": [
+   "A was 18 years old, without parental authority.",
+   "It is a proxy marriage.",
+   "A and B are stepbrother and stepsister.",
+   "A and B are adopted children of the same adopter.",
+   "The marriage was solemnized by the Prime Minister of the United Kingdom."
+  ],
+  "answer": 3,
+  "explanation": "A marriage between adopted children of the same adopter is void for reasons of public policy under Art. 38(8), which is one of the exceptions in Art. 26, par. 1. It is void here even if valid in London. The others do not make the marriage void. (a) A party aged 18 without parental consent: voidable only (Art. 45(1)). (b) A proxy marriage: form, governed by lex loci. (c) Step-siblings: not prohibited under Art. 38. (e) Solemnization by the Prime Minister: authority is a formal matter governed by lex loci.",
+  "key_note": "Note: the samplex key marked b (proxy marriage); this is incorrect because the form of the ceremony, including a proxy marriage, is governed by lex loci celebrationis (Art. 26, par. 1). Art. 38(8) (adopted children of the same adopter) IS an Art. 26 exception. The compiler also flagged these answers as untrusted."
+ },
+ {
+  "id": "R-77",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "mcq",
+  "stem": "A and B were supposed to be married in New York. However, a day before marriage, A was in California and he had to attend to a very important matter so he asked a brother to represent him in the marriage ceremony. The brother represented him, and there was a ceremony (A was not there). What is the status of the marriage?",
+  "choices": [
+   "Valid if valid where celebrated (lex loci celebrationis, FC 26), even if A and B were Filipinos, unless it falls under the exceptions in FC 26",
+   "Void because a proxy marriage is always void",
+   "Voidable on the ground of mistake as to identity",
+   "Valid only if A and B were not Filipinos"
+  ],
+  "answer": 0,
+  "explanation": "Uribe's answer: a proxy marriage abroad is valid if valid where celebrated (lex loci celebrationis, Art. 26, par. 1), even if A and B are Filipinos. The exception is when the marriage falls under Arts. 35(1), (4), (5), (6), 36, 37 or 38. Personal appearance is a matter of form (Arts. 3(3), 6), and form is governed by the law of the place of celebration. A proxy marriage could not be validly celebrated IN the Philippines (Art. 6). C is wrong because the brother's appearance involves no mistake as to identity.",
+  "key_note": "Debated: some authors (e.g., Sempio-Diy) treat personal appearance as part of consent, an essential requisite, so a proxy marriage of Filipinos abroad would be void. Uribe follows lex loci."
+ },
+ {
+  "id": "R-78",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2025 Bar",
+  "type": "mcq",
+  "stem": "A, a member of a popular boy band in the Philippines, got his girlfriend, B, pregnant. A and B got married in Hong Kong where the legal age to get married was at least 15 years old. At the time of their marriage, A and B were 17 and 16 years old, respectively, and were both Filipino citizens. Subsequently, A continued with his career while B hid her pregnancy in the United States of America. She only returned to the Philippines after she gave birth to their son. By then though, B was already tired of being A's deep dark secret. She thus filed a petition for declaration of nullity of marriage on the ground that her marriage with A is void. Will the petition prosper?",
+  "choices": [
+   "No, because the marriage is valid in Hong Kong where it was celebrated and is thus valid here under Art. 26.",
+   "Yes, because their capacity is governed by Philippine law, and a marriage of a party below 18 is void, an exception to Art. 26(1).",
+   "No, because the marriage is merely voidable for lack of parental consent and has been ratified.",
+   "No, because B is in estoppel, having freely entered into the marriage."
+  ],
+  "answer": 1,
+  "explanation": "Yes. Art. 26, par. 1 recognizes marriages valid where celebrated, but Art. 35(1) is an express exception. The legal capacity of Filipinos is governed by Philippine law even abroad (Civil Code Art. 15). A and B were 17 and 16, below the minimum age of 18, so the marriage is void ab initio even though Hong Kong allows marriage at 15. R.A. 11596 (2021) also declares child marriages void and imprescriptibly assailable. The action for nullity does not prescribe (Art. 39), and estoppel or ratification cannot validate a void marriage.",
+  "key_note": null
+ },
+ {
+  "id": "R-79",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2003 Bar; Bar Q&A in PFR Reviewer 2013 (elmerpaquitolalong)",
+  "type": "mcq",
+  "stem": "Gene and Jane, Filipinos, met and got married in England while both were taking up postgraduate courses there. A few years after their graduation, they decided to annul their marriage. Jane filed an action to annul her marriage to Gene in England on the ground of the latter's sterility, a ground for annulment of marriage in England. The English court decreed the marriage annulled. Returning to the Philippines, Gene asked you whether or not he would now be free to marry his former girlfriend. What would your legal advice be?",
+  "choices": [
+   "Yes, because the annulment was validly decreed in England where they were married.",
+   "Yes, provided the English decree is judicially recognized under Art. 26(2).",
+   "Yes, because sterility amounts to physical incapacity to consummate the marriage.",
+   "No, because as Filipinos their marriage may be annulled only on grounds under Philippine law, and sterility is not a ground under Art. 45."
+  ],
+  "answer": 3,
+  "explanation": "No. The marriage was valid in form under English law (Art. 26, par. 1). Gene and Jane, however, remain Filipinos, and under Civil Code Art. 15 laws on family rights and duties and on status bind them even abroad. The annulment of their marriage must rest on a ground recognized by Philippine law. Sterility is not a ground under Art. 45, and it differs from physical incapacity to consummate (impotence) under Art. 45(5). The English decree therefore has no effect here, Gene remains married, and Art. 26(2) is irrelevant because neither spouse is an alien.",
+  "key_note": "The bar reviewers note an alternative view: voidability is governed by lex loci celebrationis, so the English annulment would be valid. The main answer (No) follows the nationality principle."
+ },
+ {
+  "id": "R-80",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #4",
+  "type": "tf",
+  "stem": "Under Article 26, paragraph 2 of the Family Code, the reckoning point is not the citizenship of the parties at the time of the celebration of the marriage, but their citizenship at the time a valid divorce is obtained abroad capacitating the alien to remarry.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "This is the holding of Republic v. Orbecido III (G.R. No. 154380, Oct. 5, 2005). Art. 26, par. 2 applies 'to include cases which involve parties who, at the time of the celebration of the marriage were Filipino citizens, but later on, one of them becomes naturalized as a foreign citizen and obtains a divorce decree.' The reckoning point is the parties' citizenship when the valid divorce is obtained abroad. Otherwise an absurd result follows: the alien spouse would be free to remarry while the Filipino spouse stays married to no one.",
+  "key_note": null
+ },
+ {
+  "id": "R-81",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned); Uribe samplex MCQ set (Studocu, 'kuya R' version)",
+  "type": "mcq",
+  "stem": "A and B, both Filipinos, got married in Tacloban City in 1995. Thereafter, A went to New York to work as a nurse, where he met C, also a Filipino citizen. In 1998, A obtained a divorce decree in New York. He became a citizen of New York in 2001. In 2002, A married C. In 2003, B married D in Tacloban City. Is the marriage between B and D valid?",
+  "choices": [
+   "Valid, because a divorce decree was obtained by A, thus, capacitating B to remarry.",
+   "Void, because A and B were Filipinos at the time of the marriage, therefore Article 26, par. 2 does not apply.",
+   "Valid, because when B married D, A was no longer a Filipino citizen.",
+   "Void, because A was still a Filipino at the time the divorce decree was obtained, thus, did not capacitate B to remarry D."
+  ],
+  "answer": 3,
+  "explanation": "Under Republic v. Orbecido III (2005), Art. 26(2) is applied by looking at citizenship at the time the divorce is obtained. In 1998 A was still a Filipino. A divorce obtained by a Filipino married to another Filipino is not recognized here, because Civil Code Art. 15 binds Filipinos even abroad. His later naturalization in 2001 does not validate it retroactively. The A-B marriage subsisted, B had no capacity to remarry, and B's 2003 marriage to D is bigamous and void (Art. 35(4)). Choice b reaches the right result for the wrong reason (it uses citizenship at the time of celebration), and c looks at the wrong point in time.",
+  "key_note": null
+ },
+ {
+  "id": "R-82",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "mcq",
+  "stem": "A and B, both Filipinos, got married in Tacloban City in 2005. Thereafter, A went to New York to work as a nurse, where he met C, also a Filipino citizen. In 2009, A obtained a divorce decree in New York. He became a citizen of New York in 2011. In 2012, A married C. In 2013, B married D in Tacloban City. Is the marriage between B and D valid?",
+  "choices": [
+   "Valid, because a divorce decree was obtained by A, thus, capacitating B to remarry.",
+   "Void, because A and B were Filipinos at the time the marriage, therefore Article 26, par. 2 does not apply.",
+   "Valid, because when B married D, A was no longer a Filipino citizen.",
+   "Valid, because even if a Filipino was the one who obtained the divorce decree, it capacitated B to remarry D.",
+   "none of the above."
+  ],
+  "answer": 4,
+  "explanation": "The B-D marriage is VOID, and none of a-d gives the right reason. Under Orbecido, what matters is citizenship when the divorce was obtained. A obtained the divorce in 2009 while still a Filipino and became a citizen of New York only in 2011, so the divorce does not capacitate B and B's marriage to D is bigamous (Arts. 35(4), 41). Choice b gives the outdated reason (citizenship at celebration). Choice d misreads Manalo: Manalo allows a divorce initiated by the FILIPINO spouse against an ALIEN spouse, but both spouses here were Filipinos at the time of the divorce, so Civil Code Art. 15 bars recognition.",
+  "key_note": null
+ },
+ {
+  "id": "R-83",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted)",
+  "type": "mcq",
+  "stem": "A and B, both Filipinos, got married in Tacloban City in 1991. Thereafter, A went to New York to work as a nurse where he met C, also a Filipino citizen. He became a citizen of New York in 1998. In 2001, A obtained a divorce decree in New York capacitating him to remarry. In 2002, A married C. In 2003, B married D in Tacloban City. Is the marriage between B and D valid?",
+  "choices": [
+   "Void, because A and B were Filipinos at the time of the marriage, therefore Article 26, par. 2 does not apply.",
+   "Valid, because when B married D, A was no longer a Filipino citizen.",
+   "Void, because A was still a Filipino at the time the divorce decree was obtained, thus, did not capacitate B to remarry D.",
+   "Valid, because a divorce decree was obtained by A, thus capacitating B to remarry."
+  ],
+  "answer": 3,
+  "explanation": "Under Republic v. Orbecido III (2005), citizenship is reckoned when the divorce is obtained. A became an American in 1998 and obtained the divorce in 2001, capacitating him to remarry. Under Art. 26(2), B, the Filipino spouse, has capacity to remarry. Choice a uses the outdated 'citizenship at the time of marriage' test. Choice c misstates the facts. Choice b points to the wrong time (B's remarriage). The divorce decree and A's national law must be proven, and the divorce judicially recognized in the Philippines (Garcia v. Recio; Corpuz v. Sto. Tomas).",
+  "key_note": "Under current practice, B should first obtain judicial recognition of the foreign divorce before remarrying. The item tests the Orbecido reckoning point."
+ },
+ {
+  "id": "R-84",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2005, 1992 Bar; Bar Q&A in PFR Reviewer 2013 (elmerpaquitolalong)",
+  "type": "mcq",
+  "stem": "In 1989, Maris, a Filipino citizen, married her boss Johnson, an American citizen, in Tokyo in a wedding ceremony celebrated according to Japanese laws. One (1) year later, Johnson returned to his native Nevada, and he validly obtained in that state an absolute divorce from his wife Maris. After Maris received the final judgment of divorce, she married her childhood sweetheart Pedro, also a Filipino citizen, in a religious ceremony in Cebu City, celebrated according to the formalities of Philippine law. Pedro later left for the United States and became naturalized as an American citizen. Maris followed Pedro to the United States, and after a serious quarrel, Maris filed a suit and obtained a divorce decree issued by the court in the state of Maryland. Maris then returned to the Philippines and in a civil ceremony celebrated in Cebu City according to the formalities of Philippine law, she married her former classmate Vincent likewise a Filipino citizen. Was the marriage of Maris and Johnson valid when celebrated? Is their marriage still validly existing now?",
+  "choices": [
+   "Void when celebrated, because it was not solemnized under Philippine law.",
+   "Valid when celebrated, but no longer existing, having been dissolved by the divorce validly obtained by Johnson.",
+   "Valid and still existing, because Philippine law does not recognize divorce.",
+   "Valid when celebrated and still existing until Maris herself obtains a divorce."
+  ],
+  "answer": 1,
+  "explanation": "Valid when celebrated: a marriage solemnized abroad in accordance with the laws of the place of celebration and valid there is valid here (Art. 26, par. 1). No longer existing: Johnson, the alien spouse, validly obtained an absolute divorce capacitating him to remarry. Under Art. 26, par. 2 the Filipino spouse, Maris, 'shall have capacity to remarry under Philippine law'. The marriage was therefore dissolved, subject to judicial recognition of the divorce in a Philippine court.",
+  "key_note": null
+ },
+ {
+  "id": "R-85",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2005, 1992 Bar; QuAMTO 1987-2017 – 1992, 2005 Bar",
+  "type": "mcq",
+  "stem": "In 1989, Maris, a Filipino citizen, married her boss Johnson, an American citizen, in Tokyo in a wedding ceremony celebrated according to Japanese laws. One (1) year later, Johnson returned to his native Nevada, and he validly obtained in that state an absolute divorce from his wife Maris. After Maris received the final judgment of divorce, she married her childhood sweetheart Pedro, also a Filipino citizen, in a religious ceremony in Cebu City, celebrated according to the formalities of Philippine law. Pedro later left for the United States and became naturalized as an American citizen. Maris followed Pedro to the United States, and after a serious quarrel, Maris filed a suit and obtained a divorce decree issued by the court in the state of Maryland. Maris then returned to the Philippines and in a civil ceremony celebrated in Cebu City according to the formalities of Philippine law, she married her former classmate Vincent likewise a Filipino citizen. Was the marriage of Maris and Vincent valid when celebrated, and who is the lawful husband of Maris at this point in time?",
+  "choices": [
+   "The marriage with Vincent is void for being bigamous; Pedro remains her lawful husband.",
+   "The marriage with Vincent is valid (subject to judicial recognition of the Maryland divorce); Vincent is her lawful husband.",
+   "The marriage with Vincent is voidable; Vincent is her lawful husband until annulment.",
+   "All her marriages after Johnson are void; Johnson remains her lawful husband."
+  ],
+  "answer": 1,
+  "explanation": "Pedro was already a naturalized American when the Maryland divorce was obtained. Under Republic v. Orbecido III (2005), Art. 26(2) applies because citizenship is reckoned at the time of the divorce. Under Republic v. Manalo (2018), it does not matter that Maris, the Filipino spouse, initiated the divorce, so long as the divorce is valid under the alien spouse's national law and capacitates him to remarry. Maris was therefore capacitated to marry Vincent, assuming the divorce and the foreign law are proven and the divorce is judicially recognized. Vincent is her lawful husband.",
+  "key_note": "Note: the bar reviewers' key (written before Orbecido and Manalo) marked the Vincent marriage void and Pedro as the lawful husband; this is incorrect under current law, because citizenship is reckoned at the time of divorce (Orbecido) and the Filipino spouse may be the one who obtains the divorce (Manalo)."
+ },
+ {
+  "id": "R-86",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 1996 Bar; Bar Q&A in PFR Reviewer 2013 (elmerpaquitolalong)",
+  "type": "mcq",
+  "stem": "Flor and Virgilio were married to each other in Roxas City in 1980. In 1984, Flor was offered a teaching job in Canada, which she accepted. In 1989, she applied for and was granted Canadian citizenship. The following year, she sued for divorce from Virgilio in a Canadian court. After Virgilio was served with summons, the Canadian court tried the case and decreed the divorce. Shortly thereafter, Flor married a Canadian. Can Virgilio marry again in the Philippines?",
+  "choices": [
+   "No, because both were Filipinos at the time of the marriage, so Art. 26 does not apply.",
+   "Yes, because Flor was already a foreigner when she obtained the divorce.",
+   "No, because divorce is contrary to public policy.",
+   "Yes, but only after a declaration of presumptive death."
+  ],
+  "answer": 1,
+  "explanation": "Yes. Flor was a naturalized Canadian when she obtained the divorce. Under Republic v. Orbecido III (2005), Art. 26(2) applies even if both spouses were Filipinos at the time of the marriage, because the reckoning point is citizenship when the divorce is obtained. Virgilio, the Filipino spouse, acquires capacity to remarry once the Canadian divorce, and Flor's capacity to remarry under Canadian law, are proven and judicially recognized in the Philippines. A declaration of presumptive death (d) applies only to an absent spouse.",
+  "key_note": "Note: the bar reviewers' key marked a (No, both were Filipinos at the time of marriage); this is incorrect because Republic v. Orbecido III (2005) reckons citizenship at the time the divorce is obtained."
+ },
+ {
+  "id": "R-87",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2009, 1999, 1996 Bar; UP BOC – 2009 Bar",
+  "type": "mcq",
+  "stem": "Harry married Wilma, a very wealthy woman. Barely five (5) years into the marriage, Wilma fell in love with Joseph. Thus, Wilma went to a small country in Europe, became a naturalized citizen of that country, divorced Harry, and married Joseph. A year thereafter, Wilma and Joseph returned and established permanent residence in the Philippines. Harry tells you that he has fallen in love with another woman, Elizabeth, and wants to marry her because, after all, Wilma is already married to Joseph. Can Harry legally marry Elizabeth?",
+  "choices": [
+   "No, because Harry and Wilma were both Filipinos when they married.",
+   "Yes, immediately, because Wilma already remarried.",
+   "Yes, after he obtains judicial recognition of the foreign divorce obtained by Wilma, then a foreigner.",
+   "No, unless he first secures a declaration of nullity under Art. 36."
+  ],
+  "answer": 2,
+  "explanation": "Yes, but only after judicial recognition of the foreign divorce. Wilma was already a naturalized foreign citizen when she divorced Harry. Under Republic v. Orbecido III (2005), Art. 26(2) applies even though both were Filipinos at the time of the marriage, so Harry, the Filipino spouse, acquires capacity to remarry. Wilma's remarriage does not by itself free Harry (b). He must have the divorce decree and Wilma's national law proven and recognized in a Philippine court (Corpuz v. Sto. Tomas, 2010; Garcia v. Recio, 2001). Art. 36 (d) is unrelated.",
+  "key_note": null
+ },
+ {
+  "id": "R-88",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2005 Bar; Bar Q&A in PFR Reviewer 2013 (elmerpaquitolalong)",
+  "type": "mcq",
+  "stem": "In 1985, Sonny and Lulu, both Filipino citizens, were married in the Philippines. In 1987, they separated, and Sonny went to Canada, where he obtained a divorce in the same year. He then married another Filipina, Auring, in Canada on 01 Jan. 1988. They had two sons, James and John. In 1990, after failing to hear from Sonny, Lulu married Tirso, by whom she had a daughter, Verna. In 1991, Sonny visited the Philippines where he succumbed to heart attack. Discuss the effect of the divorce obtained by Sonny in Canada.",
+  "choices": [
+   "It dissolved the marriage, since it was valid in Canada where it was obtained.",
+   "It capacitated Lulu to remarry under Art. 26(2), FC.",
+   "It has no effect, because both spouses were Filipino citizens at the time; their marriage subsisted.",
+   "It converted the marriage into a voidable one."
+  ],
+  "answer": 2,
+  "explanation": "The divorce had no effect. Sonny and Lulu were both Filipino citizens when Sonny obtained the divorce in Canada. Under Civil Code Art. 15, laws on family rights and duties and on status bind Filipinos even abroad, so a divorce between two Filipinos is not recognized here (Tenchavez v. Escaño; Garcia v. Recio). Art. 26(2) does not apply because neither spouse was an alien when the divorce was obtained. The marriage subsisted. Sonny's marriage to Auring (January 1, 1988, before the Family Code took effect) is void as bigamous under Civil Code Art. 83. Lulu's 1990 marriage to Tirso is void as bigamous under FC Arts. 35(4) and 41, since she did not obtain a judicial declaration of presumptive death (and four years of absence had not even elapsed).",
+  "key_note": null
+ },
+ {
+  "id": "R-89",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 2006 Bar; Bar Q&A in PFR Reviewer 2013 (elmerpaquitolalong)",
+  "type": "mcq",
+  "stem": "Marvin, a Filipino, and Shelley, an American, both residents of California, decided to get married in their local parish. Two years after their marriage, Shelley obtained a divorce in California. While in Boracay, Marvin met Manel, a Filipina, who was vacationing there. Marvin fell in love with her. After a brief courtship and complying with all the requirements, they got married in Hongkong to avoid publicity, it being Marvin's second marriage. Is his marriage to Manel valid?",
+  "choices": [
+   "No, because Marvin's first marriage subsists; divorce is not recognized.",
+   "Yes, because the divorce obtained by Shelley, the alien spouse, capacitated Marvin to remarry under Art. 26(2).",
+   "No, because they married abroad to avoid publicity.",
+   "Yes, because the marriage is valid in Hongkong regardless of Marvin's capacity."
+  ],
+  "answer": 1,
+  "explanation": "Valid. The Marvin-Shelley marriage, celebrated in California and valid there, is valid here (Art. 26, par. 1). Shelley, the alien spouse, then validly obtained a divorce in California capacitating her to remarry. Under Art. 26, par. 2, Marvin, the Filipino spouse, acquired capacity to remarry. His marriage to Manel, solemnized in Hong Kong in compliance with all requirements, is valid if valid there (Art. 26, par. 1) and is not bigamous. Marrying abroad to avoid publicity has no legal effect. Marvin should have the divorce judicially recognized for it to have effect in Philippine records.",
+  "key_note": null
+ },
+ {
+  "id": "R-90",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2022 Bar",
+  "type": "mcq",
+  "stem": "Eka, a Filipina, and Du-guil, a Korean, married in the Philippines. Thereafter, they moved to Seoul, South Korea. While there, Du-guil began to ignore Eka. He was always out with his friends and usually came home drunk. When Eka could not take their marital situation anymore, she asked for a divorce. Du-guil agreed on the condition that Eka would be the one to file for divorce, and that the ground should be \"no fault\", meaning, neither of them is at fault or neither would be accused of any wrongdoing. After the divorce, Eka went back to the Philippines and filed a case to have the judgment of divorce recognized. The RTC denied Eka's petition because she alone filed for divorce, in violation of Art. 26(2) of the Family Code. According to the RTC, Art. 26 requires that either the foreign spouse alone initiates the filing of the divorce or, at the very least, Eka and Du-guil should have filed for divorce jointly. Is the RTC correct?",
+  "choices": [
+   "Yes, because Art. 26(2) requires that the divorce be obtained by the alien spouse.",
+   "Yes, because a divorce obtained solely by the Filipino spouse is contrary to Art. 15 of the Civil Code.",
+   "No, because Art. 26(2) applies regardless of whether the divorce was initiated by the foreign spouse, jointly, or by the Filipino spouse alone.",
+   "No, because a no-fault divorce is always recognized in the Philippines without need of judicial recognition."
+  ],
+  "answer": 2,
+  "explanation": "The RTC is wrong. In Republic v. Manalo (G.R. No. 221029, April 24, 2018, En Banc), the Court held that Art. 26(2) requires only that a divorce be 'validly obtained abroad'. It does not matter who initiated the proceeding, so long as the divorce capacitates the alien spouse to remarry. Galapon v. Republic (2020) and Abel v. Rule (2021) reiterate that Art. 26(2) applies whether the divorce is obtained by the foreign spouse, jointly, or solely by the Filipino spouse. Eka may have the divorce recognized upon proof of the decree and Korean law. Choice d is wrong because judicial recognition is always required.",
+  "key_note": null
+ },
+ {
+  "id": "R-91",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "tf",
+  "stem": "A divorce decree obtained abroad may only be recognized if it is obtained by a Filipino?",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "False. Under Art. 26(2) as construed in Republic v. Manalo (2018), a foreign divorce in a mixed marriage may be recognized whether it was obtained by the alien spouse (as in Pilapil v. Ibay-Somera, where the German husband obtained it) or by the Filipino spouse, so long as it was validly obtained abroad and capacitated the alien spouse to remarry. A divorce obtained by a Filipino against another Filipino is NOT recognized (Civil Code Art. 15). Recognition does not depend on which spouse obtained the decree.",
+  "key_note": "The transcript of this recitation question appears garbled (likely 'only if obtained by the foreign spouse'). Under either reading the answer is False under Manalo."
+ },
+ {
+  "id": "R-92",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Where a marriage between a Filipino citizen and a foreigner is validly celebrated and a divorce is thereafter validly obtained abroad by the alien spouse capacitating him or her to remarry, the Filipino spouse shall have capacity to remarry under Philippine law.",
+   "2. If it is the Filipino spouse in a mixed marriage who obtains the divorce abroad against the alien spouse, the divorce will not be recognized in the Philippines and the Filipino spouse cannot remarry under Philippine law."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is the text of FC Art. 26, par. 2 (added by E.O. 227), so it is true. Tolentino (PDF p. 162, book p. 263) states the view in No. 2 and criticizes it as placing the Filipino on a plane of inequality. That view is now outdated: Republic v. Manalo (G.R. No. 221029, April 24, 2018, En Banc) held that Art. 26(2) applies even if it was the Filipino spouse who initiated and obtained the divorce abroad, provided it was validly obtained and capacitated the alien spouse to remarry. No. 2 is false under current law. The decree and the alien spouse's national law must still be proven and the divorce judicially recognized.",
+  "key_note": null
+ },
+ {
+  "id": "R-93",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2010 Bar; UP BOC – 2010 Bar",
+  "type": "tf",
+  "stem": "Under Article 26 of the Family Code, when a foreign spouse divorces his/her Filipino spouse, the latter may re-marry by proving only that the foreign spouse has obtained a divorce against her or him abroad.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "False. Under Garcia v. Recio (G.R. No. 138322, Oct. 2, 2001), the Filipino spouse must prove not only that the alien spouse obtained a divorce abroad, but also that the divorce is valid under the alien's national law and capacitated the alien spouse to remarry. Art. 26(2) requires a divorce 'validly obtained abroad ... capacitating him or her to remarry'. Philippine courts do not take judicial notice of foreign laws or judgments, so both the decree and the national law must be alleged and proven, and the divorce judicially recognized (Corpuz v. Sto. Tomas, 2010).",
+  "key_note": "The UP BOC answer also notes an alternative answer (True), reading Art. 26(2) as making the divorce itself sufficient. The main answer follows Garcia v. Recio."
+ },
+ {
+  "id": "R-94",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 2014 Bar; UP BOC – 2014 Bar",
+  "type": "mcq",
+  "stem": "Ted, married to Annie, went to Canada to work. Five (5) years later, Ted became a naturalized Canadian citizen. He returned to the Philippines to convince Annie to settle in Canada. Unfortunately, Ted discovered that Annie and his friend Louie were having an affair. Deeply hurt, Ted returned to Canada and filed a petition for divorce which was granted. In December 2013, Ted decided to marry his childhood friend Corazon in the Philippines. In preparation for the wedding, Ted went to the Local Civil Registry of Quezon City where his marriage contract with Annie was registered. He asked the Civil Register to annotate the decree of divorce on his marriage contract with Annie. However, he was advised by the National Statistics Office (NSO) to file a petition for judicial recognition of the decree of divorce in the Philippines. Is it necessary for Ted to file a petition for judicial recognition of the decree of divorce he obtained in Canada before he can contract a second marriage in the Philippines?",
+  "choices": [
+   "No, because Ted is already a Canadian citizen and is not bound by Philippine law.",
+   "Yes, because a foreign divorce decree has no effect in the Philippines until judicially recognized, upon proof of the decree and the foreign law.",
+   "No, because the civil registrar may annotate a foreign divorce decree administratively.",
+   "Yes, because divorce obtained by a former Filipino is never recognized in the Philippines."
+  ],
+  "answer": 1,
+  "explanation": "Yes. A foreign divorce decree, even if validly obtained, has no effect in the Philippines until it is judicially recognized in an appropriate proceeding. Philippine courts do not take judicial notice of foreign judgments and laws. Ted must prove the fact of divorce by an official copy, the jurisdiction of the Canadian court, and Canadian law on divorce (Corpuz v. Sto. Tomas, G.R. No. 186571, Aug. 11, 2010; Rule 108; Rule 39, Sec. 48). The civil registrar cannot annotate the decree administratively without a court order. D is wrong: a divorce obtained by a former Filipino who was already an alien is recognizable (Orbecido).",
+  "key_note": null
+ },
+ {
+  "id": "R-95",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. For a marriage in a remote place to be exempt from the license requirement, the habitual residence of the female must be at least fifteen kilometers from the municipal building, besides the absence of means of transportation.",
+   "2. In case either or both of the contracting parties are at the point of death, the marriage may be solemnized without necessity of a marriage license and shall remain valid even if the ailing party subsequently survives."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Under FC Art. 28, the marriage may be solemnized without a license if the residence of EITHER party is so located that there is no means of transportation to appear personally before the local civil registrar. Civil Code Art. 72 also required that the female's habitual residence be at least 15 kilometers from the municipal building, but the Family Code dropped this, and the handicap may be that of the male or the female (Tolentino, book pp. 265-266). No. 2 is true: it reproduces Art. 27. If the party was actually at the point of death, his later recovery does not affect validity.",
+  "key_note": null
+ },
+ {
+  "id": "R-96",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned); Uribe samplex MCQ set (Studocu, 'kuya R' version)",
+  "type": "mcq",
+  "stem": "X, a Roman Catholic, and Y, a Baptist had been living together as husband and wife without the benefit of marriage since January 1, 2006, although both are capacitated to marry each other. On March 1, 2011, in a birthday party in Quezon City, X suffered a heart attack. Believing that X was about to die, Y asked Z, a parish priest of Palo, Leyte to solemnize her marriage to X. Z solemnized the marriage. Today, X is still practicing his profession. Is the marriage valid?",
+  "choices": [
+   "Void, because the priest had no authority to solemnize marriages in Quezon City.",
+   "Void, because of the lack of a marriage license.",
+   "Void, because X survived the heart attack.",
+   "Valid despite the absence of a marriage license because X subsequently survived.",
+   "Valid despite the absence of a marriage license because they have been living together as husband and wife since January 1, 2006."
+  ],
+  "answer": 4,
+  "explanation": "From January 1, 2006 to March 1, 2011, X and Y, both capacitated, lived together as husband and wife for more than five years. Their marriage is therefore exempt from the license requirement under Art. 34, and it is independently exempt as a marriage in articulo mortis under Art. 27. A priest's authority (Art. 7(2)) is not limited to his parish or territory. X is a Roman Catholic, which satisfies the membership proviso, and venue does not matter for a marriage at the point of death (Art. 8). Choice d gives the wrong reason: the marriage is valid whether or not X survived, not because he survived (Art. 27).",
+  "key_note": null
+ },
+ {
+  "id": "R-97",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "mcq",
+  "stem": "X, a Roman Catholic, and Y, a Baptist, had been living together as husband and wife without the benefit of marriage since April 1, 2006, although both are capacitated to marry each other. On March 1, 2011, in a birthday party in Quezon City, X suffered a heart attack. Believing that X was about to die, Y asked Z, a parish priest of Palo, Leyte to solemnize her marriage to X. Z solemnized the marriage. Today, X is still practicing his profession. Is the marriage valid, voidable or void?",
+  "choices": [
+   "Valid despite the absence of a marriage license because X subsequently survived.",
+   "Valid despite the absence of a marriage license because they have been living together as husband and wife since April 1, 2006.",
+   "Void, because the priest had no authority to solemnize marriage in Quezon City",
+   "Void because of the lack of a marriage license.",
+   "None of the above."
+  ],
+  "answer": 4,
+  "explanation": "Valid, but none of a-d gives the right reason. Under Art. 27, a marriage in articulo mortis may be solemnized without a license and 'shall remain valid even if the ailing party subsequently survives'. It is valid because X was at the point of death when it was solemnized, not because he survived, so a is wrong. From April 1, 2006 to March 1, 2011 is less than five years, so Art. 34 does not apply and b is wrong. A priest's authority is not territorial (c), and d ignores the articulo mortis exemption. (Uribe agreed with e in the class discussion.)",
+  "key_note": null
+ },
+ {
+  "id": "R-98",
+  "topic": "req",
+  "origin": "bar",
+  "src": "QuAMTO – 1995 Bar; QuAMTO 1987-2017 – 1995 Bar",
+  "type": "mcq",
+  "stem": "Isidro and Irma, Filipinos, both 18 years of age, were passengers of Flight No. 317 of Oriental Airlines. The plane they boarded was of Philippine registry. While en route from Manila to Greece some passengers hijacked the plane, held the chief pilot hostage at the cockpit and ordered him to fly instead to Libya. During the hijacking Isidro suffered a heart attack and was on the verge of death. Since Irma was already eight months pregnant by Isidro, she pleaded to the hijackers to allow the assistant pilot to solemnize her marriage with Isidro. Soon after the marriage, Isidro expired. As the plane landed in Libya Irma gave birth. However, the baby died a few minutes after complete delivery. Back in the Philippines Irma immediately filed a claim for inheritance. The parents of Isidro opposed her claim contending that the marriage between her and Isidro was void ab initio on the following grounds: (a) They had not given their consent to the marriage of their son; (b) There was no marriage license; (c) The solemnizing officer had no authority to perform the marriage; and (d) The solemnizing officer did not file an affidavit of marriage with the proper civil registrar. Which contention is correctly resolved?",
+  "choices": [
+   "The marriage is void because the parents of the 18-year-old parties did not consent.",
+   "The marriage is void for lack of a marriage license.",
+   "The marriage is void because only the chief pilot, not the assistant pilot, may solemnize marriages in articulo mortis.",
+   "None of the contentions renders the marriage void: lack of parental consent makes it voidable, the in articulo mortis marriage is license-exempt, the assistant pilot acting for the disabled chief pilot had authority, and non-filing of the affidavit is a mere irregularity."
+  ],
+  "answer": 3,
+  "explanation": "(a) Isidro and Irma, both 18, lacked parental consent, which makes the marriage voidable, not void (Arts. 14, 45(1)). (b) A marriage in articulo mortis between passengers or crew members is exempt from the license requirement (Arts. 27, 31). (c) The bar answer treats the assistant pilot, acting for an airplane chief held hostage, as authorized under Arts. 7(3) and 31 given the extraordinary circumstances. Even on a strict view, Art. 35(2) would save the marriage if either party believed in good faith that he had authority. (d) The solemnizing officer's failure to file the affidavit (Arts. 29-30) is a mere irregularity (Art. 4, par. 3). None of the contentions makes the marriage void.",
+  "key_note": "Contention (c) is debatable. Arts. 7(3) and 31 name only the airplane chief or pilot, and Uribe teaches that a first officer has no authority. The bar suggested answer rests on the chief pilot's disability. The other three resolutions are settled."
+ },
+ {
+  "id": "R-99",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. A marriage in articulo mortis between passengers or crew members may be solemnized by a ship captain or by an airplane pilot not only while the ship is at sea or the plane is in flight, but also during stopovers at ports of call.",
+   "2. A military commander of a unit who is a commissioned officer may solemnize marriages in articulo mortis only between members of the armed forces within the zone of military operation."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true: it reproduces FC Art. 31. No. 2 is false: Art. 32 authorizes a military commander of a unit who is a commissioned officer to solemnize marriages in articulo mortis 'between persons within the zone of military operation, whether members of the armed forces or CIVILIANS'. Under Art. 7(4) he may act only in the absence of the chaplain assigned to the unit. Tolentino notes that the Civil Code limited this authority to time of war, while the Family Code speaks of military operations (book p. 267).",
+  "key_note": null
+ },
+ {
+  "id": "R-100",
+  "topic": "req",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Under present law, a marriage between members of an ethnic cultural community, one of whom is sixteen years old, is valid if solemnized in accordance with their customs, rites or practices.",
+   "2. Marriages among Muslims or among members of the ethnic cultural communities may be performed validly without the necessity of a marriage license, provided they are solemnized in accordance with their customs, rites or practices."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. The license exemption in Art. 33 does not dispense with the essential requisites (Art. 2). Tolentino (book pp. 267-268), citing People v. Mora Dumpo, suggested the age requirement might yield to non-Christian customs, but that view is outdated. R.A. 11596 (2021) declares child marriages, where a party is below 18, void ab initio and penalizes them, and after its one-year transition period it applies to Muslim and indigenous communities as well. No. 2 is true: it reproduces Art. 33. The Civil Code (Art. 78) gave this privilege only to non-Christians living in non-Christian provinces, and the Family Code removed that limit. Muslim marriages are also governed by P.D. 1083.",
+  "key_note": null
+ },
+ {
+  "id": "R-101",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #6",
+  "type": "tf",
+  "stem": "No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for at least five years and without any legal impediment to marry each other.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "This reproduces the first sentence of FC Art. 34. The parties must state these facts in an affidavit before any person authorized to administer oaths, and the solemnizing officer must state under oath that he ascertained their qualifications and found no legal impediment. Under Niñal v. Bayadog (2000) and Manzano v. Sanchez (2001), the five years must immediately precede the marriage, be continuous and exclusive, and be free of any legal impediment throughout, and there must be no impediment at the time of the marriage.",
+  "key_note": null
+ },
+ {
+  "id": "R-102",
+  "topic": "req",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "tf",
+  "stem": "If X died in 1987, the marriage between X and Y may be valid even if there was no marriage license if they cohabited as husband and wife for six years prior to the marriage and their cohabitation was not entirely free from legal impediment.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "X died in 1987, so the X-Y marriage was celebrated under the Civil Code. Civil Code Art. 76 exempted from the license requirement a man and a woman of age who, 'being unmarried, have lived together as husband and wife for at least five years'. Niñal v. Bayadog (2000) requires that the five-year period, counted back from the day of the marriage, be free of legal impediment. If the parties cohabited for six years and the impediment existed only at the start, the five years immediately before the marriage may have been impediment-free. The marriage therefore MAY be valid without a license.",
+  "key_note": "Note: the class answer key marked this False (on the view that Niñal requires the whole cohabitation to be impediment-free); this is incorrect because only the five years immediately before the marriage count, as Uribe himself explained in the discussion. Watch the word 'may'."
+ },
+ {
+  "id": "R-103",
+  "topic": "req",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "A and B were married. During the subsistence of their marriage, A left the conjugal abode and lived with C as husband and wife. Six years later, B died. Two years after B's death, A and C, who continued to live together, were married under the Family Code without a marriage license, executing an affidavit under Article 34 that they had lived together as husband and wife for at least five years. A died yesterday, and the heirs of B assail the validity of the marriage of A and C for lack of a marriage license. The marriage of A and C is:",
+  "choices": [
+   "Valid, because A and C had cohabited for eight years and had no legal impediment at the time of their marriage",
+   "Void, because the five-year cohabitation under Article 34 must itself be free of any legal impediment, and A was still married to B during most of that period",
+   "Voidable, because the affidavit under Article 34 was false",
+   "Valid, because a false Article 34 affidavit is a mere irregularity in a formal requisite",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "Uribe's answer (2025 recitation): VALID. Under FC Art. 34, as Uribe reads Borja-Manzano v. Sanchez (2001), the exemption requires at least five years of cohabitation as husband and wife and no legal impediment at the time of the marriage. B was already dead when A and C married, so there was no impediment at the time of solemnization, and the marriage is valid without a license. Uribe distinguished the Civil Code: if the Civil Code governed (Art. 76, 'being unmarried'), Niñal v. Bayadog would make the marriage void.",
+  "key_note": "Contrary (stricter) view: Niñal v. Bayadog, Manzano v. Sanchez as commonly read, and Republic v. Dayot (2008) require the five-year cohabitation itself to be exclusive, continuous and free of impediment, which would make this marriage void. For Uribe's quiz, answer VALID (his stated teaching) and mention the strict view in essays."
+ },
+ {
+  "id": "R-104",
+  "topic": "req",
+  "origin": "bar",
+  "src": "UP BOC – 2008 Bar",
+  "type": "mcq",
+  "stem": "Roderick and Faye were high school sweethearts. When Roderick was 18 and Faye, 16 years old, they started to live together as husband and wife without the benefit of marriage. When Faye reached 18 years of age, her parents forcibly took her back and arranged for her marriage to Brad. Although Faye lived with Brad after the marriage, Roderick continued to regularly visit Faye while Brad was away at work. During their marriage, Faye gave birth to a baby girl, Laica. When Faye was 25 years old, Brad discovered her continued liaison with Roderick and in one of their heated arguments, Faye shot Brad to death. She lost no time in marrying her true love Roderick, without a marriage license, claiming that they have been continuously cohabiting for more than 5 years. Was the marriage of Roderick and Faye valid?",
+  "choices": [
+   "Valid, since they had cohabited for more than 5 years, exempting them from a license under Art. 34.",
+   "Valid, since a license is a mere formal requisite.",
+   "Void, because there was no marriage license and they were not exempt: no 5 continuous years of cohabitation without legal impediment.",
+   "Voidable, because Faye was a minor when cohabitation began."
+  ],
+  "answer": 2,
+  "explanation": "Void. Art. 34 requires at least five years of cohabitation as husband and wife, immediately before the marriage, that is continuous, exclusive and free of any legal impediment throughout (Niñal v. Bayadog; Manzano v. Sanchez; Republic v. Dayot). Here Faye was below 18 when the cohabitation began, then married Brad, and saw Roderick only on occasional visits. That is not cohabitation as husband and wife, and her subsisting marriage to Brad was a legal impediment. With no license and no valid exemption, the marriage is void (Art. 35(3)). (Faye's killing of Brad may also raise the Art. 38(9) impediment.)",
+  "key_note": null
+ }
+]

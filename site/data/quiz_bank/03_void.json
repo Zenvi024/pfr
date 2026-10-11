@@ -1,0 +1,1684 @@
+[
+ {
+  "id": "V-1",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style application)",
+  "type": "mcq",
+  "stem": "In 2023, A, 25 years old, married B, who was then 17 years old, with the written consent of B's parents. All other requisites were complied with. The marriage of A and B is:",
+  "choices": [
+   "Valid, because B's parents gave their written consent",
+   "Voidable, at the instance of B or her parents before B reaches 21",
+   "Void, because B was below eighteen years of age",
+   "Valid, if B ratifies the marriage by freely cohabiting with A after reaching 18",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 35(1), FC: marriages contracted by any party below eighteen years of age are void from the beginning EVEN WITH the consent of parents or guardians. Parental consent matters only for parties 18 to below 21 (Art. 45(1), voidable). A void marriage cannot be ratified by cohabitation. R.A. 11596 (2021) further declares child marriages void and penalizes their facilitation and solemnization.",
+  "key_note": null
+ },
+ {
+  "id": "V-2",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 2006 Bar; Bar Q&A in PFR Reviewer 2013 (elmerpaquitolalong)",
+  "type": "mcq",
+  "stem": "Ric, who was validly married to Gigi, separated from her without any court action. While separated, Ric fell in love with Juliet, a 16-year-old college sophomore. They decided to get married with the consent of Juliet's parents. She presented to him a birth certificate showing she is 18 years old; Ric never doubted her age or the authenticity of the birth certificate. They got married in a Catholic church in Manila. What is the status of the marriage between Ric and Juliet?",
+  "choices": [
+   "Valid, since Juliet's parents consented.",
+   "Voidable, since Ric acted in good faith.",
+   "Void, because Juliet was below 18 years of age; such a marriage is void under all circumstances.",
+   "Valid, since the birth certificate showed she was 18."
+  ],
+  "answer": 2,
+  "explanation": "Art. 35(1), FC: a marriage contracted by a party below 18 is void even with parental consent; neither the parents' consent nor Ric's good-faith reliance on the falsified birth certificate cures it. The marriage is also void on a second ground: Ric's marriage to Gigi was subsisting, making it bigamous and not covered by Art. 41 (Art. 35(4)). Good faith matters under Art. 35(2) (authority of the solemnizing officer), not as to age.",
+  "key_note": "The 2006 Bar facts also ask about the Gigi-Ric marriage (Baptist minister with an expired license; neither party a Baptist). Suggested answers split between valid (good faith under Art. 35(2)) and void (mistake of law), so that sub-question was not included."
+ },
+ {
+  "id": "V-3",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2025 Bar",
+  "type": "mcq",
+  "stem": "On March 15, 2025, A and B got married before Judge C as the solemnizing officer inside her chambers in the Regional Trial Court for Makati City. Unknown to both A and B, Judge C was dismissed from the service by the Supreme Court on March 14, 2025, due to grave misconduct. Judge C was only able to gain access to her chambers on the day of the wedding to collect her things. What is the status of A and B's marriage?",
+  "choices": [
+   "Valid, because either or both parties believed in good faith that Judge C had the legal authority to solemnize.",
+   "Void, because Judge C no longer had authority to solemnize marriages.",
+   "Voidable, because of the defect in the authority of the solemnizing officer.",
+   "Valid, only because the marriage was solemnized inside the judge's chambers."
+  ],
+  "answer": 0,
+  "explanation": "Art. 35(2), FC: marriages solemnized by any person not legally authorized are void UNLESS contracted with either or both parties believing in good faith that the solemnizing officer had legal authority. Judge C lost her authority when she was dismissed on March 14, 2025, but A and B did not know this. They had a good-faith belief, based on a mistake of fact, that she was still an incumbent judge, so the marriage is valid. The officer may be held liable, but that does not affect the validity of the marriage.",
+  "key_note": null
+ },
+ {
+  "id": "V-4",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2016 Bar; UP BOC – 2016 Bar",
+  "type": "mcq",
+  "stem": "Brad and Angelina had a secret marriage before a pastor whose office is located in Arroceros Street, City of Manila. They paid money to the pastor who took care of all the documentation. When Angelina wanted to go to the U.S., she found out that there was no marriage license issued to them before their marriage. Since their marriage was solemnized in 1995 after the effectivity of the Family Code, Angelina filed a petition for judicial declaration of nullity on the strength of a certification by the Civil Registrar of Manila that, after a diligent and exhaustive search, the alleged marriage license indicated in the marriage certificate does not appear in the records and cannot be found. Decide the case.",
+  "choices": [
+   "Dismiss the petition, because the marriage certificate is the best evidence of the marriage and is presumed valid.",
+   "Declare the marriage void for absence of a marriage license, as shown by the civil registrar's certification of due search and inability to find.",
+   "Declare the marriage voidable, as the absence of a license is a mere irregularity.",
+   "Dismiss the petition, because Angelina is in pari delicto for paying the pastor."
+  ],
+  "answer": 1,
+  "explanation": "Arts. 3(2), 4 and 35(3), FC: the marriage license is a formal requisite, and its absence (outside the exceptional marriages in Arts. 27-34) makes the marriage void ab initio. A certification by the local civil registrar, the official custodian, that after diligent search the license cannot be found is adequate proof that no license was issued (Republic v. CA and Castro, 1994; Abbas v. Abbas, 2013). Paying the pastor does not create an in pari delicto bar to a petition for nullity.",
+  "key_note": null
+ },
+ {
+  "id": "V-5",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – True or False compilation (scanned); Uribe samplex MCQ set (Studocu, Quiz #1 unknown source); Uribe samplex (QUIZ, FC T/F - copy 1); Uribe samplex (QUIZ, FC T/F - copy 2)",
+  "type": "tf",
+  "stem": "Bigamous or polygamous marriages are void.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 35(4), FC declares void only those bigamous or polygamous marriages NOT FALLING UNDER ARTICLE 41. A subsequent marriage contracted after the prior spouse has been absent for four consecutive years (two years with danger of death), on a well-founded belief of death and with a judicial declaration of presumptive death, is valid until terminated under Art. 42. The statement is therefore not absolutely true.",
+  "key_note": null
+ },
+ {
+  "id": "V-6",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned)",
+  "type": "tf",
+  "stem": "A marriage contracted by any person during subsistence of a previous marriage shall be null and void.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "This statement copies only the first part of Art. 41, FC, which reads: 'A marriage contracted by any person during subsistence of a previous marriage shall be null and void, UNLESS before the celebration of the subsequent marriage, the prior spouse had been absent for four consecutive years and the spouse present has a well-founded belief that the absent spouse was already dead.' Because the statement omits the exception, it is not absolutely true. (Source: Midterm Part One #2, Statement 2.)",
+  "key_note": null
+ },
+ {
+  "id": "V-7",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Where a person merely represents himself to be somebody else by assuming the name of the latter, and the other party marries him believing he is the person whose name he assumed, there is a mistake as to identity which renders the marriage void.",
+   "2. Marriages contracted through mistake of one contracting party as to the identity of the other are void from the beginning."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "Art. 35(5), FC voids marriages contracted through mistake of one party as to the IDENTITY of the other, so No. 2 is the text of the law and is true. Tolentino (PDF pp. 167-168) explains that the mistake must be as to the person himself, as when twin Y is substituted for X (cf. Jacob, who married Leah instead of Rachel). If a person merely assumes another's name, the very individual intended is the one married. That is only a mistake as to name or personal qualities, which does not void the marriage. No. 1 is false.",
+  "key_note": null
+ },
+ {
+  "id": "V-8",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style application)",
+  "type": "mcq",
+  "stem": "A and B's marriage was annulled on the ground of fraud by a judgment that became final in 2018. They had two children and conjugal properties. Without the partition and distribution of their properties and the delivery of the children's presumptive legitimes having been made and recorded in the civil registry and registries of property, A married C in 2020. D was born to A and C in 2021. The marriage of A and C and the status of D are:",
+  "choices": [
+   "A-C marriage valid; D legitimate",
+   "A-C marriage void; D illegitimate",
+   "A-C marriage void; D legitimate",
+   "A-C marriage voidable; D legitimate",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 53, FC: either former spouse may marry again only after complying with Art. 52 (recording of the judgment, the partition and distribution of properties, and the delivery of presumptive legitimes); otherwise the subsequent marriage is null and void. This is the void marriage under Art. 35(6). Art. 54, second sentence, nonetheless provides that children conceived or born of the subsequent marriage under Art. 53 'shall likewise be legitimate.' D is therefore legitimate even though the A-C marriage is void.",
+  "key_note": null
+ },
+ {
+  "id": "V-9",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #2 (scanned, handwritten key)",
+  "type": "tf",
+  "stem": "Irreconcilable difference and conflicting personalities constitute Psychological Incapacity.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Psychological incapacity under Art. 36 is a grave, enduring incapacity to comply with essential marital obligations, existing at the time of the celebration of the marriage. It is not mere difficulty, refusal or neglect. Irreconcilable differences and conflicting personalities are not psychological incapacity (Republic v. Molina, 1997; Santos v. CA, 1995). Tan-Andal v. Andal (2021) keeps this point: gravity still excludes mild characterological peculiarities, mood changes and ordinary marital conflicts.",
+  "key_note": null
+ },
+ {
+  "id": "V-10",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style pair)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. In Santos v. Court of Appeals, the Supreme Court held that psychological incapacity must be characterized by gravity, juridical antecedence and incurability.",
+   "2. Under Tan-Andal v. Andal, the incurability of psychological incapacity is understood in the medical sense, so that the incapacity must be shown to be permanent as to all persons."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true. Santos v. CA (1995) held that psychological incapacity must be characterized by (a) gravity, (b) juridical antecedence and (c) incurability, and confined it to the most serious cases showing an utter insensitivity or inability to give meaning and significance to the marriage. No. 2 is false. Tan-Andal v. Andal (2021) held that incurability is in the LEGAL, not medical, sense. The incapacity is enduring and persistent with respect to a SPECIFIC partner, where the couple's personality structures are so incompatible and antagonistic that the union would inevitably break down. It need not be shown to exist as to all persons.",
+  "key_note": null
+ },
+ {
+  "id": "V-11",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "tf",
+  "stem": "If one of the spouses is psychologically incapacitated, a petition for declaration of nullity of the marriage under Article 36 will necessarily prosper.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Not necessarily. Art. 36 requires that the party was, AT THE TIME OF THE CELEBRATION, psychologically incapacitated to COMPLY with the essential marital obligations (Arts. 68-71, 220, 221, 225, FC). The incapacity must be grave, juridically antecedent and incurable (Santos v. CA; Tan-Andal v. Andal, 2021, which treats incurability in the legal sense). It must also be proven by clear and convincing evidence. Incapacity that arose only after the wedding, or that does not actually prevent performance of the essential obligations, does not suffice. Atty. Uribe's point: if the spouse was able to perform his essential marital obligations, the petition will never prosper.",
+  "key_note": null
+ },
+ {
+  "id": "V-12",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "mcq",
+  "stem": "If you are the counsel of the respondent in a petition for declaration of nullity under Article 36, and it is admitted as a fact that the respondent failed to comply with his ESSENTIAL marital obligations, what is the next line of defense?",
+  "choices": [
+   "That the failure is not caused by psychological incapacity but by mere refusal to comply with the marital obligations",
+   "That the action has prescribed",
+   "That the petitioner condoned the failure",
+   "That the parties freely cohabited"
+  ],
+  "answer": 0,
+  "explanation": "Atty. Uribe's recitation sequence: first, whether the respondent was in fact able to comply with the essential marital obligations. Second, if non-compliance is admitted, show that it was due to mere REFUSAL, neglect or difficulty and not to psychological incapacity (Molina; Santos v. CA; reiterated in Tan-Andal v. Andal, 2021). Third, attack gravity, juridical antecedence and incurability. Art. 36 nullity never prescribes (Art. 39, as amended by R.A. 8533). It is not subject to ratification by cohabitation, and condonation is a defense in legal separation, not in nullity.",
+  "key_note": null
+ },
+ {
+  "id": "V-13",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – 2nd Quiz (scanned); Uribe samplex MCQ set (Studocu, Quiz #2 unknown source); Uribe samplex – True or False compilation (scanned)",
+  "type": "pair",
+  "stem": "True or False. Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Under the present Rules on Declaration of Absolute Nullity of Marriage under Article 36 of the Family Code, expert opinion need not be alleged in the petition.",
+   "2. Mild characterological peculiarities, mood changes and occasional emotional outbursts cannot be considered as root cause of psychological incapacity."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 0,
+  "explanation": "No. 1 is true. Sec. 2(d) of A.M. No. 02-11-10-SC requires the petition to allege the complete facts showing the incapacity at the time of the celebration, 'but expert opinion need not be alleged' (Barcelona v. CA, 2003). No. 2 is true. Republic v. Molina (1997), applied in cases such as Choa v. Choa (2002), states that mild characterological peculiarities, mood changes and occasional emotional outbursts cannot be accepted as root causes of psychological incapacity. Tan-Andal v. Andal (2021) retains gravity precisely to exclude them.",
+  "key_note": null
+ },
+ {
+  "id": "V-14",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, Quiz #2 unknown source); Uribe samplex – True or False compilation (scanned)",
+  "type": "pair",
+  "stem": "True or False. Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Concealment of sexually transmissible disease, regardless of its nature, shall constitute fraud resulting in a voidable marriage.",
+   "2. The root cause of the psychological has to be alleged in a petition for declaration of nullity of marriage under Article 36 of the Family Code."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is false. Art. 46(3), FC makes fraud the 'concealment of sexually transmissible disease, regardless of its nature, EXISTING AT THE TIME OF THE MARRIAGE.' The statement omits that qualifier, so it is not absolutely true. No. 2 is false. Under A.M. No. 02-11-10-SC (Sec. 2(d)) and Barcelona v. CA (2003), the petition need only allege the physical manifestations indicative of the incapacity, and the root cause need not be alleged. Tan-Andal v. Andal (2021) further abandoned the Molina requirement that the root cause be medically or clinically identified.",
+  "key_note": null
+ },
+ {
+  "id": "V-15",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2025 Bar",
+  "type": "mcq",
+  "stem": "A and B got married in 2018. It was only after the marriage that A discovered B's true colors. He refused to look for gainful employment and instead relied on A's salary for all his needs. Worse, he would entertain drinking sprees for his barkada day in and day out in their home. One time, he even asked A to dance for them while they drank. A consequently filed a petition for declaration of nullity of her marriage with B on the ground of B's psychological incapacity. In his answer, B opposed the petition on the ground that since he was mentally healthy, he cannot be declared psychologically incapacitated. Is B's argument in accordance with prevailing jurisprudence?",
+  "choices": [
+   "Yes, because psychological incapacity requires proof of a mental illness or personality disorder by expert testimony.",
+   "Yes, because mere refusal to work is only a ground for legal separation.",
+   "No, because psychological incapacity is a legal concept that does not require proof of mental illness; what must be shown is a grave, enduring incapacity to comply with essential marital obligations existing at the time of marriage.",
+   "No, because any refusal to support the family automatically constitutes psychological incapacity."
+  ],
+  "answer": 2,
+  "explanation": "No. Tan-Andal v. Andal (2021): psychological incapacity is a LEGAL, not a medical, concept. It is neither a mental incapacity nor a personality disorder that must be proven by expert opinion. What must be shown by clear and convincing evidence is a durable or enduring aspect of the spouse's personality structure, existing at the time of the marriage, that manifests through clear acts of dysfunctionality making it impossible to comply with essential marital obligations. Ordinary witnesses may testify to the behavior. That B is 'mentally healthy' is therefore not a defense.",
+  "key_note": null
+ },
+ {
+  "id": "V-16",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "tf",
+  "stem": "Psychological incapacity under Article 36 of the Family Code is a form of mental disorder.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Tan-Andal v. Andal (G.R. No. 196359, May 11, 2021) expressly held that psychological incapacity is neither a mental incapacity nor a personality disorder that must be proven through expert opinion. It is a legal concept referring to durable aspects of one's personality structure that make it impossible to comply with essential marital obligations. Older cases (Santos, Molina) spoke of a 'serious mental/personality disorder', but that framing has been abandoned. Note: the recorded recitation answer was 'Yes' (based on pre-2021 jurisprudence using the phrase 'serious mental disorder'); this is incorrect under Tan-Andal v. Andal (2021).",
+  "key_note": "Note: the recorded recitation answer was 'Yes' (based on pre-2021 jurisprudence using the phrase 'serious mental disorder'); this is incorrect under Tan-Andal v. Andal (2021)."
+ },
+ {
+  "id": "V-17",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2022 Bar",
+  "type": "mcq",
+  "stem": "Razna and Junsi got married in 2015 and were blessed with two children, Zarah and Mica. In 2020, because of the COVID-19 pandemic, the entire family had to spend 24 hours together every day in their small house. Razna observed that although Junsi continued to work from home to support the family, he began to exhibit paranoia, and constantly kept making sure that they always washed their hands and rubbed them with alcohol 10 times before eating. Junsi also always wore a face mask, face shield and hazmat in the house, except when he was alone in the room. Junsi began sleeping separately from Razna and their children. He believed that other people who wanted to meet him in person were actively trying to harm him by exposing him to the virus. In early 2022, Razna filed a petition for declaration of nullity of her marriage with Junsi on the ground of psychological incapacity under Art. 36 of the Family Code, citing his atypical behavior. She presented the testimony of a doctor, who proved that Junsi was suffering from psychotic paranoia due to intense stress, which accounted for his belief in things that are not real. Should Razna's petition be granted?",
+  "choices": [
+   "Yes, because a doctor proved that Junsi suffers from psychotic paranoia.",
+   "No, because the condition was stress-induced, arose only during the marriage, and is not an enduring part of his personality structure rendering him incapable of essential marital obligations.",
+   "Yes, because sleeping separately from his wife is a refusal to perform the essential obligation of living together.",
+   "No, because psychological incapacity can only be proven by a personal examination of the respondent spouse."
+  ],
+  "answer": 1,
+  "explanation": "No. Under Art. 36 the incapacity must exist at the time of the celebration (juridical antecedence), even if it becomes manifest only later. It must also be grave and enduring, part of the spouse's personality structure (Tan-Andal v. Andal, 2021). Junsi's paranoia was stress-induced and arose only during the 2020 pandemic, years after the 2015 marriage, and he continued to work and support the family. A doctor's diagnosis of a psychosis does not by itself establish Art. 36 incapacity, and personal examination is not the issue here.",
+  "key_note": null
+ },
+ {
+  "id": "V-18",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2002 Bar",
+  "type": "mcq",
+  "stem": "If existing at the inception of marriage, would the state of being of unsound mind or the concealment of drug addiction, habitual alcoholism, homosexuality or lesbianism be considered indicia of psychological incapacity?",
+  "choices": [
+   "Yes, they are conclusive proof of psychological incapacity.",
+   "They may be indicia of psychological incapacity depending on severity, but their concealment is properly a ground for annulment on the ground of fraud.",
+   "No, they are relevant only as grounds for legal separation.",
+   "No, because unsound mind is a ground for declaration of nullity under Art. 35."
+  ],
+  "answer": 1,
+  "explanation": "Santos v. CA (1995): being of unsound mind, drug addiction, habitual alcoholism, lesbianism or homosexuality may be INDICIA of psychological incapacity, depending on their degree of severity. They are not conclusive. Their CONCEALMENT, however, is a ground for annulment by fraud under Art. 46(4), and unsound mind is a ground for annulment under Art. 45(2). Tolentino (PDF p. 175) likewise notes that Art. 36 may be invoked if, because of such a condition, the spouse cannot comply with the essential marital obligations.",
+  "key_note": null
+ },
+ {
+  "id": "V-19",
+  "topic": "void",
+  "origin": "bar",
+  "src": "UP BOC – 2014 Bar",
+  "type": "mcq",
+  "stem": "Ariz and Paz were officemates at Perlas ng Silangan Bank (PSB). ... After 19 years of marriage, Paz, a devout Catholic, decided to have their marriage annulled by the church. ... the National Appellate Matrimonial Tribunal (NAMT) annulled the union of Ariz and Paz due to the failure of Ariz to perform and fulfill his duties as a husband and as a father to their children. ... Paz decided to file a Petition for Declaration of Nullity of Marriage of their civil wedding before the Regional Trial Court (RTC) of Makati City using the NAMT decision and the same evidence adduced in the church annulment proceedings as basis. If you are the judge, will you grant the petition?",
+  "choices": [
+   "Yes, because the NAMT decision is binding on civil courts.",
+   "Yes, because Ariz's violent tendencies in his teens show juridical antecedence.",
+   "No; the church decision is merely persuasive, and Ariz's behavior after becoming envious shows refusal, not outright incapacity existing at the time of marriage.",
+   "No, because a church annulment bars a civil action."
+  ],
+  "answer": 2,
+  "explanation": "A decision of the National Appellate Matrimonial Tribunal is given great respect but is not controlling or binding on civil courts (Molina, guideline 7; Tan-Andal v. Andal, 2021, persuasive only). On the facts, Ariz performed his obligations early in the marriage. His abusive conduct arose later, out of envy, which shows refusal or a supervening change rather than a grave incapacity existing at the time of the celebration. Juridical antecedence is not established.",
+  "key_note": null
+ },
+ {
+  "id": "V-20",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style, Art. 39 / R.A. 8533)",
+  "type": "tf",
+  "stem": "A marriage celebrated in 1985 may still be declared void on the ground of psychological incapacity in a petition filed in 2026.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 39, FC, as amended by R.A. 8533 (1998): 'The action or defense for the declaration of absolute nullity of a marriage shall not prescribe.' The original Art. 39 (E.O. 227) gave a ten-year period for pre-Family Code marriages falling under Art. 36. R.A. 8533 deleted that period, so Art. 36 applies to marriages celebrated before August 3, 1988 without any prescriptive period (see also Art. 256 on retroactivity without prejudice to vested rights).",
+  "key_note": null
+ },
+ {
+  "id": "V-21",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. The action or defense for the declaration of absolute nullity of a marriage shall not prescribe.",
+   "2. In the case of marriages celebrated before the effectivity of the Family Code and falling under Article 36, the action or defense for nullity shall prescribe in ten years after the Code shall have taken effect."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true: it is the first sentence of Art. 39, FC. No. 2 is false. It reproduces the second sentence added by E.O. 227, which Tolentino (PDF pp. 168-170) discusses and criticizes as a juridical mistake. R.A. 8533 (1998) deleted that ten-year period. Today the action or defense for nullity under Art. 36 does not prescribe, regardless of when the marriage was celebrated.",
+  "key_note": null
+ },
+ {
+  "id": "V-22",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style application)",
+  "type": "mcq",
+  "stem": "A and B have the same father but different mothers. Neither of them was born in wedlock. In 2024, A and B married each other. The marriage is:",
+  "choices": [
+   "Valid, because illegitimate relationship is not an impediment",
+   "Void for reasons of public policy, because they are collateral relatives within the fourth civil degree",
+   "Void because it is incestuous",
+   "Voidable, since they are only half-blood relatives",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 37(2), FC: marriages between brothers and sisters, whether of the full or HALF blood, are incestuous and void from the beginning, 'whether the relationship between the parties be legitimate or illegitimate.' Half-siblings are collateral relatives in the second civil degree. Art. 38(1) (public policy) covers the other collateral blood relatives up to the fourth degree, but brothers and sisters fall specifically under Art. 37.",
+  "key_note": null
+ },
+ {
+  "id": "V-23",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "pair",
+  "stem": "True or False. If not absolutely true, the statement is false.",
+  "statements": [
+   "1. A petition for declaration of nullity of marriage under Article 36 of the Family Code will prosper if the respondent failed to comply with his essential marital obligations due to psychologically incapacity already existing at the time of the solemnization of the marriage.",
+   "2. A marriage in 1988 is void as it is an incestuous marriage if the contracting parties are two degrees removed from each other."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Proof that the incapacity existed at the time of the celebration (juridical antecedence) is not enough. It must also be grave and incurable (Santos v. CA; Molina; Tan-Andal, which treats incurability in the legal sense), so the statement is not absolutely true. No. 2 is true. Parties two degrees apart are either grandparent and grandchild (direct line) or brother and sister (collateral line). Both are incestuous under Civil Code Art. 81 and FC Art. 37 alike, so the 1988 date, before or after August 3, 1988, does not matter. Note: the samplex class answer key marked B; this is incorrect because two-degree blood relatives are incestuous under both codes, and the professor's own answer in the class discussion was D.",
+  "key_note": "Note: the samplex class answer key marked B; this is incorrect because two-degree blood relatives are incestuous under both codes, and the professor's own answer in the class discussion was D."
+ },
+ {
+  "id": "V-24",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned)",
+  "type": "tf",
+  "stem": "A marriage solemnized in 1990 between collateral blood relatives whether legitimate or illegitimate, up to the fourth civil degree is incestuous and void from the beginning.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Under the Family Code, in force for a 1990 marriage, marriages between collateral blood relatives, legitimate or illegitimate, up to the fourth civil degree are void for reasons of PUBLIC POLICY (Art. 38(1)), not incestuous. Art. 37 limits incestuous marriages to (1) ascendants and descendants of any degree and (2) brothers and sisters of the full or half blood. (Under Civil Code Art. 81(3), collaterals within the fourth degree WERE incestuous. That is why Uribe dates these items.) (Source: Midterm #7, Statement 1.)",
+  "key_note": null
+ },
+ {
+  "id": "V-25",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "pair",
+  "stem": "True or False. If not absolutely true, the statement is false.",
+  "statements": [
+   "1. With the annulment of the marriage, the wife who is the offending spouse will have the right to retain her husband's surname.",
+   "2. A marriage solemnized in 1987 between collateral blood relatives within the fourth civil degree is void from the beginning for being incestuous."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Under Civil Code Art. 371, if the wife is the guilty party in an annulment she shall resume her maiden name and surname; only an innocent wife may choose to keep her husband's surname. No. 2 is true. For a 1987 marriage the Civil Code governs, and Civil Code Art. 81(3) classified marriages between collateral relatives by blood within the fourth civil degree as INCESTUOUS. The Family Code (Art. 38(1)) later reclassified them as void for public policy.",
+  "key_note": null
+ },
+ {
+  "id": "V-26",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex MCQ set (Studocu, 2nd Quiz); Uribe samplex (FC quiz set 1, T/F & MCQ)",
+  "type": "tf",
+  "stem": "Marriages between the uncles and nephews are incestuous and void from the beginning.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 37, FC limits incestuous marriages to those between ascendants and descendants of any degree and between brothers and sisters of the full or half blood. An uncle and nephew are collateral relatives in the third civil degree. Such a relationship falls under Art. 38(1), void for reasons of public policy, not under Art. 37. (Under the Family Code, a marriage between two males is also void for want of legal capacity, Arts. 2(1) and 4, but it is still not 'incestuous'.)",
+  "key_note": null
+ },
+ {
+  "id": "V-27",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – Multiple Choice compilation (scanned); Uribe samplex – Quiz #1 (scanned, handwritten key); Uribe samplex MCQ set (Studocu, Quiz #1 unknown source); Uribe samplex (old Quiz No. 3, answered w/ reasons); Uribe samplex (Leviathan Quiz 3); Uribe samplex – Midterm Exam (scanned); Uribe samplex MCQ set (Studocu, 'kuya R' version)",
+  "type": "mcq",
+  "stem": "A marriage between 1st cousins is:",
+  "choices": [
+   "Valid because they are more than 4 degrees removed from each other.",
+   "Valid because they do not belong to the direct line",
+   "Void because it is incestuous",
+   "Void by reason of public policy",
+   "Voidable because of a defect in consent."
+  ],
+  "answer": 3,
+  "explanation": "First cousins are collateral blood relatives in the fourth civil degree: counting up from one cousin to the common grandparent (2) and down to the other cousin (2). Art. 38(1), FC declares void 'for reasons of public policy' marriages between collateral blood relatives, legitimate or illegitimate, up to the fourth civil degree. The marriage is not incestuous, since Art. 37 covers only the direct line and brothers and sisters. It is not valid merely because the parties are not in the direct line, and it is not voidable.",
+  "key_note": null
+ },
+ {
+  "id": "V-28",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2 #16 (no. inferred)",
+  "type": "mcq",
+  "stem": "A marriage between 1st cousins is:",
+  "choices": [
+   "valid because they are more than 4 degrees removed from each other.",
+   "valid because they do not belong to the direct line",
+   "void because it is incestuous",
+   "voidable because of defect in consent",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "First cousins are collateral blood relatives in the fourth civil degree, so their marriage is void for reasons of public policy under Art. 38(1), FC. None of the listed choices states this. (a) is wrong because they are WITHIN, not beyond, the fourth degree. (b) is wrong because collateral relatives within the fourth degree are prohibited even though they are not in the direct line. (c) is wrong because Art. 37 (incestuous) covers only ascendants/descendants and siblings. (d) is wrong because the marriage is void, not voidable. Hence 'none of the above.'",
+  "key_note": "This 2025 version omits the 'void by reason of public policy' choice that appears in older versions of the same question, so the answer becomes 'none of the above.'"
+ },
+ {
+  "id": "V-29",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – Multiple Choice compilation (scanned); Uribe samplex MCQ set (Studocu, Quiz #1 unknown source); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex MCQ set (Studocu, 2nd Quiz); Uribe samplex (FC quiz set 1, T/F & MCQ)",
+  "type": "mcq",
+  "stem": "The following marriages are void from the beginning for reasons of public policy, EXCEPT;",
+  "choices": [
+   "Between second cousins",
+   "Between step-parents and step-children",
+   "between parents-in-law and children-in-law",
+   "between uncle and niece",
+   "between the adopting parent and the adopted child;"
+  ],
+  "answer": 0,
+  "explanation": "Second cousins are collateral relatives in the SIXTH civil degree (3 generations up to the common great-grandparent, 3 down), beyond the fourth-degree limit of Art. 38(1). Their marriage is valid. All the others are void for public policy under Art. 38. Step-parents and step-children fall under (2), parents-in-law and children-in-law under (3), and uncle and niece (third degree) under (1). Adopting parent and adopted child fall under (4).",
+  "key_note": null
+ },
+ {
+  "id": "V-30",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – 2nd Quiz (scanned); Uribe samplex MCQ set (Studocu, Quiz #2 unknown source)",
+  "type": "mcq",
+  "stem": "The following marriages are void from the beginning for reasons of public policy, EXCEPT:",
+  "choices": [
+   "between step-parents and step-children",
+   "between parents-in-law and children-in-law",
+   "between uncle and niece",
+   "between the adopting parents and the adopted child;",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "Every listed marriage is void for reasons of public policy under Art. 38, FC. Step-parents and step-children fall under par. (2), parents-in-law and children-in-law under par. (3), and uncle and niece under par. (1), as collateral blood relatives in the third civil degree. The adopting parent and the adopted child fall under par. (4). None is an exception.",
+  "key_note": "Compare the variant of this question in which 'between second cousins' replaces 'none of the above'; there the answer is 'second cousins'."
+ },
+ {
+  "id": "V-31",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "mcq",
+  "stem": "A marriage in 1989 between A and the grandchild of his brother is:",
+  "choices": [
+   "valid because the marriage is neither incestuous nor contrary to public policy.",
+   "valid because they do not belong to the direct line",
+   "void by reason of public policy.",
+   "void because it is incestuous",
+   "none of the above."
+  ],
+  "answer": 2,
+  "explanation": "The Family Code governs a 1989 marriage. The relationship is counted from A up to his father, the common ancestor (1), down to A's brother (2), to the brother's child (3), and to the brother's grandchild (4). They are collateral blood relatives in the fourth civil degree. Art. 38(1) declares such marriages void for reasons of public policy. They are not incestuous, because Art. 37 covers only ascendants/descendants and siblings.",
+  "key_note": null
+ },
+ {
+  "id": "V-32",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 1999 Bar; QuAMTO 1987-2017 – 1999 Bar",
+  "type": "mcq",
+  "stem": "What is the status of the following marriage and why? A marriage between two Filipino first cousins in Spain where such marriage is valid.",
+  "choices": [
+   "Valid, because it is valid where celebrated (Art. 26, FC).",
+   "Voidable, at the instance of either party.",
+   "Void, for being against public policy; it is an exception to the lex loci celebrationis rule of Art. 26.",
+   "Valid, because marriages between first cousins are not prohibited."
+  ],
+  "answer": 2,
+  "explanation": "VOID. Art. 26, par. 1, FC validates marriages valid where celebrated, EXCEPT those prohibited under Arts. 35(1), (4), (5) and (6), 36, 37 and 38. First cousins are collateral blood relatives in the fourth civil degree, so their marriage is void for reasons of public policy under Art. 38(1). Its validity under Spanish law does not save it, because Filipinos remain bound by Philippine law on status and capacity wherever they are (Art. 15, Civil Code).",
+  "key_note": null
+ },
+ {
+  "id": "V-33",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2012 Bar; UP BOC – 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "Which of the following marriages is void for reasons of public policy?",
+  "choices": [
+   "Between brothers and sisters, whether of the full or half blood.",
+   "Between step-parents and step children.",
+   "Between parents-in-law and children-in-law.",
+   "B and C"
+  ],
+  "answer": 3,
+  "explanation": "Art. 38, FC declares void for reasons of public policy marriages between step-parents and step-children (par. 2) AND between parents-in-law and children-in-law (par. 3). Both (B) and (C) are correct, so the best answer is (D). (A) is wrong because marriages between brothers and sisters of the full or half blood are INCESTUOUS under Art. 37(2), not public-policy marriages under Art. 38. Note: the published bar suggested answer marked (C) only; this is incomplete because step-parent/step-child marriages are equally void for public policy under Art. 38(2), so (D) 'B and C' is the best answer.",
+  "key_note": "Note: the published bar suggested answer marked (C) only; this is incomplete because step-parent/step-child marriages are equally void for public policy under Art. 38(2), so (D) 'B and C' is the best answer."
+ },
+ {
+  "id": "V-34",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #14; Uribe samplex (old Quiz No. 2, answered w/ reasons); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 2, T/F & MCQ); Uribe samplex (Leviathan Quiz No. 2)",
+  "type": "mcq",
+  "stem": "Under the Civil Code, the following marriages are void from the beginning, EXCEPT:",
+  "choices": [
+   "between step-parents and step-children",
+   "between parents-in-law and children-in-law",
+   "between uncle and niece",
+   "between the adopting parent and the adopted child;",
+   "none of the above"
+  ],
+  "answer": 1,
+  "explanation": "Per Atty. Uribe, 'Civil Code' means the pre-Family Code law. Under it, marriages between stepfathers and stepdaughters and between stepmothers and stepsons were void (Civil Code Arts. 80(7), 82). So were marriages between the adopting parent and the adopted (Art. 82), and uncle-niece marriages, which were incestuous as between collaterals within the fourth degree (Art. 81(3)). Marriage between parents-in-law and children-in-law was NOT prohibited by the Civil Code. It was first made void by FC Art. 38(3). Note: the samplex key marked (a) step-parents/step-children in two transcriptions of this quiz; this is incorrect because Civil Code Art. 82(1) already voided stepfather-stepdaughter and stepmother-stepson marriages.",
+  "key_note": "Note: the samplex key marked (a) step-parents/step-children in two transcriptions of this quiz; this is incorrect because Civil Code Art. 82(1) already voided stepfather-stepdaughter and stepmother-stepson marriages. The circulated answered copies give the reason that step-parent/step-child marriages were 'only included in the Family Code'; that reason is wrong, since Civil Code Art. 80(7) in relation to Art. 82 already voided stepfather-stepdaughter and stepmother-stepson marriages. The parents-in-law/children-in-law impediment is the one first introduced by FC Art. 38(3). If Atty. Uribe's own key on the day differs, follow his stated reasoning, but the codal answer is (b)."
+ },
+ {
+  "id": "V-35",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – True or False compilation (scanned); Uribe samplex MCQ set (Studocu, Quiz #1 unknown source)",
+  "type": "tf",
+  "stem": "Marriages between stepbrothers and stepsisters are void.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Marriages between stepbrothers and stepsisters are not among the void marriages under Arts. 37 and 38 of the Family Code. Tolentino notes that other than the relationships in Arts. 37 and 38, no relationship is an impediment. They WERE void under Civil Code Art. 80(7) ('those between stepbrothers and stepsisters'). The statement is therefore not absolutely true: it holds only for marriages celebrated before August 3, 1988.",
+  "key_note": null
+ },
+ {
+  "id": "V-36",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "tf",
+  "stem": "X (child of A) and W (daughter of B by a prior marriage) married after A and B had married each other. The validity of the marriage of X and W may be an issue, depending on when the marriage was celebrated.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "X and W are step-siblings because their parents A and B married each other. Under the Civil Code, marriages 'between stepbrothers and stepsisters' were void (Civil Code Art. 80(7)), but the Family Code dropped this impediment (Arts. 37-38). Atty. Uribe's point: since the facts do not say WHEN the marriage was celebrated, its validity depends on whether it was before or after August 3, 1988.",
+  "key_note": null
+ },
+ {
+  "id": "V-37",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2007 Bar; UP BOC – 2007 Bar",
+  "type": "tf",
+  "stem": "Amor gave birth to Thelma when she was 15 years old. Thereafter, Amor met David and they got married when she was 20 years old. David had a son, Julian, with his ex-girlfriend Sandra. Julian and Thelma can get married.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Thelma (Amor's daughter) and Julian (David's son) became step-siblings when Amor and David married; they are not related by blood. Marriages between stepbrothers and stepsisters are not prohibited under Arts. 37 and 38 of the Family Code. Only step-parent/step-child marriages are void (Art. 38(2)), so Julian and Thelma can get married.",
+  "key_note": null
+ },
+ {
+  "id": "V-38",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – Midterm Exam (scanned)",
+  "type": "tf",
+  "stem": "A marriage solemnized in 1989 between the adopted child and a child of the adopter is void.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 38(7), FC voids marriages between an adopted child and a LEGITIMATE child of the adopter. The Family Code governs a 1989 marriage. Because the statement refers to 'a child of the adopter' without qualification, it is not absolutely true: a marriage between the adopted child and an illegitimate child of the adopter, with no blood relationship between them, is not covered. (Source: Midterm Part One #1, Statement 2.)",
+  "key_note": null
+ },
+ {
+  "id": "V-39",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style pair)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Marriage between the surviving spouse of the adopting parent and the adopted child is void from the beginning for reasons of public policy.",
+   "2. Marriage between adopted children, whether of the same adopter or of different adopters, is void from the beginning for reasons of public policy."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true: it is Art. 38(5), FC. No. 2 is false. Art. 38(8) voids only marriages 'between adopted children of the SAME adopter'. Children adopted by different adopters have no adoptive relationship with each other, so their marriage is not prohibited.",
+  "key_note": null
+ },
+ {
+  "id": "V-40",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style application)",
+  "type": "mcq",
+  "stem": "In 2010, X adopted Y. Y later married Z. Y died in 2022. In 2025, Z married X. The marriage of Z and X is:",
+  "choices": [
+   "Valid, because the relationship created by adoption ended upon Y's death",
+   "Void because it is incestuous",
+   "Void for reasons of public policy",
+   "Voidable at the instance of Y's heirs",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 38(6), FC declares void for reasons of public policy marriages 'between the surviving spouse of the adopted child and the adopter.' Z is the surviving spouse of Y, the adopted child, and X is the adopter. The death of Y does not remove the impediment. The marriage is not incestuous, because Art. 37 covers only blood relatives in the direct line and siblings.",
+  "key_note": null
+ },
+ {
+  "id": "V-41",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "Which of the following marriages is VALID?",
+  "choices": [
+   "Between a step-father and his step-daughter",
+   "Between the adopted child and a legitimate child of the adopter",
+   "Between the adopting parent and the adopted child",
+   "Between a guardian and his ward, who are not related by blood",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Tolentino (PDF p. 170): other than the relationships in Arts. 37 and 38, no relationship can be an impediment. There is no legal impediment to a marriage between a guardian and his ward unless they are related by blood within the prohibited degrees. The others are void for public policy: step-father and step-daughter under Art. 38(2), adopted child and legitimate child of the adopter under Art. 38(7), and adopting parent and adopted child under Art. 38(4).",
+  "key_note": null
+ },
+ {
+  "id": "V-42",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2023 Bar",
+  "type": "mcq",
+  "stem": "Nida and Deogracias were college sweethearts who had a child together named Mikael. When Mikael was three years old, Nida and Deogracias both died in a car accident while still planning their future wedding. Mikael was then put in the care of the unmarried sister of Nida, Nina, who officially adopted Mikael. A few years later, Nina left to work in the United States (US). Mikael was left to live with his grandmother, Aurora, in the Philippines. In the US, Nina bore an illegitimate child, Maricel, from her affair with a married man. When Maricel was 22 years old, Aurora died so Nina came home to the Philippines with Maricel for the funeral. Maricel finally met Mikael who is now 28 years old. The two of them fell in love and planned to get married. Nina objected, saying that their marriage was prohibited by law. Can Maricel and Mikael validly get married?",
+  "choices": [
+   "No, because marriage between an adopted child and a child of the adopter is void for reasons of public policy.",
+   "Yes, because the prohibition under Art. 38 covers only an adopted child and a legitimate child of the adopter; Maricel is illegitimate.",
+   "No, because they are first cousins by blood.",
+   "Yes, but only with the consent of Nina as adopter."
+  ],
+  "answer": 2,
+  "explanation": "Mikael is the biological child of Nida, and Maricel is the biological child of Nina, Nida's sister. Mikael and Maricel are therefore first cousins by blood, collateral relatives in the fourth civil degree. Art. 38(1), FC voids marriages between collateral blood relatives 'whether legitimate or illegitimate, up to the fourth civil degree.' Adoption does not erase blood relationship. It is true that Art. 38(7) does not apply because Maricel is not a LEGITIMATE child of the adopter, which makes choice (b)'s reasoning partly correct, but the blood impediment remains. Note: the suggested answer marked (b) 'Yes' relying only on Art. 38(7); this is incorrect because it overlooks that Mikael and Maricel are first cousins by blood, whose marriage is void under Art. 38(1).",
+  "key_note": "Note: the suggested answer marked (b) 'Yes' relying only on Art. 38(7); this is incorrect because it overlooks that Mikael and Maricel are first cousins by blood, whose marriage is void under Art. 38(1)."
+ },
+ {
+  "id": "V-43",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question; Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "Z killed X in 1987. In 1988 Z married Y the widow of X. Status of this marriage?",
+  "choices": [
+   "It depends on the governing law: under the Civil Code (before the FC), void upon conviction regardless of the intent of the killing; under the Family Code, void only if the killing was done with intent to marry Y",
+   "Valid in all cases",
+   "Void in all cases even without conviction",
+   "Voidable at the instance of X's heirs"
+  ],
+  "answer": 0,
+  "explanation": "The Family Code took effect August 3, 1988. Under Civil Code Art. 80(6), marriages were void where one or both parties 'have been FOUND GUILTY of the killing of the spouse of either of them'. A conviction was required, and the motive was immaterial. Under FC Art. 38(9), the marriage is void if one party, 'with the INTENTION TO MARRY the other, killed that other person's spouse, or his or her own spouse'. Intent to marry is essential, and Tolentino submits no conviction is required. Since the 1988 date does not show whether the marriage was before or after August 3, 1988, the status depends on the governing law.",
+  "key_note": null
+ },
+ {
+  "id": "V-44",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "tf",
+  "stem": "If the husband killed his wife in order to marry his paramour, the subsequent marriage solemnized in 1987 will be void regardless if he was convicted or not.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "A 1987 marriage is governed by the Civil Code, since the FC took effect August 3, 1988. Civil Code Art. 80(6) voided marriages where one or both parties had been FOUND GUILTY of killing the spouse of either of them, so a conviction was required. Without a conviction the 1987 marriage is not void on this ground. The statement, which says 'regardless if he was convicted or not', is false. (Under FC Art. 38(9) the result would differ, because there the intent to marry, not conviction, is the key element.)",
+  "key_note": null
+ },
+ {
+  "id": "V-45",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "A, married to B, killed B with the intention of marrying C. C was not aware of and did not participate in the killing. A was never criminally prosecuted or convicted. A and C later got married. Following Tolentino, the marriage of A and C is:",
+  "choices": [
+   "Valid, because C was in good faith",
+   "Valid, because A was never convicted",
+   "Void",
+   "Voidable at the instance of C",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 38(9), FC: void 'between parties where one, with the intention to marry the other, killed that other person's spouse, or his or her own spouse.' Tolentino (PDF p. 170) notes that the law does not require that both parties conspired. It is enough that the killer had the intention, even if the other party was unaware. Unlike Civil Code Art. 80(6), the FC does not require that the killer be 'found guilty'. Tolentino submits a criminal conviction is unnecessary and the fact may be proved in the civil case by preponderance of evidence.",
+  "key_note": "Follows Tolentino; some commentators would still require a conviction, but the FC text, unlike Civil Code Art. 80(6), contains no such requirement."
+ },
+ {
+  "id": "V-46",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A widow who later marries the man who killed her husband for reasons unrelated to marrying her contracts a void marriage under Article 38(9).",
+   "2. Under Article 38(9), the killing must have been motivated by the intention to marry the particular person who becomes the other party to the subsequent marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 2 is true. Under Art. 38(9) the motive of the killing must be to marry the particular person who becomes the other party to the subsequent marriage (Tolentino, PDF p. 170). No. 1 is false. If a man kills another for reasons unrelated to marrying the latter's wife, the widow may later validly marry her husband's killer, because the 'intention to marry the other' element is absent. Tolentino calls this a kind of moral pardon.",
+  "key_note": null
+ },
+ {
+  "id": "V-47",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A void marriage can be attacked collaterally, while a voidable marriage can be attacked only in a direct proceeding for annulment.",
+   "2. A voidable marriage may be questioned even after the death of one of the parties, while a void marriage can no longer be attacked after one of the parties is dead."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "Tolentino (PDF pp. 166-167) lists the distinctions between void and voidable marriages. A void marriage may be attacked collaterally, while a voidable one may be attacked only directly. A void marriage may be questioned even after the death of a party, while a voidable one can no longer be attacked after a party's death. No. 1 is true. No. 2 reverses the second distinction and is false (Niñal v. Bayadog, 2000). A.M. No. 02-11-10-SC limits who may file a DIRECT petition for nullity, but collateral attack in a proper proceeding remains available.",
+  "key_note": null
+ },
+ {
+  "id": "V-48",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2012 Bar",
+  "type": "tf",
+  "stem": "A petition for declaration of nullity of a void marriage can only be filed by either the husband or the wife.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Sec. 2(a) of A.M. No. 02-11-10-SC provides that the petition 'may be filed solely by the husband or the wife,' but this is not absolute. (1) In a bigamous marriage, the prior legal spouse has standing to seek a declaration that the subsequent marriage is void (Juliano-Llave v. Republic, 2011; Fujiki v. Marinay, 2013). (2) The rule applies only to marriages celebrated under the FC and to petitions filed on or after March 15, 2003. For marriages celebrated before the FC, or cases begun before that date, other real parties in interest, such as heirs, may sue (Niñal v. Bayadog; Carlos v. Sandoval, 2008; Ablaza v. Republic, 2010).",
+  "key_note": null
+ },
+ {
+  "id": "V-49",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "Spouses A and B were married in 2010. X, who is not related to either spouse and has no prior marriage with either of them, files a petition to declare the A-B marriage void for lack of a marriage license, while A and B are both alive. Will the petition prosper?",
+  "choices": [
+   "Yes, because a void marriage may be attacked by any person at any time",
+   "Yes, because the action to declare a marriage void does not prescribe",
+   "No, because under A.M. No. 02-11-10-SC a petition for declaration of absolute nullity may be filed solely by the husband or the wife",
+   "No, because only the Solicitor General may file it",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "General rule (A.M. No. 02-11-10-SC, Sec. 2(a)): a petition for declaration of absolute nullity of a void marriage may be filed SOLELY by the husband or the wife. X is a stranger with no material interest, so the petition will not prosper. That the action is imprescriptible (Art. 39) does not give standing to a stranger. Exception taught by Atty. Uribe: the prior legal spouse of A or B may sue to declare a bigamous marriage void (Fujiki v. Marinay, 2013; Juliano-Llave v. Republic, 2011).",
+  "key_note": null
+ },
+ {
+  "id": "V-50",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "mcq",
+  "stem": "Assuming both spouses of a subsequent marriage are still alive, who other than the parties to that marriage may question its validity?",
+  "choices": [
+   "The spouse of the first (subsisting) marriage, where the second marriage is being assailed (Fujiki; Avenido)",
+   "Any creditor of either spouse",
+   "The children of the second marriage",
+   "No one other than the parties to the second marriage"
+  ],
+  "answer": 0,
+  "explanation": "Although A.M. No. 02-11-10-SC says the petition may be filed solely by the husband or the wife, the Court has recognized that the spouse of the prior subsisting marriage may question the subsequent bigamous marriage. A bigamous marriage directly injures the prior spouse's rights (Fujiki v. Marinay, 2013; Juliano-Llave v. Republic, 2011). Creditors and the children of the second marriage have no standing to file a direct petition while both spouses are alive.",
+  "key_note": null
+ },
+ {
+  "id": "V-51",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style application; Carlos v. Sandoval / Enrico)",
+  "type": "mcq",
+  "stem": "X and Y were married in 1995 without a marriage license, and no exemption applied. X died in 2016. In 2017, Z, X's son by a previous marriage, filed a petition with the RTC for declaration of absolute nullity of the X-Y marriage. Will the petition prosper?",
+  "choices": [
+   "Yes, because a void marriage may be directly attacked by any interested party at any time",
+   "Yes, because Article 39 makes the action imprescriptible",
+   "No; under A.M. No. 02-11-10-SC only the husband or the wife may file a direct petition for nullity of a marriage celebrated under the Family Code, but Z may question the validity of the marriage collaterally in the settlement of X's estate",
+   "No, because a void marriage can no longer be questioned in any proceeding after the death of one of the spouses",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "The X-Y marriage was celebrated under the FC, and the petition was filed after March 15, 2003, so A.M. No. 02-11-10-SC applies. Only the husband or wife may file a direct petition (Enrico v. Heirs of Medinaceli, 2007; Carlos v. Sandoval, 2008). The marriage is still void, and the nullity may be raised collaterally. A compulsory or intestate heir like Z may assail it in the proceedings for the settlement of X's estate (Carlos v. Sandoval; Niñal v. Bayadog). Choice (d) states the rule for voidable, not void, marriages.",
+  "key_note": null
+ },
+ {
+  "id": "V-52",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2002 Bar",
+  "type": "mcq",
+  "stem": "On 01 May 1978, Facundo married Petra, by whom he had a son Sotero. Petra died on 01 July 1996. On 01 July 2000, Facundo married Quercia, with whom he had been living as husband and wife since 01 July 1990; they did not secure a marriage license but executed the requisite affidavit of cohabitation. Facundo died on 01 January 2002. In 2002, to protect his inheritance rights, Sotero brought a suit for declaration of nullity of the marriage of Facundo and Quercia on the ground of absence of a marriage license. Quercia contends that Sotero has no legal personality to seek a declaration of nullity since Facundo is already deceased. Does Sotero have the personality to sue?",
+  "choices": [
+   "No, because only the spouses may file a petition for declaration of nullity",
+   "No, because the action was extinguished by Facundo's death",
+   "Yes; the suit was filed before A.M. No. 02-11-10-SC took effect, and a void marriage may be questioned by a compulsory heir whose successional rights are affected, even after the death of a spouse",
+   "Yes, but only within five years from Facundo's death"
+  ],
+  "answer": 2,
+  "explanation": "Yes. A void marriage may be questioned by any party whose rights are affected, in any proceeding where its validity is material, even after the death of a spouse (Niñal v. Bayadog, 2000, on nearly identical facts). Sotero is a compulsory heir whose legitime is affected. The 'only the spouses' rule of A.M. No. 02-11-10-SC took effect March 15, 2003 and is prospective, so it does not apply to a suit filed in 2002 (Carlos v. Sandoval, 2008). Art. 39 makes the action imprescriptible. A suit filed today would face the A.M. limitation, but Sotero could still raise the nullity collaterally in the estate proceedings.",
+  "key_note": "Source text dated Facundo's marriage to Quercia '01 July 2002' (after his death); the original 2002 Bar problem states 01 July 2000, used here."
+ },
+ {
+  "id": "V-53",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2002 Bar; QuAMTO 1987-2017 – 2002 Bar",
+  "type": "mcq",
+  "stem": "On 01 May 1978, Facundo married Petra, by whom he had a son Sotero. Petra died on 01 July 1996, while Facundo died on 01 January 2002. Before his demise, Facundo had married, on 01 July 2000, Quercia. Having lived together as husband and wife since 01 July 1990, Facundo and Quercia did not secure a marriage license but executed the requisite affidavit for the purpose. Sotero sued to declare the marriage void for absence of a marriage license; Quercia contends no license was needed since she had lived continuously with Facundo for five years before their marriage. Is the marriage of Facundo and Quercia valid despite the absence of a marriage license?",
+  "choices": [
+   "Yes, because their cohabitation after Petra's death until the marriage lasted at least five years without legal impediment",
+   "No, because the five-year cohabitation free of legal impediment required by Article 34 was not met; the marriage is void for lack of a license",
+   "Yes, because they cohabited continuously for more than five years since 1990 and executed the affidavit",
+   "It is voidable at the instance of the heirs of Petra"
+  ],
+  "answer": 1,
+  "explanation": "Art. 34 exempts from the license requirement a man and woman who have lived together as husband and wife for at least five years 'without any legal impediment to marry each other'. Niñal v. Bayadog (2000) requires that the five-year cohabitation be exclusive and continuous and that the parties be capacitated to marry each other throughout that period. From 1990 to 1996 Facundo was still married to Petra. The impediment-free period ran only from 01 July 1996 to 01 July 2000, which is four years. The exemption does not apply, and the marriage is void for want of a license (Arts. 4, 35(3)). The false affidavit does not cure it. Note: one source version keyed (a) 'valid', but that version contained a date typo (marriage on 01 July 2002, after Facundo's death). With the correct 2000 date, the impediment-free cohabitation is only four years and the marriage is void (Niñal v. Bayadog).",
+  "key_note": "Note: one source version keyed (a) 'valid', but that version contained a date typo (marriage on 01 July 2002, after Facundo's death). With the correct 2000 date, the impediment-free cohabitation is only four years and the marriage is void (Niñal v. Bayadog)."
+ },
+ {
+  "id": "V-54",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "tf",
+  "stem": "X died in 1989, survived by a brother (Y) and the spouse (W). If Y files a motion for intervention in the settlement of the estate of X, it should be granted, since whenever a marriage is challenged based on its nullity any interested person can challenge it indirectly.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "A void marriage may be attacked collaterally by any interested party in any proceeding where its validity is material, even after a spouse's death (Niñal v. Bayadog; Carlos v. Sandoval, 2008, which allows compulsory or intestate heirs to attack it in the settlement of the estate). X died in 1989 survived only by his brother and his spouse. Y is an intestate heir, sharing the estate with W under Civil Code Art. 1001 if the marriage is valid and taking everything if it is void. He therefore has a material interest and may intervene.",
+  "key_note": null
+ },
+ {
+  "id": "V-55",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style, Art. 40)",
+  "type": "mcq",
+  "stem": "Under Article 40 of the Family Code, a final judgment declaring a previous marriage void is indispensable when the absolute nullity of that marriage is invoked:",
+  "choices": [
+   "In a proceeding for the settlement of the estate of a deceased spouse",
+   "For purposes of contracting a subsequent marriage",
+   "To determine the filiation of the children of the void marriage",
+   "In an action for the liquidation and partition of properties acquired during the void marriage",
+   "All of the above"
+  ],
+  "answer": 1,
+  "explanation": "Art. 40: 'The absolute nullity of a previous marriage may be invoked for purposes of REMARRIAGE on the basis solely of a final judgment declaring such previous marriage void.' For other purposes, such as succession, filiation or property relations, no separate prior action is required. The nullity may be proved in the very proceeding where it is material (Domingo v. CA, 1993; Niñal v. Bayadog, 2000). Pulido v. People (2021) adds that Art. 40 likewise does not bar an accused in a bigamy case from proving the nullity of a void ab initio marriage as a defense.",
+  "key_note": null
+ },
+ {
+  "id": "V-56",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "A and B were married in 1995 without a marriage license, and no exemption applied. In 2000, without any judicial declaration of the nullity of his marriage to B, A married C with all the requisites of a valid marriage. The marriage of A and C is:",
+  "choices": [
+   "Void",
+   "Voidable",
+   "Valid, because the marriage of A and B, being void ab initio, was not a subsisting marriage",
+   "Valid, but A is administratively liable for non-compliance with Article 40",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "Arts. 40, 52-53 and 35(4)/(6). Under Art. 40, the nullity of a previous marriage may be invoked for remarriage only on the basis of a final judgment declaring it void. Domingo v. CA (1993), Mercado v. Tan (2000) and Te v. CA hold that a subsequent marriage contracted without such a judgment is void, even though the first marriage was itself void. Tolentino (PDF pp. 170-171) argues otherwise, that a void first marriage is no impediment and Art. 40 concerns only the license, but that view does not reflect controlling jurisprudence.",
+  "key_note": "Tolentino's contrary view (second marriage valid if otherwise complete) is rejected by Domingo v. CA and its progeny."
+ },
+ {
+  "id": "V-57",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 1993 Bar; Bar Q&A in PFR Reviewer 2013 (elmerpaquitolalong); QuAMTO 1987-2017 – 1993 Bar",
+  "type": "mcq",
+  "stem": "Maria and Luis, both Filipinos, were married by a Catholic priest in Lourdes Church, Quezon City in 1976, Luis was drunk on the day of his wedding. In fact, he slumped at the altar soon after the ceremony. After marriage, Luis never had a steady job because he was drunk most of the time. Finally, he could not get employed at all because of drunkenness. Hence, it was Maria who had to earn a living to support herself and her child begotten with Luis. In 1986, Maria filed a petition in the church matrimonial court in Quezon City to annul her marriage with Luis on the ground of psychological incapacity to comply with his marital obligation. Her petition was granted by the church matrimonial court. Can Maria now get married legally to another man under Philippine laws after her marriage to Luis was annulled by the church matrimonial court?",
+  "choices": [
+   "Yes, because the church tribunal's decree is recognized for marriages solemnized by a priest.",
+   "Yes, because a void marriage needs no judicial declaration if celebrated before the Family Code.",
+   "No, because a church annulment has no civil effect; she must first obtain a final judicial declaration of nullity (Art. 40, FC).",
+   "No, because psychological incapacity is not a ground for marriages celebrated before the Family Code."
+  ],
+  "answer": 2,
+  "explanation": "No. The State does not recognize declarations of nullity by church tribunals; such a decree has no civil effect. To remarry, Maria must first obtain a judicial declaration of absolute nullity, which here would be under Art. 36. Art. 40 requires a final judgment declaring the previous marriage void before a party may remarry. It applies even to marriages celebrated before the Family Code, because it is a rule of procedure with retroactive effect (Atienza v. Brillantes, 1995; Art. 256). Psychological incapacity applies to pre-FC marriages as well.",
+  "key_note": null
+ },
+ {
+  "id": "V-58",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 1991 Bar",
+  "type": "mcq",
+  "stem": "In June 1985, James married Mary. In September 1988, he also married Ophelia with whom he begot two (2) children, A and B. In July 1989, Mary died. In July 1990, he married Shirley and abandoned Ophelia. During their union, James and Ophelia acquired a residential lot worth P300,000.00. Ophelia sues James for bigamy and prays that his marriage with Shirley be declared null and void. James, on the other hand, claims that since his marriage to Ophelia was contracted during the existence of his marriage with Mary, the former is not binding upon him, the same being void ab initio; he further claims that his marriage to Shirley is valid and binding as he was already legally capacitated at the time he married her. Is the contention of James correct?",
+  "choices": [
+   "Yes; his marriage to Ophelia is void for his subsisting marriage to Mary, and his marriage to Shirley after Mary's death is valid.",
+   "No; under Art. 40 FC, the nullity of his marriage to Ophelia may be invoked for remarriage only on the basis of a final judgment declaring it void, so his marriage to Shirley is void.",
+   "Yes, because void marriages need no judicial declaration for any purpose.",
+   "No, because his marriage to Ophelia was validated by Mary's death."
+  ],
+  "answer": 1,
+  "explanation": "James' marriage to Ophelia (September 1988) was void as bigamous, because Mary was still alive. Both it and the July 1990 marriage to Shirley fall under the Family Code, which took effect August 3, 1988. Under Art. 40, the nullity of the Ophelia marriage could be invoked for purposes of remarriage only on the basis of a final judgment declaring it void (Domingo v. CA; Mercado v. Tan). Without such a judgment, James' marriage to Shirley is void (Arts. 40, 52-53). Mary's death in 1989 did not validate the void Ophelia marriage. Note: the first suggested answer in the source marked (a) 'Yes'; this is incorrect under Art. 40 as construed in Domingo v. CA and Mercado v. Tan. The source's alternative answer (No) is the correct one.",
+  "key_note": "Note: the first suggested answer in the source marked (a) 'Yes'; this is incorrect under Art. 40 as construed in Domingo v. CA and Mercado v. Tan. The source's alternative answer (No) is the correct one."
+ },
+ {
+  "id": "V-59",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "mcq",
+  "stem": "A and B (both Filipinos) were married in Barcelona, Spain. Under the law of Spain, that marriage is a valid one. Months thereafter, A and B discovered that they were first cousins. Then B left A, went back to the Philippines, and married C. What is the status of the marriage between B and C?",
+  "choices": [
+   "Void, because B failed to secure a judicial decree of nullity of the first marriage and to comply with the requisites for a subsequent marriage (FC 40, 52-53)",
+   "Valid, because the first marriage was void anyway",
+   "Voidable",
+   "Valid, because the first marriage was valid under Spanish law and so B was merely separated"
+  ],
+  "answer": 0,
+  "explanation": "The A-B marriage is void even though valid in Spain. Art. 26, par. 1 excepts from the lex loci celebrationis rule marriages prohibited under Art. 38, and first cousins fall under Art. 38(1). Still, B could not remarry on the strength of that nullity without a final judgment declaring it void (Art. 40). B also had to comply with the recording requirements of Art. 52, otherwise the subsequent marriage is void (Art. 53). The B-C marriage is therefore void.",
+  "key_note": null
+ },
+ {
+  "id": "V-60",
+  "topic": "void",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "X and Y, Filipinos, got married in Los Angeles, USA, using a marriage license issued by the Philippine consul in Los Angeles, acting as Civil Registrar. X and Y did not know that they were first cousins because their mothers, who were sisters, were separated when they were quite young. Since X did not want to continue with the relation when he heard of it, he left Y, came to the Philippines and married Z. Can X be held liable for bigamy?",
+  "choices": [
+   "No since X’s marriage to Y is void ab initio or did not exist.",
+   "No since X acted in good faith, conscious that public policy did not approve of marriage between first cousins.",
+   "Yes since he married Z without first securing a judicial declaration of nullity of his marriage to Y.",
+   "Yes since his first marriage to Y in Los Angeles is valid."
+  ],
+  "answer": 0,
+  "explanation": "Pulido v. People (2021) settled that the requirement of a prior judicial declaration under Art. 40 concerns the CIVIL validity of a subsequent marriage. It does not modify the elements of bigamy under Art. 349 RPC. An accused may prove, in the bigamy case itself, that the first marriage was void ab initio, and then there was no valid prior marriage to speak of. X's marriage to his first cousin Y is void under Art. 38(1), so X is not liable for bigamy. His marriage to Z is nonetheless civilly void under Art. 40, since he remarried without a judicial declaration. Note: the bar suggested answer marked (C) 'Yes' (based on Mercado v. Tan / Tenebro, pre-2021); this is incorrect under Pulido v. People (2021), which abandoned that line for void ab initio first marriages.",
+  "key_note": "Note: the bar suggested answer marked (C) 'Yes' (based on Mercado v. Tan / Tenebro, pre-2021); this is incorrect under Pulido v. People (2021), which abandoned that line for void ab initio first marriages."
+ },
+ {
+  "id": "V-61",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "tf",
+  "stem": "Bigamy is committed if a party to a void ab initio first marriage contracts a second marriage without a prior judicial declaration of nullity of the first, because a void marriage is deemed valid until it is judicially declared void.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Pulido v. People (2021): Art. 40 was not intended to amend Art. 349 RPC. A void ab initio marriage is void from the beginning, never valid until declared void. A judicial declaration of its nullity, even if obtained after the second marriage, retroacts to the celebration of the first. The accused may therefore raise the nullity of the first marriage as a defense in the bigamy case even without a prior judicial declaration. (The second marriage is still civilly void under Art. 40.)",
+  "key_note": null
+ },
+ {
+  "id": "V-62",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2023 Bar",
+  "type": "mcq",
+  "stem": "In 1981, JR married then 16-year-old Inka in a civil ceremony solemnized by the Mayor in their hometown. The couple lived together until 2007 when JR confessed to having an affair with Elena. Inka later discovered that JR and Elena got married in 1995. Inka thus filed a criminal complaint against JR for Bigamy. In his defense, JR insisted that he could not be held criminally liable for Bigamy because his marriage with Inka in 1981 is void for lack of a valid marriage license, while his marriage with Elena is void for lack of a marriage ceremony. Meanwhile, Elena claimed that even prior to the Bigamy case, she already filed a petition for nullity of marriage before the RTC of Quezon City sometime in 2007 after learning about the marriage between JR and Inka. The RTC later declared the marriage of JR and Elena as void for being bigamous, and the ruling attained finality due to lack of appeal. Does JR have a valid defense in the Bigamy case?",
+  "choices": [
+   "No, because under Art. 40 he should have obtained a judicial declaration of nullity of his first marriage before contracting the second.",
+   "Yes, because under Pulido v. People, the accused may collaterally raise the void ab initio nature of the first or second marriage as a defense in bigamy without a prior judicial declaration.",
+   "No, because the RTC already declared his second marriage void for being bigamous, which is conclusive of his guilt.",
+   "Yes, but only because the first marriage was celebrated before the effectivity of the Family Code."
+  ],
+  "answer": 1,
+  "explanation": "Pulido v. People (2021) holds that the judicial declaration required by Art. 40 is only for purposes of remarriage. In a bigamy prosecution the accused may raise the void ab initio nature of the first marriage, or of the second for reasons other than bigamy, without a prior judicial declaration. If the first marriage was void for lack of a license, there was no valid prior marriage. If the second was void for lack of a marriage ceremony, it would not have been valid even without the first marriage. Either way an element of bigamy fails.",
+  "key_note": null
+ },
+ {
+  "id": "V-63",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #1",
+  "type": "tf",
+  "stem": "The nullity of a second marriage is not per se an argument for the avoidance of a criminal liability for bigamy.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Tenebro v. CA (2004): the nullity of the second marriage is not per se an argument for avoiding criminal liability for bigamy. Bigamy is consummated upon the celebration of the second marriage, and a second marriage is always void precisely BECAUSE it is bigamous. Its nullity on that ground cannot be a defense. 'Not per se' leaves room for Atty. Uribe's reading of Pulido v. People (2021): if the second marriage is void on a ground OTHER than its being bigamous, the element that it would have been valid but for the first marriage may fail.",
+  "key_note": null
+ },
+ {
+  "id": "V-64",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 3 #11; Uribe samplex MCQ set (Studocu, Quiz #2 unknown source); Uribe samplex MCQ set (Studocu, 'kuya R' version); Uribe samplex (old Quiz No. 2, answered w/ reasons); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version)",
+  "type": "mcq",
+  "stem": "This may involve a prejudicial question in the case for bigamy:",
+  "choices": [
+   "legal separation",
+   "annulment of the first marriage",
+   "annulment of the second marriage",
+   "nullity of the second marriage due to psychological incapacity",
+   "none of the above"
+  ],
+  "answer": 2,
+  "explanation": "A prejudicial question exists when the civil case involves an issue whose resolution determines the guilt or innocence of the accused. An action to annul the SECOND marriage on the ground that the accused's consent was vitiated by force, threat or intimidation may be prejudicial to a bigamy case. If his consent was not freely given, he did not voluntarily contract the second marriage (Merced v. Diez, 1960; Zapanta v. Montesa, 1962). Annulment of the FIRST marriage is not prejudicial, because a voidable marriage is valid until annulled. Nullity of the second marriage under Art. 36 is no defense (Tenebro v. CA). Legal separation does not touch the bond.",
+  "key_note": "A source annotation says Atty. Uribe personally does not subscribe to the Merced ruling, but his answer key consistently marks (c)."
+ },
+ {
+  "id": "V-65",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "tf",
+  "stem": "The first marriage is void because of lack of marriage ceremony. Without a petition for judicial declaration of nullity, one of the spouses contracted a subsequent marriage. This spouse can be held liable for bigamy.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Morigo v. People (2004): where no marriage ceremony was performed at all and the parties merely signed a marriage contract, there is no first marriage to speak of. The act 'bears no semblance to a valid marriage' and needs no judicial declaration of nullity, so an essential element of bigamy, a valid prior marriage, is absent. Pulido v. People (2021) extends the acquittal rationale to all void ab initio first marriages.",
+  "key_note": null
+ },
+ {
+  "id": "V-66",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question",
+  "type": "tf",
+  "stem": "If the first marriage is valid but the subsequent marriage is void for lack of marriage license, the parties can be held criminally liable for bigamy.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Per Atty. Uribe, following Pulido v. People (2021), one element of bigamy is that the second marriage has all the essential requisites for validity, so that it would have been valid were it not for the subsisting first marriage. A second marriage void for lack of a marriage license would not have been valid in any case, so that element fails and there is no bigamy.",
+  "key_note": "Debatable: Santiago v. People (2015) refused to let an accused who knowingly married without a license invoke its absence to escape a bigamy conviction. This item follows Atty. Uribe's reading of Pulido."
+ },
+ {
+  "id": "V-67",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "tf",
+  "stem": "If all the essential and formal requisites of marriage are present, the marriage is necessarily valid.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Not necessarily. A marriage may be void even though all the essential (Art. 2) and formal (Art. 3) requisites are present. Examples include psychological incapacity (Art. 36), incestuous marriages (Art. 37), public-policy impediments (Art. 38), and remarriage without a prior judicial declaration of nullity (Art. 40). Others are bigamous marriages not under Art. 41 (Art. 35(4)), subsequent marriages where both parties acted in bad faith (Art. 44), and remarriage without compliance with Art. 52 (Art. 53).",
+  "key_note": null
+ },
+ {
+  "id": "V-68",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. In case of disappearance where there is danger of death under the circumstances set forth in Article 391 of the Civil Code, an absence of only two years shall be sufficient for the present spouse to remarry under Article 41.",
+   "2. The four-year period of absence may be shortened if the present spouse sincerely believes in good faith that the absentee is already dead."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true. It is the second sentence of Art. 41: where there is danger of death under the circumstances of Art. 391, Civil Code, an absence of only two years suffices. No. 2 is false. The period of absence is mandatory and cannot be shortened because of the present spouse's good-faith belief (Tolentino, PDF pp. 171-172). A wife who remarries after three years of unexplained absence, with no danger of death, contracts a void marriage even if she sincerely believed her husband dead.",
+  "key_note": null
+ },
+ {
+  "id": "V-69",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "For the purpose of contracting a subsequent marriage under Article 41, the spouse present must:",
+  "choices": [
+   "Merely execute an affidavit stating the facts of the absence and the belief that the absentee is dead",
+   "Institute a summary proceeding for the declaration of presumptive death of the absentee",
+   "Wait seven years, after which no court proceeding is required",
+   "File an ordinary civil action for declaration of death of the absentee",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Art. 41, par. 2: 'For the purpose of contracting the subsequent marriage ... the spouse present must institute a summary proceeding as provided in this Code for the declaration of presumptive death of the absentee, without prejudice to the effect of reappearance of the absent spouse.' A mere affidavit is insufficient. Unlike Civil Code Art. 83(2), the FC requires a judicial declaration whatever the length of the absence. The summary proceeding is governed by Arts. 238-253 of the FC.",
+  "key_note": null
+ },
+ {
+  "id": "V-70",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style application; Republic v. Cantor)",
+  "type": "mcq",
+  "stem": "W's husband H left the conjugal home after a quarrel in January 2018 and was never heard from again. In 2022, W filed a petition for declaration of H's presumptive death for purposes of remarriage. She testified that she asked H's relatives, friends and neighbors about his whereabouts and checked some hospitals, but she did not report his disappearance to the police or seek the help of mass media. Should the petition be granted?",
+  "choices": [
+   "Yes, because H has been absent for four consecutive years",
+   "Yes, because W's sincere belief that H is dead is sufficient",
+   "No, because W failed to prove a well-founded belief of H's death arising from diligent and reasonable efforts to locate him",
+   "No, because an absence of seven years is required since there was no danger of death",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 41 requires (1) absence of four consecutive years (two with danger of death), (2) a WELL-FOUNDED BELIEF of the present spouse that the absentee is dead, and (3) a summary proceeding. Republic v. Cantor (2013), on similar facts, held that the well-founded belief must result from diligent and reasonable efforts and inquiries, a strict standard. A 'passive search', such as asking relatives and neighbors and checking hospitals without seeking help from the police or media, is not enough (see also Republic v. Nolasco, 1993; Republic v. Fenol, 2020). The seven-year period of Civil Code Art. 390 does not apply to remarriage under Art. 41.",
+  "key_note": null
+ },
+ {
+  "id": "V-71",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style pair)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. A judgment in a summary proceeding for the declaration of presumptive death under Article 41 is immediately final and executory, and the remedy of the State to question it is a petition for certiorari under Rule 65.",
+   "2. A petition for declaration of presumptive death under Article 41 may be filed even if the present spouse has no intention to remarry, as long as the absentee has been missing for four consecutive years."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true. Under Art. 247, FC, the judgment in summary proceedings is immediately final and executory. The State's remedy is certiorari under Rule 65, not an ordinary appeal (Republic v. Bermudez-Lorino, 2005; Republic v. Granada, 2012; Republic v. Cantor, 2013). No. 2 is false. A petition under Art. 41 lies only 'for the purpose of contracting the subsequent marriage'. A declaration of presumptive death cannot be the subject of an independent action for other purposes (Tadeo-Matias v. Republic, 2018).",
+  "key_note": null
+ },
+ {
+  "id": "V-72",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "mcq",
+  "stem": "In 1989, A married C. A's husband [B] had been absent since 1983. B was in danger of death at the time of his disappearance. The marriage of A and C is:",
+  "choices": [
+   "Valid, if there was a judicial declaration of presumptive death even if both A and C acted in bad faith.",
+   "Valid, as long as 1 acted in good faith, even without a judicial declaration of presumptive death.",
+   "Void, if 1 acted in bf, with or without a judicial declaration of presumptive death.",
+   "Void, if both acted in bad faith even if there was a judicial declaration of presumptive death.",
+   "None of the above."
+  ],
+  "answer": 3,
+  "explanation": "The Family Code governs the 1989 marriage. B disappeared in danger of death, so two years of absence suffices (Art. 41), and B had been absent since 1983. Even with a judicial declaration of presumptive death, if BOTH A and C acted in bad faith, the subsequent marriage is void ab initio (Art. 44). (a) is wrong because both parties' bad faith voids the marriage despite the declaration. (b) is wrong because a judicial declaration is indispensable (Art. 41, par. 2). (c) is wrong because one party's bad faith alone does not void a marriage contracted with a declaration.",
+  "key_note": null
+ },
+ {
+  "id": "V-73",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2017, 2008 Bar; UP BOC – 2017 Bar",
+  "type": "mcq",
+  "stem": "State whether the marital union is valid, void, or voidable: Eli and Fely's marriage solemnized 7 years after the disappearance of Chona, Eli's previous spouse, after the plane she had boarded crashed in the West Philippine Sea.",
+  "choices": [
+   "Valid, because Chona had been absent for more than 4 years under circumstances of danger of death.",
+   "Void for being bigamous, because Eli did not obtain a judicial declaration of presumptive death of Chona before remarrying.",
+   "Voidable, and may be terminated by Chona's reappearance.",
+   "Valid, because absence of 7 years raises a conclusive presumption of death for all purposes."
+  ],
+  "answer": 1,
+  "explanation": "Art. 41: Chona disappeared in a plane crash, a danger-of-death situation (Art. 391, Civil Code), so two years of absence would suffice. Still, 'for the purpose of contracting the subsequent marriage', the present spouse must institute a summary proceeding for the declaration of presumptive death. The facts mention no such proceeding, and the suggested answers read this silence as meaning Eli remarried without one, so his marriage to Fely is bigamous and void under Art. 35(4) in relation to Art. 41. The seven-year presumption of Civil Code Art. 390 does not dispense with the judicial declaration.",
+  "key_note": "Assumes (as the bar suggested answers do) that no judicial declaration of presumptive death was obtained, since the facts mention none; had Eli obtained one, the marriage would be valid under Art. 41 (choice a's reasoning would then hold, absent bad faith of both under Art. 44). Also assumes the marriage was celebrated under the Family Code; under Civil Code Art. 83(2), no judicial declaration was required."
+ },
+ {
+  "id": "V-74",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO 1987-2017 – 2005 Bar; Bar Q&A in PFR Reviewer 2013 (elmerpaquitolalong)",
+  "type": "mcq",
+  "stem": "In 1985, Sonny and Lulu, both Filipino citizens, were married in the Philippines. In 1987, they separated, and Sonny went to Canada, where he obtained a divorce in the same year and married another Filipina, Auring. In 1990, after failing to hear from Sonny, Lulu married Tirso. In 1991, Sonny visited the Philippines, where he died of a heart attack. What is the status of the marriage between Lulu and Tirso?",
+  "choices": [
+   "Valid, because Sonny's divorce capacitated Lulu to remarry.",
+   "Valid, because Lulu did not hear from Sonny for more than two years.",
+   "Void ab initio, because Lulu was still validly married to Sonny.",
+   "Validated upon Sonny's death in 1991."
+  ],
+  "answer": 2,
+  "explanation": "Void ab initio. A divorce obtained abroad by a FILIPINO spouse against a Filipino spouse is not recognized (Art. 15, Civil Code; Tenchavez v. Escaño). Art. 26(2) applies only to mixed marriages, so Lulu remained married to Sonny. Her 1990 remarriage, under the Family Code, did not fall under Art. 41. Sonny had been gone only about three years, Lulu had no well-founded belief that he was dead (she knew of the divorce), and there was no judicial declaration of presumptive death. The marriage is bigamous and void (Art. 35(4)). Sonny's later death does not validate it.",
+  "key_note": null
+ },
+ {
+  "id": "V-75",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe recitation question; Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "A and B were married, both Filipinos. A year after, B went to Hongkong for work. While B was in HK, A, knowing fully well that B was alive, while in full communication with B, filed a petition for presumptive death of B. 4 years after B left, A filed a petition for declaration of presumptive death which was granted by the court. 8 months after the decision, A married C. C is a high school batchmate of A and B. Status of the marriage between A and C?",
+  "choices": [
+   "Valid, since A obtained a judicial declaration of presumptive death; but if both A and C acted in bad faith, the subsequent marriage is void (FC 44)",
+   "Voidable at the instance of B",
+   "Void ab initio in all cases because A did not actually believe B was dead, regardless of C's good faith",
+   "Valid in all cases, and B's reappearance has no effect"
+  ],
+  "answer": 0,
+  "explanation": "Atty. Uribe's answer: VALID as far as A is concerned, because A obtained a final judicial declaration of presumptive death ('sisihin mo si Judge'). The subsequent marriage remains valid until terminated by the recording of an affidavit of reappearance (Art. 42); termination presupposes a valid marriage. But if BOTH A and C acted in bad faith, the marriage is void ab initio under Art. 44. C was a high-school batchmate of both, so her knowledge that B was alive must be proved. Do not promise the client.",
+  "key_note": "Debatable: Tolentino (PDF p. 172) submits that where the present spouse knew the absentee was alive, the subsequent marriage is void as bigamous because the Art. 41 element of a well-founded belief is wanting. Santos v. Santos (2014) holds that a fraudulently obtained declaration of presumptive death may be set aside by annulment of judgment (Rule 47), after which the marriage is bigamous. This item follows Atty. Uribe's answer."
+ },
+ {
+  "id": "V-76",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "mcq",
+  "stem": "A and B are spouses. B went to Singapore on a four-year work contract and kept constant communication with A. In B's third year abroad, A obtained a judicial declaration of B's presumptive death, which became final. Months later A married C. B returned to the Philippines on January 1, 2024, but no sworn statement of reappearance has been recorded. C gave birth to a child on September 15, 2024. Assuming the A-C marriage is valid (it has not been shown that both A and C acted in bad faith), the child is:",
+  "choices": [
+   "Legitimate, because the child was conceived before the termination of the subsequent marriage",
+   "Illegitimate, because B had already reappeared when the child was born",
+   "Illegitimate, because the subsequent marriage was automatically terminated upon B's return",
+   "Legitimate only if the child was born before B's return",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "Under Art. 42 the subsequent marriage is terminated only by the RECORDING of the sworn statement of reappearance, not by mere physical reappearance. Under Art. 43(1), children of the subsequent marriage CONCEIVED prior to its termination are legitimate. What matters is conception before termination, not birth before reappearance. No affidavit has been recorded, so the A-C marriage subsists and the child is legitimate. (If both A and C were in bad faith, the marriage would be void under Art. 44 and the child illegitimate.)",
+  "key_note": null
+ },
+ {
+  "id": "V-77",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe quiz class discussion (Midterms)",
+  "type": "tf",
+  "stem": "A bigamous marriage falling under Article 41 may be void even if there is a judicial declaration of presumptive death and all the essential and formal requisites are present.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 44: 'If both spouses of the subsequent marriage acted in bad faith, said marriage shall be void ab initio' even if a judicial declaration of presumptive death was obtained and all the essential and formal requisites are present. A subsequent marriage that otherwise falls under Art. 41 can therefore still be void. (Source: Midterm #17, Statement 2.)",
+  "key_note": null
+ },
+ {
+  "id": "V-78",
+  "topic": "void",
+  "origin": "bar",
+  "src": "UP BOC – 2013 Bar MCQ",
+  "type": "mcq",
+  "stem": "Lito, a commercial airline co-pilot, disappeared in 1998 when his flight vanished over the Pacific Ocean; no trace of the plane or its passengers and crew was ever found, and Lito was never heard of again. He left behind his wife Lita. In 2008, without any judicial proceeding, Lita married Jaime. In 2010, while touring China, Lita saw Lito alive. If Lito is alive, what is the status of Lita's marriage to Jaime?",
+  "choices": [
+   "The marriage is valid because Lita's marriage to Lito was terminated upon Lito's disappearance for more than seven years.",
+   "The marriage is valid. After an absence of more than 10 years, Lito is already presumed dead for all purposes.",
+   "The marriage is void. Lito's mere absence, however lengthy, is insufficient to authorize Lita to contract a subsequent marriage.",
+   "The marriage is void. If Lito is indeed alive, his marriage to Lita was never dissolved and they can resume their marital relations at any time."
+  ],
+  "answer": 2,
+  "explanation": "Void. Under Art. 41 a subsequent marriage during the subsistence of a prior marriage is valid only if, besides the required absence and a well-founded belief of death, the present spouse obtained a judicial declaration of presumptive death in a summary proceeding. Lita married Jaime in 2008 without such a declaration, so however long Lito's absence, it did not authorize her to remarry. If Lito is alive, the Lita-Jaime marriage is bigamous and void (Art. 35(4)).",
+  "key_note": "(d) also says 'void', but its reasoning is not the ground of nullity: the Lita-Jaime marriage is void because Lita remarried without a judicial declaration of presumptive death (Art. 41), which (c) states. (d) speaks only of the Lito-Lita marriage subsisting, which is a consequence, not the reason. The source key is (c)."
+ },
+ {
+  "id": "V-79",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – 2nd Quiz (scanned); Uribe samplex MCQ set (Studocu, Quiz #2 unknown source); Uribe samplex – True or False compilation (scanned)",
+  "type": "pair",
+  "stem": "True or False. Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. The lack of certificate of legal capacity does not affect the validity of the marriage.",
+   "2. The subsequent bigamous marriage shall be automatically terminated by the reappearance of the absent spouse."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is true per the answer key. The certificate of legal capacity required of a foreigner (Art. 21) relates to the issuance of the license. Its absence is at most an irregularity under Art. 4, and the marriage remains valid if a license was issued and the parties in fact had capacity (cf. Garcia v. Recio, 2001). No. 2 is false. Under Art. 42 the subsequent marriage is automatically terminated by the RECORDING of the affidavit of reappearance in the civil registry, not by mere reappearance (SSS v. Vda. de Bailon, 2006).",
+  "key_note": null
+ },
+ {
+  "id": "V-80",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. The subsequent marriage referred to in Article 41 shall be automatically terminated by the mere reappearance of the absent spouse, even if no affidavit of reappearance is recorded.",
+   "2. The sworn statement of the fact and circumstances of reappearance may be recorded in the civil registry at the instance of any interested person, with due notice to the spouses of the subsequent marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 2 is true. It is Art. 42, par. 2: the sworn statement is recorded 'at the instance of any interested person, with due notice to the spouses of the subsequent marriage and without prejudice to the fact of reappearance being judicially determined in case such fact is disputed.' No. 1 is false. Termination is by the recording, and mere reappearance, even if known to the spouses, does not terminate the subsequent marriage (Tolentino, PDF pp. 172-173; SSS v. Vda. de Bailon, 2006). 'Any interested person' includes either party to the two marriages or a child of the first marriage.",
+  "key_note": null
+ },
+ {
+  "id": "V-81",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Under the Family Code, a subsequent marriage contracted in compliance with Article 41 is voidable at the instance of the reappearing spouse.",
+   "2. The children of the subsequent marriage conceived prior to its termination shall be considered legitimate."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Under the Civil Code such a marriage was annullable, but under the FC it is not among the voidable marriages in Art. 45. It is VALID until terminated under Art. 42 (Tolentino, PDF p. 172). No. 2 is true. It is Art. 43(1): children of the subsequent marriage conceived prior to its termination shall be considered legitimate, and their custody and support in case of dispute shall be decided by the court in a proper proceeding.",
+  "key_note": null
+ },
+ {
+  "id": "V-82",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex MCQ set (Studocu, PFR T/F+MCQ - compiler says answers not fully trusted)",
+  "type": "tf",
+  "stem": "Children of the subsequent marriage conceived after the reappearance of the absentee spouse shall be illegitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Under Art. 42 the subsequent marriage is terminated only upon the RECORDING of the sworn statement of reappearance, not upon the reappearance itself. Under Art. 43(1), children of the subsequent marriage conceived prior to its termination are legitimate. A child conceived after the absentee physically reappears but before the affidavit is recorded is therefore legitimate, so the statement is not absolutely true. Note: this compiled samplex keyed 'True'; this is incorrect because the marriage subsists, and children conceived during it are legitimate, until the affidavit of reappearance is recorded (Arts. 42, 43(1)).",
+  "key_note": "Note: this compiled samplex keyed 'True'; this is incorrect because the marriage subsists, and children conceived during it are legitimate, until the affidavit of reappearance is recorded (Arts. 42, 43(1))."
+ },
+ {
+  "id": "V-83",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style pair)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Upon termination of the subsequent marriage under Article 42, the absolute community or conjugal partnership shall be dissolved and liquidated, and the share in the net profits of the spouse who contracted the marriage in bad faith shall be forfeited in favor of the innocent spouse, or if there be none, the common children.",
+   "2. Donations by reason of marriage shall remain valid, except that if the donee contracted the marriage in bad faith, such donations made to said donee are revoked by operation of law."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Art. 43(2) forfeits the bad-faith spouse's share in the net profits 'in favor of the COMMON CHILDREN or if there be none, the children of the guilty spouse by a previous marriage or in default of children, the innocent spouse.' The statement reverses the order of beneficiaries. No. 2 is true: it is Art. 43(3) verbatim.",
+  "key_note": null
+ },
+ {
+  "id": "V-84",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style application; Arts. 43-44)",
+  "type": "mcq",
+  "stem": "A's wife B disappeared at sea in 2019 under circumstances of danger of death. In 2022, A, who honestly believed B dead after a diligent search, obtained a judicial declaration of B's presumptive death and married C. C, however, knew all along that B was alive in Davao. Before the wedding A donated a house to C by reason of the marriage, and he later designated C as irrevocable beneficiary of his life insurance. In 2025, B's sworn statement of reappearance was recorded. Which of the following is CORRECT?",
+  "choices": [
+   "The A-C marriage is void ab initio because C acted in bad faith",
+   "The donation to C is revoked by operation of law, and A may revoke C's designation as beneficiary even though it was stipulated as irrevocable",
+   "The donation to C remains valid because the marriage was valid until its termination",
+   "C may still inherit from A by will, though not by intestacy",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Only C acted in bad faith, so Art. 44, which requires that BOTH spouses acted in bad faith, does not apply. The A-C marriage was valid and was terminated by the recording of the affidavit (Art. 42). Art. 43 then applies against C, the party in bad faith. Donations by reason of marriage to the bad-faith donee are revoked by operation of law (par. 3), and the innocent spouse may revoke the bad-faith spouse's designation as insurance beneficiary even if irrevocable (par. 4). C is also disqualified to inherit from A by testate AND intestate succession (par. 5), and C's share in the net profits is forfeited (par. 2).",
+  "key_note": null
+ },
+ {
+  "id": "V-85",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex (old Quiz No. 2, answered w/ reasons); Uribe samplex – 2nd Quiz (scanned); Uribe samplex MCQ set (Studocu, Quiz #2 unknown source); Uribe samplex (Leviathan Quiz No. 2); Uribe samplex – True or False compilation (scanned); Uribe samplex (answered T/F + MCQ set, Quiz 1-2 version); Uribe samplex (FC quiz set 2, T/F & MCQ)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. If both spouses of the subsequent marriage acted in bad faith, said marriage shall be void ab initio and all testamentary dispositions made by one in favor of the other may be revoked by either spouse.",
+   "2. Non-disclosure of a previous conviction by final judgment of the other party shall constitute fraud resulting in a voidable marriage."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is false. Art. 44 provides that if both spouses of the subsequent marriage acted in bad faith, the marriage is void ab initio and all donations by reason of marriage and testamentary dispositions made by one in favor of the other 'are REVOKED BY OPERATION OF LAW'. No act of revocation by either spouse is needed. No. 2 is false. Art. 46(1) makes fraud only the non-disclosure of a previous conviction by final judgment of the other party 'of a crime involving MORAL TURPITUDE'.",
+  "key_note": null
+ },
+ {
+  "id": "V-86",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "mcq",
+  "stem": "A's wife B disappeared in 2015. In 2020, A obtained a judicial declaration of B's presumptive death and married C. At the time of the marriage, both A and C knew that B was alive and was living in Cebu. The marriage of A and C is:",
+  "choices": [
+   "Valid until terminated by the recording of an affidavit of reappearance",
+   "Voidable at the instance of B",
+   "Valid, because a judicial declaration of presumptive death was obtained",
+   "Void ab initio, and all donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Art. 44: if both spouses of the subsequent marriage acted in bad faith, that is, both knew the absent spouse was alive, the marriage is void ab initio. All donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law. The judicial declaration of presumptive death does not save the marriage. Tolentino (PDF p. 173) adds that in such a case the marriage may be attacked collaterally at any time, even after the death of a spouse.",
+  "key_note": null
+ },
+ {
+  "id": "V-87",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style pair)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. The effects provided for by paragraphs (2), (3), (4) and (5) of Article 43 and by Article 44 shall also apply in the proper cases to marriages which are declared void ab initio or annulled by final judgment under Articles 40 and 45.",
+   "2. All creditors of the spouses as well as of the absolute community or the conjugal partnership shall be notified of the proceedings for liquidation."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 0,
+  "explanation": "Both statements are true and track Art. 50, pars. 1 and 3, FC. Under Diño v. Diño (2011) and Valdes v. RTC (1996), the liquidation rules of Art. 50 apply to marriages void under Art. 40 and annulled under Art. 45. They do not apply to marriages void on other grounds such as Art. 36, whose property relations are governed by Art. 147 or 148. The final judgment must also provide for the liquidation, partition and distribution of the properties, the custody and support of the common children, and the delivery of their presumptive legitimes (Art. 50, par. 2).",
+  "key_note": null
+ },
+ {
+  "id": "V-88",
+  "topic": "void",
+  "origin": "bar",
+  "src": "QuAMTO – 2014 Bar; UP BOC – 2014 Bar",
+  "type": "mcq",
+  "stem": "Miko and Dinah started to live together as husband and wife without the benefit of marriage in 1984. 10 years after, they separated. In 1996, they decided to live together again, and in 1998, they got married. On 17 Feb. 2001, Dinah filed a complaint for declaration of nullity of her marriage with Miko on the ground of psychological incapacity under Art. 36, FC The court rendered the following decision: 1. \"Declaring the marriage null and void; 2. Dissolving the regime of absolute community of property; and 3. Declaring that a decree of absolute nullity of marriage shall only be issued after liquidation, partition and distribution of the parties' properties under Art. 147, FC. Dinah filed a motion for partial reconsideration questioning the portion of the decision on the issuance of a decree of nullity of marriage only after the liquidation, partition and distribution of properties under Art. 147, FC. If you are the judge, how will you decide petitioner's motion for partial reconsideration?",
+  "choices": [
+   "Grant it, because Art. 50 and the requirement of prior liquidation apply only to marriages void under Art. 40 or annulled under Art. 45, not to marriages void under Art. 36.",
+   "Deny it, because under Art. 50 a decree of nullity may issue only after liquidation, partition and distribution of the properties.",
+   "Deny it, because the absolute community must first be liquidated before any decree may be issued.",
+   "Grant it, because no property regime exists in a void marriage, so there is nothing to liquidate."
+  ],
+  "answer": 0,
+  "explanation": "Grant the motion. Diño v. Diño (2011): Art. 50 and Sec. 19(1) of A.M. No. 02-11-10-SC, which provide that the decree issues only after liquidation, partition and distribution, apply only to marriages declared void under Art. 40 or annulled under Art. 45. A marriage void under Art. 36 never produced an absolute community or conjugal partnership. The property relations are governed by co-ownership under Art. 147 (or 148), which may be liquidated under the Civil Code rules on co-ownership. The decree of nullity therefore issues upon finality of the judgment without awaiting liquidation (see also Valdes v. RTC, 1996).",
+  "key_note": null
+ },
+ {
+  "id": "V-89",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style, Art. 51)",
+  "type": "mcq",
+  "stem": "In the partition under Article 51 of the Family Code, the value of the presumptive legitimes of all common children shall be computed as of:",
+  "choices": [
+   "The date of the celebration of the marriage",
+   "The date of the filing of the petition",
+   "The date of the final judgment of the trial court",
+   "The date of the death of either parent",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 51, FC: 'In said partition, the value of the presumptive legitimes of all common children, computed as of the date of the final judgment of the trial court, shall be delivered in cash, property or sound securities, unless the parties, by mutual agreement judicially approved, had already provided for such matters.' The children, their guardian or the trustee of their property may ask for enforcement. The delivery does not prejudice the children's ultimate successional rights. The value received is considered an advance on their legitime.",
+  "key_note": null
+ },
+ {
+  "id": "V-90",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Uribe-style pair)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. The judgment of annulment or of absolute nullity of the marriage, the partition and distribution of the properties of the spouses, and the delivery of the children's presumptive legitimes shall be recorded in the appropriate civil registry and registries of property; otherwise, the same shall be void.",
+   "2. Either of the former spouses may marry again after compliance with the requirements of Article 52; otherwise, the subsequent marriage shall be null and void."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Art. 52 provides that if these are not recorded, 'the same shall NOT AFFECT THIRD PERSONS'. The judgment and partition are not void, only unenforceable against third persons. No. 2 is true. It is Art. 53, and the subsequent marriage contracted without compliance is the void marriage referred to in Art. 35(6). Children conceived or born of that subsequent marriage are nonetheless legitimate (Art. 54).",
+  "key_note": null
+ },
+ {
+  "id": "V-91",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "tf",
+  "stem": "A died, and A's surviving spouse later remarried without liquidating the property regime of the first marriage. After the surviving spouse also died, his heirs claimed that the subsequent marriage was void because there was no delivery of the presumptive legitimes of the children of the first marriage. The heirs are correct.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Arts. 52-53 (recording of partition and delivery of presumptive legitimes as a condition for remarriage) apply only where the former marriage ended by annulment or judicial declaration of nullity. They do not apply where it was dissolved by death. When a surviving spouse remarries without first liquidating the community or conjugal property of the dissolved marriage, the sanction is that a mandatory regime of complete separation of property governs the subsequent marriage (Arts. 103 and 130, FC). The subsequent marriage remains valid.",
+  "key_note": null
+ },
+ {
+  "id": "V-92",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz No. 4 (scanned); Uribe samplex – True or False compilation (scanned)",
+  "type": "tf",
+  "stem": "Children conceived and born outside a valid marriage are illegitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Not absolutely true. As a rule, children conceived and born outside a valid marriage are illegitimate (Art. 165), but Art. 54 provides exceptions. Children conceived or born before the judgment of absolute nullity under Art. 36 becomes final and executory are legitimate, and so are children conceived or born of a subsequent marriage void under Art. 53. Both are born of void marriages yet are legitimate.",
+  "key_note": null
+ },
+ {
+  "id": "V-93",
+  "topic": "void",
+  "origin": "recit",
+  "src": "Uribe CivRev recitation (2025)",
+  "type": "tf",
+  "stem": "If a child was born after the judicial declaration of nullity of his parents' marriage, the child is illegitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Not necessarily. Under Art. 54, children CONCEIVED (or born) before the judgment of absolute nullity under Art. 36 becomes final and executory are legitimate. A child conceived during an Art. 36 marriage but born after the decree is legitimate. For other grounds of nullity, such as want of a license or incestuous or public-policy marriages, children conceived and born of the void marriage are illegitimate (Art. 165), except those of Art. 53 marriages.",
+  "key_note": null
+ },
+ {
+  "id": "V-94",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – True or False compilation (scanned); Uribe samplex MCQ set (Studocu, Quiz #1 unknown source); Uribe samplex – Midterm Exam (scanned)",
+  "type": "tf",
+  "stem": "Children conceived or born before the promulgation of judgment of annulment or absolute nullity of the marriage under Article 36 shall be considered legitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 54: 'Children conceived or born before the judgment of annulment or absolute nullity of the marriage under Article 36 has become final and executory shall be considered legitimate.' Every child conceived or born before promulgation is necessarily conceived or born before finality, so the statement is true as to all the children it covers. (The Midterm variant, 'conceived and born before the judgment ... has become final and executory', is likewise true.)",
+  "key_note": "Strict reading: Art. 54 uses 'has become final and executory', not 'promulgation'; the statement is narrower than the law but not false. The samplex key is True."
+ },
+ {
+  "id": "V-95",
+  "topic": "void",
+  "origin": "samplex",
+  "src": "Uribe samplex – Quiz #1 (scanned, handwritten key); Uribe samplex (QUIZ, FC T/F - copy 1); Uribe samplex (QUIZ, FC T/F - copy 2); Uribe samplex (Leviathan Quiz 3)",
+  "type": "tf",
+  "stem": "Children born after the dissolution of the marriage of the parents may be legitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "'May be' makes this true. A child conceived during a valid marriage but born after its dissolution, for instance after the husband's death, is legitimate (Arts. 164, 168). Under Art. 54, children conceived before the judgment of annulment, or of nullity under Art. 36, becomes final are legitimate even if born afterwards. So are children of a subsequent marriage under Art. 53. Note: the samplex key marked False in one transcription (Leviathan Quiz 3); this is incorrect because legitimacy depends on conception (or birth) during the marriage, and Art. 54 expressly protects children of annulled and Art. 36 marriages.",
+  "key_note": "Note: the samplex key marked False in one transcription (Leviathan Quiz 3); this is incorrect because legitimacy depends on conception (or birth) during the marriage, and Art. 54 expressly protects children of annulled and Art. 36 marriages."
+ },
+ {
+  "id": "V-96",
+  "topic": "void",
+  "origin": "new",
+  "src": "New (Tolentino-based)",
+  "type": "pair",
+  "stem": "",
+  "statements": [
+   "1. Children conceived or born of the subsequent marriage under Article 53 shall be considered illegitimate, since the parties failed to comply with the requirements of Article 52.",
+   "2. Children conceived or born before the judgment of annulment or absolute nullity of the marriage under Article 36 has become final and executory shall be considered legitimate."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is false. Art. 54, second sentence, provides that children conceived or born of the subsequent marriage under Art. 53 'shall LIKEWISE be legitimate', even though the marriage itself is void for non-compliance with Art. 52. No. 2 is true. It is Art. 54, first sentence (Tolentino, PDF pp. 185-186).",
+  "key_note": null
+ }
+]

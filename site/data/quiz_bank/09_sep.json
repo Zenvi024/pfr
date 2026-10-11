@@ -1,0 +1,331 @@
+[
+ {
+  "id": "S-1",
+  "topic": "sep",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 4 (Sep 25, 2025) #13",
+  "type": "mcq",
+  "stem": "The property regime of the spouses married in 1999 will be complete separation of property if:",
+  "choices": [
+   "no marriage settlement was executed",
+   "the marriage settlement is void",
+   "one of the contracting parties is a surviving spouse who contracted a subsequent marriage without liquidating the community property",
+   "all of the above",
+   "none of the above"
+  ],
+  "answer": 2,
+  "explanation": "A and B lead to ACP for a 1999 marriage (Art. 75). C is the mandatory regime under Art. 103 (Art. 130 for a CPG): 'Should the surviving spouse contract a subsequent marriage without compliance with the foregoing requirements, a mandatory regime of complete separation of property shall govern the property relations of the subsequent marriage.' In the Quiz 4 discussion, liquidation is required so the legitimes of the heirs can be delivered and the debts of the deceased paid, and mandatory separation protects those heirs.",
+  "key_note": null
+ },
+ {
+  "id": "S-2",
+  "topic": "sep",
+  "origin": "bar",
+  "src": "UP BOC – 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "Separation of property between spouses during the marriage may take place only:",
+  "choices": [
+   "by agreement of the spouses.",
+   "If one of the spouses has given ground for legal separation.",
+   "Upon order of the court.",
+   "If one spouse has abandoned the other."
+  ],
+  "answer": 2,
+  "explanation": "Art. 134: 'In the absence of an express declaration in the marriage settlements, the separation of property between spouses during the marriage shall not take place except by JUDICIAL ORDER.' Even voluntary separation requires a joint petition approved by the court (Art. 136). Grounds and abandonment (B, D) are only causes the court considers (Arts. 101, 128, 135).",
+  "key_note": null
+ },
+ {
+  "id": "S-3",
+  "topic": "sep",
+  "origin": "bar",
+  "src": "QuAMTO – 2005 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Gabby and Mila married in 1990 after executing a registered marriage settlement adopting the conjugal partnership of gains. In 1995, they signed a private document dissolving their conjugal partnership and agreeing on complete separation of property. Gabby later acquired a mansion and an agricultural land registered exclusively in his name. What is the status of the 1995 agreement and of Gabby's later acquisitions?",
+  "choices": [
+   "The agreement is voidable; the later acquisitions are co-owned.",
+   "The agreement is valid; the later acquisitions are Gabby's exclusive property.",
+   "The agreement is void; the CPG subsists, and the later acquisitions are presumed conjugal.",
+   "The agreement is valid between the spouses but not against creditors."
+  ],
+  "answer": 2,
+  "explanation": "Art. 134: separation during the marriage takes place only by judicial order, so the CPG is not dissolved by the spouses' mere agreement, and the 1995 document is void (see also Art. 76 on modifications). Properties later acquired, though registered in Gabby's name alone, are presumed conjugal (Art. 116). In the bar answer, they are answerable for Mila's obligations to the extent of Art. 121, except the family home.",
+  "key_note": null
+ },
+ {
+  "id": "S-4",
+  "topic": "sep",
+  "origin": "recit",
+  "src": "Uribe recitation situationer (2018)",
+  "type": "tf",
+  "stem": "If a petition for separation of property was filed, for this petition to prosper, the petitioner must allege and thereafter prove a sufficient cause for separation of property.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 134: judicial separation of property 'may either be VOLUNTARY or for sufficient cause'. In a voluntary separation (Art. 136), the spouses file a joint verified petition without alleging any cause. Would this not prejudice creditors? No, because they are listed in the petition and notified, and the court takes protective measures (Art. 136). In any case, 'the separation of property shall not prejudice the rights previously acquired by creditors' (Art. 140).",
+  "key_note": null
+ },
+ {
+  "id": "S-5",
+  "topic": "sep",
+  "origin": "recit",
+  "src": "Uribe recitation situationer (2018)",
+  "type": "tf",
+  "stem": "There can be a regime of separation of property only if so agreed upon by the parties in their marriage settlements.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Uribe disagreed: not only by settlement (Arts. 143–146). Separation also arises by mandate of law, when the surviving spouse remarries without liquidating (Arts. 103, 130); after legal separation, which dissolves the regime (Art. 63(2)), and after reconciliation unless the spouses revive their regime (Art. 66(2)); and by judicial separation of property, after which 'the provisions on complete separation of property shall apply' (Art. 138).",
+  "key_note": null
+ },
+ {
+  "id": "S-6",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 134)",
+  "type": "tf",
+  "stem": "In the absence of an express declaration in the marriage settlements, the separation of property between spouses during the marriage shall not take place except by judicial order. Such judicial separation of property may either be voluntary or for sufficient cause.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 134.",
+  "key_note": null
+ },
+ {
+  "id": "S-7",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 135(6))",
+  "type": "tf",
+  "stem": "It is a sufficient cause for judicial separation of property that at the time of the petition, the spouses have been separated in fact for at least six months and reconciliation is highly improbable.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 135(6): separated in fact 'for at least ONE YEAR' and reconciliation is highly improbable.",
+  "key_note": null
+ },
+ {
+  "id": "S-8",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 135)",
+  "type": "tf",
+  "stem": "In cases where the spouse of the petitioner has been sentenced to a penalty which carries with it civil interdiction, has been judicially declared an absentee, or has been decreed to have lost parental authority, the presentation of the final judgment against the guilty or absent spouse shall be enough basis for the grant of the decree of judicial separation of property.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 135, last par., referring to grounds (1), (2) and (3).",
+  "key_note": null
+ },
+ {
+  "id": "S-9",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (FC 135)",
+  "type": "mcq",
+  "stem": "Which of the following is NOT among the sufficient causes for judicial separation of property under Article 135?",
+  "choices": [
+   "The spouse of the petitioner has been sentenced to a penalty which carries with it civil interdiction",
+   "The spouse granted the power of administration in the marriage settlements has abused that power",
+   "The spouse of the petitioner has been sentenced to imprisonment of more than six years, even if pardoned",
+   "The spouse of the petitioner has been judicially declared an absentee"
+  ],
+  "answer": 2,
+  "explanation": "C paraphrases a ground for LEGAL SEPARATION (Art. 55(4)), not judicial separation of property. Art. 135 refers to a penalty 'which carries with it civil interdiction' (A). B is Art. 135(5) and D is Art. 135(2).",
+  "key_note": null
+ },
+ {
+  "id": "S-10",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 136)",
+  "type": "tf",
+  "stem": "The spouses may jointly file a verified petition with the court for the voluntary dissolution of the absolute community or the conjugal partnership of gains, and for the separation of their common properties, provided they allege a sufficient cause therefor.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 136 requires no cause for a voluntary separation. What it requires is that all creditors of the community or partnership, and the personal creditors of each spouse, 'be listed in the petition and notified of the filing thereof.'",
+  "key_note": null
+ },
+ {
+  "id": "S-11",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 137–138)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. During the pendency of the proceedings for separation of property, the absolute community or the conjugal partnership shall pay for the support of the spouses and their children.",
+   "2. After dissolution of the absolute community or of the conjugal partnership by judicial separation of property, the provisions on the absolute community shall again apply to properties acquired thereafter."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE (Art. 137, 2nd par.). No. 2 is FALSE. Art. 138: 'After dissolution of the absolute community or of the conjugal partnership, the provisions on COMPLETE SEPARATION OF PROPERTY shall apply.' The former regime returns only if the court revives it on motion (Art. 141).",
+  "key_note": null
+ },
+ {
+  "id": "S-12",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 139–140)",
+  "type": "tf",
+  "stem": "The separation of property shall not prejudice the rights previously acquired by creditors.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 140. Art. 139 also requires the petition and the final judgment to be recorded in the proper local civil registries and registries of property.",
+  "key_note": null
+ },
+ {
+  "id": "S-13",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (FC 141)",
+  "type": "mcq",
+  "stem": "In which of the following instances may the spouses file a motion for a decree reviving the former property regime after a judicial separation of property?",
+  "choices": [
+   "When the spouses who have been separated in fact for at least one year reconcile and resume common life",
+   "When one spouse remarries",
+   "When the creditors of the spouses so request",
+   "When the spouses execute a private agreement to revive the regime"
+  ],
+  "answer": 0,
+  "explanation": "Art. 141(6). The revival is by motion in the same proceeding where separation was decreed, and Art. 67 governs it (agreement under oath listing the properties contributed and retained and all known creditors, filed in court with notice to creditors). A private agreement alone (D) is not enough.",
+  "key_note": null
+ },
+ {
+  "id": "S-14",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 141(7))",
+  "type": "tf",
+  "stem": "When after voluntary dissolution of the absolute community or conjugal partnership has been judicially decreed upon the joint petition of the spouses, they agree to the revival of the former property regime, another voluntary separation of property may thereafter be granted.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 141(7): '… No voluntary separation of property may thereafter be granted.' The spouses get only one revival after a voluntary separation.",
+  "key_note": null
+ },
+ {
+  "id": "S-15",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (FC 142)",
+  "type": "mcq",
+  "stem": "The court may transfer the administration of all classes of exclusive property of a spouse to the other spouse in the following cases, EXCEPT:",
+  "choices": [
+   "when one spouse is sentenced to a penalty which carries with it civil interdiction",
+   "when one spouse is judicially declared an absentee",
+   "when one spouse becomes the guardian of the other",
+   "when the spouses have been separated in fact for six months"
+  ],
+  "answer": 3,
+  "explanation": "Art. 142: (1) guardian of the other; (2) judicially declared absentee; (3) civil interdiction; (4) fugitive from justice or in hiding as an accused in a criminal case. If the other spouse is not qualified, the court appoints a suitable person.",
+  "key_note": null
+ },
+ {
+  "id": "S-16",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 144)",
+  "type": "tf",
+  "stem": "Separation of property may refer to present or future property or both. It may be total or partial. In the latter case, the property not agreed upon as separate shall pertain to the conjugal partnership of gains.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 144: '… shall pertain to the ABSOLUTE COMMUNITY.'",
+  "key_note": null
+ },
+ {
+  "id": "S-17",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 145–146)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Under the regime of separation of property, each spouse shall own, dispose of, possess, administer and enjoy his or her own separate estate, without need of the consent of the other.",
+   "2. Under the regime of separation of property, the liabilities of the spouses to creditors for family expenses shall be joint."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE (Art. 145). No. 2 is FALSE. Art. 146: although the spouses bear family expenses between themselves in proportion to their income, 'the liabilities of the spouses to creditors for family expenses shall, however, be SOLIDARY.'",
+  "key_note": null
+ },
+ {
+  "id": "S-18",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Uribe format; FC 146)",
+  "type": "tf",
+  "stem": "Under the regime of separation of property, both spouses shall bear the family expenses equally.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 146: 'in proportion to their income, or, in case of insufficiency or default thereof, to the current market value of their separate properties.'",
+  "key_note": null
+ },
+ {
+  "id": "S-19",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (Garcia v. Manzano; Lacson v. San Jose-Lacson)",
+  "type": "mcq",
+  "stem": "Spouses separated in fact executed a compromise agreement dissolving their conjugal partnership and dividing their properties, which the court approved after notice. No creditor was prejudiced. Is the dissolution valid?",
+  "choices": [
+   "No, because spouses can never agree on the dissolution of their regime.",
+   "Yes, even without court approval, since the agreement is the law between the parties.",
+   "Yes, because the law allows the dissolution of the conjugal partnership during the marriage provided judicial sanction is secured.",
+   "No, because the conjugal partnership can be dissolved only by death or legal separation."
+  ],
+  "answer": 2,
+  "explanation": "Lacson v. San Jose-Lacson: 'The law allows separation of property of the spouses and the dissolution of their conjugal partnership provided judicial sanction is secured beforehand.' Garcia v. Manzano: the creditors must be notified so they may protect their interests. Under the FC, this is voluntary judicial separation of property (Art. 136).",
+  "key_note": null
+ },
+ {
+  "id": "S-20",
+  "topic": "sep",
+  "origin": "new",
+  "src": "New (De la Cruz v. De la Cruz, 22 SCRA 333)",
+  "type": "mcq",
+  "stem": "H left the conjugal dwelling but continued to manage the conjugal properties diligently and to support his wife and children. W petitioned for separation of property on the ground of abandonment. Will the petition prosper?",
+  "choices": [
+   "No, because mere physical separation, with continued diligent administration and support, is not abandonment.",
+   "Yes, because H left the conjugal dwelling.",
+   "No, because only the husband may petition for separation of property.",
+   "Yes, because separation in fact is a ground for judicial separation of property."
+  ],
+  "answer": 0,
+  "explanation": "De la Cruz v. De la Cruz: where there is 'only physical separation', and the husband 'continues to manage the conjugal properties with the same zeal … and religiously gives support', the petition fails. The remedies 'are designed to protect the conjugal partnership from waste and shield the wife from want.' Under the FC, separation in fact becomes a cause only if it has lasted at least one year and reconciliation is highly improbable (Art. 135(6)).",
+  "key_note": null
+ }
+]

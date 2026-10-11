@@ -1,0 +1,3 @@
+site/build/site.html
+site/build/*.png
+__pycache__/

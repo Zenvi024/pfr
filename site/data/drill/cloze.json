@@ -1,0 +1,2665 @@
+[
+ {
+  "id": "CZ-1",
+  "topic": "laws",
+  "art": "Art. 2, NCC (as amended by E.O. 200)",
+  "text": "Laws shall take effect after [[fifteen days]] following the completion of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.",
+  "accept": [
+   "15 days",
+   "fifteen (15) days"
+  ],
+  "why": "Fifteen days counted AFTER completion of publication, not from the date of the law or of approval."
+ },
+ {
+  "id": "CZ-2",
+  "topic": "laws",
+  "art": "Art. 2, NCC (as amended by E.O. 200)",
+  "text": "Laws shall take effect after fifteen days following the completion of their publication [[either]] in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is otherwise provided.",
+  "accept": [],
+  "why": "E.O. 200 made the Official Gazette and a newspaper alternatives; the original Art. 2 required the Official Gazette only."
+ },
+ {
+  "id": "CZ-3",
+  "topic": "laws",
+  "art": "Art. 2, NCC (as amended by E.O. 200)",
+  "text": "Laws shall take effect after fifteen days following the completion of their publication either in the Official Gazette or in a newspaper of general circulation in the Philippines, unless it is [[otherwise provided]].",
+  "accept": [],
+  "why": "Tañada: \"unless otherwise provided\" refers to the 15-day period, never to publication itself."
+ },
+ {
+  "id": "CZ-4",
+  "topic": "laws",
+  "art": "Art. 2, NCC",
+  "text": "This Code shall take effect [[one year]] after such publication.",
+  "accept": [
+   "1 year",
+   "one (1) year"
+  ],
+  "why": "The Civil Code itself had a one-year vacatio legis (effective Aug. 30, 1950), not fifteen days."
+ },
+ {
+  "id": "CZ-5",
+  "topic": "laws",
+  "art": "Art. 3, NCC",
+  "text": "Ignorance of the law [[excuses no one]] from compliance therewith.",
+  "accept": [],
+  "why": "Applies to Philippine laws; foreign laws must be proved. Mistake on a doubtful question of law may still ground good faith (Art. 526)."
+ },
+ {
+  "id": "CZ-6",
+  "topic": "laws",
+  "art": "Art. 4, NCC",
+  "text": "Laws shall have [[no retroactive effect]], unless the contrary is provided.",
+  "accept": [],
+  "why": "Prospectivity is the rule; exceptions include penal laws favorable to the accused (RPC 22) and the FC (Art. 256)."
+ },
+ {
+  "id": "CZ-7",
+  "topic": "laws",
+  "art": "Art. 4, NCC",
+  "text": "Laws shall have no retroactive effect, unless the contrary is [[provided]].",
+  "accept": [],
+  "why": "NCC says merely \"provided\"; the Admin Code Sec. 19 says \"expressly provided\". Watch which text is quoted."
+ },
+ {
+  "id": "CZ-8",
+  "topic": "laws",
+  "art": "Art. 5, NCC",
+  "text": "Acts executed against the provisions of [[mandatory or prohibitory]] laws shall be void, except when the law itself authorizes their validity.",
+  "accept": [],
+  "why": "Both kinds of law; not \"directory\" laws."
+ },
+ {
+  "id": "CZ-9",
+  "topic": "laws",
+  "art": "Art. 5, NCC",
+  "text": "Acts executed against the provisions of mandatory or prohibitory laws shall be [[void]], except when the law itself authorizes their validity.",
+  "accept": [],
+  "why": "Void, not voidable; the only exception is when the law itself authorizes validity."
+ },
+ {
+  "id": "CZ-10",
+  "topic": "laws",
+  "art": "Art. 6, NCC",
+  "text": "Rights may be waived, unless the waiver is contrary to law, public order, public policy, morals, or good customs, or [[prejudicial to a third person]] with a right recognized by law.",
+  "accept": [
+   "prejudicial to a third party"
+  ],
+  "why": "Second limb of the exception; the third person must have a right recognized by law."
+ },
+ {
+  "id": "CZ-11",
+  "topic": "laws",
+  "art": "Art. 7, NCC",
+  "text": "Laws are repealed only by [[subsequent ones]], and their violation or non-observance shall not be excused by disuse, or custom or practice to the contrary.",
+  "accept": [],
+  "why": "\"Only\" by subsequent laws; never by disuse or contrary custom."
+ },
+ {
+  "id": "CZ-12",
+  "topic": "laws",
+  "art": "Art. 7, NCC",
+  "text": "Laws are repealed only by subsequent ones, and their violation or non-observance shall not be excused by [[disuse]], or custom or practice to the contrary.",
+  "accept": [
+   "desuetude"
+  ],
+  "why": "No repeal by desuetude."
+ },
+ {
+  "id": "CZ-13",
+  "topic": "laws",
+  "art": "Art. 7, NCC",
+  "text": "When the courts declare a law to be inconsistent with the Constitution, the [[former]] shall be void and the latter shall govern.",
+  "accept": [
+   "law"
+  ],
+  "why": "\"Former\" = the law; \"latter\" = the Constitution. Common swap trap."
+ },
+ {
+  "id": "CZ-14",
+  "topic": "laws",
+  "art": "Art. 7, NCC",
+  "text": "Administrative or executive acts, orders and regulations shall be valid only when they are not contrary to the [[laws or the Constitution]].",
+  "accept": [],
+  "why": "Both: issuances must conform to statutes AND the Constitution."
+ },
+ {
+  "id": "CZ-15",
+  "topic": "laws",
+  "art": "Art. 8, NCC",
+  "text": "Judicial decisions applying or interpreting the laws or the Constitution shall [[form a part of]] the legal system of the Philippines.",
+  "accept": [
+   "form part of"
+  ],
+  "why": "Decisions form part of the legal system; they are not themselves \"laws\"."
+ },
+ {
+  "id": "CZ-16",
+  "topic": "laws",
+  "art": "Art. 9, NCC",
+  "text": "No judge or court shall [[decline to render judgment]] by reason of the silence, obscurity or insufficiency of the laws.",
+  "accept": [],
+  "why": "Duty to decide even without a governing law (civil cases); contrast RPC Art. 5 in criminal cases."
+ },
+ {
+  "id": "CZ-17",
+  "topic": "laws",
+  "art": "Art. 10, NCC",
+  "text": "In case of doubt in the interpretation or application of laws, it is presumed that the lawmaking body intended [[right and justice]] to prevail.",
+  "accept": [],
+  "why": "Presumption applies only \"in case of doubt\"."
+ },
+ {
+  "id": "CZ-18",
+  "topic": "laws",
+  "art": "Art. 11, NCC",
+  "text": "Customs which are contrary to law, public order or public policy shall [[not be countenanced]].",
+  "accept": [],
+  "why": "Art. 11 lists law, public order, public policy only (morals/good customs are not in this list, unlike Art. 6)."
+ },
+ {
+  "id": "CZ-19",
+  "topic": "laws",
+  "art": "Art. 12, NCC",
+  "text": "A custom must be proved [[as a fact]], according to the rules of evidence.",
+  "accept": [],
+  "why": "Customs are not judicially noticed; they are proved like facts."
+ },
+ {
+  "id": "CZ-20",
+  "topic": "laws",
+  "art": "Art. 13, NCC",
+  "text": "When the laws speak of years, months, days or nights, it shall be understood that years are of [[three hundred sixty-five]] days each; months, of thirty days; days, of twenty-four hours; and nights from sunset to sunrise.",
+  "accept": [
+   "365",
+   "three hundred sixty five"
+  ],
+  "why": "Superseded as to \"year\" by Admin Code Sec. 31 (12 calendar months) per CIR v. Primetown."
+ },
+ {
+  "id": "CZ-21",
+  "topic": "laws",
+  "art": "Art. 13, NCC",
+  "text": "When the laws speak of years, months, days or nights, it shall be understood that years are of three hundred sixty-five days each; months, of [[thirty]] days; days, of twenty-four hours; and nights from sunset to sunrise.",
+  "accept": [
+   "30"
+  ],
+  "why": "Months are 30 days unless designated by name."
+ },
+ {
+  "id": "CZ-22",
+  "topic": "laws",
+  "art": "Art. 13, NCC",
+  "text": "In computing a period, the first day shall be [[excluded]], and the last day included.",
+  "accept": [],
+  "why": "First day excluded, last day included (not the reverse)."
+ },
+ {
+  "id": "CZ-23",
+  "topic": "laws",
+  "art": "Art. 14, NCC",
+  "text": "Penal laws and those of public security and safety shall be obligatory upon all who [[live or sojourn]] in Philippine territory, subject to the principles of public international law and to treaty stipulations.",
+  "accept": [],
+  "why": "Territoriality: binds everyone in PH territory, citizen or alien."
+ },
+ {
+  "id": "CZ-24",
+  "topic": "laws",
+  "art": "Art. 15, NCC",
+  "text": "Laws relating to family rights and duties, or to the status, condition and legal capacity of persons are binding upon [[citizens of the Philippines]], even though living abroad.",
+  "accept": [
+   "Filipino citizens",
+   "Filipinos"
+  ],
+  "why": "Nationality principle: binds citizens only, not aliens or residents."
+ },
+ {
+  "id": "CZ-25",
+  "topic": "laws",
+  "art": "Art. 15, NCC",
+  "text": "Laws relating to family rights and duties, or to the status, condition and legal capacity of persons are binding upon citizens of the Philippines, even though [[living abroad]].",
+  "accept": [],
+  "why": "Follows the Filipino wherever he goes."
+ },
+ {
+  "id": "CZ-26",
+  "topic": "laws",
+  "art": "Art. 16, NCC",
+  "text": "Real property as well as personal property is subject to the law of the country [[where it is situated]].",
+  "accept": [],
+  "why": "Lex situs governs both real AND personal property."
+ },
+ {
+  "id": "CZ-27",
+  "topic": "laws",
+  "art": "Art. 16, NCC",
+  "text": "However, intestate and testamentary successions, both with respect to the order of succession and to the amount of successional rights and to the intrinsic validity of testamentary provisions, shall be regulated by the [[national law]] of the person whose succession is under consideration, whatever may be the nature of the property and regardless of the country wherein said property may be found.",
+  "accept": [],
+  "why": "Succession follows the decedent's national law, not lex situs or domicile."
+ },
+ {
+  "id": "CZ-28",
+  "topic": "laws",
+  "art": "Art. 17, NCC",
+  "text": "The forms and solemnities of contracts, wills, and other public instruments shall be governed by the laws of the country [[in which they are executed]].",
+  "accept": [],
+  "why": "Lex loci celebrationis governs extrinsic validity."
+ },
+ {
+  "id": "CZ-29",
+  "topic": "laws",
+  "art": "Art. 17, NCC",
+  "text": "When the acts referred to are executed before the [[diplomatic or consular officials]] of the Republic of the Philippines in a foreign country, the solemnities established by Philippine laws shall be observed in their execution.",
+  "accept": [],
+  "why": "Exception: Philippine solemnities apply before PH diplomatic/consular officials abroad."
+ },
+ {
+  "id": "CZ-30",
+  "topic": "laws",
+  "art": "Art. 17, NCC",
+  "text": "[[Prohibitive laws]] concerning persons, their acts or property, and those which have for their object public order, public policy and good customs shall not be rendered ineffective by laws or judgments promulgated, or by determinations or conventions agreed upon in a foreign country.",
+  "accept": [],
+  "why": "Public-policy limit on applying foreign law."
+ },
+ {
+  "id": "CZ-31",
+  "topic": "laws",
+  "art": "Art. 18, NCC",
+  "text": "In matters which are governed by the Code of Commerce and special laws, their [[deficiency]] shall be supplied by the provisions of this Code.",
+  "accept": [],
+  "why": "The Civil Code is merely suppletory to special laws."
+ },
+ {
+  "id": "CZ-32",
+  "topic": "human",
+  "art": "Art. 19, NCC",
+  "text": "Every person must, in the exercise of his rights and in the performance of his duties, act with justice, give everyone his due, and observe [[honesty and good faith]].",
+  "accept": [],
+  "why": "Abuse of rights: the three standards are justice, giving everyone his due, honesty and good faith."
+ },
+ {
+  "id": "CZ-33",
+  "topic": "human",
+  "art": "Art. 20, NCC",
+  "text": "Every person who, contrary to law, [[wilfully or negligently]] causes damage to another, shall indemnify the latter for the same.",
+  "accept": [
+   "willfully or negligently"
+  ],
+  "why": "Art. 20 covers wilful OR negligent acts contrary to law; Art. 21 requires wilfulness."
+ },
+ {
+  "id": "CZ-34",
+  "topic": "human",
+  "art": "Art. 21, NCC",
+  "text": "Any person who [[wilfully]] causes loss or injury to another in a manner that is contrary to morals, good customs or public policy shall compensate the latter for the damage.",
+  "accept": [
+   "willfully"
+  ],
+  "why": "Art. 21 requires intent; negligence is not enough."
+ },
+ {
+  "id": "CZ-35",
+  "topic": "human",
+  "art": "Art. 21, NCC",
+  "text": "Any person who wilfully causes loss or injury to another in a manner that is contrary to [[morals, good customs or public policy]] shall compensate the latter for the damage.",
+  "accept": [],
+  "why": "Art. 21 covers acts NOT contrary to law but contra bonos mores; \"contrary to law\" is Art. 20."
+ },
+ {
+  "id": "CZ-36",
+  "topic": "human",
+  "art": "Art. 22, NCC",
+  "text": "Every person who through an act of performance by another, or any other means, acquires or comes into possession of something at the expense of the latter [[without just or legal ground]], shall return the same to him.",
+  "accept": [],
+  "why": "Unjust enrichment (accion in rem verso)."
+ },
+ {
+  "id": "CZ-37",
+  "topic": "human",
+  "art": "Art. 23, NCC",
+  "text": "Even when an act or event causing damage to another's property was not due to the fault or negligence of the defendant, the latter shall be liable for indemnity if through the act or event he was [[benefited]].",
+  "accept": [
+   "benefitted"
+  ],
+  "why": "Liability without fault, based on benefit received."
+ },
+ {
+  "id": "CZ-38",
+  "topic": "human",
+  "art": "Art. 25, NCC",
+  "text": "Thoughtless extravagance in expenses for pleasure or display during a period of [[acute public want or emergency]] may be stopped by order of the courts at the instance of any government or private charitable institution.",
+  "accept": [],
+  "why": "Only during acute public want or emergency."
+ },
+ {
+  "id": "CZ-39",
+  "topic": "human",
+  "art": "Art. 25, NCC",
+  "text": "Thoughtless extravagance in expenses for pleasure or display during a period of acute public want or emergency may be stopped by order of the courts at the instance of any [[government or private charitable institution]].",
+  "accept": [],
+  "why": "Who may sue: a charitable institution, not any citizen or relative."
+ },
+ {
+  "id": "CZ-40",
+  "topic": "human",
+  "art": "Art. 26, NCC",
+  "text": "Every person shall respect the dignity, personality, privacy and [[peace of mind]] of his neighbors and other persons.",
+  "accept": [],
+  "why": "Four protected interests: dignity, personality, privacy, peace of mind."
+ },
+ {
+  "id": "CZ-41",
+  "topic": "human",
+  "art": "Art. 26, NCC",
+  "text": "The following and similar acts, though they may not constitute a [[criminal offense]], shall produce a cause of action for damages, prevention and other relief:",
+  "accept": [],
+  "why": "Actionable even if not a crime; list is not exclusive (\"and similar acts\")."
+ },
+ {
+  "id": "CZ-42",
+  "topic": "human",
+  "art": "Art. 26, NCC",
+  "text": "(3) [[Intriguing]] to cause another to be alienated from his friends;",
+  "accept": [],
+  "why": "Item (3); item (2) is meddling with private life or family relations."
+ },
+ {
+  "id": "CZ-43",
+  "topic": "human",
+  "art": "Art. 27, NCC",
+  "text": "Any person suffering material or moral loss because a public servant or employee refuses or neglects, [[without just cause]], to perform his official duty may file an action for damages and other relief against the latter, without prejudice to any disciplinary administrative action that may be taken.",
+  "accept": [],
+  "why": "Nonfeasance must be without just cause."
+ },
+ {
+  "id": "CZ-44",
+  "topic": "human",
+  "art": "Art. 29, NCC",
+  "text": "When the accused in a criminal prosecution is acquitted on the ground that his guilt has not been proved [[beyond reasonable doubt]], a civil action for damages for the same act or omission may be instituted.",
+  "accept": [],
+  "why": "Acquittal on reasonable doubt does not bar a civil action; acquittal because the act did not exist does."
+ },
+ {
+  "id": "CZ-45",
+  "topic": "human",
+  "art": "Art. 29, NCC",
+  "text": "Such action requires only a [[preponderance of evidence]].",
+  "accept": [],
+  "why": "Civil quantum, not proof beyond reasonable doubt."
+ },
+ {
+  "id": "CZ-46",
+  "topic": "human",
+  "art": "Art. 32, NCC",
+  "text": "The responsibility herein set forth is [[not demandable]] from a judge unless his act or omission constitutes a violation of the Penal Code or other penal statute.",
+  "accept": [],
+  "why": "Judges are not liable under Art. 32 unless the act or omission is criminal."
+ },
+ {
+  "id": "CZ-47",
+  "topic": "human",
+  "art": "Art. 33, NCC",
+  "text": "In cases of [[defamation, fraud, and physical injuries]] a civil action for damages, entirely separate and distinct from the criminal action, may be brought by the injured party.",
+  "accept": [],
+  "why": "The three independent civil actions under Art. 33."
+ },
+ {
+  "id": "CZ-48",
+  "topic": "human",
+  "art": "Art. 34, NCC",
+  "text": "When a member of a city or municipal police force refuses or fails to render aid or protection to any person in case of danger to life or property, such peace officer shall be [[primarily]] liable for damages, and the city or municipality shall be subsidiarily responsible therefor.",
+  "accept": [],
+  "why": "Officer primarily liable; city/municipality only subsidiarily."
+ },
+ {
+  "id": "CZ-49",
+  "topic": "human",
+  "art": "Art. 35, NCC",
+  "text": "If during the pendency of the civil action, an information should be presented by the prosecuting attorney, the civil action shall be [[suspended]] until the termination of the criminal proceedings.",
+  "accept": [],
+  "why": "Art. 35 civil action is not independent once an information is filed."
+ },
+ {
+  "id": "CZ-50",
+  "topic": "human",
+  "art": "Art. 36, NCC",
+  "text": "Pre-judicial questions, which must be decided before any criminal prosecution may be instituted or may proceed, shall be governed by rules of court which the [[Supreme Court]] shall promulgate and which shall not be in conflict with the provisions of this Code.",
+  "accept": [],
+  "why": "Now Rule 111, Secs. 6-7."
+ },
+ {
+  "id": "CZ-51",
+  "topic": "persons",
+  "art": "Art. 37, NCC",
+  "text": "Juridical capacity, which is the fitness to be the subject of legal relations, is [[inherent]] in every natural person and is lost only through death.",
+  "accept": [],
+  "why": "Juridical capacity is inherent; capacity to act is acquired."
+ },
+ {
+  "id": "CZ-52",
+  "topic": "persons",
+  "art": "Art. 37, NCC",
+  "text": "Juridical capacity, which is the fitness to be the subject of legal relations, is inherent in every natural person and is lost only through [[death]].",
+  "accept": [],
+  "why": "\"Only\" through death; capacity to act may be lost in other ways."
+ },
+ {
+  "id": "CZ-53",
+  "topic": "persons",
+  "art": "Art. 37, NCC",
+  "text": "Capacity to act, which is the power to do acts with legal effect, is [[acquired]] and may be lost.",
+  "accept": [],
+  "why": "Contrast juridical capacity (inherent, lost only by death)."
+ },
+ {
+  "id": "CZ-54",
+  "topic": "persons",
+  "art": "Art. 38, NCC",
+  "text": "Minority, insanity or imbecility, the state of being a deaf-mute, prodigality and civil interdiction are mere [[restrictions on capacity to act]], and do not exempt the incapacitated person from certain obligations, as when the latter arise from his acts or from property relations, such as easements.",
+  "accept": [],
+  "why": "They restrict capacity to act, not juridical capacity."
+ },
+ {
+  "id": "CZ-55",
+  "topic": "persons",
+  "art": "Art. 38, NCC",
+  "text": "Minority, insanity or imbecility, the state of being a deaf-mute, prodigality and civil interdiction are mere restrictions on capacity to act, and do not exempt the incapacitated person from certain obligations, as when the latter arise from his acts or from property relations, such as [[easements]].",
+  "accept": [],
+  "why": "Example given by the Code of obligations from property relations."
+ },
+ {
+  "id": "CZ-56",
+  "topic": "persons",
+  "art": "Art. 39, NCC",
+  "text": "The following circumstances, among others, [[modify or limit]] capacity to act: age, insanity, imbecility, the state of being a deaf-mute, penalty, prodigality, family relations, alienage, absence, insolvency and trusteeship.",
+  "accept": [],
+  "why": "Art. 39 \"modify or limit\"; Art. 38 \"restrictions\". List is not exclusive (\"among others\")."
+ },
+ {
+  "id": "CZ-57",
+  "topic": "persons",
+  "art": "Art. 39, NCC",
+  "text": "Capacity to act is not limited on account of [[religious belief or political opinion]].",
+  "accept": [],
+  "why": "These two never limit capacity to act."
+ },
+ {
+  "id": "CZ-58",
+  "topic": "persons",
+  "art": "Art. 40, NCC",
+  "text": "[[Birth]] determines personality; but the conceived child shall be considered born for all purposes that are favorable to it, provided it be born later with the conditions specified in the following article.",
+  "accept": [],
+  "why": "Personality begins at birth; the conceived child has only provisional personality."
+ },
+ {
+  "id": "CZ-59",
+  "topic": "persons",
+  "art": "Art. 40, NCC",
+  "text": "Birth determines personality; but the conceived child shall be considered born for all purposes that are [[favorable]] to it, provided it be born later with the conditions specified in the following article.",
+  "accept": [],
+  "why": "Only favorable purposes, and only if later born per Art. 41."
+ },
+ {
+  "id": "CZ-60",
+  "topic": "persons",
+  "art": "Art. 41, NCC",
+  "text": "For civil purposes, the foetus is considered born if it is [[alive]] at the time it is completely delivered from the mother's womb.",
+  "accept": [],
+  "why": "Alive at complete delivery (cutting of umbilical cord), not merely viable."
+ },
+ {
+  "id": "CZ-61",
+  "topic": "persons",
+  "art": "Art. 41, NCC",
+  "text": "For civil purposes, the foetus is considered born if it is alive at the time it is [[completely delivered]] from the mother's womb.",
+  "accept": [],
+  "why": "Partial delivery is insufficient."
+ },
+ {
+  "id": "CZ-62",
+  "topic": "persons",
+  "art": "Art. 41, NCC",
+  "text": "However, if the foetus had an intra-uterine life of less than [[seven months]], it is not deemed born if it dies within twenty-four hours after its complete delivery from the maternal womb.",
+  "accept": [
+   "7 months",
+   "seven (7) months"
+  ],
+  "why": "Premature (<7 months) foetus must survive 24 hours; at 7 months or more, alive at delivery suffices."
+ },
+ {
+  "id": "CZ-63",
+  "topic": "persons",
+  "art": "Art. 41, NCC",
+  "text": "However, if the foetus had an intra-uterine life of less than seven months, it is not deemed born if it dies within [[twenty-four hours]] after its complete delivery from the maternal womb.",
+  "accept": [
+   "24 hours",
+   "twenty-four (24) hours"
+  ],
+  "why": "Counted from complete delivery, not from conception or birth of labor."
+ },
+ {
+  "id": "CZ-64",
+  "topic": "persons",
+  "art": "Art. 42, NCC",
+  "text": "Civil personality is [[extinguished]] by death.",
+  "accept": [],
+  "why": "Compare Art. 37: juridical capacity is \"lost only through death\"."
+ },
+ {
+  "id": "CZ-65",
+  "topic": "persons",
+  "art": "Art. 42, NCC",
+  "text": "The effect of death upon the rights and obligations of the deceased is determined by law, by contract and by [[will]].",
+  "accept": [],
+  "why": "Three sources: law, contract, will."
+ },
+ {
+  "id": "CZ-66",
+  "topic": "persons",
+  "art": "Art. 43, NCC",
+  "text": "If there is a doubt, as between two or more persons who are [[called to succeed each other]], as to which of them died first, whoever alleges the death of one prior to the other, shall prove the same;",
+  "accept": [],
+  "why": "Art. 43 applies only between persons called to succeed each other; otherwise Rule 131 Sec. 3(jj)."
+ },
+ {
+  "id": "CZ-67",
+  "topic": "persons",
+  "art": "Art. 43, NCC",
+  "text": "whoever alleges the death of one prior to the other, shall prove the same; in the absence of proof, it is presumed that they died [[at the same time]] and there shall be no transmission of rights from one to the other.",
+  "accept": [
+   "simultaneously"
+  ],
+  "why": "Presumption of simultaneous death; no age/sex rules as in Rule 131."
+ },
+ {
+  "id": "CZ-68",
+  "topic": "persons",
+  "art": "Art. 43, NCC",
+  "text": "in the absence of proof, it is presumed that they died at the same time and there shall be [[no transmission of rights]] from one to the other.",
+  "accept": [],
+  "why": "Consequence of the presumption of simultaneity."
+ },
+ {
+  "id": "CZ-69",
+  "topic": "persons",
+  "art": "Art. 44, NCC",
+  "text": "(2) Other corporations, institutions and entities for public interest or purpose, created by law; their personality begins as soon as they have been [[constituted according to law]];",
+  "accept": [],
+  "why": "Public-interest entities: personality begins upon constitution according to law."
+ },
+ {
+  "id": "CZ-70",
+  "topic": "persons",
+  "art": "Art. 44, NCC",
+  "text": "(3) Corporations, partnerships and associations for [[private interest or purpose]] to which the law grants a juridical personality, separate and distinct from that of each shareholder, partner or member.",
+  "accept": [],
+  "why": "Item (3) private entities; item (2) public interest entities."
+ },
+ {
+  "id": "CZ-71",
+  "topic": "persons",
+  "art": "Art. 46, NCC",
+  "text": "Juridical persons may acquire and possess property of all kinds, as well as incur obligations and bring [[civil or criminal]] actions, in conformity with the laws and regulations of their organization.",
+  "accept": [],
+  "why": "Both civil AND criminal actions."
+ },
+ {
+  "id": "CZ-72",
+  "topic": "persons",
+  "art": "Art. 47, NCC",
+  "text": "If nothing has been specified on this point, the property and other assets shall be applied to [[similar purposes]] for the benefit of the region, province, city or municipality which during the existence of the institution derived the principal benefits from the same.",
+  "accept": [],
+  "why": "Applies only to No. 2 (public interest) entities, and only if law/charter is silent."
+ },
+ {
+  "id": "CZ-73",
+  "topic": "persons",
+  "art": "Art. 49, NCC",
+  "text": "Naturalization and the loss and reacquisition of citizenship of the Philippines are governed by [[special laws]].",
+  "accept": [],
+  "why": "Not by the Civil Code (CA 473, CA 63, RA 9225)."
+ },
+ {
+  "id": "CZ-74",
+  "topic": "persons",
+  "art": "Art. 50, NCC",
+  "text": "For the exercise of civil rights and the fulfillment of civil obligations, the domicile of natural persons is the place of their [[habitual residence]].",
+  "accept": [],
+  "why": "Civil-law domicile = habitual residence (not mere residence or birthplace)."
+ },
+ {
+  "id": "CZ-75",
+  "topic": "persons",
+  "art": "Art. 51, NCC",
+  "text": "When the law creating or recognizing them, or any other provision does not fix the domicile of juridical persons, the same shall be understood to be the place where their [[legal representation]] is established or where they exercise their principal functions.",
+  "accept": [],
+  "why": "Default rule; applies only if the law does not fix domicile."
+ },
+ {
+  "id": "CZ-76",
+  "topic": "persons",
+  "art": "Art. 51, NCC",
+  "text": "When the law creating or recognizing them, or any other provision does not fix the domicile of juridical persons, the same shall be understood to be the place where their legal representation is established or where they exercise their [[principal functions]].",
+  "accept": [],
+  "why": "Alternative: legal representation OR principal functions."
+ },
+ {
+  "id": "CZ-77",
+  "topic": "req",
+  "art": "Art. 1, FC",
+  "text": "Marriage is a [[special contract]] of permanent union between a man and a woman entered into in accordance with law for the establishment of conjugal and family life.",
+  "accept": [],
+  "why": "\"Special contract\", unlike NCC Art. 52 (\"not a mere contract\")."
+ },
+ {
+  "id": "CZ-78",
+  "topic": "req",
+  "art": "Art. 1, FC",
+  "text": "It is the foundation of the family and an inviolable social institution whose nature, consequences, and incidents are governed by law and not subject to stipulation, except that [[marriage settlements]] may fix the property relations during the marriage within the limits provided by this Code.",
+  "accept": [],
+  "why": "Only property relations may be stipulated, and only within the Code's limits."
+ },
+ {
+  "id": "CZ-79",
+  "topic": "req",
+  "art": "Art. 2, FC",
+  "text": "No marriage shall be valid, unless these [[essential]] requisites are present: (1) Legal capacity of the contracting parties who must be a male and a female; and (2) Consent freely given in the presence of the solemnizing officer.",
+  "accept": [],
+  "why": "Essential (Art. 2) vs formal (Art. 3) requisites."
+ },
+ {
+  "id": "CZ-80",
+  "topic": "req",
+  "art": "Art. 2, FC",
+  "text": "(1) Legal capacity of the contracting parties who must be [[a male and a female]];",
+  "accept": [
+   "male and female"
+  ],
+  "why": "Sex requirement is part of legal capacity."
+ },
+ {
+  "id": "CZ-81",
+  "topic": "req",
+  "art": "Art. 3, FC",
+  "text": "The [[formal]] requisites of marriage are: (1) Authority of the solemnizing officer; (2) A valid marriage license except in the cases provided for in Chapter 2 of this Title; and (3) A marriage ceremony",
+  "accept": [],
+  "why": "Authority, license, ceremony are formal; capacity and consent are essential."
+ },
+ {
+  "id": "CZ-82",
+  "topic": "req",
+  "art": "Art. 3, FC",
+  "text": "(3) A marriage ceremony which takes place with the appearance of the contracting parties before the solemnizing officer and their personal declaration that they take each other as husband and wife in the presence of [[not less than two]] witnesses of legal age.",
+  "accept": [
+   "not less than 2",
+   "at least two",
+   "at least 2"
+  ],
+  "why": "Minimum two witnesses, of legal age."
+ },
+ {
+  "id": "CZ-83",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "text": "The absence of any of the essential or formal requisites shall render the marriage [[void ab initio]], except as stated in Article 35 (2).",
+  "accept": [
+   "void from the beginning",
+   "void"
+  ],
+  "why": "Absence = void; defect in essential = voidable; irregularity in formal = valid."
+ },
+ {
+  "id": "CZ-84",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "text": "The absence of any of the essential or formal requisites shall render the marriage void ab initio, except as stated in Article [[35 (2)]].",
+  "accept": [
+   "35(2)"
+  ],
+  "why": "Exception: good-faith belief in the solemnizing officer's authority."
+ },
+ {
+  "id": "CZ-85",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "text": "A [[defect]] in any of the essential requisites shall render the marriage voidable as provided in Article 45.",
+  "accept": [],
+  "why": "Defect (not absence) of an ESSENTIAL requisite."
+ },
+ {
+  "id": "CZ-86",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "text": "A defect in any of the essential requisites shall render the marriage [[voidable]] as provided in Article 45.",
+  "accept": [],
+  "why": "Voidable, not void; refers to Art. 45 grounds."
+ },
+ {
+  "id": "CZ-87",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "text": "An [[irregularity]] in the formal requisites shall not affect the validity of the marriage but the party or parties responsible for the irregularity shall be civilly, criminally and administratively liable.",
+  "accept": [],
+  "why": "Irregularity in FORMAL requisites: marriage valid."
+ },
+ {
+  "id": "CZ-88",
+  "topic": "req",
+  "art": "Art. 4, FC",
+  "text": "An irregularity in the formal requisites shall not affect the validity of the marriage but the party or parties responsible for the irregularity shall be [[civilly, criminally and administratively]] liable.",
+  "accept": [],
+  "why": "All three kinds of liability."
+ },
+ {
+  "id": "CZ-89",
+  "topic": "req",
+  "art": "Art. 5, FC",
+  "text": "Any male or female of the age of [[eighteen years or upwards]] not under any of the impediments mentioned in Articles 37 and 38, may contract marriage.",
+  "accept": [
+   "18 years or upwards",
+   "eighteen (18) years or upwards"
+  ],
+  "why": "Below 18: void even with parental consent (Art. 35(1))."
+ },
+ {
+  "id": "CZ-90",
+  "topic": "req",
+  "art": "Art. 6, FC",
+  "text": "It shall be necessary, however, for the contracting parties to [[appear personally]] before the solemnizing officer and declare in the presence of not less than two witnesses of legal age that they take each other as husband and wife.",
+  "accept": [],
+  "why": "No proxy marriages."
+ },
+ {
+  "id": "CZ-91",
+  "topic": "req",
+  "art": "Art. 6, FC",
+  "text": "In case of a marriage in articulo mortis, when the party at the point of death is unable to sign the marriage certificate, it shall be sufficient for [[one of the witnesses]] to the marriage to write the name of said party, which fact shall be attested by the solemnizing officer.",
+  "accept": [],
+  "why": "A witness (not the officer) writes the dying party's name."
+ },
+ {
+  "id": "CZ-92",
+  "topic": "req",
+  "art": "Art. 7, FC",
+  "text": "(1) Any incumbent member of the judiciary [[within the court's jurisdiction]];",
+  "accept": [],
+  "why": "Judges have authority only within their court's jurisdiction."
+ },
+ {
+  "id": "CZ-93",
+  "topic": "req",
+  "art": "Art. 7, FC",
+  "text": "(2) Any priest, rabbi, imam, or minister of any church or religious sect duly authorized by his church or religious sect and registered with the civil registrar general, acting within the limits of the written authority granted by his church or religious sect and provided that [[at least one]] of the contracting parties belongs to the solemnizing officer's church or religious sect;",
+  "accept": [
+   "at least 1"
+  ],
+  "why": "Only one party, not both, must belong to the officer's church."
+ },
+ {
+  "id": "CZ-94",
+  "topic": "req",
+  "art": "Art. 7, FC",
+  "text": "(3) Any ship captain or airplane chief [[only]] in the case mentioned in Article 31;",
+  "accept": [],
+  "why": "Only in articulo mortis (Art. 31)."
+ },
+ {
+  "id": "CZ-95",
+  "topic": "req",
+  "art": "Art. 7, FC",
+  "text": "(4) Any military commander of a unit to which a [[chaplain]] is assigned, in the absence of the latter, during a military operation, likewise only in the cases mentioned in Article 32;",
+  "accept": [],
+  "why": "Unit must have a chaplain, who must be absent."
+ },
+ {
+  "id": "CZ-96",
+  "topic": "req",
+  "art": "Art. 8, FC",
+  "text": "The marriage shall be solemnized [[publicly]] in the chambers of the judge or in open court, in the church, chapel or temple, or in the office of the consul-general, consul or vice-consul, as the case may be, and not elsewhere,",
+  "accept": [],
+  "why": "Venue rule; violation is a mere irregularity."
+ },
+ {
+  "id": "CZ-97",
+  "topic": "req",
+  "art": "Art. 8, FC",
+  "text": "or where [[both]] of the parties request the solemnizing officer in writing in which case the marriage may be solemnized at a house or place designated by them in a sworn statement to that effect.",
+  "accept": [],
+  "why": "Both parties must request, not either."
+ },
+ {
+  "id": "CZ-98",
+  "topic": "req",
+  "art": "Art. 9, FC",
+  "text": "A marriage license shall be issued by the local civil registrar of the city or municipality where [[either]] contracting party habitually resides, except in marriages where no license is required in accordance with Chapter 2 of this Title.",
+  "accept": [],
+  "why": "Either party's residence suffices; issuance elsewhere is a mere irregularity."
+ },
+ {
+  "id": "CZ-99",
+  "topic": "req",
+  "art": "Art. 10, FC",
+  "text": "Marriages between [[Filipino citizens]] abroad may be solemnized by a consul-general, consul or vice-consul of the Republic of the Philippines.",
+  "accept": [
+   "Filipinos"
+  ],
+  "why": "Both parties must be Filipino citizens."
+ },
+ {
+  "id": "CZ-100",
+  "topic": "req",
+  "art": "Art. 14, FC",
+  "text": "In case either or both of the contracting parties, not having been emancipated by a previous marriage, are between the ages of [[eighteen and twenty-one]], they shall, in addition to the requirements of the preceding articles, exhibit to the local civil registrar, the consent to their marriage",
+  "accept": [
+   "18 and 21",
+   "eighteen (18) and twenty-one (21)"
+  ],
+  "why": "Parental consent: 18 to below 21; lack makes marriage voidable (Art. 45(1))."
+ },
+ {
+  "id": "CZ-101",
+  "topic": "req",
+  "art": "Art. 14, FC",
+  "text": "exhibit to the local civil registrar, the consent to their marriage of their father, mother, surviving parent or guardian, or persons having legal charge of them, [[in the order mentioned]].",
+  "accept": [],
+  "why": "Order of preference is mandatory."
+ },
+ {
+  "id": "CZ-102",
+  "topic": "req",
+  "art": "Art. 15, FC",
+  "text": "Any contracting party between the age of [[twenty-one and twenty-five]] shall be obliged to ask their parents or guardian for advice upon the intended marriage.",
+  "accept": [
+   "21 and 25",
+   "twenty-one (21) and twenty-five (25)"
+  ],
+  "why": "Advice (21-25) vs consent (18-21)."
+ },
+ {
+  "id": "CZ-103",
+  "topic": "req",
+  "art": "Art. 15, FC",
+  "text": "If they do not obtain such advice, or if it be unfavorable, the marriage license shall not be issued till after [[three months]] following the completion of the publication of the application therefor.",
+  "accept": [
+   "3 months",
+   "three (3) months"
+  ],
+  "why": "Lack of advice only delays the license; marriage still valid if license issued early."
+ },
+ {
+  "id": "CZ-104",
+  "topic": "req",
+  "art": "Art. 16, FC",
+  "text": "Failure to attach said certificates of marriage counseling shall suspend the issuance of the marriage license for a period of [[three months]] from the completion of the publication of the application.",
+  "accept": [
+   "3 months",
+   "three (3) months"
+  ],
+  "why": "Same three-month suspension as Art. 15."
+ },
+ {
+  "id": "CZ-105",
+  "topic": "req",
+  "art": "Art. 16, FC",
+  "text": "Issuance of the marriage license within the prohibited period shall subject the issuing officer to administrative sanctions but shall [[not affect the validity]] of the marriage.",
+  "accept": [],
+  "why": "Mere irregularity: officer liable, marriage valid."
+ },
+ {
+  "id": "CZ-106",
+  "topic": "req",
+  "art": "Art. 16, FC",
+  "text": "Should only one of the contracting parties need parental consent or parental advice, the [[other party]] must be present at the counseling referred to in the preceding paragraph.",
+  "accept": [],
+  "why": "Both attend counseling even if only one needs consent/advice."
+ },
+ {
+  "id": "CZ-107",
+  "topic": "req",
+  "art": "Art. 17, FC",
+  "text": "The notice shall be posted for [[ten consecutive days]] on a bulletin board outside the office of the local civil registrar located in a conspicuous place within the building and accessible to the general public.",
+  "accept": [
+   "10 consecutive days",
+   "ten (10) consecutive days"
+  ],
+  "why": "Ten consecutive days; license issued after completion of publication."
+ },
+ {
+  "id": "CZ-108",
+  "topic": "req",
+  "art": "Art. 18, FC",
+  "text": "In case of any impediment known to the local civil registrar or brought to his attention, he shall note down the particulars thereof and his findings thereon in the application for marriage license, but shall [[nonetheless issue]] said license after the completion of the period of publication, unless ordered otherwise by a competent court",
+  "accept": [],
+  "why": "The LCR's duty is ministerial; only a court can stop issuance."
+ },
+ {
+  "id": "CZ-109",
+  "topic": "req",
+  "art": "Art. 20, FC",
+  "text": "The license shall be valid in any part of the Philippines for a period of [[one hundred twenty days]] from the date of issue, and shall be deemed automatically canceled at the expiration of the said period if the contracting parties have not made use of it.",
+  "accept": [
+   "120 days",
+   "one hundred twenty (120) days"
+  ],
+  "why": "120 days from date of ISSUE."
+ },
+ {
+  "id": "CZ-110",
+  "topic": "req",
+  "art": "Art. 20, FC",
+  "text": "The license shall be valid in any part of the Philippines for a period of one hundred twenty days from the date of issue, and shall be deemed [[automatically canceled]] at the expiration of the said period if the contracting parties have not made use of it.",
+  "accept": [
+   "automatically cancelled"
+  ],
+  "why": "Marriage on an expired license = no license = void."
+ },
+ {
+  "id": "CZ-111",
+  "topic": "req",
+  "art": "Art. 21, FC",
+  "text": "When either or both of the contracting parties are citizens of a foreign country, it shall be necessary for them before a marriage license can be obtained, to submit a [[certificate of legal capacity]] to contract marriage, issued by their respective diplomatic or consular officials.",
+  "accept": [],
+  "why": "Foreigners need a certificate of legal capacity."
+ },
+ {
+  "id": "CZ-112",
+  "topic": "req",
+  "art": "Art. 23, FC",
+  "text": "It shall be the duty of the person solemnizing the marriage to furnish either of the contracting parties the original of the marriage certificate referred to in Article 6 and to send the duplicate and triplicate copies of the certificate not later than [[fifteen days]] after the marriage, to the local civil registrar of the place where the marriage was solemnized.",
+  "accept": [
+   "15 days",
+   "fifteen (15) days"
+  ],
+  "why": "15 days (Art. 23) vs 30 days for the Art. 29 affidavit (Art. 30)."
+ },
+ {
+  "id": "CZ-113",
+  "topic": "req",
+  "art": "Art. 26, FC",
+  "text": "All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and [[valid there as such]], shall also be valid in this country, except those prohibited under Articles 35 (1), (4), (5) and (6), 36, 37 and 38.",
+  "accept": [],
+  "why": "Lex loci celebrationis: valid there, valid here, subject to listed exceptions."
+ },
+ {
+  "id": "CZ-114",
+  "topic": "req",
+  "art": "Art. 26, FC",
+  "text": "All marriages solemnized outside the Philippines, in accordance with the laws in force in the country where they were solemnized, and valid there as such, shall also be valid in this country, except those prohibited under Articles 35 (1), (4), (5) and (6), [[36, 37 and 38]].",
+  "accept": [
+   "36, 37, and 38"
+  ],
+  "why": "Psychological incapacity (36), incest (37) and public policy (38) marriages are void even if valid where celebrated; 35(2) and 35(3) are not excepted."
+ },
+ {
+  "id": "CZ-115",
+  "topic": "req",
+  "art": "Art. 26, FC",
+  "text": "Where a marriage between a Filipino citizen and a foreigner is validly celebrated and a divorce is thereafter validly obtained abroad by the [[alien spouse]] capacitating him or her to remarry, the Filipino spouse shall have capacity to remarry under Philippine law.",
+  "accept": [
+   "foreign spouse",
+   "alien"
+  ],
+  "why": "Text says alien spouse; Manalo (2018) allows the Filipino spouse to initiate."
+ },
+ {
+  "id": "CZ-116",
+  "topic": "req",
+  "art": "Art. 27, FC",
+  "text": "In case either or both of the contracting parties are at the point of death, the marriage may be solemnized without necessity of a marriage license and shall [[remain valid]] even if the ailing party subsequently survives.",
+  "accept": [],
+  "why": "Survival does not invalidate an articulo mortis marriage."
+ },
+ {
+  "id": "CZ-117",
+  "topic": "req",
+  "art": "Art. 28, FC",
+  "text": "If the residence of either party is so located that there is [[no means of transportation]] to enable such party to appear personally before the local civil registrar, the marriage may be solemnized without necessity of a marriage license.",
+  "accept": [],
+  "why": "Remote place exception."
+ },
+ {
+  "id": "CZ-118",
+  "topic": "req",
+  "art": "Art. 30, FC",
+  "text": "The original of the affidavit required in the last preceding article, together with the legible copy of the marriage contract, shall be sent by the person solemnizing the marriage to the local civil registrar of the municipality where it was performed within the period of [[thirty days]] after the performance of the marriage.",
+  "accept": [
+   "30 days",
+   "thirty (30) days"
+  ],
+  "why": "30 days for license-exempt affidavits vs 15 days for ordinary certificates (Art. 23)."
+ },
+ {
+  "id": "CZ-119",
+  "topic": "req",
+  "art": "Art. 31, FC",
+  "text": "A marriage in articulo mortis between [[passengers or crew members]] may also be solemnized by a ship captain or by an airplane pilot not only while the ship is at sea or the plane is in flight, but also during stopovers at ports of call.",
+  "accept": [],
+  "why": "Both parties must be passengers or crew."
+ },
+ {
+  "id": "CZ-120",
+  "topic": "req",
+  "art": "Art. 32, FC",
+  "text": "A military commander of a unit, who is a [[commissioned officer]], shall likewise have authority to solemnize marriages in articulo mortis between persons within the zone of military operation, whether members of the armed forces or civilians.",
+  "accept": [],
+  "why": "Must be a commissioned officer."
+ },
+ {
+  "id": "CZ-121",
+  "topic": "req",
+  "art": "Art. 33, FC",
+  "text": "Marriages among Muslims or among members of the ethnic cultural communities may be performed validly without the necessity of marriage license, provided they are solemnized in accordance with their [[customs, rites or practices]].",
+  "accept": [],
+  "why": "\"Among\" = both parties must be Muslims/members."
+ },
+ {
+  "id": "CZ-122",
+  "topic": "req",
+  "art": "Art. 34, FC",
+  "text": "No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for [[at least five years]] and without any legal impediment to marry each other.",
+  "accept": [
+   "at least 5 years",
+   "at least five (5) years"
+  ],
+  "why": "Five years of cohabitation, without legal impediment throughout (Niñal)."
+ },
+ {
+  "id": "CZ-123",
+  "topic": "req",
+  "art": "Art. 34, FC",
+  "text": "No license shall be necessary for the marriage of a man and a woman who have lived together as husband and wife for at least five years and [[without any legal impediment]] to marry each other.",
+  "accept": [],
+  "why": "Strict view (Niñal; Manzano; Dayot): no impediment throughout the five years. Uribe's view under the FC: enough that there is no impediment at the time of the marriage. Answer his view in his exam and mention the strict one."
+ },
+ {
+  "id": "CZ-124",
+  "topic": "void",
+  "art": "Art. 35, FC",
+  "text": "The following marriages shall be void from the beginning: (1) Those contracted by any party below [[eighteen years of age]] even with the consent of parents or guardians;",
+  "accept": [
+   "18 years of age",
+   "eighteen (18) years of age"
+  ],
+  "why": "Below 18: void; 18-21 without consent: voidable."
+ },
+ {
+  "id": "CZ-125",
+  "topic": "void",
+  "art": "Art. 35, FC",
+  "text": "(1) Those contracted by any party below eighteen years of age even with the [[consent of parents or guardians]];",
+  "accept": [],
+  "why": "Parental consent cannot cure the age defect."
+ },
+ {
+  "id": "CZ-126",
+  "topic": "void",
+  "art": "Art. 35, FC",
+  "text": "(2) Those solemnized by any person not legally authorized to perform marriages unless such marriages were contracted with [[either or both]] parties believing in good faith that the solemnizing officer had the legal authority to do so;",
+  "accept": [],
+  "why": "Good faith of even one party saves the marriage."
+ },
+ {
+  "id": "CZ-127",
+  "topic": "void",
+  "art": "Art. 35, FC",
+  "text": "(2) Those solemnized by any person not legally authorized to perform marriages unless such marriages were contracted with either or both parties believing in [[good faith]] that the solemnizing officer had the legal authority to do so;",
+  "accept": [],
+  "why": "Good faith as to authority (mistake of fact)."
+ },
+ {
+  "id": "CZ-128",
+  "topic": "void",
+  "art": "Art. 35, FC",
+  "text": "(3) Those solemnized [[without license]], except those covered by the preceding Chapter;",
+  "accept": [
+   "without a license",
+   "without a marriage license"
+  ],
+  "why": "Exceptions: Arts. 27-34."
+ },
+ {
+  "id": "CZ-129",
+  "topic": "void",
+  "art": "Art. 35, FC",
+  "text": "(4) Those bigamous or polygamous marriages not falling under Article [[41]];",
+  "accept": [],
+  "why": "Art. 41 = valid subsequent marriage after declaration of presumptive death."
+ },
+ {
+  "id": "CZ-130",
+  "topic": "void",
+  "art": "Art. 35, FC",
+  "text": "(5) Those contracted through mistake of one contracting party as to the [[identity]] of the other;",
+  "accept": [],
+  "why": "Mistake as to identity: void; as to character/qualities: no ground at all."
+ },
+ {
+  "id": "CZ-131",
+  "topic": "void",
+  "art": "Art. 35, FC",
+  "text": "(6) Those subsequent marriages that are void under Article [[53]].",
+  "accept": [],
+  "why": "Remarriage without recording the Art. 52 requirements."
+ },
+ {
+  "id": "CZ-132",
+  "topic": "void",
+  "art": "Art. 36, FC",
+  "text": "A marriage contracted by any party who, at the time of the celebration, was [[psychologically incapacitated]] to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization.",
+  "accept": [],
+  "why": "Incapacity, not mere refusal, neglect or difficulty; must exist at celebration (juridical antecedence)."
+ },
+ {
+  "id": "CZ-133",
+  "topic": "void",
+  "art": "Art. 36, FC",
+  "text": "A marriage contracted by any party who, at the time of the celebration, was psychologically incapacitated to comply with the [[essential marital obligations]] of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization.",
+  "accept": [],
+  "why": "Incapacity to comply, not mere refusal or difficulty."
+ },
+ {
+  "id": "CZ-134",
+  "topic": "void",
+  "art": "Art. 36, FC",
+  "text": "A marriage contracted by any party who, at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes [[manifest]] only after its solemnization.",
+  "accept": [],
+  "why": "Manifestation may be later; existence must be at celebration."
+ },
+ {
+  "id": "CZ-135",
+  "topic": "void",
+  "art": "Art. 37, FC",
+  "text": "Marriages between the following are incestuous and void from the beginning, whether the relationship between the parties be [[legitimate or illegitimate]]:",
+  "accept": [],
+  "why": "Legitimacy of the relationship is irrelevant."
+ },
+ {
+  "id": "CZ-136",
+  "topic": "void",
+  "art": "Art. 37, FC",
+  "text": "(2) Between brothers and sisters, whether of the [[full or half blood]].",
+  "accept": [
+   "full or half-blood"
+  ],
+  "why": "Half-blood siblings also covered."
+ },
+ {
+  "id": "CZ-137",
+  "topic": "void",
+  "art": "Art. 38, FC",
+  "text": "The following marriages shall be void from the beginning for reasons of [[public policy]]:",
+  "accept": [],
+  "why": "Art. 37 = incestuous; Art. 38 = public policy."
+ },
+ {
+  "id": "CZ-138",
+  "topic": "void",
+  "art": "Art. 38, FC",
+  "text": "(1) Between collateral blood relatives whether legitimate or illegitimate, up to the [[fourth civil degree]];",
+  "accept": [
+   "4th civil degree"
+  ],
+  "why": "First cousins (4th degree) cannot marry; up to and including the 4th."
+ },
+ {
+  "id": "CZ-139",
+  "topic": "void",
+  "art": "Art. 38, FC",
+  "text": "(3) Between [[parents-in-law and children-in-law]];",
+  "accept": [],
+  "why": "Affinity in the direct line; brothers/sisters-in-law are NOT listed."
+ },
+ {
+  "id": "CZ-140",
+  "topic": "void",
+  "art": "Art. 38, FC",
+  "text": "(5) Between the [[surviving spouse]] of the adopting parent and the adopted child;",
+  "accept": [],
+  "why": "Item (5); item (6) is surviving spouse of the adopted child and the adopter."
+ },
+ {
+  "id": "CZ-141",
+  "topic": "void",
+  "art": "Art. 38, FC",
+  "text": "(7) Between an adopted child and a [[legitimate child]] of the adopter;",
+  "accept": [],
+  "why": "Illegitimate child of the adopter is not listed."
+ },
+ {
+  "id": "CZ-142",
+  "topic": "void",
+  "art": "Art. 38, FC",
+  "text": "(9) Between parties where one, with the intention to marry the other, [[killed]] that other person's spouse, or his or her own spouse.",
+  "accept": [],
+  "why": "Killing with intent to marry; no conviction is required by the text."
+ },
+ {
+  "id": "CZ-143",
+  "topic": "void",
+  "art": "Art. 39, FC",
+  "text": "The action or defense for the declaration of absolute nullity of a marriage [[shall not prescribe]].",
+  "accept": [
+   "is imprescriptible"
+  ],
+  "why": "Imprescriptible (as amended by RA 8533)."
+ },
+ {
+  "id": "CZ-144",
+  "topic": "void",
+  "art": "Art. 40, FC",
+  "text": "The absolute nullity of a previous marriage may be invoked for purposes of [[remarriage]] on the basis solely of a final judgment declaring such previous marriage void.",
+  "accept": [],
+  "why": "For remarriage, a judicial declaration is required."
+ },
+ {
+  "id": "CZ-145",
+  "topic": "void",
+  "art": "Art. 40, FC",
+  "text": "The absolute nullity of a previous marriage may be invoked for purposes of remarriage on the basis [[solely]] of a final judgment declaring such previous marriage void.",
+  "accept": [
+   "only"
+  ],
+  "why": "\"Solely\": no other proof suffices for remarriage."
+ },
+ {
+  "id": "CZ-146",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "text": "A marriage contracted by any person during subsistence of a previous marriage shall be [[null and void]], unless before the celebration of the subsequent marriage, the prior spouse had been absent for four consecutive years and the spouse present has a well-founded belief that the absent spouse was already dead.",
+  "accept": [
+   "void"
+  ],
+  "why": "Void, not voidable."
+ },
+ {
+  "id": "CZ-147",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "text": "A marriage contracted by any person during subsistence of a previous marriage shall be null and void, unless before the celebration of the subsequent marriage, the prior spouse had been absent for [[four consecutive years]] and the spouse present has a well-founded belief that the absent spouse was already dead.",
+  "accept": [
+   "4 consecutive years",
+   "four (4) consecutive years"
+  ],
+  "why": "Four years (not seven as in NCC 390)."
+ },
+ {
+  "id": "CZ-148",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "text": "A marriage contracted by any person during subsistence of a previous marriage shall be null and void, unless before the celebration of the subsequent marriage, the prior spouse had been absent for four consecutive years and the spouse present has a [[well-founded belief]] that the absent spouse was already dead.",
+  "accept": [],
+  "why": "Requires diligent search (Cantor; Nolasco)."
+ },
+ {
+  "id": "CZ-149",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "text": "In case of disappearance where there is danger of death under the circumstances set forth in the provisions of Article 391 of the Civil Code, an absence of only [[two years]] shall be sufficient.",
+  "accept": [
+   "2 years",
+   "two (2) years"
+  ],
+  "why": "Ordinary absence is four years; two only where there is danger of death (Art. 391 circumstances)."
+ },
+ {
+  "id": "CZ-150",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "text": "In case of disappearance where there is danger of death under the circumstances set forth in the provisions of Article [[391]] of the Civil Code, an absence of only two years shall be sufficient.",
+  "accept": [],
+  "why": "NCC 391 = extraordinary absence."
+ },
+ {
+  "id": "CZ-151",
+  "topic": "void",
+  "art": "Art. 41, FC",
+  "text": "For the purpose of contracting the subsequent marriage under the preceding paragraph the spouse present must institute a [[summary proceeding]] as provided in this Code for the declaration of presumptive death of the absentee, without prejudice to the effect of reappearance of the absent spouse.",
+  "accept": [],
+  "why": "Summary proceeding; judgment immediately final and executory."
+ },
+ {
+  "id": "CZ-152",
+  "topic": "void",
+  "art": "Art. 42, FC",
+  "text": "The subsequent marriage referred to in the preceding Article shall be [[automatically terminated]] by the recording of the affidavit of reappearance of the absent spouse, unless there is a judgment annulling the previous marriage or declaring it void ab initio.",
+  "accept": [],
+  "why": "No court action needed; termination by recording."
+ },
+ {
+  "id": "CZ-153",
+  "topic": "void",
+  "art": "Art. 42, FC",
+  "text": "A sworn statement of the fact and circumstances of reappearance shall be recorded in the civil registry of the residence of the parties to the subsequent marriage at the instance of [[any interested person]], with due notice to the spouses of the subsequent marriage",
+  "accept": [],
+  "why": "Any interested person may record, not only the absentee."
+ },
+ {
+  "id": "CZ-154",
+  "topic": "void",
+  "art": "Art. 43, FC",
+  "text": "(1) The children of the subsequent marriage [[conceived prior to its termination]] shall be considered legitimate, and their custody and support in case of dispute shall be decided by the court in a proper proceeding;",
+  "accept": [],
+  "why": "Conceived before termination = legitimate."
+ },
+ {
+  "id": "CZ-155",
+  "topic": "void",
+  "art": "Art. 43, FC",
+  "text": "but if either spouse contracted said marriage in bad faith, his or her share of the net profits of the community property or conjugal partnership property shall be forfeited in favor of the [[common children]] or, if there are none, the children of the guilty spouse by a previous marriage or in default of children, the innocent spouse;",
+  "accept": [],
+  "why": "Order: common children, then guilty spouse's children by prior marriage, then innocent spouse."
+ },
+ {
+  "id": "CZ-156",
+  "topic": "void",
+  "art": "Art. 43, FC",
+  "text": "shall be forfeited in favor of the common children or, if there are none, the children of the guilty spouse by a previous marriage or in default of children, the [[innocent spouse]];",
+  "accept": [],
+  "why": "Innocent spouse is last in line."
+ },
+ {
+  "id": "CZ-157",
+  "topic": "void",
+  "art": "Art. 43, FC",
+  "text": "(3) Donations by reason of marriage shall remain valid, except that if the donee contracted the marriage in bad faith, such donations made to said donee are [[revoked by operation of law]];",
+  "accept": [],
+  "why": "Automatic revocation (contrast insurance designation: \"may revoke\")."
+ },
+ {
+  "id": "CZ-158",
+  "topic": "void",
+  "art": "Art. 43, FC",
+  "text": "(4) The innocent spouse [[may revoke]] the designation of the other spouse who acted in bad faith as beneficiary in any insurance policy, even if such designation be stipulated as irrevocable;",
+  "accept": [],
+  "why": "Optional revocation, not by operation of law."
+ },
+ {
+  "id": "CZ-159",
+  "topic": "void",
+  "art": "Art. 43, FC",
+  "text": "(5) The spouse who contracted the subsequent marriage in bad faith shall be disqualified to inherit from the innocent spouse by [[testate and intestate]] succession.",
+  "accept": [
+   "testate and intestate succession"
+  ],
+  "why": "Both testate and intestate here; in legal separation (Art. 63(4)) only intestate."
+ },
+ {
+  "id": "CZ-160",
+  "topic": "void",
+  "art": "Art. 44, FC",
+  "text": "If [[both]] spouses of the subsequent marriage acted in bad faith, said marriage shall be void ab initio and all donations by reason of marriage and testamentary dispositions made by one in favor of the other are revoked by operation of law.",
+  "accept": [],
+  "why": "Both in bad faith = void; one in good faith keeps Art. 41 validity."
+ },
+ {
+  "id": "CZ-161",
+  "topic": "void",
+  "art": "Art. 44, FC",
+  "text": "If both spouses of the subsequent marriage acted in bad faith, said marriage shall be void ab initio and all donations by reason of marriage and [[testamentary dispositions]] made by one in favor of the other are revoked by operation of law.",
+  "accept": [],
+  "why": "Both donations and testamentary dispositions revoked."
+ },
+ {
+  "id": "CZ-162",
+  "topic": "void",
+  "art": "Art. 53, FC",
+  "text": "Either of the former spouses may marry again after compliance with the requirements of the immediately preceding Article; otherwise, the subsequent marriage shall be [[null and void]].",
+  "accept": [
+   "void"
+  ],
+  "why": "Non-compliance with Art. 52 makes the remarriage void (Art. 35(6))."
+ },
+ {
+  "id": "CZ-163",
+  "topic": "void",
+  "art": "Art. 54, FC",
+  "text": "Children conceived or born before the judgment of annulment or absolute nullity of the marriage under Article [[36]] has become final and executory shall be considered legitimate.",
+  "accept": [],
+  "why": "Children of Art. 36 (and Art. 53) void marriages are legitimate; other void marriages produce illegitimate children."
+ },
+ {
+  "id": "CZ-164",
+  "topic": "void",
+  "art": "Art. 54, FC",
+  "text": "Children conceived or born before the judgment of annulment or absolute nullity of the marriage under Article 36 has become [[final and executory]] shall be considered legitimate.",
+  "accept": [],
+  "why": "Cut-off is finality of the judgment."
+ },
+ {
+  "id": "CZ-165",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "text": "A marriage may be [[annulled]] for any of the following causes, existing at the time of the marriage:",
+  "accept": [],
+  "why": "Art. 45 grounds make the marriage voidable (annullable), not void; they must exist at celebration."
+ },
+ {
+  "id": "CZ-166",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "text": "(1) That the party in whose behalf it is sought to have the marriage annulled was eighteen years of age or over but below twenty-one, and the marriage was solemnized without the consent of the parents, guardian or person having [[substitute parental authority]] over the party, in that order,",
+  "accept": [],
+  "why": "In that order of preference."
+ },
+ {
+  "id": "CZ-167",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "text": "unless after attaining the age of [[twenty-one]], such party freely cohabited with the other and both lived together as husband and wife;",
+  "accept": [
+   "21",
+   "twenty-one (21)"
+  ],
+  "why": "Ratification only after reaching 21."
+ },
+ {
+  "id": "CZ-168",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "text": "(2) That either party was of [[unsound mind]], unless such party after coming to reason, freely cohabited with the other as husband and wife;",
+  "accept": [],
+  "why": "Insanity: voidable (not void like Art. 36)."
+ },
+ {
+  "id": "CZ-169",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "text": "(3) That the consent of either party was obtained by fraud, unless such party afterwards, with [[full knowledge]] of the facts constituting the fraud, freely cohabited with the other as husband and wife;",
+  "accept": [],
+  "why": "Ratification requires full knowledge of the fraud."
+ },
+ {
+  "id": "CZ-170",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "text": "(4) That the consent of either party was obtained by [[force, intimidation or undue influence]], unless the same having disappeared or ceased, such party thereafter freely cohabited with the other as husband and wife;",
+  "accept": [],
+  "why": "Vices of consent under Art. 45(4)."
+ },
+ {
+  "id": "CZ-171",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "text": "(5) That either party was physically incapable of consummating the marriage with the other, and such incapacity continues and [[appears to be incurable]];",
+  "accept": [],
+  "why": "Physical incapacity must continue and appear incurable; not ratifiable."
+ },
+ {
+  "id": "CZ-172",
+  "topic": "voidable",
+  "art": "Art. 45, FC",
+  "text": "(6) That either party was afflicted with a sexually-transmissible disease found to be [[serious]] and appears to be incurable.",
+  "accept": [],
+  "why": "Art. 45(6) STD: serious and incurable; Art. 46(3) concealment: regardless of its nature."
+ },
+ {
+  "id": "CZ-173",
+  "topic": "voidable",
+  "art": "Art. 46, FC",
+  "text": "(1) Non-disclosure of a previous conviction [[by final judgment]] of the other party of a crime involving moral turpitude;",
+  "accept": [],
+  "why": "Conviction must be final; pending case does not count."
+ },
+ {
+  "id": "CZ-174",
+  "topic": "voidable",
+  "art": "Art. 46, FC",
+  "text": "(2) Concealment by the wife of the fact that at the time of the marriage, she was pregnant by a man [[other than her husband]];",
+  "accept": [],
+  "why": "Pregnancy by another man; not mere non-virginity."
+ },
+ {
+  "id": "CZ-175",
+  "topic": "voidable",
+  "art": "Art. 46, FC",
+  "text": "(3) Concealment of sexually transmissible disease, [[regardless of its nature]], existing at the time of the marriage;",
+  "accept": [],
+  "why": "Contrast Art. 45(6): serious and incurable."
+ },
+ {
+  "id": "CZ-176",
+  "topic": "voidable",
+  "art": "Art. 46, FC",
+  "text": "No other misrepresentation or deceit as to character, health, rank, fortune or [[chastity]] shall constitute such fraud as will give grounds for action for the annulment of marriage.",
+  "accept": [],
+  "why": "Exclusive list of fraud."
+ },
+ {
+  "id": "CZ-177",
+  "topic": "voidable",
+  "art": "Art. 46, FC",
+  "text": "[[No other]] misrepresentation or deceit as to character, health, rank, fortune or chastity shall constitute such fraud as will give grounds for action for the annulment of marriage.",
+  "accept": [],
+  "why": "Art. 46 enumeration is exclusive."
+ },
+ {
+  "id": "CZ-178",
+  "topic": "voidable",
+  "art": "Art. 47, FC",
+  "text": "(1) For causes mentioned in number 1 of Article 45 by the party whose parent or guardian did not give his or her consent, within five years after [[attaining the age of twenty-one]],",
+  "accept": [
+   "attaining the age of 21"
+  ],
+  "why": "Party: 5 years from turning 21."
+ },
+ {
+  "id": "CZ-179",
+  "topic": "voidable",
+  "art": "Art. 47, FC",
+  "text": "or by the parent or guardian or person having legal charge of the minor, [[at any time]] before such party has reached the age of twenty-one;",
+  "accept": [],
+  "why": "Parent: any time before the child turns 21."
+ },
+ {
+  "id": "CZ-180",
+  "topic": "voidable",
+  "art": "Art. 47, FC",
+  "text": "(2) For causes mentioned in number 2 of Article 45, by the same spouse, who had [[no knowledge]] of the other's insanity; or by any relative or guardian or person having legal charge of the insane, at any time before the death of either party, or by the insane spouse during a lucid interval or after regaining sanity;",
+  "accept": [],
+  "why": "Sane spouse must have been unaware of the insanity."
+ },
+ {
+  "id": "CZ-181",
+  "topic": "voidable",
+  "art": "Art. 47, FC",
+  "text": "or by the insane spouse during a [[lucid interval]] or after regaining sanity;",
+  "accept": [],
+  "why": "Insane spouse may sue during a lucid interval."
+ },
+ {
+  "id": "CZ-182",
+  "topic": "voidable",
+  "art": "Art. 47, FC",
+  "text": "(3) For causes mentioned in number 3 of Articles 45, by the injured party, within five years after the [[discovery of the fraud]];",
+  "accept": [
+   "discovery"
+  ],
+  "why": "Fraud: from discovery, not from marriage."
+ },
+ {
+  "id": "CZ-183",
+  "topic": "voidable",
+  "art": "Art. 47, FC",
+  "text": "(4) For causes mentioned in number 4 of Article 45, by the injured party, within five years from the time the force, intimidation or undue influence [[disappeared or ceased]];",
+  "accept": [],
+  "why": "Force: from cessation."
+ },
+ {
+  "id": "CZ-184",
+  "topic": "voidable",
+  "art": "Art. 47, FC",
+  "text": "(5) For causes mentioned in number 5 and 6 of Article 45, by the injured party, within five years [[after the marriage]].",
+  "accept": [
+   "after the celebration of the marriage"
+  ],
+  "why": "Impotence/STD: from the marriage."
+ },
+ {
+  "id": "CZ-185",
+  "topic": "voidable",
+  "art": "Art. 48, FC",
+  "text": "In all cases of annulment or declaration of absolute nullity of marriage, the Court shall order the prosecuting attorney or fiscal assigned to it to appear on behalf of the State to take steps to prevent [[collusion]] between the parties and to take care that evidence is not fabricated or suppressed.",
+  "accept": [],
+  "why": "State participation in all annulment and nullity cases."
+ },
+ {
+  "id": "CZ-186",
+  "topic": "voidable",
+  "art": "Art. 48, FC",
+  "text": "In the cases referred to in the preceding paragraph, no judgment shall be based upon a [[stipulation of facts]] or confession of judgment.",
+  "accept": [],
+  "why": "No stipulation of facts or confession of judgment."
+ },
+ {
+  "id": "CZ-187",
+  "topic": "voidable",
+  "art": "Art. 49, FC",
+  "text": "During the pendency of the action and in the absence of adequate provisions in a [[written agreement]] between the spouses, the Court shall provide for the support of the spouses and the custody and support of their common children.",
+  "accept": [],
+  "why": "Court acts only absent an adequate written agreement."
+ },
+ {
+  "id": "CZ-188",
+  "topic": "voidable",
+  "art": "Art. 49, FC",
+  "text": "The Court shall give [[paramount consideration]] to the moral and material welfare of said children and their choice of the parent with whom they wish to remain as provided to in Title IX.",
+  "accept": [],
+  "why": "Best interest of the child."
+ },
+ {
+  "id": "CZ-189",
+  "topic": "voidable",
+  "art": "Art. 50, FC",
+  "text": "The effects provided for by paragraphs [[(2), (3), (4) and (5)]] of Article 43 and by Article 44 shall also apply in the proper cases to marriages which are declared ab initio or annulled by final judgment under Articles 40 and 45.",
+  "accept": [
+   "2, 3, 4 and 5",
+   "(2), (3), (4), and (5)"
+  ],
+  "why": "Not par. (1) (legitimacy of children), which is governed by Art. 54."
+ },
+ {
+  "id": "CZ-190",
+  "topic": "voidable",
+  "art": "Art. 51, FC",
+  "text": "In said partition, the value of the presumptive legitimes of all common children, computed as of the date of the final judgment of the [[trial court]], shall be delivered in cash, property or sound securities, unless the parties, by mutual agreement judicially approved, had already provided for such matters.",
+  "accept": [],
+  "why": "Computed as of the trial court's final judgment."
+ },
+ {
+  "id": "CZ-191",
+  "topic": "voidable",
+  "art": "Art. 51, FC",
+  "text": "The delivery of the presumptive legitimes herein prescribed shall in no way prejudice the ultimate successional rights of the children accruing upon the death of either or both of the parents; but the value of the properties already received under the decree of annulment or absolute nullity shall be considered as [[advances on their legitime]].",
+  "accept": [
+   "advances on legitime"
+  ],
+  "why": "Presumptive legitimes are advances, not additional shares."
+ },
+ {
+  "id": "CZ-192",
+  "topic": "voidable",
+  "art": "Art. 52, FC",
+  "text": "The judgment of annulment or of absolute nullity of the marriage, the partition and distribution of the properties of the spouses and the delivery of the children's presumptive legitimes shall be recorded in the appropriate civil registry and registries of property; otherwise, the same shall [[not affect third persons]].",
+  "accept": [],
+  "why": "Unrecorded: binding between parties but not on third persons; remarriage void under Art. 53."
+ },
+ {
+  "id": "CZ-193",
+  "topic": "ls",
+  "art": "Art. 55, FC",
+  "text": "(1) Repeated physical violence or [[grossly abusive conduct]] directed against the petitioner, a common child, or a child of the petitioner;",
+  "accept": [],
+  "why": "Violence must be repeated; abusive conduct must be gross."
+ },
+ {
+  "id": "CZ-194",
+  "topic": "ls",
+  "art": "Art. 55, FC",
+  "text": "(2) Physical violence or [[moral pressure]] to compel the petitioner to change religious or political affiliation;",
+  "accept": [],
+  "why": "Single act suffices here (no \"repeated\")."
+ },
+ {
+  "id": "CZ-195",
+  "topic": "ls",
+  "art": "Art. 55, FC",
+  "text": "(4) Final judgment sentencing the respondent to imprisonment of [[more than six years]], even if pardoned;",
+  "accept": [
+   "more than 6 years",
+   "more than six (6) years"
+  ],
+  "why": "More than six years, not \"six years or more\"."
+ },
+ {
+  "id": "CZ-196",
+  "topic": "ls",
+  "art": "Art. 55, FC",
+  "text": "(4) Final judgment sentencing the respondent to imprisonment of more than six years, [[even if pardoned]];",
+  "accept": [],
+  "why": "Pardon does not erase the ground."
+ },
+ {
+  "id": "CZ-197",
+  "topic": "ls",
+  "art": "Art. 55, FC",
+  "text": "(6) [[Lesbianism or homosexuality]] of the respondent;",
+  "accept": [
+   "homosexuality or lesbianism"
+  ],
+  "why": "For LS, mere existence; for annulment (Art. 46(4)), concealment is required."
+ },
+ {
+  "id": "CZ-198",
+  "topic": "ls",
+  "art": "Art. 55, FC",
+  "text": "(7) Contracting by the respondent of a subsequent bigamous marriage, [[whether in the Philippines or abroad]];",
+  "accept": [],
+  "why": "Place of the bigamous marriage is immaterial."
+ },
+ {
+  "id": "CZ-199",
+  "topic": "ls",
+  "art": "Art. 55, FC",
+  "text": "(10) Abandonment of petitioner by respondent [[without justifiable cause]] for more than one year.",
+  "accept": [],
+  "why": "Abandonment must be unjustified."
+ },
+ {
+  "id": "CZ-200",
+  "topic": "ls",
+  "art": "Art. 55, FC",
+  "text": "(10) Abandonment of petitioner by respondent without justifiable cause for [[more than one year]].",
+  "accept": [
+   "more than 1 year",
+   "more than one (1) year"
+  ],
+  "why": "More than one year; compare 3 months for presumption of abandonment under Art. 101."
+ },
+ {
+  "id": "CZ-201",
+  "topic": "ls",
+  "art": "Art. 56, FC",
+  "text": "(1) Where the aggrieved party has [[condoned]] the offense or act complained of;",
+  "accept": [],
+  "why": "Condonation = after the fact; consent = before the fact."
+ },
+ {
+  "id": "CZ-202",
+  "topic": "ls",
+  "art": "Art. 56, FC",
+  "text": "(2) Where the aggrieved party has [[consented]] to the commission of the offense or act complained of;",
+  "accept": [],
+  "why": "Consent is prior; condonation is subsequent."
+ },
+ {
+  "id": "CZ-203",
+  "topic": "ls",
+  "art": "Art. 56, FC",
+  "text": "(3) Where there is [[connivance]] between the parties in the commission of the offense or act constituting the ground for legal separation;",
+  "accept": [],
+  "why": "Connivance = in committing the ground; collusion = to obtain the decree."
+ },
+ {
+  "id": "CZ-204",
+  "topic": "ls",
+  "art": "Art. 56, FC",
+  "text": "(5) Where there is [[collusion]] between the parties to obtain decree of legal separation;",
+  "accept": [],
+  "why": "Collusion is about obtaining the decree."
+ },
+ {
+  "id": "CZ-205",
+  "topic": "ls",
+  "art": "Art. 57, FC",
+  "text": "An action for legal separation shall be filed within [[five years]] from the time of the occurrence of the cause.",
+  "accept": [
+   "5 years",
+   "five (5) years"
+  ],
+  "why": "Five years."
+ },
+ {
+  "id": "CZ-206",
+  "topic": "ls",
+  "art": "Art. 57, FC",
+  "text": "An action for legal separation shall be filed within five years from the time of the [[occurrence of the cause]].",
+  "accept": [],
+  "why": "From occurrence, not discovery (old NCC 102 had a discovery rule)."
+ },
+ {
+  "id": "CZ-207",
+  "topic": "ls",
+  "art": "Art. 58, FC",
+  "text": "An action for legal separation shall in no case be tried before [[six months]] shall have elapsed since the filing of the petition.",
+  "accept": [
+   "6 months",
+   "six (6) months"
+  ],
+  "why": "Cooling-off period; inapplicable to VAWC cases (RA 9262 Sec. 19)."
+ },
+ {
+  "id": "CZ-208",
+  "topic": "ls",
+  "art": "Art. 59, FC",
+  "text": "No legal separation may be decreed unless the Court has taken steps toward the reconciliation of the spouses and is fully satisfied, despite such efforts, that reconciliation is [[highly improbable]].",
+  "accept": [],
+  "why": "Highly improbable, not impossible."
+ },
+ {
+  "id": "CZ-209",
+  "topic": "ls",
+  "art": "Art. 61, FC",
+  "text": "After the filing of the petition for legal separation, the spouses shall be [[entitled to live separately]] from each other.",
+  "accept": [],
+  "why": "From filing of the petition, even before the decree."
+ },
+ {
+  "id": "CZ-210",
+  "topic": "ls",
+  "art": "Art. 63, FC",
+  "text": "(1) The spouses shall be entitled to live separately from each other, but the marriage bonds shall [[not be severed]];",
+  "accept": [],
+  "why": "LS does not dissolve the marriage; no remarriage."
+ },
+ {
+  "id": "CZ-211",
+  "topic": "ls",
+  "art": "Art. 63, FC",
+  "text": "(2) The absolute community or the conjugal partnership shall be dissolved and liquidated but the offending spouse shall have no right to any share of the [[net profits]] earned by the absolute community or the conjugal partnership, which shall be forfeited in accordance with the provisions of Article 43(2);",
+  "accept": [],
+  "why": "Forfeiture of net profits only, not of separate property."
+ },
+ {
+  "id": "CZ-212",
+  "topic": "ls",
+  "art": "Art. 63, FC",
+  "text": "(3) The custody of the minor children shall be awarded to the [[innocent spouse]], subject to the provisions of Article 213 of this Code;",
+  "accept": [],
+  "why": "Subject to the tender-age rule (Art. 213: under seven with the mother)."
+ },
+ {
+  "id": "CZ-213",
+  "topic": "ls",
+  "art": "Art. 63, FC",
+  "text": "(4) The offending spouse shall be disqualified from inheriting from the innocent spouse by [[intestate]] succession.",
+  "accept": [
+   "intestate succession"
+  ],
+  "why": "Intestate only; Art. 43(5) is testate AND intestate."
+ },
+ {
+  "id": "CZ-214",
+  "topic": "ls",
+  "art": "Art. 63, FC",
+  "text": "Moreover, provisions in favor of the offending spouse made in the will of the innocent spouse shall be [[revoked by operation of law]].",
+  "accept": [],
+  "why": "Automatic revocation of testamentary provisions."
+ },
+ {
+  "id": "CZ-215",
+  "topic": "ls",
+  "art": "Art. 64, FC",
+  "text": "After the finality of the decree of legal separation, the innocent spouse [[may revoke]] the donations made by him or by her in favor of the offending spouse, as well as the designation of the latter as beneficiary in any insurance policy, even if such designation be stipulated as irrevocable.",
+  "accept": [],
+  "why": "Optional revocation (contrast will provisions under Art. 63, revoked by operation of law)."
+ },
+ {
+  "id": "CZ-216",
+  "topic": "ls",
+  "art": "Art. 64, FC",
+  "text": "The action to revoke the donation under this Article must be brought within [[five years]] from the time the decree of legal separation become final.",
+  "accept": [
+   "5 years",
+   "five (5) years"
+  ],
+  "why": "Five years from finality of the decree."
+ },
+ {
+  "id": "CZ-217",
+  "topic": "ls",
+  "art": "Art. 65, FC",
+  "text": "If the spouses should reconcile, a corresponding [[joint manifestation under oath]] duly signed by them shall be filed with the court in the same proceeding for legal separation.",
+  "accept": [],
+  "why": "Joint and sworn."
+ },
+ {
+  "id": "CZ-218",
+  "topic": "ls",
+  "art": "Art. 66, FC",
+  "text": "(2) The final decree of legal separation shall be set aside, but the separation of property and any forfeiture of the share of the guilty spouse already effected shall [[subsist]], unless the spouses agree to revive their former property regime.",
+  "accept": [],
+  "why": "Property effects survive reconciliation unless revived."
+ },
+ {
+  "id": "CZ-219",
+  "topic": "ls",
+  "art": "Art. 67, FC",
+  "text": "The recording of the order in the registries of property shall not prejudice any creditor [[not listed or not notified]], unless the debtor-spouse has sufficient separate properties to satisfy the creditor's claim.",
+  "accept": [],
+  "why": "Protects unlisted/unnotified creditors."
+ },
+ {
+  "id": "CZ-220",
+  "topic": "rights",
+  "art": "Art. 68, FC",
+  "text": "The husband and wife are obliged to [[live together]], observe mutual love, respect and fidelity, and render mutual help and support.",
+  "accept": [],
+  "why": "Cohabitation is an obligation but not enforceable by court order (Arroyo v. Vasquez de Arroyo)."
+ },
+ {
+  "id": "CZ-221",
+  "topic": "rights",
+  "art": "Art. 68, FC",
+  "text": "The husband and wife are obliged to live together, observe mutual love, respect and [[fidelity]], and render mutual help and support.",
+  "accept": [],
+  "why": "Love, respect, fidelity."
+ },
+ {
+  "id": "CZ-222",
+  "topic": "rights",
+  "art": "Art. 69, FC",
+  "text": "The husband and wife shall fix the [[family domicile]]. In case of disagreement, the court shall decide.",
+  "accept": [],
+  "why": "Joint decision (old NCC 110: husband alone)."
+ },
+ {
+  "id": "CZ-223",
+  "topic": "rights",
+  "art": "Art. 69, FC",
+  "text": "The court may exempt one spouse from living with the other if the latter should [[live abroad]] or there are other valid and compelling reasons for the exemption.",
+  "accept": [],
+  "why": "No more \"unless in the service of the Republic\" qualifier from NCC 110."
+ },
+ {
+  "id": "CZ-224",
+  "topic": "rights",
+  "art": "Art. 69, FC",
+  "text": "The court may exempt one spouse from living with the other if the latter should live abroad or there are other [[valid and compelling]] reasons for the exemption.",
+  "accept": [],
+  "why": "Valid AND compelling."
+ },
+ {
+  "id": "CZ-225",
+  "topic": "rights",
+  "art": "Art. 69, FC",
+  "text": "However, such exemption shall not apply if the same is not compatible with the [[solidarity of the family]].",
+  "accept": [],
+  "why": "Limit on the exemption."
+ },
+ {
+  "id": "CZ-226",
+  "topic": "rights",
+  "art": "Art. 70, FC",
+  "text": "The spouses are [[jointly]] responsible for the support of the family.",
+  "accept": [],
+  "why": "Jointly, not solidarily (contrast creditors for family expenses under Art. 146)."
+ },
+ {
+  "id": "CZ-227",
+  "topic": "rights",
+  "art": "Art. 70, FC",
+  "text": "The expenses for such support and other conjugal obligations shall be paid from the [[community property]] and, in the absence thereof, from the income or fruits of their separate properties.",
+  "accept": [],
+  "why": "Order: community property, then income/fruits of separate property, then separate property."
+ },
+ {
+  "id": "CZ-228",
+  "topic": "rights",
+  "art": "Art. 70, FC",
+  "text": "In case of insufficiency or absence of said income or fruits, such obligations shall be satisfied from the [[separate properties]].",
+  "accept": [],
+  "why": "Last resort: the separate properties themselves."
+ },
+ {
+  "id": "CZ-229",
+  "topic": "rights",
+  "art": "Art. 71, FC",
+  "text": "The management of the household shall be the [[right and the duty]] of both spouses.",
+  "accept": [
+   "right and duty"
+  ],
+  "why": "Both a right and a duty, of both spouses."
+ },
+ {
+  "id": "CZ-230",
+  "topic": "rights",
+  "art": "Art. 72, FC",
+  "text": "When one of the spouses neglects his or her duties to the conjugal union or commits acts which tend to bring [[danger, dishonor or injury]] to the other or to the family, the aggrieved party may apply to the court for relief.",
+  "accept": [],
+  "why": "Ground for judicial relief (not legal separation per se)."
+ },
+ {
+  "id": "CZ-231",
+  "topic": "rights",
+  "art": "Art. 73, FC (as amended by RA 10572)",
+  "text": "Either spouse may exercise any legitimate profession, occupation, business or activity [[without the consent]] of the other.",
+  "accept": [],
+  "why": "No consent needed; RA 10572 made the article gender-neutral (formerly framed as the wife's right, subject to the husband's objection)."
+ },
+ {
+  "id": "CZ-232",
+  "topic": "rights",
+  "art": "Art. 73, FC (as amended by RA 10572)",
+  "text": "The latter may object only on [[valid, serious, and moral]] grounds.",
+  "accept": [
+   "valid, serious and moral"
+  ],
+  "why": "Three qualifiers, all required."
+ },
+ {
+  "id": "CZ-233",
+  "topic": "rights",
+  "art": "Art. 73, FC (as amended by RA 10572)",
+  "text": "If the benefit accrued [[prior to the objection]], the resulting obligation shall be enforced against the community property.",
+  "accept": [
+   "before the objection"
+  ],
+  "why": "Benefit before objection: community property."
+ },
+ {
+  "id": "CZ-234",
+  "topic": "rights",
+  "art": "Art. 73, FC (as amended by RA 10572)",
+  "text": "If the benefit accrued thereafter, such obligation shall be enforced against the [[separate property]] of the spouse who has not obtained consent.",
+  "accept": [],
+  "why": "Benefit after objection: separate property of the spouse who acted without consent."
+ },
+ {
+  "id": "CZ-235",
+  "topic": "rights",
+  "art": "Art. 73, FC (as amended by RA 10572)",
+  "text": "The foregoing provisions shall not prejudice the rights of creditors who acted in [[good faith]].",
+  "accept": [],
+  "why": "Good-faith creditors protected."
+ },
+ {
+  "id": "CZ-PR1",
+  "topic": "ms",
+  "art": "Art. 74, FC",
+  "text": "The property relationship between husband and wife shall be governed in the following order: (1) By [[marriage settlements]] executed before the marriage; (2) By the provisions of this Code; and (3) By the local custom.",
+  "accept": [
+   "marriage settlement"
+  ],
+  "why": "Settlements first; the FC is only second (CivRev 2025 Quiz 4 #2)."
+ },
+ {
+  "id": "CZ-PR2",
+  "topic": "ms",
+  "art": "Art. 74, FC",
+  "text": "The property relationship between husband and wife shall be governed in the following order: (1) By marriage settlements executed before the marriage; (2) By the provisions of this Code; and (3) By the [[local custom]].",
+  "accept": [
+   "custom"
+  ],
+  "why": "Third and last in the order."
+ },
+ {
+  "id": "CZ-PR3",
+  "topic": "ms",
+  "art": "Art. 75, FC",
+  "text": "In the absence of a marriage settlement, or when the regime agreed upon is void, the system of [[absolute community of property]] as established in this Code shall govern.",
+  "accept": [
+   "absolute community",
+   "ACP"
+  ],
+  "why": "Default for marriages on or after Aug. 3, 1988; CPG before."
+ },
+ {
+  "id": "CZ-PR4",
+  "topic": "ms",
+  "art": "Art. 77, FC",
+  "text": "The marriage settlements and any modification thereof shall be [[in writing]], signed by the parties and executed before the celebration of the marriage.",
+  "accept": [
+   "written"
+  ],
+  "why": "Not a public instrument (his favorite alteration)."
+ },
+ {
+  "id": "CZ-PR5",
+  "topic": "ms",
+  "art": "Art. 77, FC",
+  "text": "The marriage settlements and any modification thereof shall be in writing, signed by the parties and executed [[before]] the celebration of the marriage.",
+  "accept": [],
+  "why": "Not 'during'; not 'may be made'."
+ },
+ {
+  "id": "CZ-PR6",
+  "topic": "ms",
+  "art": "Art. 77, FC",
+  "text": "They shall not prejudice third persons unless they are registered in the local civil registry where the marriage contract is recorded [[as well as]] in the proper registries of properties.",
+  "accept": [
+   "and"
+  ],
+  "why": "Both registries, not either."
+ },
+ {
+  "id": "CZ-PR7",
+  "topic": "ms",
+  "art": "Art. 78, FC",
+  "text": "A minor who according to law may contract marriage may also execute his or her marriage settlements, but they shall be valid only if the persons designated in Article 14 to give consent to the marriage are made [[parties]] to the agreement, subject to the provisions of Title IX of this Code.",
+  "accept": [
+   "parties to the agreement"
+  ],
+  "why": "Mere knowledge or consent outside the document is not enough (1995 Bar)."
+ },
+ {
+  "id": "CZ-PR8",
+  "topic": "ms",
+  "art": "Art. 79, FC",
+  "text": "For the validity of any marriage settlement executed by a person upon whom a sentence of civil interdiction has been pronounced or who is subject to any other disability, it shall be indispensable for the [[guardian]] appointed by a competent court to be made a party thereto.",
+  "accept": [],
+  "why": "Court-appointed guardian, not the parents."
+ },
+ {
+  "id": "CZ-PR9",
+  "topic": "ms",
+  "art": "Art. 80, FC",
+  "text": "In the absence of a contrary stipulation in a marriage settlement, the property relations of the spouses shall be governed by [[Philippine laws]], regardless of the place of the celebration of the marriage and their residence.",
+  "accept": [
+   "Philippine law"
+  ],
+  "why": "Nationality principle; subject to a contrary stipulation."
+ },
+ {
+  "id": "CZ-PR10",
+  "topic": "ms",
+  "art": "Art. 81, FC",
+  "text": "Everything stipulated in the settlements or contracts referred to in the preceding articles in consideration of a future marriage, including donations between the prospective spouses made therein, shall be rendered [[void]] if the marriage does not take place.",
+  "accept": [],
+  "why": "Void, not revocable (Quiz 4 #6)."
+ },
+ {
+  "id": "CZ-PR11",
+  "topic": "ms",
+  "art": "Art. 82, FC",
+  "text": "Donations by reason of marriage are those which are made before its celebration, in consideration of the same, and [[in favor of]] one or both of the future spouses.",
+  "accept": [],
+  "why": "Not 'made by' (Quiz 4 #9). Anyone may be the donor."
+ },
+ {
+  "id": "CZ-PR12",
+  "topic": "ms",
+  "art": "Art. 84, FC",
+  "text": "If the future spouses agree upon a regime other than the absolute community of property, they cannot donate to each other in their marriage settlements more than [[one-fifth]] of their present property.",
+  "accept": [
+   "1/5",
+   "one fifth",
+   "20%"
+  ],
+  "why": "Any excess is void; the donation stands up to one-fifth."
+ },
+ {
+  "id": "CZ-PR13",
+  "topic": "ms",
+  "art": "Art. 84, FC",
+  "text": "If the future spouses agree upon a regime other than the absolute community of property, they cannot donate to each other in their marriage settlements more than one-fifth of their [[present]] property.",
+  "accept": [
+   "present property"
+  ],
+  "why": "Not future, not personal."
+ },
+ {
+  "id": "CZ-PR14",
+  "topic": "ms",
+  "art": "Art. 84, FC",
+  "text": "Donations of [[future]] property shall be governed by the provisions on testamentary succession and the formalities of wills.",
+  "accept": [
+   "future property"
+  ],
+  "why": "Mortis causa; exception to NCC 751."
+ },
+ {
+  "id": "CZ-PR15",
+  "topic": "ms",
+  "art": "Art. 85, FC",
+  "text": "In case of foreclosure of the encumbrance and the property is sold for less than the total amount of the obligation secured, the [[donee]] shall not be liable for the deficiency.",
+  "accept": [],
+  "why": "Donee, not donor (Quiz #3 pair 3)."
+ },
+ {
+  "id": "CZ-PR16",
+  "topic": "ms",
+  "art": "Art. 86(2), FC",
+  "text": "A donation by reason of marriage may be revoked by the donor … when the marriage takes place without the [[consent]] of the parents or guardian, as required by law.",
+  "accept": [],
+  "why": "Consent (Art. 14), not advice (Art. 15)."
+ },
+ {
+  "id": "CZ-PR17",
+  "topic": "ms",
+  "art": "Art. 86(4), FC",
+  "text": "A donation by reason of marriage may be revoked by the donor … upon legal separation, the [[donee]] being the guilty spouse.",
+  "accept": [],
+  "why": "Donee, not donor (Quiz 4 #16)."
+ },
+ {
+  "id": "CZ-PR18",
+  "topic": "ms",
+  "art": "Art. 86(5), FC",
+  "text": "A donation by reason of marriage may be revoked by the donor … if it is with a [[resolutory]] condition and the condition is complied with.",
+  "accept": [],
+  "why": "Resolutory, not suspensive (Quiz 4 #16)."
+ },
+ {
+  "id": "CZ-PR19",
+  "topic": "ms",
+  "art": "Art. 87, FC",
+  "text": "Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be void, except [[moderate gifts]] which the spouses may give each other on the occasion of any family rejoicing.",
+  "accept": [
+   "moderate gift"
+  ],
+  "why": "'Moderate' is relative to means (Rolls-Royce situation)."
+ },
+ {
+  "id": "CZ-PR20",
+  "topic": "ms",
+  "art": "Art. 87, FC",
+  "text": "Every donation or grant of gratuitous advantage, direct or indirect, between the spouses during the marriage shall be void, except moderate gifts which the spouses may give each other on the occasion of any [[family rejoicing]].",
+  "accept": [],
+  "why": "Art. 98/125 (donations to third persons) add 'charity' and 'family distress'."
+ },
+ {
+  "id": "CZ-PR21",
+  "topic": "ms",
+  "art": "Art. 87, FC",
+  "text": "The prohibition shall also apply to persons living together as husband and wife without a [[valid marriage]].",
+  "accept": [],
+  "why": "Codifies Matabuena v. Cervantes."
+ },
+ {
+  "id": "CZ-PR22",
+  "topic": "acp",
+  "art": "Art. 88, FC",
+  "text": "The absolute community of property between spouses shall commence at the [[precise moment]] that the marriage is celebrated.",
+  "accept": [],
+  "why": "10 AM inheritance + 5 PM wedding problems."
+ },
+ {
+  "id": "CZ-PR23",
+  "topic": "acp",
+  "art": "Art. 89, FC",
+  "text": "No waiver of rights, shares and effects of the absolute community of property during the marriage can be made except in case of [[judicial separation of property]].",
+  "accept": [
+   "judicial separation"
+  ],
+  "why": "Not legal separation."
+ },
+ {
+  "id": "CZ-PR24",
+  "topic": "acp",
+  "art": "Art. 89, FC",
+  "text": "When the waiver takes place upon a judicial separation of property, or after the marriage has been dissolved or annulled, the same shall appear in a [[public instrument]] and shall be recorded as provided in Article 77.",
+  "accept": [],
+  "why": "Settlement: writing. Waiver: public instrument."
+ },
+ {
+  "id": "CZ-PR25",
+  "topic": "acp",
+  "art": "Art. 90, FC",
+  "text": "The provisions on [[co-ownership]] shall apply to the absolute community of property between the spouses in all matters not provided for in this Chapter.",
+  "accept": [
+   "co ownership",
+   "coownership"
+  ],
+  "why": "CPG: contract of partnership (Art. 108)."
+ },
+ {
+  "id": "CZ-PR26",
+  "topic": "acp",
+  "art": "Art. 91, FC",
+  "text": "[[Unless otherwise provided in this Chapter or in the marriage settlements]], the community property shall consist of all the property owned by the spouses at the time of the celebration of the marriage or acquired thereafter.",
+  "accept": [],
+  "why": "The qualifier he drops to make Art. 91 false."
+ },
+ {
+  "id": "CZ-PR27",
+  "topic": "acp",
+  "art": "Art. 92(1), FC",
+  "text": "Property acquired during the marriage by [[gratuitous title]] by either spouse, and the fruits as well as the income thereof, if any, unless it is expressly provided by the donor, testator or grantor that they shall form part of the community property;",
+  "accept": [
+   "gratuitous"
+  ],
+  "why": "Only acquisitions DURING the marriage."
+ },
+ {
+  "id": "CZ-PR28",
+  "topic": "acp",
+  "art": "Art. 92(2), FC",
+  "text": "Property for personal and exclusive use of either spouse. However, [[jewelry]] shall form part of the community property;",
+  "accept": [
+   "jewellery"
+  ],
+  "why": "Jewelry is always community."
+ },
+ {
+  "id": "CZ-PR29",
+  "topic": "acp",
+  "art": "Art. 92(3), FC",
+  "text": "Property acquired before the marriage by either spouse who has [[legitimate descendants]] by a former marriage, and the fruits as well as the income, if any, of such property.",
+  "accept": [
+   "legitimate descendant"
+  ],
+  "why": "Illegitimate children do not trigger the exclusion."
+ },
+ {
+  "id": "CZ-PR30",
+  "topic": "acp",
+  "art": "Art. 92(3), FC",
+  "text": "Property acquired before the marriage by either spouse who has legitimate descendants by a [[former marriage]], and the fruits as well as the income, if any, of such property.",
+  "accept": [
+   "prior marriage",
+   "previous marriage"
+  ],
+  "why": "Abrenica (2012)."
+ },
+ {
+  "id": "CZ-PR31",
+  "topic": "acp",
+  "art": "Art. 93, FC",
+  "text": "Property acquired [[during the marriage]] is presumed to belong to the community, unless it is proved that it is one of those excluded therefrom.",
+  "accept": [],
+  "why": "Not 'registered during' (Quiz 4 #20)."
+ },
+ {
+  "id": "CZ-PR32",
+  "topic": "acp",
+  "art": "Art. 94(5), FC",
+  "text": "The absolute community of property shall be liable for … All taxes and expenses for mere preservation made during marriage upon the separate property of either spouse [[used by the family]];",
+  "accept": [],
+  "why": "Not in CPG Art. 121(5) (midterms pair #3)."
+ },
+ {
+  "id": "CZ-PR33",
+  "topic": "acp",
+  "art": "Art. 94(7), FC",
+  "text": "The absolute community of property shall be liable for … Ante-nuptial debts of either spouse insofar as they have [[redounded to the benefit of the family]];",
+  "accept": [
+   "redounded to the benefit of the family"
+  ],
+  "why": "2007 Bar: repair loan before marriage."
+ },
+ {
+  "id": "CZ-PR34",
+  "topic": "acp",
+  "art": "Art. 94, last par., FC",
+  "text": "If the community property is insufficient to cover the foregoing liabilities, except those falling under paragraph (9), the spouses shall be [[solidarily]] liable for the unpaid balance with their separate properties.",
+  "accept": [
+   "solidary"
+  ],
+  "why": "Same in CPG (Art. 121, last par.)."
+ },
+ {
+  "id": "CZ-PR35",
+  "topic": "acp",
+  "art": "Art. 95, FC",
+  "text": "Whatever may be lost during the marriage in any game of chance, betting, sweepstakes, or any other kind of gambling, whether permitted or prohibited by law, shall be borne by the [[loser]] and shall not be charged to the community but any winnings therefrom shall form part of the community property.",
+  "accept": [
+   "loser spouse"
+  ],
+  "why": "Losses to the loser; winnings to the community."
+ },
+ {
+  "id": "CZ-PR36",
+  "topic": "acp",
+  "art": "Art. 96, FC",
+  "text": "In case of disagreement, the husband's decision shall prevail, subject to recourse to the court by the wife for proper remedy, which must be availed of within [[five years]] from the date of the contract implementing such decision.",
+  "accept": [
+   "5 years"
+  ],
+  "why": "Counted from the contract implementing the decision."
+ },
+ {
+  "id": "CZ-PR37",
+  "topic": "acp",
+  "art": "Art. 96, FC",
+  "text": "These powers do not include disposition or encumbrance without authority of the court or the [[written consent]] of the other spouse.",
+  "accept": [],
+  "why": "Without it: void, but a continuing offer."
+ },
+ {
+  "id": "CZ-PR38",
+  "topic": "acp",
+  "art": "Art. 96, FC",
+  "text": "However, the transaction shall be construed as a [[continuing offer]] on the part of the consenting spouse and the third person, and may be perfected as a binding contract upon the acceptance by the other spouse or authorization by the court before the offer is withdrawn by either or both offerors.",
+  "accept": [],
+  "why": "UP BOC 2011 antichresis MCQ."
+ },
+ {
+  "id": "CZ-PR39",
+  "topic": "acp",
+  "art": "Art. 97, FC",
+  "text": "Either spouse may dispose by [[will]] of his or her interest in the community property.",
+  "accept": [],
+  "why": "Interest only, not specific property."
+ },
+ {
+  "id": "CZ-PR40",
+  "topic": "acp",
+  "art": "Art. 98, FC",
+  "text": "However, either spouse may, without the consent of the other, make moderate donations from the community property for charity or on occasions of family rejoicing or [[family distress]].",
+  "accept": [],
+  "why": "Compare Art. 87 (family rejoicing only)."
+ },
+ {
+  "id": "CZ-PR41",
+  "topic": "acp",
+  "art": "Art. 101, FC",
+  "text": "The spouse who has left the conjugal dwelling for a period of [[three months]] or has failed within the same period to give any information as to his or her whereabouts shall be prima facie presumed to have no intention of returning to the conjugal dwelling.",
+  "accept": [
+   "3 months",
+   "90 days"
+  ],
+  "why": "Prima facie, not conclusive."
+ },
+ {
+  "id": "CZ-PR42",
+  "topic": "acp",
+  "art": "Art. 102(4), FC",
+  "text": "For purpose of computing the net profits subject to forfeiture in accordance with Articles 43, No. (2) and 63, No. (2), the said profits shall be the [[increase in value]] between the market value of the community property at the time of the celebration of the marriage and the market value at the time of its dissolution.",
+  "accept": [],
+  "why": "Forfeitable profits in ACP = increase in market value."
+ },
+ {
+  "id": "CZ-PR43",
+  "topic": "acp",
+  "art": "Art. 102(6), FC",
+  "text": "Children below the age of [[seven]] years are deemed to have chosen the mother, unless the court has decided otherwise.",
+  "accept": [
+   "7"
+  ],
+  "why": "Conjugal dwelling goes to the spouse chosen by the majority of the common children."
+ },
+ {
+  "id": "CZ-PR44",
+  "topic": "acp",
+  "art": "Art. 103, FC",
+  "text": "If no judicial settlement proceeding is instituted, the surviving spouse shall liquidate the community property either judicially or extra-judicially within [[one year]] from the death of the deceased spouse.",
+  "accept": [
+   "1 year"
+  ],
+  "why": "ACP one year; CPG six months (Art. 130)."
+ },
+ {
+  "id": "CZ-PR45",
+  "topic": "acp",
+  "art": "Art. 103, FC",
+  "text": "Should the surviving spouse contract a subsequent marriage without compliance with the foregoing requirements, a mandatory regime of [[complete separation of property]] shall govern the property relations of the subsequent marriage.",
+  "accept": [
+   "separation of property"
+  ],
+  "why": "Quiz 4 #13."
+ },
+ {
+  "id": "CZ-PR46",
+  "topic": "cpg",
+  "art": "Art. 106, FC",
+  "text": "Under the regime of conjugal partnership of gains, the husband and wife place in a common fund the proceeds, products, fruits and income from their separate properties and those acquired by either or both spouses through their efforts or by [[chance]] …",
+  "accept": [],
+  "why": "Gains, not the capital."
+ },
+ {
+  "id": "CZ-PR47",
+  "topic": "cpg",
+  "art": "Art. 108, FC",
+  "text": "The conjugal partnership shall be governed by the rules on the contract of [[partnership]] in all that is not in conflict with what is expressly determined in this Chapter or by the spouses in their marriage settlements.",
+  "accept": [],
+  "why": "ACP: co-ownership (Art. 90)."
+ },
+ {
+  "id": "CZ-PR48",
+  "topic": "cpg",
+  "art": "Art. 109(1), FC",
+  "text": "The following shall be the exclusive property of each spouse: (1) That which is [[brought to the marriage]] as his or her own;",
+  "accept": [],
+  "why": "Anything owned at the celebration."
+ },
+ {
+  "id": "CZ-PR49",
+  "topic": "cpg",
+  "art": "Art. 109(4), FC",
+  "text": "That which is purchased with [[exclusive money]] of the wife or of the husband.",
+  "accept": [
+   "exclusive funds"
+  ],
+  "why": "UP BOC Karen–Mercedes MCQ."
+ },
+ {
+  "id": "CZ-PR50",
+  "topic": "cpg",
+  "art": "Art. 110, FC",
+  "text": "Either spouse may, during the marriage, transfer the administration of his or her exclusive property to the other by means of a [[public instrument]], which shall be recorded in the registry of property of the place the property is located.",
+  "accept": [],
+  "why": "Not a private writing."
+ },
+ {
+  "id": "CZ-PR51",
+  "topic": "cpg",
+  "art": "Art. 116, FC",
+  "text": "All property acquired during the marriage, whether the acquisition appears to have been made, contracted or registered in the name of one or both spouses, is presumed to be [[conjugal]] unless the contrary is proved.",
+  "accept": [],
+  "why": "Proof of acquisition during marriage first (Torela)."
+ },
+ {
+  "id": "CZ-PR52",
+  "topic": "cpg",
+  "art": "Art. 117(3), FC",
+  "text": "The fruits, natural, industrial, or civil, due or received during the marriage from the common property, as well as the [[net fruits]] from the exclusive property of each spouse;",
+  "accept": [],
+  "why": "Rentals of exclusive property are conjugal (asked five times)."
+ },
+ {
+  "id": "CZ-PR53",
+  "topic": "cpg",
+  "art": "Art. 118, FC",
+  "text": "Property bought on installments paid partly from exclusive funds of either or both spouses and partly from conjugal funds belongs to the buyer or buyers if [[full ownership]] was vested before the marriage and to the conjugal partnership if such ownership was vested during the marriage.",
+  "accept": [],
+  "why": "When ownership vested, not when price fully paid."
+ },
+ {
+  "id": "CZ-PR54",
+  "topic": "cpg",
+  "art": "Art. 119, FC",
+  "text": "However, [[interests]] falling due during the marriage on the principal shall belong to the conjugal partnership.",
+  "accept": [
+   "interest"
+  ],
+  "why": "Principal to the creditor-spouse; interest to the CPG."
+ },
+ {
+  "id": "CZ-PR55",
+  "topic": "cpg",
+  "art": "Art. 120, FC",
+  "text": "In either case, the ownership of the entire property shall be vested upon the [[reimbursement]], which shall be made at the time of the liquidation of the conjugal partnership.",
+  "accept": [],
+  "why": "Maramba v. Lozano."
+ },
+ {
+  "id": "CZ-PR56",
+  "topic": "cpg",
+  "art": "Art. 121(1), FC",
+  "text": "The conjugal partnership shall be liable for: (1) The support of the spouse, their common children, and the [[legitimate]] children of either spouse;",
+  "accept": [],
+  "why": "Illegitimate children: rules on Support."
+ },
+ {
+  "id": "CZ-PR57",
+  "topic": "cpg",
+  "art": "Art. 130, FC",
+  "text": "If no judicial settlement proceeding is instituted, the surviving spouse shall liquidate the conjugal partnership property either judicially or extra-judicially within [[six months]] from the death of the deceased spouse.",
+  "accept": [
+   "6 months"
+  ],
+  "why": "ACP: one year."
+ },
+ {
+  "id": "CZ-PR58",
+  "topic": "sep",
+  "art": "Art. 134, FC",
+  "text": "In the absence of an express declaration in the marriage settlements, the separation of property between spouses during the marriage shall not take place except by [[judicial order]].",
+  "accept": [
+   "order of the court",
+   "court order"
+  ],
+  "why": "UP BOC 2012 MCQ."
+ },
+ {
+  "id": "CZ-PR59",
+  "topic": "sep",
+  "art": "Art. 135(6), FC",
+  "text": "That at the time of the petition, the spouses have been separated in fact for at least [[one year]] and reconciliation is highly improbable.",
+  "accept": [
+   "1 year"
+  ],
+  "why": "Legal separation abandonment: more than one year."
+ },
+ {
+  "id": "CZ-PR60",
+  "topic": "sep",
+  "art": "Art. 138, FC",
+  "text": "After dissolution of the absolute community or of the conjugal partnership, the provisions on [[complete separation of property]] shall apply.",
+  "accept": [
+   "separation of property"
+  ],
+  "why": "The former regime returns only by revival (Art. 141)."
+ },
+ {
+  "id": "CZ-PR61",
+  "topic": "sep",
+  "art": "Art. 144, FC",
+  "text": "Separation of property may refer to present or future property or both. It may be total or partial. In the latter case, the property not agreed upon as separate shall pertain to the [[absolute community]].",
+  "accept": [
+   "ACP"
+  ],
+  "why": "Not the CPG."
+ },
+ {
+  "id": "CZ-PR62",
+  "topic": "sep",
+  "art": "Art. 146, FC",
+  "text": "Both spouses shall bear the family expenses in proportion to their [[income]], or, in case of insufficiency or default thereof, to the current market value of their separate properties.",
+  "accept": [],
+  "why": "Not equally."
+ },
+ {
+  "id": "CZ-PR63",
+  "topic": "sep",
+  "art": "Art. 146, FC",
+  "text": "The liabilities of the spouses to creditors for family expenses shall, however, be [[solidary]].",
+  "accept": [
+   "solidarily"
+  ],
+  "why": "Proportional between them; solidary toward creditors."
+ },
+ {
+  "id": "CZ-PR64",
+  "topic": "unions",
+  "art": "Art. 147, FC",
+  "text": "When a man and a woman who are capacitated to marry each other, live exclusively with each other as husband and wife without the benefit of marriage or under a void marriage, their wages and salaries shall be owned by them in [[equal shares]] …",
+  "accept": [
+   "equal"
+  ],
+  "why": "Even if one only gambled (Uribe)."
+ },
+ {
+  "id": "CZ-PR65",
+  "topic": "unions",
+  "art": "Art. 147, FC",
+  "text": "For purposes of this Article, a party who did not participate in the acquisition by the other party of any property shall be deemed to have contributed jointly in the acquisition thereof if the former's efforts consisted in the [[care and maintenance]] of the family and of the household.",
+  "accept": [],
+  "why": "Not available under Art. 148."
+ },
+ {
+  "id": "CZ-PR66",
+  "topic": "unions",
+  "art": "Art. 147, FC",
+  "text": "When only one of the parties to a void marriage is in good faith, the share of the party in bad faith in the co-ownership shall be forfeited in favor of their [[common children]].",
+  "accept": [],
+  "why": "Then descendants, then the innocent party."
+ },
+ {
+  "id": "CZ-PR67",
+  "topic": "unions",
+  "art": "Art. 148, FC",
+  "text": "In cases of cohabitation not falling under the preceding Article, only the properties acquired by both of the parties through their [[actual joint contribution]] of money, property, or industry shall be owned by them in common in proportion to their respective contributions.",
+  "accept": [],
+  "why": "Diana, the jobless paramour, gets nothing (2024 Bar)."
+ },
+ {
+  "id": "CZ-PR68",
+  "topic": "unions",
+  "art": "Art. 148, FC",
+  "text": "If one of the parties is validly married to another, his or her share in the co-ownership shall accrue to the [[absolute community or conjugal partnership]] existing in such valid marriage.",
+  "accept": [
+   "absolute community",
+   "conjugal partnership"
+  ],
+  "why": "Juaniza v. Jose."
+ },
+ {
+  "id": "CZ-PR69",
+  "topic": "unions",
+  "art": "Art. 148, FC",
+  "text": "The foregoing rules on forfeiture shall likewise apply even if [[both parties]] are in bad faith.",
+  "accept": [],
+  "why": "Last paragraph of Art. 148."
+ }
+]
