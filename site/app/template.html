@@ -198,6 +198,7 @@ body.rev .top{max-width:1180px}
 #rcontent.blurmode .bl:not(.shown):hover{background:color-mix(in srgb,var(--accent) 30%,transparent)}
 #rcontent.blurmode .bl.shown{background:var(--warn-soft);border-radius:3px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
 @media (max-width:520px){.blurct{display:none}.mtoc a{max-width:20ch}}
+__VIZCSS__
 
 __DRILLCSS__
 @media (prefers-reduced-motion: reduce){*{transition:none!important}}
@@ -538,7 +539,7 @@ $("rtoc").onchange=()=>{const v=$("rtoc").value;if(v)goTo(document.getElementByI
 $("rprev").onclick=()=>openSec(curSec-1); $("rnext").onclick=()=>openSec(curSec+1);
 document.addEventListener("click",e=>{const a=e.target.closest('#rcontent a[href^="#"]');if(a){const el=document.getElementById(a.getAttribute("href").slice(1));if(el){e.preventDefault();goTo(el)}}});
 /* search */
-const BLOCKS=()=>[...document.querySelectorAll("#rcontent :is(p,li,.codal,td,h3,h4,.case .cn)")].filter(el=>!el.querySelector("p,li,td"));
+const BLOCKS=()=>[...document.querySelectorAll("#rcontent :is(p,li,.codal,td,h3,h4,.case .cn)")].filter(el=>!el.querySelector("p,li,td")&&!el.closest(".viz"));
 let blocksCache=null, searchT=null;
 function clearSearch(){$("rq").value="";$("rresults").hidden=true;$("rresults").innerHTML=""}
 function runSearch(){
@@ -561,7 +562,7 @@ const NUMRX=new RegExp(String.raw`₱\s?[\d,.]+(?:\s(?:million|billion))?|\b\d+(
 let blurMarked=false;
 function markBlur(){
   if(blurMarked)return; blurMarked=true;
-  const root=$("rcontent"), skip=el=>!!el.closest("h2,h3,h4,.lede,.art,th,a,strong,b,.cn,.legend");
+  const root=$("rcontent"), skip=el=>!!el.closest("h2,h3,h4,.lede,.art,th,a,strong,b,.cn,.legend,.viz");
   const tw=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.nodeValue.trim()&&!skip(n.parentElement)?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_REJECT});
   const nodes=[]; while(tw.nextNode())nodes.push(tw.currentNode);
   nodes.forEach(n=>{const t=n.nodeValue;NUMRX.lastIndex=0;if(!NUMRX.test(t))return;NUMRX.lastIndex=0;
@@ -569,7 +570,7 @@ function markBlur(){
     while((m=NUMRX.exec(t))){f.append(t.slice(last,m.index));const sp=document.createElement("span");sp.className="num";sp.textContent=m[0];f.append(sp);last=m.index+m[0].length}
     f.append(t.slice(last));n.replaceWith(f)});
   root.querySelectorAll("strong,b,.case .cn,.num").forEach(el=>{
-    if(el.closest("h2,h3,h4,.lede,.art,th,.legend")||el.parentElement.closest(".bl"))return;
+    if(el.closest("h2,h3,h4,.lede,.art,th,.legend,.viz")||el.parentElement.closest(".bl"))return;
     if((el.tagName==="STRONG"||el.tagName==="B")&&/:\s*$/.test(el.textContent))return;
     el.classList.add("bl")});
   blocksCache=null;
@@ -603,6 +604,7 @@ function spy(){
 }
 window.addEventListener("scroll",()=>{if(!spyRaf)spyRaf=requestAnimationFrame(spy)},{passive:true});
 window.addEventListener("resize",()=>{if(!spyRaf)spyRaf=requestAnimationFrame(spy)});
+__VIZJS__
 buildSide(); openSec(Math.min(store.get("pfr_sec",Math.max(0,SECS.findIndex(s=>s.id===CONFIG.defaultSection))),SECS.length-1),false); applyBlur();
 setTab(store.get("pfr_tab","quiz"));
 __DRILLJS__

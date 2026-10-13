@@ -42,6 +42,7 @@ js = open(os.path.join(d, 'drill.js')).read().replace('__CLOZE__', J(cl)).replac
 t = t.replace('__DRILLHTML__', open(os.path.join(d, 'drill.html')).read()).replace('__DRILLCSS__', open(os.path.join(d, 'drill.css')).read()).replace('__DRILLJS__', js)
 for k, v in {'__TITLE__': cfg['title'], '__EYEBROW__': cfg['eyebrow'], '__INTRO__': cfg['intro'], '__FOOTER__': cfg['footer'], '__PROF_LABEL__': cfg.get('profLabel', 'Professor')}.items():
     t = t.replace(k, v)
+t = t.replace('__VIZCSS__', open(os.path.join(here, 'viz.css')).read()).replace('__VIZJS__', open(os.path.join(here, 'viz.js')).read())
 t = t.replace('__CONFIG__', J(cfg)).replace('__DATA__', J(data)).replace('__REVIEWER__', rev)
 assert '__' not in ''.join(s for s in ['__CONFIG__', '__DATA__', '__REVIEWER__'] if s in t) , 'unfilled placeholder'
 os.makedirs(os.path.dirname(os.path.abspath(A.out)), exist_ok=True)
