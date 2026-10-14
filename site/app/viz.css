@@ -37,9 +37,9 @@
 .tree li{position:relative;padding:5px 0 5px 16px;margin:0}
 .tree>ul>li{padding-left:0}
 .tree ul ul>li::before{content:"";position:absolute;left:0;top:0;bottom:0;border-left:2px solid var(--line)}
-.tree ul ul>li:last-child::before{bottom:auto;height:19px}
-.tree ul ul>li::after{content:"";position:absolute;left:0;top:19px;width:13px;border-top:2px solid var(--line)}
-.tree i{font:600 .7rem/1 var(--mono);font-style:normal;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-right:6px;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:3px 5px;vertical-align:1px}
+.tree ul ul>li:last-child::before{bottom:auto;height:15px}
+.tree ul ul>li::after{content:"";position:absolute;left:0;top:15px;width:13px;border-top:2px solid var(--line)}
+.tree i{display:table;font:600 .68rem/1.25 var(--mono);font-style:normal;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:3px 6px;margin:0 0 4px}
 .tree .q,.tree .o{display:inline-block;border-radius:7px;padding:5px 10px;font-size:.88rem;line-height:1.35;max-width:100%}
 .tree .q{border:1px solid var(--ink);background:var(--surface);font-weight:600}
 .tree .o{background:var(--good-soft);border:1px solid var(--good)}
