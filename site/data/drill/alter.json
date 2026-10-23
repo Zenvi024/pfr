@@ -1718,5 +1718,253 @@
   "original": "The foregoing rules on forfeiture shall likewise apply even if both parties are in bad faith.",
   "altered": "The foregoing rules on forfeiture shall likewise apply only if both parties are in bad faith.",
   "why": "They apply even if both are in bad faith."
+ },
+ {
+  "id": "AL-FM1",
+  "topic": "family",
+  "art": "Art. 149, FC",
+  "original": "Consequently, family relations are governed by law and no custom, practice or agreement destructive of the family shall be recognized or given effect.",
+  "altered": "Consequently, family relations are governed by custom and no custom, practice or agreement destructive of the family shall be recognized or given effect.",
+  "why": "Governed by law."
+ },
+ {
+  "id": "AL-FM2",
+  "topic": "family",
+  "art": "Art. 151, FC",
+  "original": "No suit between members of the same family shall prosper unless it should appear from the verified complaint or petition that earnest efforts toward a compromise have been made, but that the same have failed.",
+  "altered": "No suit between members of the same family shall prosper unless it should appear from the complaint or petition that earnest efforts toward a compromise have been made, but that the same have failed.",
+  "why": "Verified complaint or petition."
+ },
+ {
+  "id": "AL-FM3",
+  "topic": "family",
+  "art": "Art. 151, FC",
+  "original": "If it is shown that no such efforts were in fact made, the same case must be dismissed.",
+  "altered": "If it is shown that no such efforts were in fact made, the same case may be dismissed.",
+  "why": "Must be dismissed (if timely raised)."
+ },
+ {
+  "id": "AL-FM4",
+  "topic": "famhome",
+  "art": "Art. 152, FC",
+  "original": "The family home, constituted jointly by the husband and the wife or by an unmarried head of a family, is the dwelling house where they and their family reside, and the land on which it is situated.",
+  "altered": "The family home, constituted jointly by the husband and the wife or by an unmarried head of a family, is the dwelling house where they and their family reside, or the land on which it is situated.",
+  "why": "House AND land (Uribe midterm #7)."
+ },
+ {
+  "id": "AL-FM5",
+  "topic": "famhome",
+  "art": "Art. 153, FC",
+  "original": "The family home is deemed constituted on a house and lot from the time it is occupied as a family residence.",
+  "altered": "The family home is deemed constituted on a house and lot from the time it is registered as a family residence.",
+  "why": "Occupied, not registered."
+ },
+ {
+  "id": "AL-FM6",
+  "topic": "famhome",
+  "art": "Art. 154(2), FC",
+  "original": "Their parents, ascendants, descendants, brothers and sisters, whether the relationship be legitimate or illegitimate, who are living in the family home and who depend upon the head of the family for legal support.",
+  "altered": "Their parents, ascendants, descendants, brothers and sisters, whether the relationship be legitimate or illegitimate, who are living in the family home or who depend upon the head of the family for legal support.",
+  "why": "Living there AND dependent."
+ },
+ {
+  "id": "AL-FM7",
+  "topic": "famhome",
+  "art": "Art. 155(3), FC",
+  "original": "For debts secured by mortgages on the premises before or after such constitution;",
+  "altered": "For debts secured by mortgages on the premises before such constitution;",
+  "why": "Before OR AFTER."
+ },
+ {
+  "id": "AL-FM8",
+  "topic": "famhome",
+  "art": "Art. 157, FC",
+  "original": "The actual value of the family home shall not exceed, at the time of its constitution, the amount of three hundred thousand pesos in urban areas, and two hundred thousand pesos in rural areas …",
+  "altered": "The actual value of the family home shall not exceed, at the time of the levy, the amount of three hundred thousand pesos in urban areas, and two hundred thousand pesos in rural areas …",
+  "why": "At the time of its constitution."
+ },
+ {
+  "id": "AL-FM9",
+  "topic": "famhome",
+  "art": "Art. 158, FC",
+  "original": "… with the written consent of the person constituting the same, the latter's spouse, and a majority of the beneficiaries of legal age.",
+  "altered": "… with the written consent of the person constituting the same, the latter's spouse, and all of the beneficiaries of legal age.",
+  "why": "A majority."
+ },
+ {
+  "id": "AL-FM10",
+  "topic": "famhome",
+  "art": "Art. 159, FC",
+  "original": "This rule shall apply regardless of whoever owns the property or constituted the family home.",
+  "altered": "This rule shall apply only if the deceased owned the property or constituted the family home.",
+  "why": "Regardless of ownership."
+ },
+ {
+  "id": "AL-FM11",
+  "topic": "famhome",
+  "art": "Art. 160, FC",
+  "original": "At the execution sale, no bid below the value allowed for a family home shall be considered.",
+  "altered": "At the execution sale, no bid below the judgment debt shall be considered.",
+  "why": "Below the value allowed for a family home (Art. 157)."
+ },
+ {
+  "id": "AL-FM12",
+  "topic": "famhome",
+  "art": "Art. 160, FC",
+  "original": "The excess, if any, shall be delivered to the judgment debtor.",
+  "altered": "The excess, if any, shall be delivered to the judgment creditor.",
+  "why": "To the debtor; the Art. 157 amount is applied first, then the judgment and costs."
+ },
+ {
+  "id": "AL-FM13",
+  "topic": "patern",
+  "art": "Art. 164, FC",
+  "original": "Children conceived or born during the marriage of the parents are legitimate.",
+  "altered": "Children conceived and born during the marriage of the parents are legitimate.",
+  "why": "Conceived OR born."
+ },
+ {
+  "id": "AL-FM14",
+  "topic": "patern",
+  "art": "Art. 164, FC",
+  "original": "Children conceived as a result of artificial insemination of the wife with the sperm of the husband or that of a donor or both are likewise legitimate children of the husband and his wife …",
+  "altered": "Children conceived as a result of artificial insemination of the wife with the sperm of the husband are likewise legitimate children of the husband and his wife …",
+  "why": "Husband's OR a donor's sperm, or both."
+ },
+ {
+  "id": "AL-FM15",
+  "topic": "patern",
+  "art": "Art. 164, FC",
+  "original": "… provided, that both of them authorized or ratified such insemination in a written instrument executed and signed by them before the birth of the child.",
+  "altered": "… provided, that both of them authorized or ratified such insemination in a public instrument executed and signed by them before the birth of the child.",
+  "why": "Written, not public (2025 Quiz 2)."
+ },
+ {
+  "id": "AL-FM16",
+  "topic": "patern",
+  "art": "Art. 165, FC",
+  "original": "Children conceived and born outside a valid marriage are illegitimate, unless otherwise provided in this Code.",
+  "altered": "Children conceived or born outside a valid marriage are illegitimate, unless otherwise provided in this Code.",
+  "why": "Conceived AND born (Quiz Set 1 TF6)."
+ },
+ {
+  "id": "AL-FM17",
+  "topic": "patern",
+  "art": "Art. 166(1), FC",
+  "original": "… within the first 120 days of the 300 days which immediately preceded the birth of the child …",
+  "altered": "… within the first 180 days of the 300 days which immediately preceded the birth of the child …",
+  "why": "120, not 180 (2025 Quiz 5 #14)."
+ },
+ {
+  "id": "AL-FM18",
+  "topic": "patern",
+  "art": "Art. 166(1)(c), FC",
+  "original": "serious illness of the husband, which absolutely prevented sexual intercourse;",
+  "altered": "serious illness of the husband, which prevented sexual intercourse;",
+  "why": "ABSOLUTELY prevented."
+ },
+ {
+  "id": "AL-FM19",
+  "topic": "patern",
+  "art": "Art. 167, FC",
+  "original": "The child shall be considered legitimate although the mother may have declared against its legitimacy or may have been sentenced as an adulteress.",
+  "altered": "The child shall be considered illegitimate if the mother may have declared against its legitimacy or may have been sentenced as an adulteress.",
+  "why": "Legitimate, although …"
+ },
+ {
+  "id": "AL-FM20",
+  "topic": "patern",
+  "art": "Art. 168(1), FC",
+  "original": "A child born before one hundred eighty days after the solemnization of the subsequent marriage is considered to have been conceived during the former marriage, provided it be born within three hundred days after the termination of the former marriage;",
+  "altered": "A child born before one hundred eighty days after the solemnization of the subsequent marriage is considered to have been conceived during the subsequent marriage, provided it be born within three hundred days after the termination of the former marriage;",
+  "why": "Conceived during the FORMER marriage."
+ },
+ {
+  "id": "AL-FM21",
+  "topic": "patern",
+  "art": "Art. 170, FC",
+  "original": "… if the husband or, in a proper case, any of his heirs, should reside in the city or municipality where the birth took place or was recorded.",
+  "altered": "… if the husband or, in a proper case, any of his heirs, should reside in the country where the birth took place or was recorded.",
+  "why": "City or municipality (2025 Quiz 5 #16)."
+ },
+ {
+  "id": "AL-FM22",
+  "topic": "patern",
+  "art": "Art. 170, FC",
+  "original": "… the period shall be counted from the discovery or knowledge of the birth of the child or of the fact of registration of said birth, whichever is earlier.",
+  "altered": "… the period shall be counted from the discovery or knowledge of the birth of the child or of the fact of registration of said birth, whichever is later.",
+  "why": "Whichever is EARLIER."
+ },
+ {
+  "id": "AL-FM23",
+  "topic": "patern",
+  "art": "Art. 176, FC",
+  "original": "The legitime of each illegitimate child shall consist of one-half of the legitime of a legitimate child.",
+  "altered": "The legitime of each illegitimate child shall consist of one-third of the legitime of a legitimate child.",
+  "why": "One-half of the legitime of A (one) legitimate child; and it is the legitime of EACH illegitimate child (Quiz 5 #5)."
+ },
+ {
+  "id": "AL-FM24",
+  "topic": "patern",
+  "art": "Art. 176, FC",
+  "original": "However, illegitimate children may use the surname of their father if their filiation has been expressly recognized by the father …",
+  "altered": "However, illegitimate children shall use the surname of their father if their filiation has been expressly recognized by the father …",
+  "why": "MAY, not shall."
+ },
+ {
+  "id": "AL-FM25",
+  "topic": "filiat",
+  "art": "Art. 172, FC",
+  "original": "(2) An admission of legitimate filiation in a public document or a private handwritten instrument and signed by the parent concerned.",
+  "altered": "(2) An admission of legitimate filiation in a public document or a private instrument and signed by the parent concerned.",
+  "why": "Private HANDWRITTEN instrument."
+ },
+ {
+  "id": "AL-FM26",
+  "topic": "filiat",
+  "art": "Art. 173, FC",
+  "original": "The action to claim legitimacy may be brought by the child during his or her lifetime …",
+  "altered": "The action to claim legitimacy may be brought by the child within five years from majority …",
+  "why": "During his or her lifetime; the 5 years are for the heirs."
+ },
+ {
+  "id": "AL-FM27",
+  "topic": "filiat",
+  "art": "Art. 175, FC",
+  "original": "… except when the action is based on the second paragraph of Article 172, in which case the action may be brought during the lifetime of the alleged parent.",
+  "altered": "… except when the action is based on the first paragraph of Article 172, in which case the action may be brought during the lifetime of the alleged parent.",
+  "why": "Second paragraph (secondary evidence)."
+ },
+ {
+  "id": "AL-FM28",
+  "topic": "filiat",
+  "art": "Art. 177, FC",
+  "original": "Children conceived and born outside of wedlock of parents who, at the time of conception of the former, were not disqualified by any impediment to marry each other …",
+  "altered": "Children conceived and born outside of wedlock of parents who, at the time of birth of the former, were not disqualified by any impediment to marry each other …",
+  "why": "At CONCEPTION (Uribe midterm #4)."
+ },
+ {
+  "id": "AL-FM29",
+  "topic": "filiat",
+  "art": "Art. 178, FC",
+  "original": "Legitimation shall take place by a subsequent valid marriage between parents.",
+  "altered": "Legitimation shall take place by a subsequent marriage between parents.",
+  "why": "VALID marriage."
+ },
+ {
+  "id": "AL-FM30",
+  "topic": "filiat",
+  "art": "Art. 180, FC",
+  "original": "The effects of legitimation shall retroact to the time of the child's birth.",
+  "altered": "The effects of legitimation shall retroact to the time of the parents' marriage.",
+  "why": "To the child's BIRTH."
+ },
+ {
+  "id": "AL-FM31",
+  "topic": "filiat",
+  "art": "Art. 182, FC",
+  "original": "Legitimation may be impugned only by those who are prejudiced in their rights, within five years from the time their cause of action accrues.",
+  "altered": "Legitimation may be impugned only by those who are prejudiced in their rights, within one year from the time their cause of action accrues.",
+  "why": "Five years (Quiz No. 4 TF5)."
  }
 ]

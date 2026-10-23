@@ -2661,5 +2661,455 @@
   "text": "The foregoing rules on forfeiture shall likewise apply even if [[both parties]] are in bad faith.",
   "accept": [],
   "why": "Last paragraph of Art. 148."
+ },
+ {
+  "id": "CZ-FM1",
+  "topic": "family",
+  "art": "Art. 149, FC",
+  "text": "Consequently, family relations are governed by [[law]] and no custom, practice or agreement destructive of the family shall be recognized or given effect.",
+  "accept": [],
+  "why": "Not by custom or agreement."
+ },
+ {
+  "id": "CZ-FM2",
+  "topic": "family",
+  "art": "Art. 150, FC",
+  "text": "Family relations include those: (1) Between husband and wife; (2) Between parents and children; (3) Among other [[ascendants and descendants]]; and (4) Among brothers and sisters, whether of the full or half-blood.",
+  "accept": [
+   "ascendants & descendants"
+  ],
+  "why": "The item some reviewers drop: there are four."
+ },
+ {
+  "id": "CZ-FM3",
+  "topic": "family",
+  "art": "Art. 150, FC",
+  "text": "Family relations include those … (4) Among brothers and sisters, whether of the [[full or half-blood]].",
+  "accept": [
+   "full or half blood"
+  ],
+  "why": "In-laws, nephews and cousins are not on the list (Gayon)."
+ },
+ {
+  "id": "CZ-FM4",
+  "topic": "family",
+  "art": "Art. 151, FC",
+  "text": "No suit between members of the same family shall prosper unless it should appear from the [[verified]] complaint or petition that earnest efforts toward a compromise have been made, but that the same have failed.",
+  "accept": [],
+  "why": "Verified complaint or petition."
+ },
+ {
+  "id": "CZ-FM5",
+  "topic": "family",
+  "art": "Art. 151, FC",
+  "text": "This rule shall not apply to cases which may not be the subject of [[compromise]] under the Civil Code.",
+  "accept": [],
+  "why": "NCC 2035: status, validity of marriage/LS, LS grounds, future support, jurisdiction, future legitime."
+ },
+ {
+  "id": "CZ-FM6",
+  "topic": "family",
+  "art": "Art. 2035(4), NCC",
+  "text": "No compromise upon the following questions shall be valid: … (4) [[Future]] support;",
+  "accept": [],
+  "why": "Support in arrears may be compromised (Wainwright-Versoza)."
+ },
+ {
+  "id": "CZ-FM7",
+  "topic": "famhome",
+  "art": "Art. 152, FC",
+  "text": "The family home, constituted jointly by the husband and the wife or by an [[unmarried head of a family]], is the dwelling house where they and their family reside, and the land on which it is situated.",
+  "accept": [
+   "unmarried head of the family"
+  ],
+  "why": "Who may constitute."
+ },
+ {
+  "id": "CZ-FM8",
+  "topic": "famhome",
+  "art": "Art. 152, FC",
+  "text": "The family home … is the dwelling house where they and their family reside, [[and]] the land on which it is situated.",
+  "accept": [],
+  "why": "'And', not 'or' (Uribe midterm #7)."
+ },
+ {
+  "id": "CZ-FM9",
+  "topic": "famhome",
+  "art": "Art. 153, FC",
+  "text": "The family home is deemed constituted on a house and lot from the time it is [[occupied]] as a family residence.",
+  "accept": [
+   "occupied as a family residence"
+  ],
+  "why": "No judicial or extrajudicial constitution needed under the FC."
+ },
+ {
+  "id": "CZ-FM10",
+  "topic": "famhome",
+  "art": "Art. 153, FC",
+  "text": "From the time of its constitution and so long as any of its beneficiaries [[actually resides]] therein, the family home continues to be such and is exempt from execution, forced sale or attachment …",
+  "accept": [
+   "actually reside",
+   "resides"
+  ],
+  "why": "Actual residence of any beneficiary."
+ },
+ {
+  "id": "CZ-FM11",
+  "topic": "famhome",
+  "art": "Art. 154(2), FC",
+  "text": "Their parents, ascendants, descendants, brothers and sisters, whether the relationship be legitimate or illegitimate, who are living in the family home and who depend upon the [[head of the family]] for legal support.",
+  "accept": [],
+  "why": "A grandchild supported by his own parents is not a beneficiary (Patricio v. Dario)."
+ },
+ {
+  "id": "CZ-FM12",
+  "topic": "famhome",
+  "art": "Art. 155(2), FC",
+  "text": "The family home shall be exempt from execution, forced sale or attachment except: … (2) For debts incurred [[prior to]] the constitution of the family home;",
+  "accept": [
+   "before"
+  ],
+  "why": "Siari Valley; Modequillo."
+ },
+ {
+  "id": "CZ-FM13",
+  "topic": "famhome",
+  "art": "Art. 155(3), FC",
+  "text": "… (3) For debts secured by mortgages on the premises [[before or after]] such constitution;",
+  "accept": [],
+  "why": "Fortaleza v. Lapitan."
+ },
+ {
+  "id": "CZ-FM14",
+  "topic": "famhome",
+  "art": "Art. 155(4), FC",
+  "text": "… (4) For debts due to laborers, mechanics, architects, builders, materialmen and others who have rendered service or furnished material for the [[construction]] of the building.",
+  "accept": [],
+  "why": "Construction only (Tolentino would add repairs and improvements)."
+ },
+ {
+  "id": "CZ-FM15",
+  "topic": "famhome",
+  "art": "Art. 156, FC",
+  "text": "The family home must be part of the properties of the absolute community or the conjugal partnership, or of the exclusive properties of either spouse [[with the latter's consent]].",
+  "accept": [
+   "with the consent of the latter"
+  ],
+  "why": "The clause dropped in Uribe midterm #10."
+ },
+ {
+  "id": "CZ-FM16",
+  "topic": "famhome",
+  "art": "Art. 157, FC",
+  "text": "The actual value of the family home shall not exceed, at the time of its constitution, the amount of [[three hundred thousand]] pesos in urban areas, and two hundred thousand pesos in rural areas …",
+  "accept": [
+   "300,000",
+   "300000",
+   "P300,000",
+   "₱300,000"
+  ],
+  "why": "Urban ₱300,000; rural ₱200,000."
+ },
+ {
+  "id": "CZ-FM17",
+  "topic": "famhome",
+  "art": "Art. 158, FC",
+  "text": "The family home may be sold, alienated, donated, assigned or encumbered by the owner or owners thereof with the written consent of the person constituting the same, the latter's spouse, and a [[majority]] of the beneficiaries of legal age.",
+  "accept": [],
+  "why": "Majority, of legal age, in writing."
+ },
+ {
+  "id": "CZ-FM18",
+  "topic": "famhome",
+  "art": "Art. 159, FC",
+  "text": "The family home shall continue despite the death of one or both spouses or of the unmarried head of the family for a period of [[ten]] years or for as long as there is a minor beneficiary …",
+  "accept": [
+   "10"
+  ],
+  "why": "And no partition unless the court finds compelling reasons."
+ },
+ {
+  "id": "CZ-FM19",
+  "topic": "famhome",
+  "art": "Art. 159, FC",
+  "text": "… and the heirs cannot partition the same unless the court finds [[compelling reasons]] therefor.",
+  "accept": [],
+  "why": "Applies regardless of who owns the property."
+ },
+ {
+  "id": "CZ-FM20",
+  "topic": "famhome",
+  "art": "Art. 160, FC",
+  "text": "At the execution sale, no bid below the [[value allowed for a family home]] shall be considered.",
+  "accept": [
+   "value allowed"
+  ],
+  "why": "Proceeds: Art. 157 amount first, then judgment and costs, excess to debtor."
+ },
+ {
+  "id": "CZ-FM21",
+  "topic": "famhome",
+  "art": "Art. 161, FC",
+  "text": "For purposes of availing of the benefits of a family home as provided for in this Chapter, a person may constitute, or be the beneficiary of, only [[one]] family home.",
+  "accept": [
+   "1"
+  ],
+  "why": "Art. 161 is new."
+ },
+ {
+  "id": "CZ-FM22",
+  "topic": "patern",
+  "art": "Art. 163, FC",
+  "text": "The filiation of children may be by [[nature]] or by adoption. Natural filiation may be legitimate or illegitimate.",
+  "accept": [],
+  "why": "Kinds of filiation."
+ },
+ {
+  "id": "CZ-FM23",
+  "topic": "patern",
+  "art": "Art. 164, FC",
+  "text": "Children conceived [[or]] born during the marriage of the parents are legitimate.",
+  "accept": [],
+  "why": "'Or', not 'and'."
+ },
+ {
+  "id": "CZ-FM24",
+  "topic": "patern",
+  "art": "Art. 164, FC",
+  "text": "… provided, that both of them authorized or ratified such insemination in a [[written instrument]] executed and signed by them before the birth of the child.",
+  "accept": [
+   "written"
+  ],
+  "why": "Written, not public (2025 Quiz 2 trap)."
+ },
+ {
+  "id": "CZ-FM25",
+  "topic": "patern",
+  "art": "Art. 164, FC",
+  "text": "… in a written instrument executed and signed by them [[before the birth]] of the child.",
+  "accept": [
+   "before birth"
+  ],
+  "why": "Not after the birth."
+ },
+ {
+  "id": "CZ-FM26",
+  "topic": "patern",
+  "art": "Art. 165, FC",
+  "text": "Children conceived [[and]] born outside a valid marriage are illegitimate, unless otherwise provided in this Code.",
+  "accept": [],
+  "why": "'And', not 'or' (Quiz Set 1 TF6)."
+ },
+ {
+  "id": "CZ-FM27",
+  "topic": "patern",
+  "art": "Art. 166(1), FC",
+  "text": "That it was physically impossible for the husband to have sexual intercourse with his wife within the first [[120]] days of the 300 days which immediately preceded the birth of the child …",
+  "accept": [
+   "one hundred twenty"
+  ],
+  "why": "300 − 120 = 180, the minimum viable gestation."
+ },
+ {
+  "id": "CZ-FM28",
+  "topic": "patern",
+  "art": "Art. 166(1)(c), FC",
+  "text": "… (c) serious illness of the husband, which [[absolutely]] prevented sexual intercourse;",
+  "accept": [],
+  "why": "Andal v. Macaraig: tuberculosis is not enough."
+ },
+ {
+  "id": "CZ-FM29",
+  "topic": "patern",
+  "art": "Art. 166(2), FC",
+  "text": "That it is proved that for [[biological or other scientific]] reasons, the child could not have been that of the husband, except in the instance provided in the second paragraph of Article 164;",
+  "accept": [
+   "biological or scientific"
+  ],
+  "why": "Blood test exclusion (Jao); DNA."
+ },
+ {
+  "id": "CZ-FM30",
+  "topic": "patern",
+  "art": "Art. 167, FC",
+  "text": "The child shall be considered legitimate although the mother may have [[declared against its legitimacy]] or may have been sentenced as an adulteress.",
+  "accept": [
+   "declared against its legitimacy"
+  ],
+  "why": "The mother's word is irrelevant."
+ },
+ {
+  "id": "CZ-FM31",
+  "topic": "patern",
+  "art": "Art. 168(1), FC",
+  "text": "A child born before [[one hundred eighty]] days after the solemnization of the subsequent marriage is considered to have been conceived during the former marriage, provided it be born within three hundred days after the termination of the former marriage;",
+  "accept": [
+   "180"
+  ],
+  "why": "Two conditions: < 180 days of 2nd marriage AND within 300 days of termination."
+ },
+ {
+  "id": "CZ-FM32",
+  "topic": "patern",
+  "art": "Art. 168(2), FC",
+  "text": "A child born after one hundred eighty days following the celebration of the subsequent marriage is considered to have been conceived during [[such]] marriage, even though it be born within the three hundred days after the termination of the former marriage.",
+  "accept": [
+   "the subsequent",
+   "the second"
+  ],
+  "why": "Second husband."
+ },
+ {
+  "id": "CZ-FM33",
+  "topic": "patern",
+  "art": "Art. 169, FC",
+  "text": "The legitimacy or illegitimacy of a child born after three hundred days following the termination of the marriage shall be proved by [[whoever alleges]] such legitimacy or illegitimacy.",
+  "accept": [],
+  "why": "No presumption either way."
+ },
+ {
+  "id": "CZ-FM34",
+  "topic": "patern",
+  "art": "Art. 170, FC",
+  "text": "The action to impugn the legitimacy of the child shall be brought within [[one year]] from the knowledge of the birth or its recording in the civil register, if the husband or, in a proper case, any of his heirs, should reside in the city or municipality where the birth took place or was recorded.",
+  "accept": [
+   "1 year",
+   "one (1) year"
+  ],
+  "why": "2 years elsewhere in PH; 3 years abroad."
+ },
+ {
+  "id": "CZ-FM35",
+  "topic": "patern",
+  "art": "Art. 170, FC",
+  "text": "… the period shall be two years if they should reside in the Philippines; and [[three]] years if abroad.",
+  "accept": [
+   "3"
+  ],
+  "why": "Abroad."
+ },
+ {
+  "id": "CZ-FM36",
+  "topic": "patern",
+  "art": "Art. 170, FC",
+  "text": "If the birth of the child has been concealed from or was unknown to the husband or his heirs, the period shall be counted from the discovery or knowledge of the birth of the child or of the fact of registration of said birth, whichever is [[earlier]].",
+  "accept": [],
+  "why": "Earlier, not later."
+ },
+ {
+  "id": "CZ-FM37",
+  "topic": "patern",
+  "art": "Art. 171(2), FC",
+  "text": "The heirs of the husband may impugn the filiation of the child … (2) If he should die after the filing of the complaint without having [[desisted]] therefrom;",
+  "accept": [],
+  "why": "The other cases: death before the period expires; child born after his death."
+ },
+ {
+  "id": "CZ-FM38",
+  "topic": "patern",
+  "art": "Art. 176, FC",
+  "text": "The legitime of [[each]] illegitimate child shall consist of one-half of the legitime of a legitimate child.",
+  "accept": [],
+  "why": "Each, of a (one) legitimate child (Quiz 5 #5)."
+ },
+ {
+  "id": "CZ-FM39",
+  "topic": "patern",
+  "art": "Art. 176, FC",
+  "text": "However, illegitimate children [[may]] use the surname of their father if their filiation has been expressly recognized by the father …",
+  "accept": [],
+  "why": "Permissive (Grande v. Antonio; Barcelote)."
+ },
+ {
+  "id": "CZ-FM40",
+  "topic": "filiat",
+  "art": "Art. 172, FC",
+  "text": "The filiation of legitimate children is established by any of the following: (1) The record of birth appearing in the civil register or a [[final judgment]]; …",
+  "accept": [],
+  "why": "Primary evidence."
+ },
+ {
+  "id": "CZ-FM41",
+  "topic": "filiat",
+  "art": "Art. 172, FC",
+  "text": "(2) An admission of legitimate filiation in a public document or a private [[handwritten]] instrument and signed by the parent concerned.",
+  "accept": [],
+  "why": "Handwritten AND signed."
+ },
+ {
+  "id": "CZ-FM42",
+  "topic": "filiat",
+  "art": "Art. 172, FC",
+  "text": "In the absence of the foregoing evidence, the legitimate filiation shall be proved by: (1) The [[open and continuous]] possession of the status of a legitimate child; …",
+  "accept": [
+   "open & continuous"
+  ],
+  "why": "Secondary evidence (Mendoza v. CA)."
+ },
+ {
+  "id": "CZ-FM43",
+  "topic": "filiat",
+  "art": "Art. 173, FC",
+  "text": "The action to claim legitimacy may be brought by the child during his or her lifetime and shall be transmitted to the heirs should the child die during minority or in a state of insanity. In these cases, the heirs shall have a period of [[five]] years within which to institute the action.",
+  "accept": [
+   "5"
+  ],
+  "why": "Imprescriptible for the child."
+ },
+ {
+  "id": "CZ-FM44",
+  "topic": "filiat",
+  "art": "Art. 175, FC",
+  "text": "The action must be brought within the same period specified in Article 173, except when the action is based on the second paragraph of Article 172, in which case the action may be brought during the [[lifetime]] of the alleged parent.",
+  "accept": [
+   "lifetime of the alleged parent"
+  ],
+  "why": "Sir: 'may' — DNA after death (Aquino; Yap)."
+ },
+ {
+  "id": "CZ-FM45",
+  "topic": "filiat",
+  "art": "Art. 177, FC",
+  "text": "Children conceived and born outside of wedlock of parents who, at the time of [[conception]] of the former, were not disqualified by any impediment to marry each other …",
+  "accept": [
+   "the conception"
+  ],
+  "why": "Conception, not birth (Uribe midterm #4)."
+ },
+ {
+  "id": "CZ-FM46",
+  "topic": "filiat",
+  "art": "Art. 177, FC",
+  "text": "… or were so disqualified only because either or both of them were below [[eighteen]] (18) years of age, may be legitimated.",
+  "accept": [
+   "18"
+  ],
+  "why": "R.A. 9858."
+ },
+ {
+  "id": "CZ-FM47",
+  "topic": "filiat",
+  "art": "Art. 178, FC",
+  "text": "Legitimation shall take place by a subsequent [[valid]] marriage between parents. The annulment of a voidable marriage shall not affect the legitimation.",
+  "accept": [],
+  "why": "Void marriage: no legitimation."
+ },
+ {
+  "id": "CZ-FM48",
+  "topic": "filiat",
+  "art": "Art. 180, FC",
+  "text": "The effects of legitimation shall retroact to the time of the child's [[birth]].",
+  "accept": [],
+  "why": "Not the marriage."
+ },
+ {
+  "id": "CZ-FM49",
+  "topic": "filiat",
+  "art": "Art. 182, FC",
+  "text": "Legitimation may be impugned only by those who are prejudiced in their rights, within [[five]] years from the time their cause of action accrues.",
+  "accept": [
+   "5"
+  ],
+  "why": "Not one year (Quiz No. 4 TF5)."
  }
 ]

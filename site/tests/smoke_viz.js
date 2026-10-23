@@ -34,7 +34,7 @@ const path = require('path'), fs = require('fs');
           if (it.classList.contains('done') && /answered/.test(so.querySelector('.sscore').textContent)) out.sorted++;
           so.querySelector('[data-reset]')?.click();
         });
-        s.querySelectorAll('.calc').forEach(c => { out.calcs++; if (/₱/.test(c.querySelector('.cout')?.textContent || '')) out.calcOk++; });
+        s.querySelectorAll('.calc').forEach(c => { out.calcs++; const t = c.querySelector('.cout')?.textContent || ''; if (/₱|\d{4}|\d days/.test(t) && !/NaN|Invalid/.test(t)) out.calcOk++; });
         s.querySelectorAll('figure.viz').forEach(f => { if (f.scrollWidth > f.clientWidth + 2 && !f.querySelector('.vscroll')) out.overflow.push(s.id + ':' + (f.querySelector('figcaption')?.textContent || '').slice(0, 40)) });
       });
       out.pageW = document.documentElement.scrollWidth;

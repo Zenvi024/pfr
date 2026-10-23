@@ -1,7 +1,7 @@
 {
  "title": "Uribe PFR Desk",
  "eyebrow": "Law 100 · Persons &amp; Family Relations · Atty. Uribe",
- "intro": "Samplex items from Sir Uribe's past quizzes, recitation questions, bar questions and new drills, from NCC 1–51 through the Family Code's <b>property relations (FC 74–148)</b>. Take quizzes by coverage (start with the <b>Quiz 4: Property relations</b> preset), read the full reviewer per topic with blur mode for self-testing, or drill with spaced review: codal blanks, spotting Sir's one-word changes, and the periods, ACP vs CPG, and Art. 147 vs 148 grids.",
+ "intro": "Samplex items from Sir Uribe's past quizzes, recitation questions, bar questions and new drills, from NCC 1–51 through the Family Code's <b>family, family home, and paternity and filiation (FC 149–182)</b>. Take quizzes by coverage (start with the <b>Next quiz: Family, family home, paternity</b> preset), read the full reviewer per topic with blur mode for self-testing, or drill with spaced review: codal blanks, spotting Sir's one-word changes, and the periods and comparison grids.",
  "footer": "Tags: <b>Samplex</b> = verbatim from Sir Uribe's past quizzes and exams (several copies merged), including CivRev 2025 Quiz 4 and the CivRev midterms with his answers from the class discussion. <b>Recitation</b> = questions Sir asked in class (CivRev 2025 and the 2018 online situationers). <b>Bar</b> = QuAMTO / UP BOC bar questions, verbatim or adapted to multiple choice. <b>New</b> = written for this bank in Uribe's format. A yellow note means the circulated key differed from the answer here or the point is debatable; read it before trusting either. Consider a statement true only when it is absolutely true.",
  "profLabel": "Uribe",
  "pairInstruction": "Consider the statement true only where it is absolutely true.",
@@ -70,6 +70,26 @@
    "key": "unions",
    "name": "Unions Without Marriage",
    "range": "FC 147–148"
+  },
+  {
+   "key": "family",
+   "name": "The Family",
+   "range": "FC 149–151"
+  },
+  {
+   "key": "famhome",
+   "name": "The Family Home",
+   "range": "FC 152–162"
+  },
+  {
+   "key": "patern",
+   "name": "Paternity: Legitimacy, Illegitimacy & Impugning",
+   "range": "FC 163–171, 174–176"
+  },
+  {
+   "key": "filiat",
+   "name": "Proof of Filiation & Legitimation",
+   "range": "FC 172–182"
   }
  ],
  "origins": [
@@ -91,6 +111,17 @@
   }
  ],
  "presets": [
+  {
+   "id": "fam",
+   "name": "Next quiz: Family, family home, paternity",
+   "sub": "FC 149–182: family relations, family home, legitimacy, impugning, proof of filiation, legitimation",
+   "topics": [
+    "family",
+    "famhome",
+    "patern",
+    "filiat"
+   ]
+  },
   {
    "id": "pr",
    "name": "Quiz 4: Property relations",
@@ -141,16 +172,15 @@
   {
    "id": "all",
    "name": "Everything",
-   "sub": "NCC 1–51 through FC 148",
+   "sub": "NCC 1–51 through FC 182",
    "topics": "all"
   }
  ],
  "defaultTopics": [
-  "ms",
-  "acp",
-  "cpg",
-  "sep",
-  "unions"
+  "family",
+  "famhome",
+  "patern",
+  "filiat"
  ],
  "reviewerGroups": [
   {
@@ -176,7 +206,16 @@
     "sep",
     "unions"
    ]
+  },
+  {
+   "label": "Family, family home, paternity and filiation (FC 149–182)",
+   "ids": [
+    "family",
+    "famhome",
+    "patern",
+    "filiat"
+   ]
   }
  ],
- "defaultSection": "ms"
+ "defaultSection": "family"
 }

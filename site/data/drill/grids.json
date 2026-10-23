@@ -884,5 +884,316 @@
     ]
    }
   ]
+ },
+ {
+  "id": "gfam",
+  "topic": "patern",
+  "title": "Family, family home, filiation: numbers",
+  "src": "Arts. 150, 157, 159, 166, 168, 170, 173, 177, 182, FC",
+  "cols": [
+   {
+    "h": "Number",
+    "t": "num"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Family relations enumerated in Art. 150",
+    "c": [
+     [
+      "4",
+      "four"
+     ]
+    ]
+   },
+   {
+    "h": "Maximum value of an urban family home at constitution (₱)",
+    "c": [
+     [
+      "300000",
+      "300,000",
+      "₱300,000",
+      "P300,000"
+     ]
+    ]
+   },
+   {
+    "h": "Maximum value of a rural family home at constitution (₱)",
+    "c": [
+     [
+      "200000",
+      "200,000",
+      "₱200,000",
+      "P200,000"
+     ]
+    ]
+   },
+   {
+    "h": "Years the family home continues after the constitutors' death (absent a minor beneficiary)",
+    "c": [
+     [
+      "10",
+      "ten"
+     ]
+    ]
+   },
+   {
+    "h": "Art. 166(1): the first how many days of the 300 before birth",
+    "c": [
+     [
+      "120"
+     ]
+    ]
+   },
+   {
+    "h": "Art. 168: days after the subsequent marriage that divide 1st from 2nd husband",
+    "c": [
+     [
+      "180"
+     ]
+    ]
+   },
+   {
+    "h": "Days after termination beyond which Art. 169 applies",
+    "c": [
+     [
+      "300"
+     ]
+    ]
+   },
+   {
+    "h": "Period to impugn: husband lives in the city/municipality of birth or recording (years)",
+    "c": [
+     [
+      "1",
+      "one"
+     ]
+    ]
+   },
+   {
+    "h": "Period to impugn: elsewhere in the Philippines (years)",
+    "c": [
+     [
+      "2",
+      "two"
+     ]
+    ]
+   },
+   {
+    "h": "Period to impugn: abroad (years)",
+    "c": [
+     [
+      "3",
+      "three"
+     ]
+    ]
+   },
+   {
+    "h": "Heirs' period to claim legitimacy when the child died a minor or insane (years)",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "Age below which parents' disqualification does not bar legitimation (R.A. 9858)",
+    "c": [
+     [
+      "18",
+      "eighteen"
+     ]
+    ]
+   },
+   {
+    "h": "Period to impugn legitimation (years)",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gchild",
+  "topic": "patern",
+  "title": "Legitimate, illegitimate, legitimated",
+  "src": "Arts. 164–182, FC; R.A. 9255, 9858",
+  "cols": [
+   {
+    "h": "Legitimate",
+    "t": "pick"
+   },
+   {
+    "h": "Illegitimate",
+    "t": "pick"
+   },
+   {
+    "h": "Legitimated",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Basis of status",
+    "c": [
+     "Conceived or born during a valid marriage (Art. 164)",
+     "Conceived and born outside a valid marriage (Art. 165)",
+     "No impediment at conception + subsequent valid marriage (Arts. 177–178)"
+    ]
+   },
+   {
+    "h": "Surname",
+    "c": [
+     "Father's and mother's",
+     "Mother's; may use father's if expressly recognized",
+     "Same as legitimate"
+    ]
+   },
+   {
+    "h": "Parental authority",
+    "c": [
+     "Joint, both parents",
+     "Mother alone",
+     "Joint, both parents (same as legitimate)"
+    ]
+   },
+   {
+    "h": "Legitime",
+    "c": [
+     "Full legitime of a legitimate child",
+     "One-half of a legitimate child's legitime",
+     "Full (same rights as legitimate, Art. 179)"
+    ]
+   },
+   {
+    "h": "Who may attack the status, and when",
+    "c": [
+     "Husband (heirs in Art. 171 cases); 1/2/3 years",
+     "Filiation must be proved by the child (Art. 175)",
+     "Those prejudiced in their rights; 5 years"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gimp",
+  "topic": "patern",
+  "title": "Who may impugn legitimacy?",
+  "src": "Arts. 167, 170–171, FC; Liyao; Yap v. Yap",
+  "cols": [
+   {
+    "h": "May impugn?",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "The husband, within the Art. 170 period",
+    "c": [
+     "Yes"
+    ]
+   },
+   {
+    "h": "His heirs, the husband having died before his period expired",
+    "c": [
+     "Yes, Art. 171(1)"
+    ]
+   },
+   {
+    "h": "His heirs, the husband having let his period lapse while alive",
+    "c": [
+     "No, the status is fixed"
+    ]
+   },
+   {
+    "h": "The mother",
+    "c": [
+     "No, Art. 167"
+    ]
+   },
+   {
+    "h": "The child",
+    "c": [
+     "Traditionally no (Liyao); Yap v. Yap now allows proof of filiation with the biological father"
+    ]
+   },
+   {
+    "h": "The alleged biological father",
+    "c": [
+     "No"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gproof",
+  "topic": "filiat",
+  "title": "Proof of filiation",
+  "src": "Arts. 172, 175, FC; cases",
+  "cols": [
+   {
+    "h": "Kind",
+    "t": "pick"
+   },
+   {
+    "h": "After the alleged parent's death (illegitimate child)?",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Record of birth signed by the father",
+    "c": [
+     "Primary",
+     "Yes"
+    ]
+   },
+   {
+    "h": "Final judgment",
+    "c": [
+     "Primary",
+     "Yes"
+    ]
+   },
+   {
+    "h": "Admission in a public document, signed",
+    "c": [
+     "Primary",
+     "Yes"
+    ]
+   },
+   {
+    "h": "Private handwritten instrument, signed",
+    "c": [
+     "Primary",
+     "Yes"
+    ]
+   },
+   {
+    "h": "Open and continuous possession of status",
+    "c": [
+     "Secondary",
+     "No (Art. 175), but Sir disagrees"
+    ]
+   },
+   {
+    "h": "DNA test and other means under the Rules of Court",
+    "c": [
+     "Secondary",
+     "No (Art. 175), but see Aquino; Yap"
+    ]
+   },
+   {
+    "h": "Baptismal certificate",
+    "c": [
+     "Not proof of filiation",
+     "Not proof of filiation"
+    ]
+   }
+  ]
  }
 ]

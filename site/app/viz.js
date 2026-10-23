@@ -2,6 +2,7 @@
 (function(){
 const P=n=>"₱"+Math.round(n).toLocaleString("en-PH");
 const num=v=>{const x=parseFloat(String(v).replace(/[^\d.]/g,""));return isFinite(x)?x:0};
+const Dd=s=>{if(!s)return null;const d=new Date(s+"T00:00:00Z");return isNaN(d)?null:d},dd=(a,b)=>Math.round((b-a)/864e5),ad=(d,n)=>new Date(+d+n*864e5),fd=d=>d.toLocaleDateString("en-US",{timeZone:"UTC",month:"short",day:"numeric",year:"numeric"});
 
 /* decision trees: "Full map" / "Walk me through it" */
 document.querySelectorAll("#rcontent .tree[data-walk]").forEach(T=>{
@@ -87,11 +88,52 @@ const CALC={
       `First partnership: <b>${P(s1)}</b> · Second partnership: <b>${P(s2)}</b>. Each is then halved between the husband's estate and the wife (or her heirs), and each wife gets her capital back.`+
       seg([["1st partnership",100*s1/conj,"var(--accent)"],["2nd partnership",100*s2/conj,"var(--good)"]])+
       `<small>Tolentino's "double proportion" for Art. 131 when there is no proof which partnership owns what. With equal years it reduces to the ratio of the capitals.</small>`}},
+  art168:{
+    html:`<div class="crow">${field("t1","First marriage terminated (death / separation)","2024-01-01","date")}${field("m2","Mother's second marriage celebrated","2024-03-01","date")}${field("b","Child born","2024-07-15","date")}</div><div class="cout"></div>`,
+    run(v){const t1=Dd(v.t1),m2=Dd(v.m2),b=Dd(v.b);if(!t1||!b)return "Enter the dates.";
+      const dT=dd(t1,b),gap=m2?dd(t1,m2):null,dM=m2?dd(m2,b):null;
+      const facts=`Birth is <b>${dT}</b> days after the termination`+(m2?`; the second marriage was <b>${gap}</b> days after the termination and the birth is <b>${dM}</b> days after it`:"")+`.<br>`;
+      let r;
+      if(dT<0)r=`Born <strong>during the first marriage</strong>: legitimate child of the first husband (Art. 164, "born during the marriage").`;
+      else if(!m2||dM<0)r=dT<=300?`Born after the termination but within 300 days, before any second marriage: presumed <strong>conceived during the first marriage</strong>, so legitimate child of the first husband (Art. 164, "conceived … during the marriage").`
+        :`Born <strong>more than 300 days</strong> after the termination: <strong>Art. 169</strong>. No presumption either way; whoever alleges legitimacy or illegitimacy must prove it.`;
+      else if(gap>300)r=`The mother remarried <strong>more than 300 days</strong> after the termination, so <strong>Art. 168 does not apply</strong>. The child was born during the second marriage: legitimate child of the second husband (Art. 164).`;
+      else if(dM<=180)r=dT<=300?`<strong>Art. 168(1):</strong> born within 180 days after the second wedding <em>and</em> within 300 days after the termination, so considered <strong>conceived during the former marriage</strong>: child of the <strong>first</strong> husband.`
+        :`Born within 180 days of the second wedding but <strong>more than 300 days</strong> after the termination, so the proviso of Art. 168(1) fails. The first husband cannot be the father (Uribe: "alangan naman makabuntis pa ang patay"); the child was born during the second marriage: <strong>second</strong> husband (Art. 164). This is Sir's Quiz 5 problem.`;
+      else r=`<strong>Art. 168(2):</strong> born after 180 days following the second wedding, so considered <strong>conceived during the subsequent marriage</strong>: child of the <strong>second</strong> husband, ${dT<=300?"even though born within 300 days after the termination":"and the birth is also beyond 300 days of the termination"}.`;
+      return facts+r+`<br><small>These are presumptions "in the absence of proof to the contrary"; only the husband concerned (or his heirs under Art. 171) may overthrow them, on the Art. 166 grounds. In an annulment, Tolentino counts the 300 days from the spouses' actual separation, not from the final judgment.</small>`}},
+  impugn:{
+    html:`<div class="crow">${sel("who","Who sues?",[["h","The husband"],["x","His heir (Art. 171 case)"]])}${sel("res","Where does the plaintiff reside?",[["1","Same city or municipality as the birth or its recording"],["2","Elsewhere in the Philippines"],["3","Abroad"]])}</div>
+      <div class="crow">${field("k","Learned of the birth","2025-02-10","date")}${field("r","Birth recorded in the civil register","2025-01-20","date")}${sel("c","Birth concealed from, or unknown to, him?",[["n","No"],["y","Yes"]])}</div><div class="cout"></div>`,
+    run(v){const n=+v.res,k=Dd(v.k),r=Dd(v.r),xs=[k,r].filter(Boolean);if(!xs.length)return "Enter at least one date.";
+      const st=new Date(Math.min(...xs)),dl=new Date(st);dl.setUTCFullYear(dl.getUTCFullYear()+n);
+      const which=k&&r?(k<=r?"his knowledge of the birth, the earlier of the two dates":"the recording of the birth, the earlier of the two dates"):(k?"his knowledge of the birth":"the recording of the birth");
+      return `Period: <b>${n} year${n>1?"s":""}</b> (Art. 170: 1 year if he, or in a proper case any heir, lives where the birth took place or was recorded; 2 years elsewhere in the Philippines; 3 years abroad).<br>`+
+      `Counted from <b>${fd(st)}</b> (${which}). Last day to file: <b>${fd(dl)}</b>.`+
+      hb([["1 year: same place",1,n===1?"var(--accent)":"var(--line)","1 yr"],["2 years: elsewhere in PH",2,n===2?"var(--accent)":"var(--line)","2 yrs"],["3 years: abroad",3,n===3?"var(--accent)":"var(--line)","3 yrs"]])+
+      (v.c==="y"?`<small>Concealed or unknown birth: the period runs from the discovery or knowledge of the birth or of its registration, whichever is earlier (Art. 170, last sentence).</small><br>`:"")+
+      (v.who==="x"?`<small>Heirs may sue only if (1) the husband died before his period expired, (2) he died after filing without desisting, or (3) the child was born after his death (Art. 171). Tolentino: the heir's own residence fixes the period, since the heir sues in his own right.</small>`:`<small>After the period lapses the child's status is fixed and can no longer be attacked, directly or collaterally.</small>`)}},
+  conceive:{
+    html:`<div class="crow">${field("b","Child's date of birth","2025-06-30","date")}</div><div class="cout"></div>`,
+    run(v){const b=Dd(v.b);if(!b)return "Enter the date of birth.";
+      const s=ad(b,-300),e=ad(b,-181),z=ad(b,-180);
+      return `300-day period before the birth: <b>${fd(s)}</b> to <b>${fd(ad(b,-1))}</b>.<br>`+
+      `<strong>First 120 days</strong> of that period (Art. 166(1)): <b>${fd(s)}</b> to <b>${fd(e)}</b>. If sexual intercourse between the spouses was physically impossible throughout these 120 days, the husband cannot be the father.`+
+      seg([["First 120 days (window)",40,"var(--accent)"],["Last 180 days",60,"var(--line)"]])+
+      `<small>Why 120? 300 − 120 = 180 days, the shortest gestation for a viable child. If conception had to happen after ${fd(e)}, the child would have been born within 180 days of conception (Uribe's explanation). The same 180/300 figures drive Art. 168.</small>`}},
+  fhsale:{
+    html:`<div class="crow">${sel("area","Location of the family home",[["300000","Urban (₱300,000)"],["200000","Rural (₱200,000)"]])}${field("bid","Highest bid at the execution sale (₱)","750,000")}${field("debt","Judgment debt and costs (₱)","300,000")}</div><div class="cout"></div>`,
+    run(v){const cap=+v.area,bid=v.bid,debt=v.debt;
+      if(bid<cap)return `A bid of ${P(bid)} is below the exempt value of <b>${P(cap)}</b>: "no bid below the value allowed for a family home shall be considered" (Art. 160). The sale cannot proceed on this bid.`;
+      const toCred=Math.min(debt,bid-cap),ex=bid-cap-toCred;
+      return `Proceeds of <b>${P(bid)}</b> are applied in this order (Art. 160):<br>1. <b>${P(cap)}</b> first, the amount mentioned in Art. 157 (this goes to the debtor, as the exempt value of the home);<br>2. <b>${P(toCred)}</b> to the judgment and costs${toCred<debt?` (the creditor is still unpaid by ${P(debt-toCred)})`:""};<br>3. <b>${P(ex)}</b> excess to the judgment debtor.`+
+      seg([["Exempt value (Art. 157)",100*cap/bid,"var(--good)"],["Creditor",100*toCred/bid,"var(--accent)"],["Excess to debtor",100*ex/bid,"var(--warn)"]])+
+      `<small>Available only to a creditor whose claim is not among the Art. 155 exceptions, after a court finds the home's actual value exceeds the maximum as of its constitution (including increases from voluntary improvements). Tolentino adds that liens on the home are excluded and the court must hold a hearing.</small>`}},
 };
 document.querySelectorAll("#rcontent .calc[data-calc]").forEach(C=>{
   const def=CALC[C.dataset.calc];if(!def)return;
   const box=document.createElement("div");box.innerHTML=def.html;C.append(box);
-  const go=()=>{const v={};box.querySelectorAll("[data-k]").forEach(x=>v[x.dataset.k]=x.tagName==="SELECT"?x.value:num(x.value));box.querySelector(".cout").innerHTML=def.run(v)};
+  const go=()=>{const v={};box.querySelectorAll("[data-k]").forEach(x=>v[x.dataset.k]=x.tagName==="SELECT"||x.type==="date"?x.value:num(x.value));box.querySelector(".cout").innerHTML=def.run(v)};
   box.addEventListener("input",go);go();
 });
 })();

@@ -1,0 +1,1472 @@
+[
+ {
+  "id": "P-1",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 1 TF6",
+  "type": "tf",
+  "stem": "Children conceived or born outside a valid marriage are illegitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 165: children conceived AND born outside a valid marriage are illegitimate. A child conceived outside but born inside a valid marriage is legitimate (Art. 164: conceived OR born during the marriage).",
+  "key_note": null
+ },
+ {
+  "id": "P-2",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 1 MC14",
+  "type": "mcq",
+  "stem": "For a child to be legitimate, he must be:",
+  "choices": [
+   "Conceived during the marriage",
+   "Born during the marriage",
+   "Conceived and born during the marriage",
+   "Conceived or born during the marriage",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Art. 164: 'Children conceived OR born during the marriage of the parents are legitimate.' Keyed (d) in Sir's older quizzes (also Midterm #44). Compare 2025 Quiz 5 item 1, where the T/F version ('must be conceived or born during the marriage') was FALSE because children of Art. 36 and 53 marriages (Art. 54), adopted children and legitimated children are also legitimate.",
+  "key_note": null
+ },
+ {
+  "id": "P-3",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #1",
+  "type": "tf",
+  "stem": "To be a legitimate child, he/she must be conceived or born during the marriage of the parents.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Not absolutely true. Children conceived or born before the judgment of nullity under Art. 36 becomes final, and children of a subsequent marriage void under Art. 53, are legitimate (Art. 54); adopted children are legitimate children of the adopter; legitimated children have the same rights. In the discussion Sir cautioned: on a status question never answer 'legitimated' ('legitimation happens AFTER … It presupposes na illegitimate ang bata').",
+  "key_note": "The class notes record the basis as FALSE; Sir pushed back on using legitimation or artificial insemination as the reason."
+ },
+ {
+  "id": "P-4",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #2",
+  "type": "tf",
+  "stem": "Children conceived as a result of artificial insemination of the wife with the sperm of the husband are legitimate children of the husband and his wife.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 164, 2nd par. adds the proviso: 'provided, that both of them authorized or ratified such insemination in a written instrument executed and signed by them before the birth of the child.' The statement omits it. A student who answered TRUE (presumption of legitimacy) was made to correct himself.",
+  "key_note": "Tolentino and the 2006 UPLC bar answer treat the written instrument as evidence only; Sir treats it as a requirement."
+ },
+ {
+  "id": "P-5",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 1 MC19",
+  "type": "mcq",
+  "stem": "This is required for a child by artificial insemination to be a legitimate child of A and B, husband and wife, respectively:",
+  "choices": [
+   "The child was conceived as a result of artificial insemination of C",
+   "The child was conceived with the sperm of A",
+   "Both A and B authorize the artificial insemination in a written instrument",
+   "The authority or ratification of such artificial insemination may be signed after the birth of the child",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Art. 164, 2nd par.: insemination OF THE WIFE (not C, which would be surrogacy) with the sperm of the husband OR a donor or both (so b is not required), authorized or ratified in a written instrument executed and signed BEFORE the birth (so d is wrong).",
+  "key_note": null
+ },
+ {
+  "id": "P-6",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2 (Aug 28, 2025) (2025 version)",
+  "type": "mcq",
+  "stem": "This is required for a child by artificial insemination to be a legitimate child of A and B, husband and wife, respectively:",
+  "choices": [
+   "the child was conceived as a result of artificial insemination of C.",
+   "the child was conceived with the sperm of A.",
+   "both A and B authorize the artificial insemination in a public instrument.",
+   "the authority or ratification of such artificial insemination may be signed after the birth of the child.",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "The 2025 trap: 'written instrument' became 'PUBLIC instrument'. Sir: 'Written lang, di naman kailangan published di ba? The correct answer is E.' On (a): 'IT IS STILL AI! Ang insemination ay nasa asawa hindi sa kapitbahay', i.e., insemination of someone other than the wife is not covered. On (b): donor sperm is allowed.",
+  "key_note": null
+ },
+ {
+  "id": "P-7",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe 1st Quiz (Civ Rev samplex) TF7",
+  "type": "tf",
+  "stem": "Children conceived or born before the promulgation of judgment of annulment or absolute nullity of the marriage under Article 36 shall be considered legitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 54 speaks of the judgment having 'become final and executory'. A child conceived or born before promulgation is necessarily conceived or born before finality, so the statement is true.",
+  "key_note": null
+ },
+ {
+  "id": "P-8",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2 (Aug 28, 2025) TF9 (= 1st Quiz TF4)",
+  "type": "tf",
+  "stem": "Children born after the dissolution of the marriage of the parents may be legitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 164: conceived during the marriage. Sir's example: a child conceived before the husband's death and born after it. Do not cite void marriages: 'There is nothing to dissolve if it is void.' (Annulment may be cited: Art. 54.) A student key marking this FALSE is wrong.",
+  "key_note": null
+ },
+ {
+  "id": "P-9",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz No. 4 TF1",
+  "type": "tf",
+  "stem": "Children conceived and born outside a valid marriage are illegitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 165 ends with 'unless otherwise provided in this Code'. E.g., children of a marriage void under Art. 36 conceived or born before the judgment becomes final, and children of a subsequent marriage void under Art. 53, are legitimate (Art. 54).",
+  "key_note": null
+ },
+ {
+  "id": "P-10",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "UP BOC – 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "Who are illegitimate children?",
+  "choices": [
+   "Children conceived or born outside a valid marriage.",
+   "Children born under a valid marriage, which was later declared void because of the psychological incapacity of either or both of the spouses.",
+   "Children conceived and born outside a valid marriage.",
+   "Children born under a valid marriage, but the parents later obtained a legal separation."
+  ],
+  "answer": 2,
+  "explanation": "Art. 165. B is legitimate under Art. 54; D is legitimate (legal separation does not affect the marriage bond).",
+  "key_note": null
+ },
+ {
+  "id": "P-11",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "Fidel, a Filipino with fair complexion, married Gloria. Before the marriage, Gloria confessed to Fidel that she was two-month pregnant with the child of a black African who had left the country for good. When the child was born, Fidel could not accept it being too black in complexion. What is the status of the child?",
+  "choices": [
+   "Illegitimate, because Gloria confessed that the child is not Fidel's.",
+   "Illegitimate, because by the color of its skin, the child could not possibly be that of Fidel.",
+   "Legitimate, because the child was born within a valid marriage.",
+   "Legitimate, because Fidel agreed to treat the child as his own after Gloria told him who the father was."
+  ],
+  "answer": 2,
+  "explanation": "Art. 164: born during the marriage. The mother's declaration does not matter (Art. 167), and until Fidel successfully impugns legitimacy (e.g., on biological grounds, Art. 166(2)) within the Art. 170 period, the child is legitimate.",
+  "key_note": null
+ },
+ {
+  "id": "P-12",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "Arthur and Helen, both Filipinos, got married and had 2 children. Arthur later worked in Rome where he acquired Italian citizenship. He got a divorce from Helen in Rome but, on returning to the Philippines, he realized his mistake, asked forgiveness of his wife, and resumed living with her. They had 2 more children. What is the status of their 4 children?",
+  "choices": [
+   "The children born before the divorce are legitimate but those born after it are not since Arthur got the divorce when he had ceased to be a Filipino.",
+   "The divorce rendered illegitimate the children born before it since the marriage that begot them had been nullified.",
+   "The children born before and after the divorce are all legitimate since Philippine law does not recognize divorce.",
+   "All the children are legitimate since they were born of the same father and mother."
+  ],
+  "answer": 0,
+  "explanation": "UPLC's suggested answer is (A): the foreign divorce obtained by Arthur as an Italian citizen dissolved the marriage (cf. Art. 26), so children born after it, out of wedlock, are illegitimate. The answer turns on the recognition of the divorce, so be ready to explain.",
+  "key_note": "Bar key (A); the answer depends on Art. 26 and the recognition of the foreign divorce."
+ },
+ {
+  "id": "P-13",
+  "topic": "patern",
+  "origin": "recit",
+  "src": "Uribe CivRev 2025 recitation (Sep 27, 2025) (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "X and Y's marriage was declared void for lack of a marriage license. Their child C was conceived and born before the judgment of nullity became final. What is C's status?",
+  "choices": [
+   "Legitimate, under Art. 54",
+   "Legitimate, in the best interest of the child",
+   "Illegitimate",
+   "Legitimated"
+  ],
+  "answer": 2,
+  "explanation": "Sir: the Art. 54 exception covers ONLY Art. 36 marriages and Art. 53 subsequent marriages. 'In all other grounds of nullity, dapat illegitimate child siya.' Do not argue 'best interest of the child': 'unfair yun sa ibang mga anak … mababawasan yung share nung iba.'",
+  "key_note": null
+ },
+ {
+  "id": "P-14",
+  "topic": "patern",
+  "origin": "recit",
+  "src": "Uribe recitation situationer (2018) (adapted)",
+  "type": "tf",
+  "stem": "If spouses A and B have their child through the implantation of an embryo (sperm of A, egg of B) in a third woman, C, who carries and delivers the baby, the child is the legitimate child of A and B under Article 164.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Sir's 2018 answer: 'No. The FC does not recognize the concept of surrogacy.' Art. 164 covers artificial insemination OF THE WIFE.",
+  "key_note": null
+ },
+ {
+  "id": "P-15",
+  "topic": "patern",
+  "origin": "recit",
+  "src": "Uribe recitation situationer (2018) (adapted)",
+  "type": "tf",
+  "stem": "A and B are spouses. During A's lifetime, B cohabited with C. After A's death, B married C, and during that marriage X was born, conceived after A's death. X was legitimated by the marriage of B and C.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Sir: 'No. X was already legitimate because he was born within a valid marriage. Legitimation presupposes that the child was born illegitimate.'",
+  "key_note": null
+ },
+ {
+  "id": "P-16",
+  "topic": "patern",
+  "origin": "recit",
+  "src": "Uribe CivRev 2025 recitation (Sep 27, 2025) (2025 Bar problem)",
+  "type": "tf",
+  "stem": "A husband who discovered through a secret DNA test that he was not the father of his wife's child, and who thereafter only filed for and obtained the annulment of their marriage, has thereby made the child illegitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The child, born during the marriage, is legitimate (Art. 164; children conceived or born before the annulment decree is final are legitimate). Sir: 'Legitimate. Kasi wala namang impugn.' To change the status, the husband must file an action to impugn on biological or scientific grounds (Art. 166(2)) within the Art. 170 period.",
+  "key_note": null
+ },
+ {
+  "id": "P-17",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; FC 163)",
+  "type": "tf",
+  "stem": "The filiation of children may be by nature or by adoption. Natural filiation may be legitimate or illegitimate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 163.",
+  "key_note": null
+ },
+ {
+  "id": "P-18",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC10",
+  "type": "mcq",
+  "stem": "The status of the child in relation to the father or the mother, and may be used to indicate paternity or maternity is known as:",
+  "choices": [
+   "Legitimacy",
+   "Paternity",
+   "Maternity",
+   "Filiation"
+  ],
+  "answer": 3,
+  "explanation": "Filiation is the child's relationship to the parent; paternity and maternity are the parent's side. In the 2025 version (Quiz 5 #11), 'Filiation' was removed from the choices and replaced by 'Natural', so the answer became 'None of the above'.",
+  "key_note": null
+ },
+ {
+  "id": "P-19",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #11",
+  "type": "mcq",
+  "stem": "The status of the child in relation to the father or the mother, and may be used to indicate paternity or maternity is known as:",
+  "choices": [
+   "Legitimacy",
+   "Paternity",
+   "Maternity",
+   "Natural",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "The answer is 'filiation', which is not among the choices. Watch Sir's trick of removing the correct answer from an old item.",
+  "key_note": null
+ },
+ {
+  "id": "P-20",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF1 (= Quiz 5 #5)",
+  "type": "tf",
+  "stem": "The legitime of the illegitimate children shall consist of one-half of the legitime of the legitimate children.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 176: 'The legitime of EACH illegitimate child shall consist of one-half of the legitime of A legitimate child.' With two or more legitimate children, take one legitimate child's legitime and halve it.",
+  "key_note": null
+ },
+ {
+  "id": "P-21",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "UP BOC – 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "An illegitimate child may use the surname of his father when his filiation is established in any of the following instances, except:",
+  "choices": [
+   "Filiation has been recognized by the father through the record of birth appearing in the civil register",
+   "Admission of filiation by the father in a public document.",
+   "Private handwritten instrument is made by the father acknowledging his filiation.",
+   "Affidavit by the mother stating the name of his true father."
+  ],
+  "answer": 3,
+  "explanation": "Art. 176, as amended by R.A. 9255: the father's express recognition through the record of birth, or his admission in a public document or private handwritten instrument. The mother's affidavit is not the father's recognition.",
+  "key_note": null
+ },
+ {
+  "id": "P-22",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "UP BOC – 2009 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Rodolfo, married to Sharon, begot Rona with his secretary Nanette. He later acknowledged Rona and gave her regular support. Can he compel Rona to use his surname?",
+  "choices": [
+   "No, because illegitimate children can never use the father's surname",
+   "Yes, because he supports her",
+   "No; under R.A. 9255 the illegitimate child MAY use the father's surname, and the choice is the child's (through the mother, who has sole parental authority, while the child is a minor)",
+   "Yes, because he acknowledged her"
+  ],
+  "answer": 2,
+  "explanation": "Art. 176 as amended: illegitimate children 'may' use the father's surname if he expressly recognized them. 'May' is permissive (Grande v. Antonio, 2014; Barcelote v. Republic, 2017). The mother has sole parental authority over an illegitimate child.",
+  "key_note": null
+ },
+ {
+  "id": "P-23",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; FC 176)",
+  "type": "tf",
+  "stem": "Illegitimate children shall use the surname of their father if their filiation has been expressly recognized by the father through the record of birth appearing in the civil register.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 176 (R.A. 9255): they 'MAY use the surname of their father' upon express recognition; otherwise they 'shall use the surname … of their mother'. 'May' is permissive (Grande v. Antonio; Barcelote v. Republic).",
+  "key_note": null
+ },
+ {
+  "id": "P-24",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; FC 176)",
+  "type": "tf",
+  "stem": "Illegitimate children shall be under the parental authority of their mother, and shall be entitled to support in conformity with this Code.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 176. The father, even if he recognized the child and gives support, has no parental authority; to obtain custody he must first deprive the mother of parental authority on a legal ground (bar answers).",
+  "key_note": null
+ },
+ {
+  "id": "P-25",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Osmeña de Valencia v. Rodriguez)",
+  "type": "mcq",
+  "stem": "The legitimate children of X sued to stop X's illegitimate children from using the surname of X. Will the suit prosper?",
+  "choices": [
+   "Yes, because the use of the surname implies legitimacy",
+   "No, because the right of legitimate children to their father's surname creates no monopoly over it",
+   "Yes, because only legitimate children have the right to the father's surname",
+   "No, because surnames are not property"
+  ],
+  "answer": 1,
+  "explanation": "Osmeña de Valencia v. Rodriguez: the article 'has marked a right of which legitimate children may not be deprived, but it cannot be interpreted as a prohibition against the use by others of what may happen to be the surname of their father. If plaintiff's theory were correct, they can stop countless inhabitants from bearing the surname \"Valencia.\"'",
+  "key_note": null
+ },
+ {
+  "id": "P-26",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Moore; Naldoza)",
+  "type": "mcq",
+  "stem": "A mother whose first marriage ended petitioned for her legitimate minor son to use the surname of her second husband. Rule.",
+  "choices": [
+   "Deny; a legitimate child may not use the surname of a person who is not his father",
+   "Grant, in the best interest of the child",
+   "Grant, if the father consents",
+   "Grant, since the stepfather supports the child"
+  ],
+  "answer": 0,
+  "explanation": "Moore v. Republic (1963): it may cause confusion as to the child's real paternity and prejudice him in the long run. Similarly, Naldoza v. Republic: minors may not, at the mother's behest alone, drop their father's surname for the mother's.",
+  "key_note": null
+ },
+ {
+  "id": "P-27",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; Mangulabnan v. IAC)",
+  "type": "tf",
+  "stem": "Before an illegitimate child whose father was married at the time of his conception may be granted support, he must first be recognized by the father.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Mangulabnan v. IAC (1990): such a child is spurious, and recognition is not required before support; there must be a declaration of the child's status, which may be provisional, by affidavits.",
+  "key_note": null
+ },
+ {
+  "id": "P-28",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC3",
+  "type": "mcq",
+  "stem": "Legitimacy of a child may be impugned on the ground that it was physically impossible for the husband to have sexual intercourse with the wife:",
+  "choices": [
+   "Right after the solemnization of the marriage",
+   "Within the first 30 days of the 300 days which immediately preceded the birth of the child",
+   "Within the first 180 days which immediately preceded the birth of the child",
+   "Within the first 120 days of the 300 days which immediately preceded the birth of the child"
+  ],
+  "answer": 3,
+  "explanation": "Art. 166(1). Why 120 of 300? If conception was impossible during the first 120 days, the child could have been conceived only within the last 180 days before the birth, which is shorter than the minimum gestation of a viable child (Sir's explanation).",
+  "key_note": null
+ },
+ {
+  "id": "P-29",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #14",
+  "type": "mcq",
+  "stem": "Legitimacy of a child may be impugned on the ground that it was physically impossible for the husband to have sexual intercourse with the wife:",
+  "choices": [
+   "right after the solemnization of the marriage",
+   "within the first 30 days of the 300 days which immediately preceded the birth of the child",
+   "within the first 180 which immediately preceded the birth of the child",
+   "within the first 180 days of the 300 days which immediately preceded the birth of the child",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "The 2025 trap: '120' became '180'. Art. 166(1): within the first 120 days of the 300 days which immediately preceded the birth of the child. Answer: none of the above.",
+  "key_note": null
+ },
+ {
+  "id": "P-30",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC5",
+  "type": "mcq",
+  "stem": "If the husband resides in the municipality or city where the birth took place or was recorded, the action to impugn the legitimacy of the child shall be brought within:",
+  "choices": [
+   "1 year from knowledge of birth or its recording in the civil register",
+   "2 years from knowledge of birth or its recording in the civil register",
+   "3 years from knowledge of birth or its recording in the civil register",
+   "4 years from knowledge of birth or its recording in the civil register"
+  ],
+  "answer": 0,
+  "explanation": "Art. 170, 1st par. Two years if he (or all his heirs) resides elsewhere in the Philippines; three years if abroad. There is no 4-year period; concealment only changes the starting point (from discovery or knowledge, whichever is earlier).",
+  "key_note": null
+ },
+ {
+  "id": "P-31",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #16",
+  "type": "mcq",
+  "stem": "If the husband resides in the country where the birth took place or was recorded, the action to impugn the legitimacy of the child shall be brought within:",
+  "choices": [
+   "1 year from knowledge of the birth or its recording in the civil register",
+   "2 years from knowledge of the birth or recording in the civil register",
+   "3 years from knowledge of the birth or recording in the civil register",
+   "4 years from knowledge of the birth or recording in the civil register",
+   "none of the above"
+  ],
+  "answer": 4,
+  "explanation": "The 2025 trap: 'city or municipality' became 'COUNTRY'. Residence in the same country tells you only that it is not 3 years; it may be 1 year (same city or municipality) or 2 years (elsewhere in the Philippines). Correct answer: E.",
+  "key_note": null
+ },
+ {
+  "id": "P-32",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF5",
+  "type": "tf",
+  "stem": "The child shall be considered legitimate although the mother may have been sentenced as an adulteress.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 167 (codal): '… although the mother may have declared against its legitimacy or may have been sentenced as an adulteress.'",
+  "key_note": null
+ },
+ {
+  "id": "P-33",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC1 (= Quiz 5 #12)",
+  "type": "mcq",
+  "stem": "A child conceived before the death of the husband (A) of B but born one month after the marriage between B and C is:",
+  "choices": [
+   "Legitimate child of A and B",
+   "Illegitimate child of A and B",
+   "Legitimated child of B and C",
+   "Illegitimate child of B and C",
+   "Legitimate child of B and C"
+  ],
+  "answer": 0,
+  "explanation": "Art. 168(1): born before 180 days after the subsequent marriage (and within 300 days of the termination), so considered conceived during the former marriage. Sir: 'Pag na-conceive na siya sa unang asawa, alangan naman na sa loob ng sinapupunan naging anak na siya ng pangalawang asawa.'",
+  "key_note": null
+ },
+ {
+  "id": "P-34",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC2",
+  "type": "mcq",
+  "stem": "A died on January 1, 2011. His widow, B, married C on May 1, 2011. D was born on October 15, 2011. In the absence of proof to the contrary, D will be considered as the:",
+  "choices": [
+   "Legitimate child of A and B",
+   "Illegitimate child of A and B",
+   "Legitimated child of B and C",
+   "Illegitimate child of B and C",
+   "none of the above"
+  ],
+  "answer": 0,
+  "explanation": "October 15 is 287 days after A's death (within 300) and 167 days after the May 1 wedding (before 180), so Art. 168(1) applies: conceived during the former marriage.",
+  "key_note": null
+ },
+ {
+  "id": "P-35",
+  "topic": "patern",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #13",
+  "type": "mcq",
+  "stem": "\"A\" died on January 1, 2024. His widow, \"B\", married C on August 1, 2024. D was born on November 15, 2024. In the absence of proof to the contrary, D will be considered as the:",
+  "choices": [
+   "legitimate child of A and B",
+   "illegitimate child of A and B",
+   "legitimate child of B and C",
+   "illegitimate child of B and C",
+   "none of the above"
+  ],
+  "answer": 2,
+  "explanation": "D was born 319 days after A's death, beyond 300 days, so Art. 168(1)'s proviso fails and A cannot be the father ('Alangan naman makabuntis pa ang patay'). Sir: the 180-day computation is irrelevant, and Art. 169 is not the point. D was born during the B–C marriage: legitimate child of B and C (Art. 164).",
+  "key_note": null
+ },
+ {
+  "id": "P-36",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "QuAMTO – 1999 Bar (adapted)",
+  "type": "tf",
+  "stem": "Two months after the death of her husband, Rose married her childhood boyfriend, and seven months after that marriage she delivered a baby. In the absence of evidence as to who the father is, the child is the legitimate child of the second marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 168(2): a child born after 180 days following the celebration of the subsequent marriage is considered conceived during it, even if born within 300 days after the termination of the former marriage. (Seven months ≈ 210 days.)",
+  "key_note": null
+ },
+ {
+  "id": "P-37",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "UP BOC – 2012 Bar MCQ",
+  "type": "mcq",
+  "stem": "The husband may impugn the legitimacy of his child but not on the ground that:",
+  "choices": [
+   "the wife is suspected of infidelity.",
+   "the husband had a serious illness that prevented him from engaging in sexual intercourse.",
+   "they were living apart.",
+   "he is physically incapable of sexual intercourse."
+  ],
+  "answer": 0,
+  "explanation": "Art. 166 grounds are exclusive; the wife's infidelity is not one, and even her conviction for adultery does not affect legitimacy (Art. 167).",
+  "key_note": null
+ },
+ {
+  "id": "P-38",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "A left B, his wife, in the Philippines to work in Egypt but died in that country after a year's continuous stay. Two months after A's death, B gave birth to a child, claiming it is A's child. Who can assail the legitimacy of the child?",
+  "choices": [
+   "A's other heirs apart from B.",
+   "The State which has interest in the welfare of overseas contract workers.",
+   "Any one who is outraged by B's claim.",
+   "No one since A died."
+  ],
+  "answer": 0,
+  "explanation": "Art. 171(1) and (3): the heirs may impugn if the husband died before the expiration of his period, or if the child was born after his death. The ground would be Art. 166(1)(b).",
+  "key_note": null
+ },
+ {
+  "id": "P-39",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "UP BOC – 2008 Bar (adapted)",
+  "type": "tf",
+  "stem": "Laica, born during the marriage of Faye and Brad, may herself bring an action to impugn her status as Brad's legitimate child on the ground that DNA results show that Roderick is her biological father.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "UPLC answer: 'The law does not allow a child to impugn his or her own filiation.' Only the husband, or his heirs in the Art. 171 cases, may impugn (Liyao). Note: Sir reads Yap v. Yap (2022) as allowing the child to establish filiation with the biological father, so be ready to qualify.",
+  "key_note": "Codal and bar answer: FALSE. Sir in 2025 endorsed Yap v. Yap; qualify in an essay."
+ },
+ {
+  "id": "P-40",
+  "topic": "patern",
+  "origin": "bar",
+  "src": "QuAMTO – 2024 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Monica was born in 1990 during the marriage of Anton and Steph. In 2024 she learned that Patrick, Steph's ex-boyfriend who had died a year earlier, signed her birth certificate as father. She sued for partition of Patrick's estate, claiming to be his non-marital child. May she impugn her own legitimacy in the partition case?",
+  "choices": [
+   "No, because Patrick is dead",
+   "No; legitimacy cannot be attacked collaterally, only the husband (or his heirs in proper cases) may impugn it, and the period has long lapsed",
+   "Yes, because the action to claim filiation does not prescribe",
+   "Yes, because the birth certificate signed by Patrick is primary evidence"
+  ],
+  "answer": 1,
+  "explanation": "The bar answer (Central Bar Q&A): Liyao; De Jesus v. Estate of Dizon; Arts. 170–171. This is the item Sir mentioned ('Eto ang naging tanong last year'). Sir prefers Yap v. Yap (truth over reputation), so in recitation add that view.",
+  "key_note": null
+ },
+ {
+  "id": "P-41",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; FC 166)",
+  "type": "tf",
+  "stem": "Legitimacy of a child may be impugned on the ground that the husband was sterile within the first 120 days of the 300 days which immediately preceded the birth of the child.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 166(1)(a) speaks of 'physical incapacity of the husband to have sexual intercourse' (impotence), not sterility (inability to procreate). Tolentino: short of absent testicles or a blocked vas deferens there is no absolute sterility. Proof that the child cannot be his for biological reasons falls under Art. 166(2).",
+  "key_note": null
+ },
+ {
+  "id": "P-42",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; FC 166, Andal v. Macaraig)",
+  "type": "tf",
+  "stem": "Legitimacy of a child may be impugned on the ground of serious illness of the husband during the first 120 days of the 300 days which immediately preceded the birth of the child.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 166(1)(c): serious illness 'which ABSOLUTELY prevented sexual intercourse'. In Andal v. Macaraig, advanced tuberculosis did not prevent intercourse.",
+  "key_note": null
+ },
+ {
+  "id": "P-43",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; Macadangdang v. CA)",
+  "type": "tf",
+  "stem": "Where the spouses were estranged and slept in separate rooms but continued to live in the same town during the period of conception, the husband may successfully impugn the legitimacy of the child on the ground of physical impossibility of access.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Only physical, not moral, impossibility counts. In Macadangdang, the spouses lived in the same province, so access was possible, and the presumption stood.",
+  "key_note": null
+ },
+ {
+  "id": "P-44",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Jao v. CA)",
+  "type": "mcq",
+  "stem": "A blood grouping test shows that the child and the alleged father have incompatible blood types. What is its evidentiary value?",
+  "choices": [
+   "It is inadmissible",
+   "It conclusively proves non-paternity",
+   "It conclusively proves paternity",
+   "It is merely corroborative of paternity"
+  ],
+  "answer": 1,
+  "explanation": "Jao v. CA (1987): 'Blood tests are conclusive as to non-paternity and inconclusive to paternity.' DNA testing can now establish paternity positively.",
+  "key_note": null
+ },
+ {
+  "id": "P-45",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Lim v. IAC)",
+  "type": "mcq",
+  "stem": "The nephews of a childless decedent claim her estate, alleging that V, who claims to be her daughter, is not her child at all. V invokes the prescriptive periods for an action to impugn legitimacy. Rule.",
+  "choices": [
+   "V is presumed legitimate and cannot be questioned",
+   "The periods for impugning legitimacy do not apply, because the claim is that V is not the decedent's child at all",
+   "The nephews' action has prescribed",
+   "Only the decedent's husband could have questioned V's status"
+  ],
+  "answer": 1,
+  "explanation": "Lim v. IAC (1988): NCC 263 (now Art. 170) applies to an action to impugn legitimacy; it is inapplicable where the claim is that the person 'is not the decedent's child at all'. Same for a simulated birth (Benitez-Badua v. CA).",
+  "key_note": null
+ },
+ {
+  "id": "P-46",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; FC 167, Chua Keng Giap)",
+  "type": "tf",
+  "stem": "Under Article 167, a mother's denial that she gave birth to the claimant is to be disregarded.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 167 disregards a mother's declaration AGAINST THE LEGITIMACY of her child (i.e., that her husband is not the father). A denial of MATERNITY is different: in Chua Keng Giap v. IAC, the mother's long-standing denial was given decisive weight ('Who better than Sy Kao herself would know …').",
+  "key_note": null
+ },
+ {
+  "id": "P-47",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; FC 169)",
+  "type": "tf",
+  "stem": "The legitimacy or illegitimacy of a child born after three hundred days following the termination of the marriage shall be proved by whoever alleges such legitimacy or illegitimacy.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 169. There is no presumption either way. (Tolentino would treat the child as the mother's illegitimate child absent proof; the codal is neutral.)",
+  "key_note": null
+ },
+ {
+  "id": "P-48",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; FC 170–171)",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. If the birth of the child has been concealed from or was unknown to the husband or his heirs, the period to impugn shall be counted from the discovery or knowledge of the birth of the child or of the fact of registration of said birth, whichever is later.",
+   "2. The heirs of the husband may impugn the filiation of the child if the husband should die after the filing of the complaint without having desisted therefrom."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 3,
+  "explanation": "No. 1 is FALSE: 'whichever is EARLIER' (Art. 170). No. 2 is TRUE: Art. 171(2). The other two cases: the husband died before his period expired (1), or the child was born after his death (3).",
+  "key_note": null
+ },
+ {
+  "id": "P-49",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (FC 171)",
+  "type": "mcq",
+  "stem": "The heirs of the husband may impugn the filiation of the child in any of the following cases, EXCEPT:",
+  "choices": [
+   "If the husband, during his lifetime, let the period to impugn lapse without filing an action",
+   "If the husband should die before the expiration of the period fixed for bringing his action",
+   "If the child was born after the death of the husband",
+   "If he should die after the filing of the complaint without having desisted therefrom"
+  ],
+  "answer": 0,
+  "explanation": "Art. 171. If the husband let the period lapse, the child's status became fixed, and the heirs cannot sue (Tolentino: the heirs act only in substitution of the husband).",
+  "key_note": null
+ },
+ {
+  "id": "P-50",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Liyao; Yap)",
+  "type": "mcq",
+  "stem": "Under the codal provisions as applied in Liyao v. Tanhoti-Liyao, who may bring the action to impugn the legitimacy of a child born to a married woman?",
+  "choices": [
+   "The alleged biological father",
+   "The mother",
+   "The husband, or his heirs in the cases provided by law",
+   "The child"
+  ],
+  "answer": 2,
+  "explanation": "Arts. 170–171; Liyao (2002): 'The child himself cannot choose his own filiation.' Uribe in 2025: Yap v. Yap (2022) now allows the child to establish filiation with the biological father, and he agrees with that ruling.",
+  "key_note": null
+ },
+ {
+  "id": "P-51",
+  "topic": "patern",
+  "origin": "new",
+  "src": "New (Uribe format; impugning)",
+  "type": "tf",
+  "stem": "If the legitimacy of a child is successfully impugned by the husband, the child becomes an illegitimate child of the spouses.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Sir called this a non sequitur. Successful impugning establishes that the child is not the husband's child at all; he is not 'an illegitimate child of the spouses' or of the husband. (He becomes the mother's illegitimate child; Tolentino.)",
+  "key_note": null
+ },
+ {
+  "id": "P-52",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF6",
+  "type": "tf",
+  "stem": "Illegitimate children may establish their illegitimate filiation in the same way and on the same evidence as legitimate children.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 175, 1st par.",
+  "key_note": null
+ },
+ {
+  "id": "P-53",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC4",
+  "type": "mcq",
+  "stem": "After the death of the alleged parent, the filiation of an illegitimate child may be established by any of the following EXCEPT:",
+  "choices": [
+   "The record of birth appearing in the civil register",
+   "An admission of illegitimate filiation in a public document",
+   "An admission of illegitimate filiation in a private handwritten instrument and signed by the parent concerned",
+   "The open and continuous possession of the status of an illegitimate child",
+   "none of the above"
+  ],
+  "answer": 3,
+  "explanation": "Art. 175, 2nd par.: an action based on the second paragraph of Art. 172 (possession of status or other means) 'may be brought during the lifetime of the alleged parent.' Sir's note on this key: 'That's because the law says \"may.\" … Sir doesn't think this is good law because technology has already improved. Even if the person is already dead, you can still get his DNA to prove filiation. So it's like the law is regressing.'",
+  "key_note": null
+ },
+ {
+  "id": "P-54",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #15",
+  "type": "mcq",
+  "stem": "After the death of the alleged parent, the filiation of an illegitimate child may be established by any of the following, EXCEPT:",
+  "choices": [
+   "The record of birth appearing in the civil register",
+   "An admission of illegitimate filiation in a public document",
+   "An admission of illegitimate filiation in a private handwritten instrument and signed by the parent concerned",
+   "Any other means allowed by the Rules of Court and special laws.",
+   "none of the above"
+  ],
+  "answer": 3,
+  "explanation": "Codal answer: (d), because Art. 175's last paragraph limits actions based on the 2nd paragraph of Art. 172 (which includes 'any other means') to the alleged parent's lifetime. Sir, however, reads 'may' as permissive and cites Aquino v. Aquino and Yap v. Yap for DNA proof after death, so (e) was also defended.",
+  "key_note": "The class notes record 'D or E'. Answer D on the codal; explain E (Aquino; Yap) if there is room."
+ },
+ {
+  "id": "P-55",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe 1st Quiz (Civ Rev samplex) TF5 (annotated copy)",
+  "type": "tf",
+  "stem": "The filiation of illegitimate children may be established by the open and continuous possession of the status of a child after the death of the alleged parent.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 175, 2nd par.: an action based on open and continuous possession (2nd par. of Art. 172) may be brought only during the lifetime of the alleged parent. (The annotated copy writes 'w/in the lifetime' over 'after the death'.)",
+  "key_note": "In the 2025 Quiz 2 discussion of the same statement, the class answered TRUE and Sir mused that 'may' is not mandatory (DNA; Aquino; Yap). The older key is FALSE, which is the codal answer."
+ },
+ {
+  "id": "P-56",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Midterm Exam (Civ Rev samplex) Part Two #45",
+  "type": "mcq",
+  "stem": "After the death of the alleged parent, the filiation of the child may NOT be established by:",
+  "choices": [
+   "Record of birth appearing in the civil register.",
+   "Final judgment.",
+   "An admission of legitimate filiation in a public document and signed by the parent concerned.",
+   "The open and continuous possession of the status of a legitimate child.",
+   "None of the above."
+  ],
+  "answer": 4,
+  "explanation": "The stem says 'the child', not 'an illegitimate child'. For legitimate filiation, the action may be brought by the child during his or her lifetime (Art. 173), and the parent's death bars none of the Art. 172 proofs. Compare the illegitimate-child version (keyed d).",
+  "key_note": null
+ },
+ {
+  "id": "P-57",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Midterm Exam (Civ Rev samplex) Part One #8",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. Illegitimate children may establish their illegitimate filiation in the same way and on the same evidence as legitimate children.",
+   "2. Property acquired before the marriage by either spouse who has a child prior to the marriage shall be excluded from the community property."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 2,
+  "explanation": "No. 1 is TRUE (Art. 175). No. 2 is FALSE: Art. 92(3) excludes property acquired before the marriage by either spouse 'who has LEGITIMATE DESCENDANTS BY A FORMER MARRIAGE'.",
+  "key_note": null
+ },
+ {
+  "id": "P-58",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Quiz No. 4 TF2",
+  "type": "tf",
+  "stem": "The action to claim legitimacy may be brought by the child during his or her lifetime and shall be transmitted to the heirs should the child die during minority or in a state of insanity.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 173. The heirs then have five years to sue, and an action already commenced by the child survives the death of either or both parties.",
+  "key_note": null
+ },
+ {
+  "id": "P-59",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "While engaged to be married, Arnold and Josephine agreed in a public instrument to adopt out the economic regime of absolute community of property. Arnold acknowledged in the same instrument that Josephine's daughter Mary, is his illegitimate child. But Josephine died before the marriage could take place. Does the marriage settlement have any significance?",
+  "choices": [
+   "None, since the instrument containing the marriage settlement is essentially void for containing an unrelated matter.",
+   "Yes, insofar as Arnold acknowledged Mary as his illegitimate child.",
+   "None, since the marriage did not take place.",
+   "Yes, if they acquired properties while living together as husband and wife."
+  ],
+  "answer": 1,
+  "explanation": "The settlement lapsed (Art. 81), but the acknowledgment is an admission of filiation in a public document signed by the parent (Arts. 172(2), 175).",
+  "key_note": null
+ },
+ {
+  "id": "P-60",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "UP BOC – 2015 Bar (adapted)",
+  "type": "tf",
+  "stem": "A son born in 1981 to Julie and a married man, who supported him and regularly spent time with him but never recognized him in the birth certificate or in any writing, may, after the father's death in 2000 when the son was already 18, file an action to establish his illegitimate filiation based on open and continuous possession of status.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "UPLC answer: under Art. 175, an action based on open and continuous possession must be filed during the lifetime of the putative father; NCC 285's exception (father dies during the child's minority) does not apply because the child was no longer a minor. Sir disagrees with the lifetime limit (DNA; Aquino; Yap), so mention it in an essay.",
+  "key_note": "Codal/bar answer: FALSE."
+ },
+ {
+  "id": "P-61",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "UP BOC – 2015 Bar (adapted)",
+  "type": "tf",
+  "stem": "In the same case, the court may approve a compromise in which the child abandons his petition for recognition in exchange for what he would have received as an illegitimate child.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "UPLC answer: filiation is a matter for the law; it is not for the parties to stipulate whether a person is a legitimate or illegitimate child (De Jesus v. Estate of Dizon; NCC 2035(1): no compromise on civil status). An alternative answer would allow it as not involving future inheritance.",
+  "key_note": "Bar answers differ; the UPLC answer (no) rests on NCC 2035(1)."
+ },
+ {
+  "id": "P-62",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "UP BOC – 2009 Bar (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "Four children were born to the spouses Conrado and Clarita; their birth certificates were signed by Conrado as their father. Later, Edilberto executed a notarial document acknowledging two of them as his illegitimate children with Clarita, and died. May the two share in Edilberto's estate?",
+  "choices": [
+   "No, because the acknowledgment was not in a will",
+   "No; they are the legitimate children of Conrado and Clarita until Conrado successfully impugns their legitimacy, and a person cannot have two natural filiations",
+   "Yes, because a notarial acknowledgment is primary evidence of filiation",
+   "Yes, because Edilberto is their biological father"
+  ],
+  "answer": 1,
+  "explanation": "UPLC answer: their legitimate status was conferred by law at birth and can be changed only if the husband successfully impugns it. They cannot be the illegitimate children of Edilberto at the same time.",
+  "key_note": null
+ },
+ {
+  "id": "P-63",
+  "topic": "filiat",
+  "origin": "recit",
+  "src": "Uribe recitation situationer (2018)",
+  "type": "tf",
+  "stem": "If the only evidence presented as proof of filiation is a birth certificate with the name of the putative father, which he did not sign, that is a sufficient basis that the child is the child of that person.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Sir: 'Nope … You can actually put Gokongwei's name.' A birth certificate not signed by the alleged father is incompetent evidence of paternity (Reyes v. CA; Vda. de Alberto v. CA; Baluyut v. Baluyut).",
+  "key_note": null
+ },
+ {
+  "id": "P-64",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (Uribe format; FC 172)",
+  "type": "tf",
+  "stem": "The filiation of legitimate children is established by the record of birth appearing in the civil register or a final judgment, or by the open and continuous possession of the status of a legitimate child.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Not absolutely true. Open and continuous possession of status is SECONDARY evidence, available only 'in the absence of' the record of birth, final judgment, or a signed admission in a public document or private handwritten instrument (Art. 172, 2nd par.).",
+  "key_note": null
+ },
+ {
+  "id": "P-65",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (FC 172)",
+  "type": "mcq",
+  "stem": "Which of the following is PRIMARY evidence of filiation under Article 172?",
+  "choices": [
+   "The open and continuous possession of the status of a child",
+   "Testimony of relatives on family reputation",
+   "An admission of filiation in a private handwritten instrument signed by the parent concerned",
+   "A baptismal certificate naming the father"
+  ],
+  "answer": 2,
+  "explanation": "Art. 172, 1st par.: (1) the record of birth or a final judgment; (2) an admission in a public document or a private handwritten instrument signed by the parent. A and D are secondary; B is not proof of filiation (Mendoza v. IAC; Perla v. Baring).",
+  "key_note": null
+ },
+ {
+  "id": "P-66",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (Uribe format; Lim v. CA)",
+  "type": "tf",
+  "stem": "A marriage contract of the child, in which the alleged father is named as her father, is a public document of recognition sufficient to prove filiation.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Lim v. CA (1975): a marriage contract is a mere declaration by the contracting parties, not an instrument executed before and certified by a notary; it does not have the requisites of a public document of recognition.",
+  "key_note": null
+ },
+ {
+  "id": "P-67",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (Mendoza v. CA)",
+  "type": "mcq",
+  "stem": "To establish open and continuous possession of the status of an illegitimate child, which must be shown?",
+  "choices": [
+   "That the child lived with the father",
+   "That the father acknowledged the child in a public document",
+   "That the child always used the father's surname",
+   "That the father treated the child as his own, directly and not through others, spontaneously and without concealment, with a permanent intention shown by continuous and clear manifestations of paternal affection and care"
+  ],
+  "answer": 3,
+  "explanation": "Mendoza v. CA (1991). 'Continuous' means not intermittent while it continues. Money given 'off-and-on' through relatives was not enough. Using the surname and living together are relevant but not decisive.",
+  "key_note": null
+ },
+ {
+  "id": "P-68",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (Uribe format; FC 173)",
+  "type": "tf",
+  "stem": "The action to claim legitimacy may be brought by the child within five years from attaining the age of majority.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 173: during the child's LIFETIME (imprescriptible for the child). The five-year period applies to the HEIRS, when the action is transmitted because the child died during minority or in a state of insanity.",
+  "key_note": null
+ },
+ {
+  "id": "P-69",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (RPC 345; People v. Rizo; People v. Barranco)",
+  "type": "mcq",
+  "stem": "A married man is convicted of rape, and a child is born of the crime. The court may order him to:",
+  "choices": [
+   "acknowledge the child as his legitimate child",
+   "acknowledge the child as his illegitimate child",
+   "neither acknowledge nor support the child",
+   "support the child, but not acknowledge it"
+  ],
+  "answer": 3,
+  "explanation": "RPC 345: acknowledge the offspring 'unless the law should prevent him from so doing', and 'in every case' support it. A married offender cannot be compelled to recognize the child (People v. Rizo; People v. Barranco).",
+  "key_note": null
+ },
+ {
+  "id": "P-70",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (Uribe format; Dempsey v. RTC)",
+  "type": "tf",
+  "stem": "In a criminal case where the accused pleaded guilty, the court may order him, as part of the civil liability, to recognize the child as his natural child even if the issue of recognition was not specifically heard and tried.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Dempsey v. RTC (1988): reversible error. Recognition is governed by the Civil Code and the Family Code; where it was not specifically and fully heard and tried, it cannot be ordered as part of the civil liability.",
+  "key_note": null
+ },
+ {
+  "id": "P-71",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe CivRev Midterm (with Prof's answer) #4",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. If A & B were married in 1989 with a verbal agreement for a conjugal partnership of gains, a donation in consideration of marriage by A to B in excess of 20% of his present property is void.",
+   "2. Children conceived and born outside of wedlock of parents who, at the time of the birth of the former, were not disqualified by any impediment to marry each other may be legitimated."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "Prof's answer: both FALSE (B). No. 1: a verbal settlement is void, so the ACP governs (Art. 75) and the one-fifth cap of Art. 84 applies only to a regime other than ACP. No. 2: Art. 177 reckons the absence of impediment at the time of CONCEPTION, not birth; and Sir stressed that 'may be' still needs another requirement, a subsequent valid marriage of the parents.",
+  "key_note": "The class answered D (No. 2 true); Prof's answer was B."
+ },
+ {
+  "id": "P-72",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #3 (= Quiz No. 4 TF3)",
+  "type": "tf",
+  "stem": "Children conceived and born outside of wedlock may be legitimated.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 177: they 'may be' legitimated if, at conception, the parents were not disqualified by any impediment (or only because either or both were below 18), and they later validly marry (Art. 178). Sir: answer only what is asked (not the retroactive effect), and note 'may', not 'will'. An impediment that arises only at birth, after a clean conception, does not bar legitimation.",
+  "key_note": null
+ },
+ {
+  "id": "P-73",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #4 (= Quiz No. 4 TF4)",
+  "type": "tf",
+  "stem": "The effects of legitimation shall retroact to the time of the child's birth.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 180.",
+  "key_note": null
+ },
+ {
+  "id": "P-74",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Quiz No. 4 TF5",
+  "type": "tf",
+  "stem": "Legitimation may be impugned only by those who are prejudiced in their rights within one year from the time their cause of action accrues.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 182: within FIVE years from the time their cause of action accrues.",
+  "key_note": null
+ },
+ {
+  "id": "P-75",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF7",
+  "type": "tf",
+  "stem": "The annulment of a voidable marriage shall not affect the legitimation.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 178, 2nd sentence. If the subsequent marriage is VOID, there is no legitimation (2010 Bar: Venus).",
+  "key_note": null
+ },
+ {
+  "id": "P-76",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF8",
+  "type": "tf",
+  "stem": "The legitimation of children who died before the celebration of the marriage shall benefit their descendants.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 181, a consequence of the retroactivity in Art. 180.",
+  "key_note": null
+ },
+ {
+  "id": "P-77",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Midterm Exam (Civ Rev samplex) Part One #9",
+  "type": "pair",
+  "stem": "Consider the statement true only when it is absolutely true.",
+  "statements": [
+   "1. In case of death, absence or unsuitability of the parents, substitute parental authority shall be exercised by the oldest brother or sister.",
+   "2. Only children conceived or born outside of wedlock of parents who, at the time of the conception of the former, were not capacitated to marry each other may be legitimated."
+  ],
+  "choices": [
+   "Both are true",
+   "Both are false",
+   "No. 1 is true, No. 2 is false",
+   "No. 1 is false, No. 2 is true"
+  ],
+  "answer": 1,
+  "explanation": "No. 1 is FALSE: Art. 214: by the surviving grandparent (the oldest brother or sister over 21 comes next, Art. 216). No. 2 is FALSE: Art. 177 says conceived AND born outside of wedlock, of parents who were NOT DISQUALIFIED BY ANY IMPEDIMENT (impediment, not capacity), and since R.A. 9858 also parents disqualified only because either or both were below 18.",
+  "key_note": null
+ },
+ {
+  "id": "P-78",
+  "topic": "filiat",
+  "origin": "samplex",
+  "src": "Uribe Midterm Exam (Civ Rev samplex) Part Two #47",
+  "type": "mcq",
+  "stem": "Under the family code, these children can be legitimated:",
+  "choices": [
+   "Adulterous.",
+   "Bigamous.",
+   "Incestuous.",
+   "All of the above.",
+   "None of the above."
+  ],
+  "answer": 4,
+  "explanation": "Each was conceived when the parents were disqualified by an impediment to marry each other (an existing marriage, or a relationship under Arts. 37–38), so none can be legitimated (Art. 177).",
+  "key_note": null
+ },
+ {
+  "id": "P-79",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "X, a married man, cohabited with Y, an unmarried woman. Their relation bore them BB, a baby boy. Subsequently, after X became a widower, he married Y. Was BB legitimated by that marriage?",
+  "choices": [
+   "Yes, since his parents are now lawfully married.",
+   "Yes, since he is an innocent party and the marriage rectified the wrong done him.",
+   "No, since once illegitimate, a child shall always remain illegitimate.",
+   "No, since his parents were not qualified to marry each other when he was conceived."
+  ],
+  "answer": 3,
+  "explanation": "Art. 177: the impediment (X's existing marriage) is tested at conception; its later disappearance does not help. C is wrong because legitimable illegitimate children do become legitimated.",
+  "key_note": null
+ },
+ {
+  "id": "P-80",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "UP BOC – 2011 Bar MCQ",
+  "type": "mcq",
+  "stem": "X and Y, although not suffering from any impediment, cohabited as husband and wife without the benefit of marriage. Following the birth of their child, the couple got married. A year after, however, the court annulled the marriage and issued a decree of annulment. What is the present status of the child?",
+  "choices": [
+   "Legitimated",
+   "Illegitimate",
+   "Natural child",
+   "Legitimate"
+  ],
+  "answer": 0,
+  "explanation": "Art. 178: 'The annulment of a voidable marriage shall not affect the legitimation.'",
+  "key_note": null
+ },
+ {
+  "id": "P-81",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "UP BOC – 2010 Bar (adapted)",
+  "type": "tf",
+  "stem": "B and G, with no impediment, had a child, Venus, and then married each other without a marriage license; the marriage was later declared void. Venus remains a legitimated child.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Bar answer: Venus is illegitimate. Art. 178 requires a subsequent VALID marriage; only the annulment of a voidable marriage leaves the legitimation intact. A void marriage legitimates no one.",
+  "key_note": null
+ },
+ {
+  "id": "P-82",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "UP BOC – 2009 Bar (True or False)",
+  "type": "tf",
+  "stem": "A dead child can be legitimated.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Bar answer: the law does not require the child to be alive at the parents' marriage (Art. 177), and Art. 181 provides that the legitimation of children who died before the marriage benefits their descendants.",
+  "key_note": null
+ },
+ {
+  "id": "P-83",
+  "topic": "filiat",
+  "origin": "bar",
+  "src": "QuAMTO – 2018 Bar (adapted)",
+  "type": "tf",
+  "stem": "Sabina was born of an illicit relationship while her father, Sinclair, was married to another. After his wife died, Sinclair married Sabina's mother. Sabina was legitimated by that marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Bar answer: at Sabina's conception her parents were disqualified by an impediment (Sinclair's existing marriage), so she cannot be legitimated (Art. 177); she remains illegitimate (Art. 165). (Their marriage without a license, claiming 20 years of cohabitation, would be void anyway, since the cohabitation was not free of impediment.)",
+  "key_note": null
+ },
+ {
+  "id": "P-84",
+  "topic": "filiat",
+  "origin": "recit",
+  "src": "Uribe CivRev 2025 recitation (Sep 27, 2025) (adapted)",
+  "type": "tf",
+  "stem": "A child conceived when both parents were 16 years old and single cannot be legitimated by their subsequent valid marriage when they reach 18, because they were disqualified to marry at the time of conception.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 177, as amended by R.A. 9858: '… or were so disqualified only because either or both of them were below eighteen (18) years of age, may be legitimated.' Sir: 'AGE is not legal impediment but capacity … so long as the marriage is a valid marriage.'",
+  "key_note": null
+ },
+ {
+  "id": "P-85",
+  "topic": "filiat",
+  "origin": "recit",
+  "src": "Uribe recitation situationer (2018) (adapted to MCQ)",
+  "type": "mcq",
+  "stem": "A and B, both 25 and single, lived together, and C was conceived. Before C's birth, B married X. C was born during that marriage, and X later died. A and B then married each other. Under Sir's analysis, was C legitimated?",
+  "choices": [
+   "No, because legitimation requires conception and birth outside of wedlock",
+   "Yes, because A acknowledged C",
+   "No, because C was born while B was married to X",
+   "Yes, because the law requires only that there was no impediment at the time of conception"
+  ],
+  "answer": 3,
+  "explanation": "Sir (2018): 'Law only requires that the child was CONCEIVED during the time when there was no legal impediment to marriage. No issue as to impediments during the birth. 38, 37: legal impediments.' (Note that C, born during B's marriage to X, is also presumed X's child under Art. 164 until that is overthrown; see the reviewer.)",
+  "key_note": "Sir's recorded answer; the Art. 164 presumption in favor of X is an issue to flag in an essay."
+ },
+ {
+  "id": "P-86",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (Uribe format; FC 177)",
+  "type": "tf",
+  "stem": "Children conceived and born outside of wedlock of parents who, at the time of conception of the former, were not disqualified by any impediment to marry each other will be legitimated.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 177: 'MAY be legitimated'. Legitimation still requires a subsequent valid marriage between the parents (Art. 178). Sir in Quiz 5: 'Will be legitimated and not may be legitimated' was the error.",
+  "key_note": null
+ },
+ {
+  "id": "P-87",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (Uribe format; FC 178)",
+  "type": "tf",
+  "stem": "Legitimation shall take place by a subsequent valid marriage between parents. The annulment of a voidable marriage shall not affect the legitimation.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 178. If the subsequent marriage is void, there is no legitimation.",
+  "key_note": null
+ },
+ {
+  "id": "P-88",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (FC 177)",
+  "type": "mcq",
+  "stem": "X, married to Y, had a child, C, with Z, who was single. After Y died, X married Z. Was C legitimated?",
+  "choices": [
+   "Yes, by the subsequent valid marriage of X and Z",
+   "No, because X was disqualified by an impediment (his existing marriage) at the time of C's conception",
+   "Yes, retroactive to C's birth",
+   "No, because X did not acknowledge C"
+  ],
+  "answer": 1,
+  "explanation": "Art. 177: the impediment is tested at conception; its later disappearance does not help (Tolentino). Tolentino notes the inconsistency: had X and Z contracted a void bigamous marriage, C would have been legitimate under Art. 54 if that marriage was under Art. 53.",
+  "key_note": null
+ },
+ {
+  "id": "P-89",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (FC 180–181)",
+  "type": "mcq",
+  "stem": "Which statement on the effects of legitimation is correct?",
+  "choices": [
+   "Legitimation retroacts to the time of the child's birth, and the legitimation of children who died before the marriage benefits their descendants",
+   "Legitimation takes effect from the date of the subsequent marriage",
+   "Legitimated children have the rights of illegitimate children until they reach majority",
+   "Legitimation of a child who died before the marriage benefits no one"
+  ],
+  "answer": 0,
+  "explanation": "Arts. 180 and 181. Art. 179: legitimated children enjoy the same rights as legitimate children.",
+  "key_note": null
+ },
+ {
+  "id": "P-90",
+  "topic": "filiat",
+  "origin": "new",
+  "src": "New (Uribe format; FC 182)",
+  "type": "tf",
+  "stem": "Legitimation may be impugned by any interested party within four years from the time the cause of action accrues.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 182: 'only by those who are PREJUDICED IN THEIR RIGHTS, within FIVE years from the time their cause of action accrues.' (The syllabus misprints the article as 162.)",
+  "key_note": null
+ }
+]
