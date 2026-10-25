@@ -11,8 +11,10 @@ Usage:
   drill/cloze.json          codal/rule fill-in cards (optional, [] if absent)
   drill/alter.json          spot-the-change cards (optional)
   drill/grids.json          fill-in grids (optional)
+  videos.json               explainer videos for the Videos tab (optional; media files are published
+                            next to the page, see video_src/publish_media.py)
 """
-import json, glob, os, argparse
+import json, glob, os, re, argparse
 here = os.path.dirname(os.path.abspath(__file__))
 ap = argparse.ArgumentParser(); ap.add_argument('--data', default='example_data'); ap.add_argument('--out', default='build/site.html')
 A = ap.parse_args()
@@ -42,9 +44,28 @@ js = open(os.path.join(d, 'drill.js')).read().replace('__CLOZE__', J(cl)).replac
 t = t.replace('__DRILLHTML__', open(os.path.join(d, 'drill.html')).read()).replace('__DRILLCSS__', open(os.path.join(d, 'drill.css')).read()).replace('__DRILLJS__', js)
 for k, v in {'__TITLE__': cfg['title'], '__EYEBROW__': cfg['eyebrow'], '__INTRO__': cfg['intro'], '__FOOTER__': cfg['footer'], '__PROF_LABEL__': cfg.get('profLabel', 'Professor')}.items():
     t = t.replace(k, v)
+vd = os.path.join(here, 'video')
+vids = load(os.path.join(A.data, 'videos.json'), [])
+
+def vtt_cues(path):
+    """[[start, end, text], ...] from a WebVTT file; captions ship inside the page because artifact hosting doesn't serve .vtt."""
+    sec = lambda ts: sum(float(x) * m for x, m in zip(reversed(ts.replace(',', '.').split(':')), (1, 60, 3600)))
+    out = []
+    for block in re.split(r'\n\s*\n', open(path).read().replace('\r', '')):
+        lines = [l for l in block.strip().split('\n') if l]
+        k = next((i for i, l in enumerate(lines) if '-->' in l), None)
+        if k is None: continue
+        a, b = [x.strip().split(' ')[0] for x in lines[k].split('-->')]
+        out.append([round(sec(a), 3), round(sec(b), 3), '\n'.join(lines[k + 1:])])
+    return out
+
+for v in vids:
+    v['cues'] = vtt_cues(os.path.join(os.path.dirname(os.path.abspath(A.out)), v.pop('vtt')))
+t = t.replace('__VIDEOCSS__', open(os.path.join(vd, 'video.css')).read()).replace('__VIDEOHTML__', open(os.path.join(vd, 'video.html')).read())
+t = t.replace('__VIDEOJS__', open(os.path.join(vd, 'video.js')).read().replace('__VIDEOS__', J(vids)))
 t = t.replace('__VIZCSS__', open(os.path.join(here, 'viz.css')).read()).replace('__VIZJS__', open(os.path.join(here, 'viz.js')).read())
 t = t.replace('__CONFIG__', J(cfg)).replace('__DATA__', J(data)).replace('__REVIEWER__', rev)
 assert '__' not in ''.join(s for s in ['__CONFIG__', '__DATA__', '__REVIEWER__'] if s in t) , 'unfilled placeholder'
 os.makedirs(os.path.dirname(os.path.abspath(A.out)), exist_ok=True)
 open(A.out, 'w').write(t)
-print(f'wrote {A.out}: {len(t):,} bytes · {len(data)} questions · {len(cl)} cloze · {len(al)} alter · {len(gr)} grids')
+print(f'wrote {A.out}: {len(t):,} bytes · {len(data)} questions · {len(cl)} cloze · {len(al)} alter · {len(gr)} grids · {len(vids)} videos')

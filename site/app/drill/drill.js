@@ -290,14 +290,19 @@ function renderGrid(){
 }
 
 /* ---- tab wiring ---- */
+const TABS = { quiz: ["quizTab", "tabQuiz"], rev: ["revTab", "tabRev"], drill: ["drillTab", "tabDrill"], vid: ["vidTab", "tabVid"] };
 setTab = function(tab){
-  if (!["quiz","rev","drill"].includes(tab)) tab = "quiz";
-  $("quizTab").hidden = tab !== "quiz"; $("revTab").hidden = tab !== "rev"; $("drillTab").hidden = tab !== "drill";
+  if (!TABS[tab] || !$(TABS[tab][0]) || ($(TABS[tab][1]) && $(TABS[tab][1]).hidden)) tab = "quiz";
+  for (const [k, [pane, btn]] of Object.entries(TABS)) {
+    if ($(pane)) $(pane).hidden = k !== tab;
+    if ($(btn)) $(btn).setAttribute("aria-selected", k === tab);
+  }
   document.body.classList.toggle("rev", tab === "rev");
-  $("tabQuiz").setAttribute("aria-selected", tab === "quiz"); $("tabRev").setAttribute("aria-selected", tab === "rev"); $("tabDrill").setAttribute("aria-selected", tab === "drill");
+  document.body.classList.toggle("vid", tab === "vid");
   if (tab === "drill" && $("dcard").hidden) renderDSetup();
   if (tab === "quiz") updateDueBadge();
   store.set("pfr_tab", tab);
+  document.dispatchEvent(new CustomEvent("pfr:tab", { detail: tab }));
 };
 updateDueBadge();
 setTab(store.get("pfr_tab", "quiz"));

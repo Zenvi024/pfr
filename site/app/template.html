@@ -110,7 +110,7 @@ input[type=search]{font:inherit;padding:8px 10px;border-radius:7px;border:1px so
 footer{color:var(--muted);font-size:.8rem}
 
 .top{max-width:780px;margin:0 auto;padding-inline:16px;padding-block:28px 0;display:flex;flex-direction:column;gap:18px}
-body.rev .top{max-width:1180px}
+body.rev .top,body.vid .top{max-width:1180px}
 .wrap{padding-block:22px 64px}
 .tabs{display:flex;gap:4px;border-bottom:1px solid var(--line)}
 .tabs button{border:0;border-bottom:2px solid transparent;border-radius:0;background:transparent;padding:10px 14px;color:var(--muted);font-weight:600}
@@ -201,6 +201,7 @@ body.rev .top{max-width:1180px}
 __VIZCSS__
 
 __DRILLCSS__
+__VIDEOCSS__
 @media (prefers-reduced-motion: reduce){*{transition:none!important}}
 </style>
 
@@ -214,6 +215,7 @@ __DRILLCSS__
     <button role="tab" id="tabQuiz" aria-selected="true" data-tab="quiz">Quiz bank</button>
     <button role="tab" id="tabRev" aria-selected="false" data-tab="rev">Reviewer</button>
     <button role="tab" id="tabDrill" aria-selected="false" data-tab="drill">Drill <span class="dueBadge" hidden></span></button>
+    <button role="tab" id="tabVid" aria-selected="false" data-tab="vid">Videos</button>
   </nav>
 </div>
 <div class="wrap" id="quizTab">
@@ -306,6 +308,7 @@ __DRILLCSS__
   <footer>__FOOTER__</footer>
 </div>
 __DRILLHTML__
+__VIDEOHTML__
 <div class="rwrap" id="revTab" hidden>
   <aside class="rside" id="rside">
     <div class="rsearch"><input type="search" id="rq" placeholder="Search the reviewer (e.g. Art. 41, Cantor, cooling-off)" aria-label="Search the reviewer"></div>
@@ -608,4 +611,5 @@ __VIZJS__
 buildSide(); openSec(Math.min(store.get("pfr_sec",Math.max(0,SECS.findIndex(s=>s.id===CONFIG.defaultSection))),SECS.length-1),false); applyBlur();
 setTab(store.get("pfr_tab","quiz"));
 __DRILLJS__
+__VIDEOJS__
 </script>
