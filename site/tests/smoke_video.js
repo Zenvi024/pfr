@@ -88,6 +88,41 @@ const ok = (c, m) => { if (!c) { console.error('FAIL:', m); process.exitCode = 1
     ok(await p.evaluate(() => Object.keys(JSON.parse(localStorage.getItem('pfr_vpos') || '{}')).length) >= 1, `${w}: position remembered`);
     ok(await p.evaluate(() => document.documentElement.scrollWidth) <= w, `${w}: no horizontal overflow`);
     await p.screenshot({ path: path.join(ROOT, `video_${w}_${scheme}.png`), fullPage: false });
+
+    // answer-along mode on the first quiz video
+    const qi = vids.findIndex(v => v.quiz && v.quiz.length > 1);
+    if (qi >= 0) {
+      const qv = vids[qi], [s0, s1] = qv.quiz;
+      await p.click(`#vpick [data-v="${qi}"]`);
+      await p.waitForFunction(d => Math.abs(document.getElementById('vvid').duration - d) < 2, qv.duration, { timeout: 30000 });
+      ok(await p.isVisible('#vquiz') && await p.getAttribute('#valong', 'aria-pressed') === 'false', `${w}: quiz video shows Answer along (off)`);
+      await p.click('#valong');
+      ok(await p.getAttribute('#valong', 'aria-pressed') === 'true', `${w}: Answer along on`);
+      const seekPlay = t => p.evaluate(t => { const v = document.getElementById('vvid'); v.muted = true; v.currentTime = t; return v.play(); }, t);
+      await seekPlay(s0.t - 1.2);
+      await p.waitForSelector('#vask:not([hidden])', { timeout: 15000 });
+      ok(await p.evaluate(() => document.getElementById('vvid').paused), `${w}: pauses at the countdown of Q${s0.q}`);
+      ok(await p.locator('#vaskb button').count() === s0.labels.length, `${w}: ${s0.labels.length} answer buttons`);
+      await p.click(`#vaskb [data-a="${s0.answer}"]`);
+      await p.waitForTimeout(400);
+      const tr = await p.evaluate(() => ({ t: document.getElementById('vvid').currentTime, hid: document.getElementById('vask').hidden, play: !document.getElementById('vvid').paused }));
+      ok(tr.hid && tr.play && Math.abs(tr.t - s0.t - 5) < 1, `${w}: right answer jumps to the reveal (${tr.t.toFixed(1)} s)`);
+      ok(/Score: 1 \/ 1/.test(await p.textContent('#vscore')) && await p.locator('#vchap button.qok').count() === 1, `${w}: score 1/1 and chapter ticked`);
+      await seekPlay(s1.t - 1.2);
+      await p.waitForSelector('#vask:not([hidden])', { timeout: 15000 });
+      const wrong = (s1.answer + 1) % s1.labels.length;
+      await p.keyboard.press(s1.labels[wrong][0].toLowerCase());
+      await p.waitForTimeout(300);
+      ok(/Score: 1 \/ 2/.test(await p.textContent('#vscore')) && await p.locator('#vchap button.qno').count() === 1, `${w}: key answer, wrong, score 1/2`);
+      await p.evaluate(() => document.getElementById('vvid').pause());
+      await p.click('#vqreset');
+      ok(!/Score/.test(await p.textContent('#vscore')) && await p.locator('#vchap button.qok, #vchap button.qno').count() === 0, `${w}: reset score`);
+      await p.click('#valong');
+      await seekPlay(s1.t - 1.2); await p.waitForTimeout(2200);
+      ok(await p.evaluate(() => document.getElementById('vask').hidden && !document.getElementById('vvid').paused), `${w}: with Answer along off, it plays through`);
+      await p.evaluate(() => document.getElementById('vvid').pause());
+      await p.screenshot({ path: path.join(ROOT, `video_quiz_${w}_${scheme}.png`), fullPage: false });
+    }
     ok(!errs.length, `${w}: no console errors ${errs.join(' | ')}`);
     await p.close();
   }

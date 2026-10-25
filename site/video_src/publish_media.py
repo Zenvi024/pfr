@@ -4,8 +4,9 @@
 
 Writes build/media/<id>.mp4 (720p, 5 fps, long keyframe interval, 48 kbps mono AAC:
 about 70 kbps in total, so a 25-minute video stays under the 15 MB per-file publish limit),
-build/media/<id>.vtt and build/media/<id>.jpg, and data/videos.json (chapters are read
-from the source file's chapter markers).
+build/media/<id>.vtt and build/media/<id>.jpg, and updates those entries in data/videos.json
+(chapters are read from the source file's chapter markers; a <source>.quiz.json beside a quiz
+video adds its reveal points for the answer-along mode). Long videos fall back to 32 kbps audio.
 """
 import json, os, re, subprocess, sys
 H = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(H)
@@ -35,14 +36,17 @@ def srt_to_vtt(srt, maxw=12):
 def main(args):
     assert args and len(args) % 5 == 0, __doc__
     os.makedirs(MEDIA, exist_ok=True)
-    out = []
+    vj = os.path.join(ROOT, "data", "videos.json")
+    out = json.load(open(vj)) if os.path.exists(vj) else []
     for i in range(0, len(args), 5):
         vid, title, rng, src, srt = args[i:i + 5]
         mp4 = os.path.join(MEDIA, vid + ".mp4")
-        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", src, "-map", "0:v", "-map", "0:a", "-map_chapters", "-1",
-                        "-vf", "fps=5,scale=1280:720:flags=lanczos", "-c:v", "libx264", "-preset", "veryslow", "-tune", "stillimage",
-                        "-crf", "21", "-pix_fmt", "yuv420p", "-g", "600", "-c:a", "aac", "-b:a", "48k", "-ac", "1", "-ar", "24000",
-                        "-movflags", "+faststart", mp4], check=True)
+        for abr in ("48k", "32k"):
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", src, "-map", "0:v", "-map", "0:a", "-map_chapters", "-1",
+                            "-vf", "fps=5,scale=1280:720:flags=lanczos", "-c:v", "libx264", "-preset", "veryslow", "-tune", "stillimage",
+                            "-crf", "21", "-pix_fmt", "yuv420p", "-g", "600", "-c:a", "aac", "-b:a", abr, "-ac", "1", "-ar", "24000",
+                            "-movflags", "+faststart", mp4], check=True)
+            if os.path.getsize(mp4) < 15_000_000: break
         assert os.path.getsize(mp4) < 15_000_000, f"{mp4} is over 15 MB"
         subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", "2", "-i", src, "-frames:v", "1", "-vf", "scale=1280:720", "-q:v", "4",
                         os.path.join(MEDIA, vid + ".jpg")], check=True)
@@ -54,10 +58,15 @@ def main(args):
             name = c["tags"]["title"]
             part, _, t = name.partition(": ") if ": " in name else ("", "", name)
             chapters.append({"t": round(float(c["start_time"]), 2), "part": part, "title": t or name})
-        out.append({"id": vid, "title": title, "range": rng, "src": f"media/{vid}.mp4", "vtt": f"media/{vid}.vtt",
-                    "poster": f"media/{vid}.jpg", "duration": round(float(pr["format"]["duration"]), 1), "chapters": chapters})
+        entry = {"id": vid, "title": title, "range": rng, "src": f"media/{vid}.mp4", "vtt": f"media/{vid}.vtt",
+                 "poster": f"media/{vid}.jpg", "duration": round(float(pr["format"]["duration"]), 1), "chapters": chapters}
+        qj = os.path.splitext(src)[0] + ".quiz.json"
+        if os.path.exists(qj): entry["quiz"] = json.load(open(qj))
+        k = next((j for j, e in enumerate(out) if e["id"] == vid), None)
+        if k is None: out.append(entry)
+        else: out[k] = entry
         print(vid, os.path.getsize(mp4), "bytes,", len(chapters), "chapters")
-    json.dump(out, open(os.path.join(ROOT, "data", "videos.json"), "w"), ensure_ascii=False, indent=1)
+    json.dump(out, open(vj, "w"), ensure_ascii=False, indent=1)
 
 
 if __name__ == "__main__":

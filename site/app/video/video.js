@@ -5,7 +5,8 @@ const tabBtn = $("tabVid");
 if (!VIDEOS.length) { if (tabBtn) tabBtn.hidden = true; return; }
 const V = $("vvid"), P = $("vplayer");
 const fmt = s => { s = Math.max(0, Math.floor(s || 0)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = String(s % 60).padStart(2, "0"); return h ? `${h}:${String(m).padStart(2, "0")}:${x}` : `${m}:${x}`; };
-const prefs = Object.assign({ cc: true, rate: 1, vol: 1, muted: false, vid: VIDEOS[0].id, panel: "chap" }, store.get("pfr_vprefs", {}));
+const prefs = Object.assign({ cc: true, rate: 1, vol: 1, muted: false, vid: VIDEOS[0].id, panel: "chap", along: false }, store.get("pfr_vprefs", {}));
+const picks = store.get("pfr_vquiz", {});          // quiz videos: {videoId: {questionNo: chosen index}}
 const pos = store.get("pfr_vpos", {});
 const savePrefs = () => store.set("pfr_vprefs", prefs);
 let cur = Math.max(0, VIDEOS.findIndex(v => v.id === prefs.vid)), track = null, cues = [], seeking = false, lastSave = 0;
@@ -29,6 +30,7 @@ function renderChapters(){
     html += `<li><button data-c="${i}"><span>${fmt(c.t)}</span>${esc(c.title)}</button></li>`;
   });
   $("vchap").innerHTML = html;
+  markChapters();
   const d = VIDEOS[cur].duration;
   $("vticks").innerHTML = chapters().slice(1).map(c => `<i style="left:${(100 * c.t / d).toFixed(2)}%"></i>`).join("");
 }
@@ -70,6 +72,57 @@ function setPanel(p){
 }
 $("vsidetabs").addEventListener("click", e => { const b = e.target.closest("[data-p]"); if (b) setPanel(b.dataset.p); });
 
+/* answer-along mode for quiz videos: pause at each countdown, take an answer, jump to the reveal */
+function stops(){ return VIDEOS[cur].quiz || []; }
+let asking = null, lastT = 0;
+function myPicks(){ return picks[VIDEOS[cur].id] || (picks[VIDEOS[cur].id] = {}); }
+function renderQuiz(){
+  const q = stops(); $("vquiz").hidden = !q.length; if (!q.length) return;
+  $("valong").setAttribute("aria-pressed", prefs.along);
+  const m = myPicks(), done = q.filter(s => s.q in m), ok = done.filter(s => m[s.q] === s.answer).length;
+  $("vscore").innerHTML = done.length ? `Score: ${ok} / ${done.length} <small>· ${q.length} questions</small>` : `<small>${prefs.along ? "The video will pause at each countdown for your answer." : "Turn this on to pause at each countdown and keep score."}</small>`;
+  $("vqreset").hidden = !done.length;
+}
+function markChapters(){
+  const q = stops(); if (!q.length) return;
+  const m = myPicks(), c = chapters();
+  $("vchap").querySelectorAll("button[data-c]").forEach(b => b.classList.remove("qok", "qno"));
+  for (const s of q) {
+    if (!(s.q in m)) continue;
+    const b = $("vchap").querySelector(`[data-c="${chapAt(s.t)}"]`);
+    if (b) b.classList.add(m[s.q] === s.answer ? "qok" : "qno");
+  }
+}
+function ask(s){
+  asking = s; V.pause(); V.currentTime = s.t + 0.05;
+  $("vaskq").textContent = `Question ${s.q}`;
+  $("vaskb").innerHTML = s.labels.map((l, i) => `<button data-a="${i}">${esc(l)}</button>`).join("");
+  $("vask").hidden = false; $("vbig").hidden = true;
+  const f = $("vaskb").querySelector("button"); if (f) f.focus({ preventScroll: true });
+}
+function answer(i){
+  const s = asking; if (!s) return;
+  asking = null; $("vask").hidden = true;
+  if (i !== null) {
+    myPicks()[s.q] = i; store.set("pfr_vquiz", picks);
+    flash(i === s.answer ? "✓ Correct!" : `✗ Not quite: it's ${s.labels[s.answer]}`);
+    renderQuiz(); markChapters();
+  }
+  lastT = s.t + 5; go(s.t + 5.02); play();       // straight to the reveal
+}
+$("vaskb").addEventListener("click", e => { const b = e.target.closest("[data-a]"); if (b) answer(+b.dataset.a); });
+$("vaskskip").onclick = () => answer(null);
+$("valong").onclick = () => { prefs.along = !prefs.along; savePrefs(); renderQuiz(); flash(prefs.along ? "Answer along: on" : "Answer along: off"); };
+$("vqreset").onclick = () => { picks[VIDEOS[cur].id] = {}; store.set("pfr_vquiz", picks); renderQuiz(); markChapters(); };
+function checkStop(){
+  const t = V.currentTime;
+  if (prefs.along && !asking && !V.paused) {
+    const s = stops().find(s => lastT < s.t + 0.01 && t >= s.t && t - s.t < 1.5);
+    if (s) { lastT = t; ask(s); return; }
+  }
+  lastT = t;
+}
+
 /* load a video; captions are added as cues (artifact hosting serves no .vtt), one track per video */
 const tracks = {};
 function makeTrack(v){
@@ -78,6 +131,7 @@ function makeTrack(v){
   return tt;
 }
 function load(i, autoplay){
+  if (asking) { asking = null; $("vask").hidden = true; }
   cur = i; prefs.vid = VIDEOS[i].id; savePrefs();
   const v = VIDEOS[i];
   V.poster = v.poster; V.src = v.src; $("verr").hidden = true;
@@ -85,7 +139,7 @@ function load(i, autoplay){
   track = tracks[v.id] || (tracks[v.id] = makeTrack(v));
   applyCC(); buildTranscript();
   V.playbackRate = prefs.rate; V.defaultPlaybackRate = prefs.rate;
-  renderPick(); renderChapters(); update();
+  renderPick(); renderChapters(); renderQuiz(); update();
   V.addEventListener("loadedmetadata", () => {
     const p = pos[v.id]; if (p > 5 && p < (V.duration || v.duration) - 10) V.currentTime = p;
     V.playbackRate = prefs.rate; update(); if (autoplay) play();
@@ -96,7 +150,7 @@ V.addEventListener("error", () => { if (V.error) $("verr").hidden = false; });
 
 /* controls */
 function play(){ const p = V.play(); if (p && p.catch) p.catch(() => {}); }
-function toggle(){ V.paused ? play() : V.pause(); }
+function toggle(){ if (asking) return answer(null); V.paused ? play() : V.pause(); }
 function go(t){ const d = V.duration || VIDEOS[cur].duration; V.currentTime = Math.max(0, Math.min(d - 0.1, t)); update(); }
 let flashT = 0;
 function flash(msg){ const f = $("vflash"); f.textContent = msg; f.classList.add("on"); clearTimeout(flashT); flashT = setTimeout(() => f.classList.remove("on"), 900); }
@@ -145,14 +199,14 @@ function savePos(force){
 }
 let lastChap = -1;
 V.addEventListener("timeupdate", () => {
-  update(); markCue(); savePos(false);
+  update(); markCue(); savePos(false); checkStop();
   const k = chapAt(V.currentTime);
   if (k !== lastChap) { lastChap = k; const b = $("vchap").querySelector(`[data-c="${k}"]`), box = $("vchap"); if (b && !V.paused) box.scrollTop = Math.max(0, b.offsetTop - box.offsetTop - 40); }
 });
-V.addEventListener("play", () => { $("vbig").hidden = true; $("vplay").textContent = "❚❚"; $("vplay").setAttribute("aria-label", "Pause"); });
-V.addEventListener("pause", () => { $("vbig").hidden = false; $("vplay").textContent = "▶"; $("vplay").setAttribute("aria-label", "Play"); savePos(true); renderPick(); });
+V.addEventListener("play", () => { if (asking) { asking = null; $("vask").hidden = true; } $("vbig").hidden = true; $("vplay").textContent = "❚❚"; $("vplay").setAttribute("aria-label", "Pause"); });
+V.addEventListener("pause", () => { $("vbig").hidden = !!asking; $("vplay").textContent = "▶"; $("vplay").setAttribute("aria-label", "Play"); savePos(true); renderPick(); });
 V.addEventListener("ended", () => { pos[VIDEOS[cur].id] = 0; store.set("pfr_vpos", pos); renderPick(); });
-V.addEventListener("seeked", () => { update(); markCue(); });
+V.addEventListener("seeked", () => { update(); markCue(); if (!asking) lastT = V.currentTime; });
 
 /* keyboard (only while the Videos tab is open) */
 document.addEventListener("keydown", e => {
@@ -160,11 +214,17 @@ document.addEventListener("keydown", e => {
   const tg = e.target, tag = tg.tagName;
   if (tag === "TEXTAREA" || tag === "SELECT" || (tag === "INPUT" && !["range", "checkbox"].includes(tg.type))) return;
   const k = e.key;
+  if (asking) {
+    const lab = asking.labels.map(l => l[0].toLowerCase()), i = lab.indexOf(k.toLowerCase());
+    if (i >= 0) { e.preventDefault(); return answer(i); }
+    if (k === "Escape") { e.preventDefault(); return answer(null); }
+  }
   if ((k === " " || k === "Enter") && tag === "BUTTON") return;
   const map = {
     " ": toggle, k: toggle, K: toggle, ArrowLeft: () => skip(-10), j: () => skip(-10), J: () => skip(-10),
     ArrowRight: () => skip(10), l: () => skip(10), L: () => skip(10), "[": () => chapJump(-1), "]": () => chapJump(1),
     c: () => $("vcc").click(), C: () => $("vcc").click(), m: () => $("vmute").click(), M: () => $("vmute").click(),
+    a: () => stops().length && $("valong").click(), A: () => stops().length && $("valong").click(),
     f: fullscreen, F: fullscreen, "<": () => setRate(prefs.rate - 0.25), ">": () => setRate(prefs.rate + 0.25), ",": () => setRate(prefs.rate - 0.25), ".": () => setRate(prefs.rate + 0.25)
   };
   if (map[k]) { e.preventDefault(); map[k](); }

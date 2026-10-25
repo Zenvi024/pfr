@@ -7,6 +7,11 @@
           <video id="vvid" playsinline preload="metadata"></video>
           <button class="vbig" id="vbig" aria-label="Play">▶</button>
           <div class="vflash" id="vflash" aria-hidden="true"></div>
+          <div class="vask" id="vask" hidden role="dialog" aria-label="Your answer">
+            <p><b id="vaskq"></b>Your answer?</p>
+            <div class="vaskb" id="vaskb"></div>
+            <button class="vlink" id="vaskskip">Skip: just show me the answer</button>
+          </div>
           <div class="verr" id="verr" hidden>This video could not be loaded. If you opened the desk as a local file, keep the <code>media</code> folder next to it.</div>
         </div>
         <div class="vbar">
@@ -31,6 +36,11 @@
             <button id="vfs" title="Full screen (F)" aria-label="Full screen">⛶</button>
           </div>
         </div>
+      </div>
+      <div class="vquiz" id="vquiz" hidden>
+        <button id="valong" aria-pressed="false" title="Pause at each countdown so you can tap your answer (A)">✋ Answer along</button>
+        <span id="vscore"></span>
+        <button class="vlink" id="vqreset">Reset score</button>
       </div>
       <p class="vnow" id="vnow"></p>
       <p class="vkeys">Keyboard: <kbd>Space</kbd> play/pause · <kbd>←</kbd>/<kbd>→</kbd> 10 s · <kbd>[</kbd>/<kbd>]</kbd> chapters · <kbd>C</kbd> captions · <kbd>M</kbd> mute · <kbd>F</kbd> full screen · <kbd>&lt;</kbd>/<kbd>&gt;</kbd> speed</p>
