@@ -1966,5 +1966,237 @@
   "original": "Legitimation may be impugned only by those who are prejudiced in their rights, within five years from the time their cause of action accrues.",
   "altered": "Legitimation may be impugned only by those who are prejudiced in their rights, within one year from the time their cause of action accrues.",
   "why": "Five years (Quiz No. 4 TF5)."
+ },
+ {
+  "id": "AL-LT1",
+  "topic": "adopt",
+  "art": "Sec. 21, R.A. 11642",
+  "original": "If one spouse seeks to adopt own illegitimate child: Provided, That the other spouse has signified consent thereto;",
+  "altered": "If one spouse seeks to adopt own illegitimate child: Provided, That the other spouse has joined the petition;",
+  "why": "Consent only."
+ },
+ {
+  "id": "AL-LT2",
+  "topic": "adopt",
+  "art": "Sec. 23(c), R.A. 11642",
+  "original": "The legitimate and adopted children, ten (10) years of age or over, of the adopters, if any;",
+  "altered": "The legitimate and adopted children, seven (7) years of age or over, of the adopters, if any;",
+  "why": "Ten."
+ },
+ {
+  "id": "AL-LT3",
+  "topic": "adopt",
+  "art": "Sec. 47, R.A. 11642",
+  "original": "Adoption, being in the best interest of the child, shall not be subject to rescission by the adopter.",
+  "altered": "Adoption, being in the best interest of the child, shall be subject to rescission by the adopter.",
+  "why": "No rescission by the adopter."
+ },
+ {
+  "id": "AL-LT4",
+  "topic": "adopt",
+  "art": "Sec. 42, R.A. 11642",
+  "original": "Except in cases where the biological parent is the spouse of the adopter, all legal ties between the biological parents and the adoptee shall be severed …",
+  "altered": "Except in cases where the biological parent is the sibling of the adopter, all legal ties between the biological parents and the adoptee shall be severed …",
+  "why": "Spouse of the adopter."
+ },
+ {
+  "id": "AL-LT5",
+  "topic": "support",
+  "art": "Art. 196, FC",
+  "original": "Brothers and sisters not legitimately related, whether of the full or half-blood, are likewise bound to support each other to the full extent set forth in Article 194, except only when the need for support of the brother or sister, being of age, is due to a cause imputable to the claimant's fault or negligence.",
+  "altered": "Brothers and sisters not legitimately related, whether of the full or half-blood, are likewise bound to support each other to the full extent set forth in Article 194, except only when the need for support of the brother or sister, being a minor, is due to a cause imputable to the claimant's fault or negligence.",
+  "why": "Being of age."
+ },
+ {
+  "id": "AL-LT6",
+  "topic": "support",
+  "art": "Art. 198, FC",
+  "original": "During the proceedings for legal separation or for annulment of marriage, and for declaration of nullity of marriage, the spouses and their children shall be supported from the properties of the absolute community or the conjugal partnership.",
+  "altered": "During the proceedings for legal separation or for annulment of marriage, and for declaration of nullity of marriage, the spouses and their children shall be supported from their separate properties.",
+  "why": "From the common property."
+ },
+ {
+  "id": "AL-LT7",
+  "topic": "support",
+  "art": "Art. 198, FC",
+  "original": "However, in case of legal separation, the court may order that the guilty spouse shall give support to the innocent one, specifying the terms of such order.",
+  "altered": "However, in case of legal separation, the court shall order that the guilty spouse shall give support to the innocent one, specifying the terms of such order.",
+  "why": "May: discretionary."
+ },
+ {
+  "id": "AL-LT8",
+  "topic": "support",
+  "art": "Art. 200, FC",
+  "original": "However, in case of urgent need and by special circumstances, the judge may order only one of them to furnish the support provisionally, without prejudice to his right to claim from the other obligors the share due from them.",
+  "altered": "However, in case of urgent need and by special circumstances, the judge may order only one of them to furnish the support permanently, without prejudice to his right to claim from the other obligors the share due from them.",
+  "why": "Provisionally."
+ },
+ {
+  "id": "AL-LT9",
+  "topic": "support",
+  "art": "Art. 203, FC",
+  "original": "Payment shall be made within the first five days of each corresponding month or when the recipient dies, his heirs shall not be obliged to return what he has received in advance.",
+  "altered": "Payment shall be made within the first fifteen days of each corresponding month or when the recipient dies, his heirs shall not be obliged to return what he has received in advance.",
+  "why": "Five days."
+ },
+ {
+  "id": "AL-LT10",
+  "topic": "support",
+  "art": "Art. 207, FC",
+  "original": "When the person obliged to support another unjustly refuses or fails to give support when urgently needed by the latter, any third person may furnish support to the needy individual, with right of reimbursement from the person obliged to give support.",
+  "altered": "When the person obliged to support another unjustly refuses or fails to give support when urgently needed by the latter, any relative may furnish support to the needy individual, with right of reimbursement from the person obliged to give support.",
+  "why": "Any third person."
+ },
+ {
+  "id": "AL-LT11",
+  "topic": "pa",
+  "art": "Art. 212, FC",
+  "original": "The remarriage of the surviving parent shall not affect the parental authority over the children, unless the court appoints another person to be the guardian of the person or property of the children.",
+  "altered": "The remarriage of the surviving parent shall terminate the parental authority over the children, unless the court appoints another person to be the guardian of the person or property of the children.",
+  "why": "Shall not affect."
+ },
+ {
+  "id": "AL-LT12",
+  "topic": "pa",
+  "art": "Art. 213, FC",
+  "original": "The Court shall take into account all relevant considerations, especially the choice of the child over seven years of age, unless the parent chosen is unfit.",
+  "altered": "The Court shall take into account all relevant considerations, especially the choice of the child over ten years of age, unless the parent chosen is unfit.",
+  "why": "Seven."
+ },
+ {
+  "id": "AL-LT13",
+  "topic": "pa",
+  "art": "Art. 215, FC",
+  "original": "No descendant shall be compelled, in a criminal case, to testify against his parents and grandparents, except when such testimony is indispensable in a crime against the descendant or by one parent against the other.",
+  "altered": "No descendant shall be compelled, in a civil case, to testify against his parents and grandparents, except when such testimony is indispensable in a crime against the descendant or by one parent against the other.",
+  "why": "Criminal case."
+ },
+ {
+  "id": "AL-LT14",
+  "topic": "pa",
+  "art": "Art. 219, FC",
+  "original": "The parents, judicial guardians or the persons exercising substitute parental authority over said minor shall be subsidiarily liable.",
+  "altered": "The parents, judicial guardians or the persons exercising substitute parental authority over said minor shall be solidarily liable.",
+  "why": "Subsidiarily."
+ },
+ {
+  "id": "AL-LT15",
+  "topic": "pa",
+  "art": "Art. 226, FC",
+  "original": "The right of the parents over the fruits and income of the child's property shall be limited primarily to the child's support and secondarily to the collective daily needs of the family.",
+  "altered": "The right of the parents over the fruits and income of the child's property shall be limited primarily to the child's support and secondarily to the collective daily needs of the parents.",
+  "why": "Secondarily the collective daily needs of the FAMILY, not the parents."
+ },
+ {
+  "id": "AL-LT16",
+  "topic": "pa",
+  "art": "Art. 228, FC",
+  "original": "Parental authority terminates permanently: (1) Upon the death of the parents; (2) Upon the death of the child; or (3) Upon emancipation of the child.",
+  "altered": "Parental authority terminates permanently: (1) Upon the death of the parents; (2) Upon the death of the child; or (3) Upon adoption of the child.",
+  "why": "Adoption is Art. 229 (revivable)."
+ },
+ {
+  "id": "AL-LT17",
+  "topic": "eman",
+  "art": "Art. 236, FC",
+  "original": "Nothing in this Code shall be construed to derogate from the duty or responsibility of parents and guardians for children and wards below twenty-one years of age mentioned in the second and third paragraphs of Article 2180 of the Civil Code.",
+  "altered": "Nothing in this Code shall be construed to derogate from the duty or responsibility of parents and guardians for children and wards below eighteen years of age mentioned in the second and third paragraphs of Article 2180 of the Civil Code.",
+  "why": "Below 21."
+ },
+ {
+  "id": "AL-LT18",
+  "topic": "eman",
+  "art": "Art. 240, FC",
+  "original": "Claims for damages by either spouse, except costs of the proceedings, may be litigated only in a separate action.",
+  "altered": "Claims for damages by either spouse, including costs of the proceedings, may be litigated only in a separate action.",
+  "why": "Except costs."
+ },
+ {
+  "id": "AL-LT19",
+  "topic": "names",
+  "art": "Art. 370, NCC",
+  "original": "A married woman may use: (1) Her maiden first name and surname and add her husband's surname …",
+  "altered": "A married woman shall use: (1) Her maiden first name and surname and add her husband's surname …",
+  "why": "May."
+ },
+ {
+  "id": "AL-LT20",
+  "topic": "names",
+  "art": "Art. 371, NCC",
+  "original": "If she is the innocent spouse, she may resume her maiden name and surname.",
+  "altered": "If she is the innocent spouse, she shall resume her maiden name and surname.",
+  "why": "May."
+ },
+ {
+  "id": "AL-LT21",
+  "topic": "names",
+  "art": "Art. 373, NCC",
+  "original": "A widow may use the deceased husband's surname as though he were still living, in accordance with article 370.",
+  "altered": "A widow shall use the deceased husband's surname as though he were still living, in accordance with article 370.",
+  "why": "May."
+ },
+ {
+  "id": "AL-LT22",
+  "topic": "names",
+  "art": "Art. 365, NCC",
+  "original": "An adopted child shall bear the surname of the adopter.",
+  "altered": "An adopted child may bear the surname of the adopter.",
+  "why": "Shall."
+ },
+ {
+  "id": "AL-LT23",
+  "topic": "absence",
+  "art": "Art. 383, NCC",
+  "original": "In the appointment of a representative, the spouse present shall be preferred when there is no legal separation.",
+  "altered": "In the appointment of a representative, the eldest child shall be preferred when there is no legal separation.",
+  "why": "The spouse present."
+ },
+ {
+  "id": "AL-LT24",
+  "topic": "absence",
+  "art": "Art. 390, NCC",
+  "original": "After an absence of seven years, it being unknown whether or not the absentee still lives, he shall be presumed dead for all purposes, except for those of succession.",
+  "altered": "After an absence of seven years, it being unknown whether or not the absentee still lives, he shall be presumed dead for all purposes, including those of succession.",
+  "why": "Except succession."
+ },
+ {
+  "id": "AL-LT25",
+  "topic": "absence",
+  "art": "Art. 391(2), NCC",
+  "original": "A person in the armed forces who has taken part in war, and has been missing for four years;",
+  "altered": "A person in the armed forces who has taken part in war, and has been missing for two years;",
+  "why": "Four."
+ },
+ {
+  "id": "AL-LT26",
+  "topic": "funerals",
+  "art": "Art. 305, NCC",
+  "original": "In case of descendants of the same degree, or of brothers and sisters, the oldest shall be preferred.",
+  "altered": "In case of descendants of the same degree, or of brothers and sisters, the youngest shall be preferred.",
+  "why": "Oldest."
+ },
+ {
+  "id": "AL-LT27",
+  "topic": "funerals",
+  "art": "Art. 310, NCC",
+  "original": "The construction of a tombstone or mausoleum shall be deemed a part of the funeral expenses, and shall be chargeable to the conjugal partnership property, if the deceased is one of the spouses.",
+  "altered": "The construction of a tombstone or mausoleum shall be deemed a part of the funeral expenses, and shall be chargeable to the exclusive property, if the deceased is one of the spouses.",
+  "why": "Conjugal partnership."
+ },
+ {
+  "id": "AL-LT28",
+  "topic": "civreg",
+  "art": "Art. 411, NCC",
+  "original": "However, the civil registrar may exempt himself from such liability if he proves that he has taken every reasonable precaution to prevent the unlawful alteration.",
+  "altered": "However, the civil registrar may exempt himself from such liability if he proves that he has taken some reasonable precaution to prevent the unlawful alteration.",
+  "why": "Every reasonable precaution."
+ },
+ {
+  "id": "AL-LT29",
+  "topic": "civreg",
+  "art": "Rule 108, Sec. 3",
+  "original": "When cancellation or correction of an entry in the civil register is sought, the civil registrar and all persons who have or claim any interest which would be affected thereby shall be made parties to the proceeding.",
+  "altered": "When cancellation or correction of an entry in the civil register is sought, the civil registrar and all persons who have or claim any interest which would be affected thereby may be made parties to the proceeding.",
+  "why": "Shall: indispensable parties."
  }
 ]

@@ -1,0 +1,128 @@
+[
+ {
+  "id": "FU-1",
+  "topic": "funerals",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 305)",
+  "type": "tf",
+  "stem": "In case of ascendants, the maternal shall have a better right to make arrangements for the funeral of a relative.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 305: the PATERNAL shall have a better right.",
+  "key_note": null
+ },
+ {
+  "id": "FU-2",
+  "topic": "funerals",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 305)",
+  "type": "tf",
+  "stem": "In case of descendants of the same degree, or of brothers and sisters, the oldest shall be preferred.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 305.",
+  "key_note": null
+ },
+ {
+  "id": "FU-3",
+  "topic": "funerals",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 307)",
+  "type": "tf",
+  "stem": "The funeral shall be in accordance with the religious beliefs of the deceased; in their absence, his expressed wishes shall determine the funeral rites.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Reversed. Art. 307: first his EXPRESSED WISHES; in their absence, his religious beliefs or affiliation; in doubt, the person obliged decides after consulting the family.",
+  "key_note": null
+ },
+ {
+  "id": "FU-4",
+  "topic": "funerals",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 310)",
+  "type": "tf",
+  "stem": "The construction of a tombstone or mausoleum shall be deemed a part of the funeral expenses, and shall be chargeable to the conjugal partnership property, if the deceased is one of the spouses.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 310.",
+  "key_note": null
+ },
+ {
+  "id": "FU-5",
+  "topic": "funerals",
+  "origin": "new",
+  "src": "New (Art. 309)",
+  "type": "tf",
+  "stem": "Any person who shows disrespect to the dead, or wrongfully interferes with a funeral, shall be liable to the family of the deceased for moral damages only.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 309: damages, MATERIAL AND MORAL.",
+  "key_note": null
+ },
+ {
+  "id": "FU-6",
+  "topic": "funerals",
+  "origin": "new",
+  "src": "New (Eugenio v. Velez)",
+  "type": "mcq",
+  "stem": "Vitaliana died single, without descendants or ascendants. Her common-law husband and her full-blood siblings both claim the body for burial. Who has the right?",
+  "choices": [
+   "Her siblings: 'spouse' in the Civil Code means a lawfully wedded spouse",
+   "Whoever has possession",
+   "The common-law husband, as her 'spouse'",
+   "The municipal authorities"
+  ],
+  "answer": 0,
+  "explanation": "Eugenio v. Velez (1990).",
+  "key_note": null
+ },
+ {
+  "id": "FU-7",
+  "topic": "funerals",
+  "origin": "new",
+  "src": "New (Valino v. Adriano)",
+  "type": "mcq",
+  "stem": "A married man separated in fact from his wife lived for years with Fe, who paid his medical and funeral expenses and buried him in her family's mausoleum over the wife's objection. Who had the right to make the funeral arrangements?",
+  "choices": [
+   "The surviving legal spouse, then the descendants, ascendants and siblings, to the exclusion of the live-in partner",
+   "Fe, because she paid",
+   "Fe, because she was closer to him",
+   "The children only"
+  ],
+  "answer": 0,
+  "explanation": "Valino v. Adriano (2014); Art. 305 with FC 199.",
+  "key_note": null
+ },
+ {
+  "id": "FU-8",
+  "topic": "funerals",
+  "origin": "new",
+  "src": "New (Art. 308; Tolentino)",
+  "type": "mcq",
+  "stem": "A hospital performed an autopsy to determine the cause of death, without the consent of the widow and with no official order. Is it liable?",
+  "choices": [
+   "No, autopsies are always allowed",
+   "No, if it was for scientific purposes",
+   "Yes, but only criminally",
+   "Yes; a private autopsy requires the consent of those entitled to the corpse"
+  ],
+  "answer": 3,
+  "explanation": "Art. 308; Tolentino: an official autopsy (disease control, crime) may be ordered without consent, but a private one may not.",
+  "key_note": null
+ }
+]

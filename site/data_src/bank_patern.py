@@ -1,7 +1,7 @@
 from qb import Bank, ABS
 
 # ======================= PATERNITY AND FILIATION (FC 163–182) =======================
-p = Bank("patern", "P")
+p = Bank("patern", "PF")
 Q5 = "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025)"
 Q2 = "Uribe CivRev 2025 Quiz 2 (Aug 28, 2025)"
 QC1 = "Uribe Quiz Compilation, Set 1"
@@ -248,7 +248,7 @@ p.mcq("new", "New (FC 172)",
       "Which of the following is PRIMARY evidence of filiation under Article 172?",
       ["The open and continuous possession of the status of a child", "A baptismal certificate naming the father",
        "An admission of filiation in a private handwritten instrument signed by the parent concerned", "Testimony of relatives on family reputation"], "c",
-      "Art. 172, 1st par.: (1) the record of birth or a final judgment; (2) an admission in a public document or a private handwritten instrument signed by the parent. A and D are secondary; B is not proof of filiation (Mendoza v. IAC; Perla v. Baring).", topic="filiat")
+      "Art. 172, 1st par.: (1) the record of birth or a final judgment; (2) an admission in a public document or a private handwritten instrument signed by the parent. Possession of status and relatives' testimony are secondary evidence; a baptismal certificate is not proof of filiation (Mendoza v. IAC; Perla v. Baring).", topic="filiat")
 p.tf("new", "New (Uribe format; Lim v. CA)", "A marriage contract of the child, in which the alleged father is named as her father, is a public document of recognition sufficient to prove filiation.", False,
      "Lim v. CA (1975): a marriage contract is a mere declaration by the contracting parties, not an instrument executed before and certified by a notary; it does not have the requisites of a public document of recognition.", topic="filiat")
 p.mcq("new", "New (Mendoza v. CA)",

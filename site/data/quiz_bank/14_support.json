@@ -1,0 +1,371 @@
+[
+ {
+  "id": "SU-1",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF3",
+  "type": "tf",
+  "stem": "Payment for support shall be made within the first 15 days of each corresponding month.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 203: within the first FIVE days of each corresponding month. 'False. Codal provision.'",
+  "key_note": null
+ },
+ {
+  "id": "SU-2",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe Quiz No. 4 (Civil Law Reviewer copy) TF8",
+  "type": "tf",
+  "stem": "Payment shall be made within the first five days of each corresponding month or when the recipient dies, his heirs shall not be obliged to return what he has received in advance.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 203, 3rd par.",
+  "key_note": null
+ },
+ {
+  "id": "SU-3",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF4; Civ Rev samplex T/F compilation #50",
+  "type": "tf",
+  "stem": "The person obliged to give support shall fulfill the obligation by paying the allowance fixed.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 204: he has the OPTION to pay the allowance fixed OR to receive and maintain the recipient in the family dwelling, unless there is a moral or legal obstacle. 'There are other ways within which such obligation may be met.'",
+  "key_note": null
+ },
+ {
+  "id": "SU-4",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe Quiz No. 4 (Civil Law Reviewer copy) TF9; Civ Rev samplex T/F compilation #39",
+  "type": "tf",
+  "stem": "The person obliged to give support shall fulfill the obligation by receiving and maintaining in the family dwelling the person who has a right to receive support.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 204: an option, not a duty; and the dwelling alternative is unavailable when there is a moral or legal obstacle. Discussion: 'The person obliged to give support has an option.'",
+  "key_note": null
+ },
+ {
+  "id": "SU-5",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF9; Uribe CivRev 2025 Quiz 2 (Aug 28, 2025) #5; PFR Quiz 3 answer key",
+  "type": "tf",
+  "stem": "Brothers and sisters not legitimately related, whether of the full or half-blood, are likewise bound to support each other.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 196 continues: 'except only when the need for support of the brother or sister, being of age, is due to a cause imputable to the claimant's fault or negligence.' Sir: don't attack the premise ('brothers and sisters not legitimately related, whether of the full or half-blood' is correct); the unqualified conclusion is what is false. The Art. 196 exception does not apply to ascendants and descendants.",
+  "key_note": null
+ },
+ {
+  "id": "SU-6",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe Quiz No. 4 (Civil Law Reviewer copy) TF10",
+  "type": "tf",
+  "stem": "When, without the knowledge of the person obliged to give support, it is given by a stranger, the latter shall have a right to claim the same from the former.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 206 adds: 'unless it appears that he gave it without intention of being reimbursed.'",
+  "key_note": null
+ },
+ {
+  "id": "SU-7",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Civ Rev samplex T/F compilation #48",
+  "type": "tf",
+  "stem": "When the obligation to give support falls upon two or more persons, the payment of the same shall be divided between them in proportion to the resources of each.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 200, 1st par.",
+  "key_note": null
+ },
+ {
+  "id": "SU-8",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2, continuation (Sep 4, 2025)",
+  "type": "mcq",
+  "stem": "If the spouse has no capacity to support or is dead, the children are required to give support:",
+  "choices": [
+   "Equally",
+   "In proportion to the resources of each",
+   "In the order of their birth",
+   "Only the eldest",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "Art. 200: 'divided between them in proportion to the resources of each'. Sir rejected 'equally' and also the answer that it passes automatically to brothers and sisters: after the spouse come the descendants (Art. 199).",
+  "key_note": null
+ },
+ {
+  "id": "SU-9",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe quiz (Civ Rev samplex) MC20; OCR copy reads 'to Melitona'",
+  "type": "mcq",
+  "stem": "Natividad is the widow of Mariano. Melitona is her mother. Rupert is her grandchild. Generoso is her brother. Crescente is her nephew. Who will first be compelled to give support to Natividad?",
+  "choices": [
+   "Melitona",
+   "Rupert",
+   "Generoso",
+   "Crescente"
+  ],
+  "answer": 1,
+  "explanation": "Art. 199: (1) spouse (dead), (2) descendants in the nearest degree (grandchild Rupert, there being no children mentioned), (3) ascendants (Melitona), (4) brothers and sisters (Generoso). A nephew is not obliged at all (Art. 195).",
+  "key_note": "The scanned copy reads 'support to Melitona', which cannot be right since Melitona is an option; read as support to Natividad."
+ },
+ {
+  "id": "SU-10",
+  "topic": "support",
+  "origin": "samplex",
+  "src": "Uribe Midterm Exam (Civ Rev samplex) Part Two #34",
+  "type": "mcq",
+  "stem": "The obligation of mutual support between spouses ceases after the following, except:",
+  "choices": [
+   "Dissolution of the marriage by the death of a spouse",
+   "Declaration of nullity",
+   "Annulment of marriage",
+   "Legal separation",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "Death ends the marriage and the obligation; Art. 198: 'After the final judgment granting the petition [for legal separation, annulment or nullity], the obligation of mutual support between the spouses ceases.' In legal separation the court MAY order the guilty spouse to support the innocent one, but that is a discretionary order, not mutual support.",
+  "key_note": null
+ },
+ {
+  "id": "SU-11",
+  "topic": "support",
+  "origin": "bar",
+  "src": "2011 Bar",
+  "type": "mcq",
+  "stem": "Spouses X and Y have a minor daughter, Z, who needs support for her education. Both X and Y are financially distressed. Z's other relatives are financially capable. From whom may Z first rightfully demand support?",
+  "choices": [
+   "Grandfather",
+   "Brother",
+   "Uncle",
+   "First cousin"
+  ],
+  "answer": 0,
+  "explanation": "Art. 199: after the parents, the ascendants in the nearest degree come before brothers and sisters; uncles and cousins are not obliged. Lim v. Lim: grandparents are liable on the parents' inability, not only on default.",
+  "key_note": null
+ },
+ {
+  "id": "SU-12",
+  "topic": "support",
+  "origin": "bar",
+  "src": "2011 Bar",
+  "type": "mcq",
+  "stem": "Is the wife who leaves her husband without just cause entitled to support?",
+  "choices": [
+   "No, because the wife must always be submissive and respectful to the husband",
+   "Yes; the marriage not having been dissolved, the husband continues to have an obligation to support his wife",
+   "No, because in leaving the conjugal home without just cause, she forfeits her right to support",
+   "Yes, since the right to receive support is not subject to any condition"
+  ],
+  "answer": 2,
+  "explanation": "UPLC answer (C). Separate maintenance presupposes a justifiable cause to live apart (Lerma; Goitia).",
+  "key_note": null
+ },
+ {
+  "id": "SU-13",
+  "topic": "support",
+  "origin": "bar",
+  "src": "2008 Bar (adapted)",
+  "type": "mcq",
+  "stem": "Andrew, unmarried, has a daughter Amy (30) by Brenda, sons Jon and Ryan by Carla, lives with Jane (Elena's daughter by another man), and with Sandy, whom he and Fe 'informally adopted'. In his old age, from whom may Andrew claim support?",
+  "choices": [
+   "All five",
+   "Only the legitimate children",
+   "Amy, Jon and Ryan only",
+   "Amy, Jon, Ryan and Sandy"
+  ],
+  "answer": 2,
+  "explanation": "Jane is not his child; Sandy was never legally adopted. His illegitimate children owe him support (Art. 195(4)). Amy, Jon and Ryan also owe each other support under Art. 196 (subject to its exception).",
+  "key_note": null
+ },
+ {
+  "id": "SU-14",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 194)",
+  "type": "tf",
+  "stem": "The education of the person entitled to be supported shall include his schooling or training for some profession, trade or vocation, but only until the age of majority.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 194: 'even beyond the age of majority'. 2010 Bar: children aged 18 and 19 who squandered their education fund may still ask for support.",
+  "key_note": null
+ },
+ {
+  "id": "SU-15",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 198)",
+  "type": "tf",
+  "stem": "During the proceedings for legal separation, annulment or declaration of nullity, the spouses and their children shall be supported from their separate properties.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 198: from the properties of the absolute community or the conjugal partnership.",
+  "key_note": null
+ },
+ {
+  "id": "SU-16",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 200)",
+  "type": "tf",
+  "stem": "When the spouse and a child subject to parental authority claim support at the same time from one person who cannot satisfy both, the spouse shall be preferred.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 200, last par.: the CHILD shall be preferred. Tolentino: the preference applies when support comes from the obligor's separate property, not from the ACP or CPG.",
+  "key_note": null
+ },
+ {
+  "id": "SU-17",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 203)",
+  "type": "tf",
+  "stem": "The obligation to give support shall be demandable from the time the person who has a right to receive the same needs it for maintenance, and shall be paid from that time.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 203: demandable from need, but 'it shall not be paid except from the date of judicial or extra-judicial demand.'",
+  "key_note": null
+ },
+ {
+  "id": "SU-18",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Art. 205)",
+  "type": "tf",
+  "stem": "The right to receive support as well as any money or property obtained as such support shall not be levied upon on attachment or execution.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 205. But the excess of contractual or testamentary support over legal support may be levied (Art. 208).",
+  "key_note": null
+ },
+ {
+  "id": "SU-19",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Arts. 195–196)",
+  "type": "mcq",
+  "stem": "Which of the following persons are NOT legally obliged to support each other?",
+  "choices": [
+   "A father and his illegitimate son",
+   "Legitimate half-brothers",
+   "A grandmother and her illegitimate granddaughter",
+   "A man and his mother-in-law"
+  ],
+  "answer": 3,
+  "explanation": "Relatives by affinity are not in Art. 195 (Pelayo v. Lauron: the parents-in-law do not answer for the daughter-in-law's medical bills; the husband does).",
+  "key_note": null
+ },
+ {
+  "id": "SU-20",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Canonizado v. Benitez)",
+  "type": "mcq",
+  "stem": "A wife who had a judgment for support later obtained a well-paying job. Which statement is correct?",
+  "choices": [
+   "The demandability of support is suspended while she does not need it, but the right subsists and the judgment may be enforced again",
+   "The judgment for support is final and cannot be touched",
+   "The husband may recover all past payments",
+   "Her right to support is extinguished permanently"
+  ],
+  "answer": 0,
+  "explanation": "Canonizado (1984): the old NCC 303 circumstances 'do not affect the right to support between spouses but only the action to make it demandable'; 'a judgment for support is never final'.",
+  "key_note": null
+ },
+ {
+  "id": "SU-21",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (support pendente lite)",
+  "type": "mcq",
+  "stem": "In a wife's action for legal separation, the husband opposes her application for support pendente lite by alleging, without evidence, that she committed adultery. What should the court do?",
+  "choices": [
+   "Order the husband to pay only half",
+   "Grant it, because adultery must be established by competent evidence, not merely alleged",
+   "Deny support pendente lite outright",
+   "Suspend the case until the criminal case for adultery is decided"
+  ],
+  "answer": 1,
+  "explanation": "Reyes v. Ines-Luciano; Sanchez v. Zulueta (the court should let him present evidence, and decide on the kind of evidence it deems sufficient). If adultery is established prima facie, support pendente lite is denied (Lerma).",
+  "key_note": null
+ },
+ {
+  "id": "SU-22",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Art. 197)",
+  "type": "mcq",
+  "stem": "From what property is the support of a spouse's illegitimate child taken?",
+  "choices": [
+   "The absolute community, as a charge",
+   "The family home",
+   "The separate property of the other spouse",
+   "The separate property of the parent-spouse; if none, the community advances it, to be deducted from his share at liquidation"
+  ],
+  "answer": 3,
+  "explanation": "Arts. 197, 94(9), 122.",
+  "key_note": null
+ },
+ {
+  "id": "SU-23",
+  "topic": "support",
+  "origin": "new",
+  "src": "New (Art. 207 vs. 206)",
+  "type": "mcq",
+  "stem": "A father unjustly refuses to support his minor child, who urgently needs surgery. A neighbor pays for it. May the neighbor recover from the father?",
+  "choices": [
+   "Yes, under Art. 207: any third person may furnish support when the obligor unjustly refuses, with right of reimbursement",
+   "Only if the father later consents",
+   "No, because the neighbor is not a relative",
+   "No, because he paid with the father's knowledge"
+  ],
+  "answer": 0,
+  "explanation": "Art. 207 does not require that the obligor be unaware; it applies particularly to parents who refuse to support minor children. Art. 206 (without knowledge, by a stranger) is the other route.",
+  "key_note": null
+ }
+]

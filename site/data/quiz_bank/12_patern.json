@@ -1,6 +1,6 @@
 [
  {
-  "id": "P-1",
+  "id": "PF-1",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 1 TF6",
@@ -15,7 +15,7 @@
   "key_note": null
  },
  {
-  "id": "P-2",
+  "id": "PF-2",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 1 MC14",
@@ -34,7 +34,7 @@
   "key_note": null
  },
  {
-  "id": "P-3",
+  "id": "PF-3",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #1",
@@ -49,7 +49,7 @@
   "key_note": "The class notes record the basis as FALSE; Sir pushed back on using legitimation or artificial insemination as the reason."
  },
  {
-  "id": "P-4",
+  "id": "PF-4",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #2",
@@ -64,7 +64,7 @@
   "key_note": "Tolentino and the 2006 UPLC bar answer treat the written instrument as evidence only; Sir treats it as a requirement."
  },
  {
-  "id": "P-5",
+  "id": "PF-5",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 1 MC19",
@@ -82,7 +82,7 @@
   "key_note": null
  },
  {
-  "id": "P-6",
+  "id": "PF-6",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 2 (Aug 28, 2025) (2025 version)",
@@ -100,7 +100,7 @@
   "key_note": null
  },
  {
-  "id": "P-7",
+  "id": "PF-7",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe 1st Quiz (Civ Rev samplex) TF7",
@@ -115,7 +115,7 @@
   "key_note": null
  },
  {
-  "id": "P-8",
+  "id": "PF-8",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 2 (Aug 28, 2025) TF9 (= 1st Quiz TF4)",
@@ -130,7 +130,7 @@
   "key_note": null
  },
  {
-  "id": "P-9",
+  "id": "PF-9",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz No. 4 TF1",
@@ -145,7 +145,7 @@
   "key_note": null
  },
  {
-  "id": "P-10",
+  "id": "PF-10",
   "topic": "patern",
   "origin": "bar",
   "src": "UP BOC – 2012 Bar MCQ",
@@ -162,7 +162,7 @@
   "key_note": null
  },
  {
-  "id": "P-11",
+  "id": "PF-11",
   "topic": "patern",
   "origin": "bar",
   "src": "UP BOC – 2011 Bar MCQ",
@@ -179,7 +179,7 @@
   "key_note": null
  },
  {
-  "id": "P-12",
+  "id": "PF-12",
   "topic": "patern",
   "origin": "bar",
   "src": "UP BOC – 2011 Bar MCQ",
@@ -196,24 +196,24 @@
   "key_note": "Bar key (A); the answer depends on Art. 26 and the recognition of the foreign divorce."
  },
  {
-  "id": "P-13",
+  "id": "PF-13",
   "topic": "patern",
   "origin": "recit",
   "src": "Uribe CivRev 2025 recitation (Sep 27, 2025) (adapted to MCQ)",
   "type": "mcq",
   "stem": "X and Y's marriage was declared void for lack of a marriage license. Their child C was conceived and born before the judgment of nullity became final. What is C's status?",
   "choices": [
-   "Legitimate, under Art. 54",
-   "Legitimate, in the best interest of the child",
    "Illegitimate",
-   "Legitimated"
+   "Legitimate, under Art. 54",
+   "Legitimated",
+   "Legitimate, in the best interest of the child"
   ],
-  "answer": 2,
+  "answer": 0,
   "explanation": "Sir: the Art. 54 exception covers ONLY Art. 36 marriages and Art. 53 subsequent marriages. 'In all other grounds of nullity, dapat illegitimate child siya.' Do not argue 'best interest of the child': 'unfair yun sa ibang mga anak … mababawasan yung share nung iba.'",
   "key_note": null
  },
  {
-  "id": "P-14",
+  "id": "PF-14",
   "topic": "patern",
   "origin": "recit",
   "src": "Uribe recitation situationer (2018) (adapted)",
@@ -228,7 +228,7 @@
   "key_note": null
  },
  {
-  "id": "P-15",
+  "id": "PF-15",
   "topic": "patern",
   "origin": "recit",
   "src": "Uribe recitation situationer (2018) (adapted)",
@@ -243,7 +243,7 @@
   "key_note": null
  },
  {
-  "id": "P-16",
+  "id": "PF-16",
   "topic": "patern",
   "origin": "recit",
   "src": "Uribe CivRev 2025 recitation (Sep 27, 2025) (2025 Bar problem)",
@@ -258,7 +258,7 @@
   "key_note": null
  },
  {
-  "id": "P-17",
+  "id": "PF-17",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; FC 163)",
@@ -273,7 +273,7 @@
   "key_note": null
  },
  {
-  "id": "P-18",
+  "id": "PF-18",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC10",
@@ -290,7 +290,7 @@
   "key_note": null
  },
  {
-  "id": "P-19",
+  "id": "PF-19",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #11",
@@ -308,7 +308,7 @@
   "key_note": null
  },
  {
-  "id": "P-20",
+  "id": "PF-20",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF1 (= Quiz 5 #5)",
@@ -323,7 +323,7 @@
   "key_note": null
  },
  {
-  "id": "P-21",
+  "id": "PF-21",
   "topic": "patern",
   "origin": "bar",
   "src": "UP BOC – 2012 Bar MCQ",
@@ -340,24 +340,24 @@
   "key_note": null
  },
  {
-  "id": "P-22",
+  "id": "PF-22",
   "topic": "patern",
   "origin": "bar",
   "src": "UP BOC – 2009 Bar (adapted to MCQ)",
   "type": "mcq",
   "stem": "Rodolfo, married to Sharon, begot Rona with his secretary Nanette. He later acknowledged Rona and gave her regular support. Can he compel Rona to use his surname?",
   "choices": [
-   "No, because illegitimate children can never use the father's surname",
-   "Yes, because he supports her",
+   "Yes, because he acknowledged her",
    "No; under R.A. 9255 the illegitimate child MAY use the father's surname, and the choice is the child's (through the mother, who has sole parental authority, while the child is a minor)",
-   "Yes, because he acknowledged her"
+   "No, because illegitimate children can never use the father's surname",
+   "Yes, because he supports her"
   ],
-  "answer": 2,
+  "answer": 1,
   "explanation": "Art. 176 as amended: illegitimate children 'may' use the father's surname if he expressly recognized them. 'May' is permissive (Grande v. Antonio, 2014; Barcelote v. Republic, 2017). The mother has sole parental authority over an illegitimate child.",
   "key_note": null
  },
  {
-  "id": "P-23",
+  "id": "PF-23",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; FC 176)",
@@ -372,7 +372,7 @@
   "key_note": null
  },
  {
-  "id": "P-24",
+  "id": "PF-24",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; FC 176)",
@@ -387,24 +387,24 @@
   "key_note": null
  },
  {
-  "id": "P-25",
+  "id": "PF-25",
   "topic": "patern",
   "origin": "new",
   "src": "New (Osmeña de Valencia v. Rodriguez)",
   "type": "mcq",
   "stem": "The legitimate children of X sued to stop X's illegitimate children from using the surname of X. Will the suit prosper?",
   "choices": [
-   "Yes, because the use of the surname implies legitimacy",
-   "No, because the right of legitimate children to their father's surname creates no monopoly over it",
    "Yes, because only legitimate children have the right to the father's surname",
-   "No, because surnames are not property"
+   "Yes, because the use of the surname implies legitimacy",
+   "No, because surnames are not property",
+   "No, because the right of legitimate children to their father's surname creates no monopoly over it"
   ],
-  "answer": 1,
+  "answer": 3,
   "explanation": "Osmeña de Valencia v. Rodriguez: the article 'has marked a right of which legitimate children may not be deprived, but it cannot be interpreted as a prohibition against the use by others of what may happen to be the surname of their father. If plaintiff's theory were correct, they can stop countless inhabitants from bearing the surname \"Valencia.\"'",
   "key_note": null
  },
  {
-  "id": "P-26",
+  "id": "PF-26",
   "topic": "patern",
   "origin": "new",
   "src": "New (Moore; Naldoza)",
@@ -412,16 +412,16 @@
   "stem": "A mother whose first marriage ended petitioned for her legitimate minor son to use the surname of her second husband. Rule.",
   "choices": [
    "Deny; a legitimate child may not use the surname of a person who is not his father",
+   "Grant, since the stepfather supports the child",
    "Grant, in the best interest of the child",
-   "Grant, if the father consents",
-   "Grant, since the stepfather supports the child"
+   "Grant, if the father consents"
   ],
   "answer": 0,
   "explanation": "Moore v. Republic (1963): it may cause confusion as to the child's real paternity and prejudice him in the long run. Similarly, Naldoza v. Republic: minors may not, at the mother's behest alone, drop their father's surname for the mother's.",
   "key_note": null
  },
  {
-  "id": "P-27",
+  "id": "PF-27",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; Mangulabnan v. IAC)",
@@ -436,7 +436,7 @@
   "key_note": null
  },
  {
-  "id": "P-28",
+  "id": "PF-28",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC3",
@@ -453,7 +453,7 @@
   "key_note": null
  },
  {
-  "id": "P-29",
+  "id": "PF-29",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #14",
@@ -471,7 +471,7 @@
   "key_note": null
  },
  {
-  "id": "P-30",
+  "id": "PF-30",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC5",
@@ -488,7 +488,7 @@
   "key_note": null
  },
  {
-  "id": "P-31",
+  "id": "PF-31",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #16",
@@ -506,7 +506,7 @@
   "key_note": null
  },
  {
-  "id": "P-32",
+  "id": "PF-32",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF5",
@@ -521,7 +521,7 @@
   "key_note": null
  },
  {
-  "id": "P-33",
+  "id": "PF-33",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC1 (= Quiz 5 #12)",
@@ -539,7 +539,7 @@
   "key_note": null
  },
  {
-  "id": "P-34",
+  "id": "PF-34",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC2",
@@ -557,7 +557,7 @@
   "key_note": null
  },
  {
-  "id": "P-35",
+  "id": "PF-35",
   "topic": "patern",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #13",
@@ -575,7 +575,7 @@
   "key_note": null
  },
  {
-  "id": "P-36",
+  "id": "PF-36",
   "topic": "patern",
   "origin": "bar",
   "src": "QuAMTO – 1999 Bar (adapted)",
@@ -590,7 +590,7 @@
   "key_note": null
  },
  {
-  "id": "P-37",
+  "id": "PF-37",
   "topic": "patern",
   "origin": "bar",
   "src": "UP BOC – 2012 Bar MCQ",
@@ -607,7 +607,7 @@
   "key_note": null
  },
  {
-  "id": "P-38",
+  "id": "PF-38",
   "topic": "patern",
   "origin": "bar",
   "src": "UP BOC – 2011 Bar MCQ",
@@ -624,7 +624,7 @@
   "key_note": null
  },
  {
-  "id": "P-39",
+  "id": "PF-39",
   "topic": "patern",
   "origin": "bar",
   "src": "UP BOC – 2008 Bar (adapted)",
@@ -639,24 +639,24 @@
   "key_note": "Codal and bar answer: FALSE. Sir in 2025 endorsed Yap v. Yap; qualify in an essay."
  },
  {
-  "id": "P-40",
+  "id": "PF-40",
   "topic": "patern",
   "origin": "bar",
   "src": "QuAMTO – 2024 Bar (adapted to MCQ)",
   "type": "mcq",
   "stem": "Monica was born in 1990 during the marriage of Anton and Steph. In 2024 she learned that Patrick, Steph's ex-boyfriend who had died a year earlier, signed her birth certificate as father. She sued for partition of Patrick's estate, claiming to be his non-marital child. May she impugn her own legitimacy in the partition case?",
   "choices": [
-   "No, because Patrick is dead",
+   "Yes, because the birth certificate signed by Patrick is primary evidence",
    "No; legitimacy cannot be attacked collaterally, only the husband (or his heirs in proper cases) may impugn it, and the period has long lapsed",
-   "Yes, because the action to claim filiation does not prescribe",
-   "Yes, because the birth certificate signed by Patrick is primary evidence"
+   "No, because Patrick is dead",
+   "Yes, because the action to claim filiation does not prescribe"
   ],
   "answer": 1,
   "explanation": "The bar answer (Central Bar Q&A): Liyao; De Jesus v. Estate of Dizon; Arts. 170–171. This is the item Sir mentioned ('Eto ang naging tanong last year'). Sir prefers Yap v. Yap (truth over reputation), so in recitation add that view.",
   "key_note": null
  },
  {
-  "id": "P-41",
+  "id": "PF-41",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; FC 166)",
@@ -671,7 +671,7 @@
   "key_note": null
  },
  {
-  "id": "P-42",
+  "id": "PF-42",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; FC 166, Andal v. Macaraig)",
@@ -686,7 +686,7 @@
   "key_note": null
  },
  {
-  "id": "P-43",
+  "id": "PF-43",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; Macadangdang v. CA)",
@@ -701,24 +701,24 @@
   "key_note": null
  },
  {
-  "id": "P-44",
+  "id": "PF-44",
   "topic": "patern",
   "origin": "new",
   "src": "New (Jao v. CA)",
   "type": "mcq",
   "stem": "A blood grouping test shows that the child and the alleged father have incompatible blood types. What is its evidentiary value?",
   "choices": [
-   "It is inadmissible",
+   "It is merely corroborative of paternity",
    "It conclusively proves non-paternity",
    "It conclusively proves paternity",
-   "It is merely corroborative of paternity"
+   "It is inadmissible"
   ],
   "answer": 1,
   "explanation": "Jao v. CA (1987): 'Blood tests are conclusive as to non-paternity and inconclusive to paternity.' DNA testing can now establish paternity positively.",
   "key_note": null
  },
  {
-  "id": "P-45",
+  "id": "PF-45",
   "topic": "patern",
   "origin": "new",
   "src": "New (Lim v. IAC)",
@@ -735,7 +735,7 @@
   "key_note": null
  },
  {
-  "id": "P-46",
+  "id": "PF-46",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; FC 167, Chua Keng Giap)",
@@ -750,7 +750,7 @@
   "key_note": null
  },
  {
-  "id": "P-47",
+  "id": "PF-47",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; FC 169)",
@@ -765,7 +765,7 @@
   "key_note": null
  },
  {
-  "id": "P-48",
+  "id": "PF-48",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; FC 170–171)",
@@ -786,41 +786,41 @@
   "key_note": null
  },
  {
-  "id": "P-49",
+  "id": "PF-49",
   "topic": "patern",
   "origin": "new",
   "src": "New (FC 171)",
   "type": "mcq",
   "stem": "The heirs of the husband may impugn the filiation of the child in any of the following cases, EXCEPT:",
   "choices": [
-   "If the husband, during his lifetime, let the period to impugn lapse without filing an action",
-   "If the husband should die before the expiration of the period fixed for bringing his action",
    "If the child was born after the death of the husband",
-   "If he should die after the filing of the complaint without having desisted therefrom"
+   "If the husband should die before the expiration of the period fixed for bringing his action",
+   "If he should die after the filing of the complaint without having desisted therefrom",
+   "If the husband, during his lifetime, let the period to impugn lapse without filing an action"
   ],
-  "answer": 0,
+  "answer": 3,
   "explanation": "Art. 171. If the husband let the period lapse, the child's status became fixed, and the heirs cannot sue (Tolentino: the heirs act only in substitution of the husband).",
   "key_note": null
  },
  {
-  "id": "P-50",
+  "id": "PF-50",
   "topic": "patern",
   "origin": "new",
   "src": "New (Liyao; Yap)",
   "type": "mcq",
   "stem": "Under the codal provisions as applied in Liyao v. Tanhoti-Liyao, who may bring the action to impugn the legitimacy of a child born to a married woman?",
   "choices": [
+   "The child",
    "The alleged biological father",
-   "The mother",
    "The husband, or his heirs in the cases provided by law",
-   "The child"
+   "The mother"
   ],
   "answer": 2,
   "explanation": "Arts. 170–171; Liyao (2002): 'The child himself cannot choose his own filiation.' Uribe in 2025: Yap v. Yap (2022) now allows the child to establish filiation with the biological father, and he agrees with that ruling.",
   "key_note": null
  },
  {
-  "id": "P-51",
+  "id": "PF-51",
   "topic": "patern",
   "origin": "new",
   "src": "New (Uribe format; impugning)",
@@ -835,7 +835,7 @@
   "key_note": null
  },
  {
-  "id": "P-52",
+  "id": "PF-52",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF6",
@@ -850,7 +850,7 @@
   "key_note": null
  },
  {
-  "id": "P-53",
+  "id": "PF-53",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC4",
@@ -868,7 +868,7 @@
   "key_note": null
  },
  {
-  "id": "P-54",
+  "id": "PF-54",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #15",
@@ -886,7 +886,7 @@
   "key_note": "The class notes record 'D or E'. Answer D on the codal; explain E (Aquino; Yap) if there is room."
  },
  {
-  "id": "P-55",
+  "id": "PF-55",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe 1st Quiz (Civ Rev samplex) TF5 (annotated copy)",
@@ -901,7 +901,7 @@
   "key_note": "In the 2025 Quiz 2 discussion of the same statement, the class answered TRUE and Sir mused that 'may' is not mandatory (DNA; Aquino; Yap). The older key is FALSE, which is the codal answer."
  },
  {
-  "id": "P-56",
+  "id": "PF-56",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Midterm Exam (Civ Rev samplex) Part Two #45",
@@ -919,7 +919,7 @@
   "key_note": null
  },
  {
-  "id": "P-57",
+  "id": "PF-57",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Midterm Exam (Civ Rev samplex) Part One #8",
@@ -940,7 +940,7 @@
   "key_note": null
  },
  {
-  "id": "P-58",
+  "id": "PF-58",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Quiz No. 4 TF2",
@@ -955,7 +955,7 @@
   "key_note": null
  },
  {
-  "id": "P-59",
+  "id": "PF-59",
   "topic": "filiat",
   "origin": "bar",
   "src": "UP BOC – 2011 Bar MCQ",
@@ -972,7 +972,7 @@
   "key_note": null
  },
  {
-  "id": "P-60",
+  "id": "PF-60",
   "topic": "filiat",
   "origin": "bar",
   "src": "UP BOC – 2015 Bar (adapted)",
@@ -987,7 +987,7 @@
   "key_note": "Codal/bar answer: FALSE."
  },
  {
-  "id": "P-61",
+  "id": "PF-61",
   "topic": "filiat",
   "origin": "bar",
   "src": "UP BOC – 2015 Bar (adapted)",
@@ -1002,24 +1002,24 @@
   "key_note": "Bar answers differ; the UPLC answer (no) rests on NCC 2035(1)."
  },
  {
-  "id": "P-62",
+  "id": "PF-62",
   "topic": "filiat",
   "origin": "bar",
   "src": "UP BOC – 2009 Bar (adapted to MCQ)",
   "type": "mcq",
   "stem": "Four children were born to the spouses Conrado and Clarita; their birth certificates were signed by Conrado as their father. Later, Edilberto executed a notarial document acknowledging two of them as his illegitimate children with Clarita, and died. May the two share in Edilberto's estate?",
   "choices": [
+   "Yes, because Edilberto is their biological father",
    "No, because the acknowledgment was not in a will",
    "No; they are the legitimate children of Conrado and Clarita until Conrado successfully impugns their legitimacy, and a person cannot have two natural filiations",
-   "Yes, because a notarial acknowledgment is primary evidence of filiation",
-   "Yes, because Edilberto is their biological father"
+   "Yes, because a notarial acknowledgment is primary evidence of filiation"
   ],
-  "answer": 1,
+  "answer": 2,
   "explanation": "UPLC answer: their legitimate status was conferred by law at birth and can be changed only if the husband successfully impugns it. They cannot be the illegitimate children of Edilberto at the same time.",
   "key_note": null
  },
  {
-  "id": "P-63",
+  "id": "PF-63",
   "topic": "filiat",
   "origin": "recit",
   "src": "Uribe recitation situationer (2018)",
@@ -1034,7 +1034,7 @@
   "key_note": null
  },
  {
-  "id": "P-64",
+  "id": "PF-64",
   "topic": "filiat",
   "origin": "new",
   "src": "New (Uribe format; FC 172)",
@@ -1049,24 +1049,24 @@
   "key_note": null
  },
  {
-  "id": "P-65",
+  "id": "PF-65",
   "topic": "filiat",
   "origin": "new",
   "src": "New (FC 172)",
   "type": "mcq",
   "stem": "Which of the following is PRIMARY evidence of filiation under Article 172?",
   "choices": [
-   "The open and continuous possession of the status of a child",
-   "Testimony of relatives on family reputation",
+   "A baptismal certificate naming the father",
    "An admission of filiation in a private handwritten instrument signed by the parent concerned",
-   "A baptismal certificate naming the father"
+   "The open and continuous possession of the status of a child",
+   "Testimony of relatives on family reputation"
   ],
-  "answer": 2,
-  "explanation": "Art. 172, 1st par.: (1) the record of birth or a final judgment; (2) an admission in a public document or a private handwritten instrument signed by the parent. A and D are secondary; B is not proof of filiation (Mendoza v. IAC; Perla v. Baring).",
+  "answer": 1,
+  "explanation": "Art. 172, 1st par.: (1) the record of birth or a final judgment; (2) an admission in a public document or a private handwritten instrument signed by the parent. Possession of status and relatives' testimony are secondary evidence; a baptismal certificate is not proof of filiation (Mendoza v. IAC; Perla v. Baring).",
   "key_note": null
  },
  {
-  "id": "P-66",
+  "id": "PF-66",
   "topic": "filiat",
   "origin": "new",
   "src": "New (Uribe format; Lim v. CA)",
@@ -1081,24 +1081,24 @@
   "key_note": null
  },
  {
-  "id": "P-67",
+  "id": "PF-67",
   "topic": "filiat",
   "origin": "new",
   "src": "New (Mendoza v. CA)",
   "type": "mcq",
   "stem": "To establish open and continuous possession of the status of an illegitimate child, which must be shown?",
   "choices": [
-   "That the child lived with the father",
-   "That the father acknowledged the child in a public document",
    "That the child always used the father's surname",
-   "That the father treated the child as his own, directly and not through others, spontaneously and without concealment, with a permanent intention shown by continuous and clear manifestations of paternal affection and care"
+   "That the father acknowledged the child in a public document",
+   "That the father treated the child as his own, directly and not through others, spontaneously and without concealment, with a permanent intention shown by continuous and clear manifestations of paternal affection and care",
+   "That the child lived with the father"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "Mendoza v. CA (1991). 'Continuous' means not intermittent while it continues. Money given 'off-and-on' through relatives was not enough. Using the surname and living together are relevant but not decisive.",
   "key_note": null
  },
  {
-  "id": "P-68",
+  "id": "PF-68",
   "topic": "filiat",
   "origin": "new",
   "src": "New (Uribe format; FC 173)",
@@ -1113,24 +1113,24 @@
   "key_note": null
  },
  {
-  "id": "P-69",
+  "id": "PF-69",
   "topic": "filiat",
   "origin": "new",
   "src": "New (RPC 345; People v. Rizo; People v. Barranco)",
   "type": "mcq",
   "stem": "A married man is convicted of rape, and a child is born of the crime. The court may order him to:",
   "choices": [
-   "acknowledge the child as his legitimate child",
-   "acknowledge the child as his illegitimate child",
    "neither acknowledge nor support the child",
-   "support the child, but not acknowledge it"
+   "acknowledge the child as his legitimate child",
+   "support the child, but not acknowledge it",
+   "acknowledge the child as his illegitimate child"
   ],
-  "answer": 3,
+  "answer": 2,
   "explanation": "RPC 345: acknowledge the offspring 'unless the law should prevent him from so doing', and 'in every case' support it. A married offender cannot be compelled to recognize the child (People v. Rizo; People v. Barranco).",
   "key_note": null
  },
  {
-  "id": "P-70",
+  "id": "PF-70",
   "topic": "filiat",
   "origin": "new",
   "src": "New (Uribe format; Dempsey v. RTC)",
@@ -1145,7 +1145,7 @@
   "key_note": null
  },
  {
-  "id": "P-71",
+  "id": "PF-71",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe CivRev Midterm (with Prof's answer) #4",
@@ -1166,7 +1166,7 @@
   "key_note": "The class answered D (No. 2 true); Prof's answer was B."
  },
  {
-  "id": "P-72",
+  "id": "PF-72",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #3 (= Quiz No. 4 TF3)",
@@ -1181,7 +1181,7 @@
   "key_note": null
  },
  {
-  "id": "P-73",
+  "id": "PF-73",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe CivRev 2025 Quiz 5 (Sep 27, 2025) #4 (= Quiz No. 4 TF4)",
@@ -1196,7 +1196,7 @@
   "key_note": null
  },
  {
-  "id": "P-74",
+  "id": "PF-74",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Quiz No. 4 TF5",
@@ -1211,7 +1211,7 @@
   "key_note": null
  },
  {
-  "id": "P-75",
+  "id": "PF-75",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF7",
@@ -1226,7 +1226,7 @@
   "key_note": null
  },
  {
-  "id": "P-76",
+  "id": "PF-76",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF8",
@@ -1241,7 +1241,7 @@
   "key_note": null
  },
  {
-  "id": "P-77",
+  "id": "PF-77",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Midterm Exam (Civ Rev samplex) Part One #9",
@@ -1262,7 +1262,7 @@
   "key_note": null
  },
  {
-  "id": "P-78",
+  "id": "PF-78",
   "topic": "filiat",
   "origin": "samplex",
   "src": "Uribe Midterm Exam (Civ Rev samplex) Part Two #47",
@@ -1280,7 +1280,7 @@
   "key_note": null
  },
  {
-  "id": "P-79",
+  "id": "PF-79",
   "topic": "filiat",
   "origin": "bar",
   "src": "UP BOC – 2011 Bar MCQ",
@@ -1297,7 +1297,7 @@
   "key_note": null
  },
  {
-  "id": "P-80",
+  "id": "PF-80",
   "topic": "filiat",
   "origin": "bar",
   "src": "UP BOC – 2011 Bar MCQ",
@@ -1314,7 +1314,7 @@
   "key_note": null
  },
  {
-  "id": "P-81",
+  "id": "PF-81",
   "topic": "filiat",
   "origin": "bar",
   "src": "UP BOC – 2010 Bar (adapted)",
@@ -1329,7 +1329,7 @@
   "key_note": null
  },
  {
-  "id": "P-82",
+  "id": "PF-82",
   "topic": "filiat",
   "origin": "bar",
   "src": "UP BOC – 2009 Bar (True or False)",
@@ -1344,7 +1344,7 @@
   "key_note": null
  },
  {
-  "id": "P-83",
+  "id": "PF-83",
   "topic": "filiat",
   "origin": "bar",
   "src": "QuAMTO – 2018 Bar (adapted)",
@@ -1359,7 +1359,7 @@
   "key_note": null
  },
  {
-  "id": "P-84",
+  "id": "PF-84",
   "topic": "filiat",
   "origin": "recit",
   "src": "Uribe CivRev 2025 recitation (Sep 27, 2025) (adapted)",
@@ -1374,16 +1374,16 @@
   "key_note": null
  },
  {
-  "id": "P-85",
+  "id": "PF-85",
   "topic": "filiat",
   "origin": "recit",
   "src": "Uribe recitation situationer (2018) (adapted to MCQ)",
   "type": "mcq",
   "stem": "A and B, both 25 and single, lived together, and C was conceived. Before C's birth, B married X. C was born during that marriage, and X later died. A and B then married each other. Under Sir's analysis, was C legitimated?",
   "choices": [
-   "No, because legitimation requires conception and birth outside of wedlock",
-   "Yes, because A acknowledged C",
    "No, because C was born while B was married to X",
+   "Yes, because A acknowledged C",
+   "No, because legitimation requires conception and birth outside of wedlock",
    "Yes, because the law requires only that there was no impediment at the time of conception"
   ],
   "answer": 3,
@@ -1391,7 +1391,7 @@
   "key_note": "Sir's recorded answer; the Art. 164 presumption in favor of X is an issue to flag in an essay."
  },
  {
-  "id": "P-86",
+  "id": "PF-86",
   "topic": "filiat",
   "origin": "new",
   "src": "New (Uribe format; FC 177)",
@@ -1406,7 +1406,7 @@
   "key_note": null
  },
  {
-  "id": "P-87",
+  "id": "PF-87",
   "topic": "filiat",
   "origin": "new",
   "src": "New (Uribe format; FC 178)",
@@ -1421,41 +1421,41 @@
   "key_note": null
  },
  {
-  "id": "P-88",
+  "id": "PF-88",
   "topic": "filiat",
   "origin": "new",
   "src": "New (FC 177)",
   "type": "mcq",
   "stem": "X, married to Y, had a child, C, with Z, who was single. After Y died, X married Z. Was C legitimated?",
   "choices": [
-   "Yes, by the subsequent valid marriage of X and Z",
    "No, because X was disqualified by an impediment (his existing marriage) at the time of C's conception",
-   "Yes, retroactive to C's birth",
-   "No, because X did not acknowledge C"
+   "Yes, by the subsequent valid marriage of X and Z",
+   "No, because X did not acknowledge C",
+   "Yes, retroactive to C's birth"
   ],
-  "answer": 1,
+  "answer": 0,
   "explanation": "Art. 177: the impediment is tested at conception; its later disappearance does not help (Tolentino). Tolentino notes the inconsistency: had X and Z contracted a void bigamous marriage, C would have been legitimate under Art. 54 if that marriage was under Art. 53.",
   "key_note": null
  },
  {
-  "id": "P-89",
+  "id": "PF-89",
   "topic": "filiat",
   "origin": "new",
   "src": "New (FC 180–181)",
   "type": "mcq",
   "stem": "Which statement on the effects of legitimation is correct?",
   "choices": [
-   "Legitimation retroacts to the time of the child's birth, and the legitimation of children who died before the marriage benefits their descendants",
    "Legitimation takes effect from the date of the subsequent marriage",
    "Legitimated children have the rights of illegitimate children until they reach majority",
+   "Legitimation retroacts to the time of the child's birth, and the legitimation of children who died before the marriage benefits their descendants",
    "Legitimation of a child who died before the marriage benefits no one"
   ],
-  "answer": 0,
+  "answer": 2,
   "explanation": "Arts. 180 and 181. Art. 179: legitimated children enjoy the same rights as legitimate children.",
   "key_note": null
  },
  {
-  "id": "P-90",
+  "id": "PF-90",
   "topic": "filiat",
   "origin": "new",
   "src": "New (Uribe format; FC 182)",

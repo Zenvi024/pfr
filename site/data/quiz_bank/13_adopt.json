@@ -1,0 +1,447 @@
+[
+ {
+  "id": "AD-1",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF2; Civ Rev samplex T/F compilation #46",
+  "type": "tf",
+  "stem": "Only minors may be adopted.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "FC 183, 2nd par. already allowed adults in the cases provided (FC 187(1)): a child by nature of the adopter or his spouse, or one consistently treated as the adopter's own during minority. R.A. 11642, Sec. 22(c), (d), (h): an illegitimate child by a qualified adopter, a Filipino of legal age treated as their own for at least 3 years, a relative of the adopter. Key note: 'Illegitimate child may be adopted by parent regardless of age.'",
+  "key_note": null
+ },
+ {
+  "id": "AD-2",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe Quiz No. 4 (Civil Law Reviewer copy) TF6",
+  "type": "tf",
+  "stem": "The adopter must be at least sixteen years older than the adoptee.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The 16-year gap may be waived when the adopter is the biological parent of the adoptee or the spouse of the adoptee's parent (R.A. 8552, Sec. 7; R.A. 11642, Sec. 21(a)). Discussion: 'This is just the general rule. There are exceptions.'",
+  "key_note": null
+ },
+ {
+  "id": "AD-3",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 adoption quiz discussion (legal age item)",
+  "type": "tf",
+  "stem": "A Filipino citizen of legal age, in possession of full civil capacity and legal rights, may adopt.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Under R.A. 11642, Sec. 21(a), the adopter must be at least TWENTY-FIVE. Sir: 'Kung sinabi mong at least of legal age, pwede na 19 or 18. But when the law requires 25, kung 24 palang siya, di pa siya pwedeng mag-adopt.' (Under R.A. 8552 and the FC, legal age was enough, which still governs petitions filed then.)",
+  "key_note": null
+ },
+ {
+  "id": "AD-4",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2 (Aug 28, 2025) #7",
+  "type": "tf",
+  "stem": "Husband and wife must jointly adopt if one seeks to adopt his own illegitimate child.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Sir: 'The law provides that consent is only needed and not adopt jointly. Consent ≠ Joint Adoption.' One spouse may adopt alone (1) the legitimate child of the other, (2) his own illegitimate child, with the other spouse's consent, or (3) if legally separated (R.A. 8552, Sec. 7; R.A. 11642, Sec. 21).",
+  "key_note": null
+ },
+ {
+  "id": "AD-5",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC8; Civ Rev samplex quiz #19",
+  "type": "mcq",
+  "stem": "In case of adoption, husband and wife shall exercise joint parental authority in the following cases, except:",
+  "choices": [
+   "If husband and wife jointly adopt",
+   "One spouse adopts the [legitimate] child of the other",
+   "One spouse seeks to adopt his own illegitimate child",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Joint parental authority: joint adoption, or one spouse adopting the legitimate child of the other (FC 186; R.A. 11642, Sec. 42). Key note on (c): 'the adopting spouse needs the consent of the other, but this doesn't mean that they must jointly adopt. Consent does not lead to parental authority.' (Some copies print (b) as 'the illegitimate child of the other'; the law says legitimate.)",
+  "key_note": null
+ },
+ {
+  "id": "AD-6",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Civ Rev samplex quiz #17",
+  "type": "mcq",
+  "stem": "The consent of the following is required to the adoption, except:",
+  "choices": [
+   "Adoptee, if 10 years old or over",
+   "Biological parents of adoptee, if known",
+   "Spouse of adopter",
+   "Parents of adopter",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 3,
+  "explanation": "Sec. 9, R.A. 8552; Sec. 23, R.A. 11642: the adoptee 10 or over; biological parents or guardian; legitimate and adopted children 10 or over; illegitimate children 10 or over living with the adopter; spouses of the adopter and adoptee. The adopter's parents are not listed. Sir: under R.A. 11642 the adoptee inherits from the adopter's parents (Sec. 41), yet their consent is not required.",
+  "key_note": null
+ },
+ {
+  "id": "AD-7",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC6",
+  "type": "mcq",
+  "stem": "The consent of the following is not required, except:",
+  "choices": [
+   "Adoptee, if 7 years or over",
+   "Siblings of adoptee, if known",
+   "Spouse of adoptee",
+   "Parents of adopter",
+   "All of the above",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "The spouse of the person to be adopted must consent (an adult may be adopted, so he may be married). The age for the adoptee's consent is 10, not 7; the adoptee's siblings and the adopter's parents are not listed.",
+  "key_note": null
+ },
+ {
+  "id": "AD-8",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC7; Civ Rev samplex quiz #18",
+  "type": "mcq",
+  "stem": "The following are necessary for a Filipino to be able to adopt, except:",
+  "choices": [
+   "Of legal age",
+   "Of good moral character",
+   "Has not been convicted of any crime involving moral turpitude",
+   "Emotionally and psychologically capable of caring for children",
+   "None of the above"
+  ],
+  "answer": 0,
+  "explanation": "Sir's basis in the 2025 discussion: (a), because R.A. 11642 requires the adopter to be at least 25; legal age is not enough. Under R.A. 8552 (and older keys) the answer was (e) none of the above. One copy of this item reads 'not been convicted of a crime with penalty of more than 6 years', which is also not the statutory test (moral turpitude).",
+  "key_note": "Older keys: (e). Sir's R.A. 11642 discussion: (a)."
+ },
+ {
+  "id": "AD-9",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) MC9; Civ Rev samplex quiz #20",
+  "type": "mcq",
+  "stem": "The following are necessary for an alien to be able to adopt, except:",
+  "choices": [
+   "In a position to support and care for his children",
+   "Of good moral character",
+   "Has not been convicted of any crime involving moral turpitude",
+   "Emotionally and psychologically capable of caring for children",
+   "None of the above"
+  ],
+  "answer": 4,
+  "explanation": "An alien must have the same qualifications as a Filipino adopter, plus residence (3 years under R.A. 8552; 5 under R.A. 11642), diplomatic relations, and the home country's recognition of the adoption. All four listed are required. Key: 'None of the above.' (The residency requirement may be waived in three cases.)",
+  "key_note": null
+ },
+ {
+  "id": "AD-10",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Civ Rev samplex T/F compilation #47",
+  "type": "tf",
+  "stem": "Legitimate and illegitimate children and descendants and the surviving spouse of the adopted shall inherit from the adopted, in accordance with the ordinary rules of legal or intestate succession.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim FC 190(1). 'This is a verbatim provision.'",
+  "key_note": null
+ },
+ {
+  "id": "AD-11",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Uribe Quiz No. 4 (Civil Law Reviewer copy) TF7",
+  "type": "tf",
+  "stem": "When the surviving spouse or the illegitimate children of the adopted concur with the adopters, they shall divide the entire estate in equal shares, one-half to be inherited by the spouse or the illegitimate children of the adopted and the other half, by the adopters.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim FC 190(3).",
+  "key_note": null
+ },
+ {
+  "id": "AD-12",
+  "topic": "adopt",
+  "origin": "samplex",
+  "src": "Old Uribe quiz (pre-R.A. 11642 key)",
+  "type": "tf",
+  "stem": "Domestic adoption is essentially judicial.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Keyed TRUE in an old quiz (FC, R.A. 8552: decree by the court). Under R.A. 11642 (2022) domestic adoption is ADMINISTRATIVE: the NACC issues the Order of Adoption, appealable to the Court of Appeals. Answer with the current law, noting the old key if allowed.",
+  "key_note": "Old key TRUE; under R.A. 11642, FALSE."
+ },
+ {
+  "id": "AD-13",
+  "topic": "adopt",
+  "origin": "recit",
+  "src": "Uribe CivRev 2025 adoption quiz discussion (law governing)",
+  "type": "mcq",
+  "stem": "A petition for adoption was filed in 2019 under R.A. 8552 by a 22-year-old Filipino. R.A. 11642 took effect while it was pending. Which statement is correct?",
+  "choices": [
+   "The petition must be dismissed because the adopter is below 25",
+   "The law in force when the petition was filed governs, so the petitioner's qualification under R.A. 8552 is respected",
+   "The petition is automatically converted to an administrative one and the 25-year rule applies",
+   "The petitioner must refile with the NACC"
+  ],
+  "answer": 1,
+  "explanation": "Sir: 'If the petition was filed during the effectivity of those laws, those laws will apply whether or not that petition should be granted.' Republic v. Miller; Republic v. CA & Bobiles (vested right to adopt). R.A. 11642, Sec. 56 lets pending judicial petitions be withdrawn and refiled to avail of the Act, but does not require it.",
+  "key_note": null
+ },
+ {
+  "id": "AD-14",
+  "topic": "adopt",
+  "origin": "bar",
+  "src": "2014 Bar (adapted)",
+  "type": "mcq",
+  "stem": "Spouses Esteban and Maria raised their minor nieces Faith and Hope. Esteban died; Maria married Daniel, a British national living in the Philippines for two years. With Daniel's permission, Maria alone petitioned to adopt the girls. How should the petition be resolved?",
+  "choices": [
+   "Granted, because Daniel consented",
+   "Granted, because the girls are Maria's relatives within the 4th degree",
+   "Dismissed, because spouses must adopt jointly and none of the exceptions applies",
+   "Granted, because Esteban raised the girls"
+  ],
+  "answer": 2,
+  "explanation": "Joint adoption is mandatory except when one spouse adopts the legitimate child of the other, his or her own illegitimate child (with the other's consent), or when they are legally separated (In re Adoption of Lim). Daniel would also have to qualify as an alien adopter in his own right.",
+  "key_note": null
+ },
+ {
+  "id": "AD-15",
+  "topic": "adopt",
+  "origin": "bar",
+  "src": "2012 Bar; In re Adoption of Michelle Lim (adapted)",
+  "type": "mcq",
+  "stem": "Monina, a widow, married Angel, an American, and alone petitioned to adopt Michelle (25) and Michael (18), whose births she and her late husband had simulated. Angel consented. Is dismissal proper?",
+  "choices": [
+   "Yes; adults can never be adopted",
+   "No; Angel's consent suffices",
+   "Yes; spouses must adopt jointly, and Angel must himself qualify as an alien adopter",
+   "No; the adoptees are emancipated, so joint parental authority is unnecessary"
+  ],
+  "answer": 2,
+  "explanation": "Lim (2009): 'shall' makes joint adoption mandatory; parental authority is only one effect of adoption, so the adoptees' majority does not matter; Olario's consent cannot substitute for his own qualifications (residency and certification).",
+  "key_note": null
+ },
+ {
+  "id": "AD-16",
+  "topic": "adopt",
+  "origin": "bar",
+  "src": "2003 Bar (adapted)",
+  "type": "mcq",
+  "stem": "Lina, a former Filipino now an American citizen, and her American husband want to jointly adopt Lina's minor brother. They have never lived in the Philippines. May they?",
+  "choices": [
+   "Yes, both qualify because Lina is a former Filipino",
+   "Lina qualifies (residency waived for a former Filipino adopting a relative within the 4th degree), but her husband must meet the residency requirement; without it they cannot adopt",
+   "Yes, if the brother consents",
+   "No, aliens can never adopt"
+  ],
+  "answer": 1,
+  "explanation": "Each spouse in a joint adoption must be qualified (Republic v. Toledano). The husband's residency is waived only if he adopts jointly with a FILIPINO spouse a relative of that spouse; Lina is no longer Filipino.",
+  "key_note": null
+ },
+ {
+  "id": "AD-17",
+  "topic": "adopt",
+  "origin": "bar",
+  "src": "2010 Bar (adapted)",
+  "type": "mcq",
+  "stem": "Rex and Lea have children aged 14 and 8. Rex has a 10-year-old illegitimate child by another woman. Lea obtained a decree of legal separation. Whose consent does Rex need to adopt his illegitimate child?",
+  "choices": [
+   "Only the adoptee's biological mother",
+   "The 14-year-old, the 10-year-old adoptee, and the adoptee's biological mother",
+   "Lea, the 14-year-old, the 8-year-old and the adoptee",
+   "Lea and the adoptee only"
+  ],
+  "answer": 1,
+  "explanation": "Legitimate children 10 or over, the adoptee 10 or over, and the biological parent. The 8-year-old is only counseled. Lea's consent is unnecessary after legal separation; without it, Rex could still adopt alone but with Lea's consent.",
+  "key_note": null
+ },
+ {
+  "id": "AD-18",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (R.A. 11642, Sec. 22(g))",
+  "type": "tf",
+  "stem": "Proceedings for the adoption of a child whose biological parents have died may be initiated one month after their death.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "No proceedings within SIX MONTHS from the time of death of the parents (Sec. 22(g); also R.A. 8552, Sec. 8(f)).",
+  "key_note": null
+ },
+ {
+  "id": "AD-19",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (R.A. 11642, Sec. 41)",
+  "type": "tf",
+  "stem": "Under R.A. 11642, the legitimate filiation created by adoption is limited to the adopter and the adoptee.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Sec. 41 extends it to the adopter's parents, legitimate siblings and legitimate descendants. Under the FC and R.A. 8552 the relationship was personal to adopter and adopted (2007 Bar: an adopted granddaughter could not represent).",
+  "key_note": null
+ },
+ {
+  "id": "AD-20",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (R.A. 11642, Sec. 47)",
+  "type": "tf",
+  "stem": "The adopter may petition for the rescission of the adoption on any ground for disinheritance.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Since R.A. 8552, adoption is not subject to rescission by the adopter; he may only disinherit the adoptee for causes in NCC 919 (Sec. 47; Lahom v. Sibulo).",
+  "key_note": null
+ },
+ {
+  "id": "AD-21",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (R.A. 11642, Sec. 47)",
+  "type": "mcq",
+  "stem": "Under R.A. 11642, which is NOT a ground for the adoptee to rescind the adoption?",
+  "choices": [
+   "Abandonment and failure to comply with parental obligations",
+   "The adopter's remarriage",
+   "Repeated physical or verbal maltreatment by the adopter despite counseling",
+   "Attempt on the life of the adoptee"
+  ],
+  "answer": 1,
+  "explanation": "Sec. 47 lists three grounds. (R.A. 8552, Sec. 19 also had 'sexual assault or violence'.)",
+  "key_note": null
+ },
+ {
+  "id": "AD-22",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (Lahom v. Sibulo)",
+  "type": "mcq",
+  "stem": "Spouses adopted their nephew in 1972. In 1999, after R.A. 8552 took effect, the widow sought to rescind the adoption because he neglected her and refused to use her surname. What is the ruling?",
+  "choices": [
+   "Denied, because only the adoptee's biological parents may rescind",
+   "Granted, since the right to rescind vested in 1972",
+   "Denied; R.A. 8552 removed the adopter's right to rescind, and in any case the action had prescribed; she may disinherit him instead",
+   "Granted, because neglect is a ground for disinheritance"
+  ],
+  "answer": 2,
+  "explanation": "Lahom v. Sibulo (2003).",
+  "key_note": null
+ },
+ {
+  "id": "AD-23",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (Tamargo v. CA)",
+  "type": "mcq",
+  "stem": "A 10-year-old boy living with his natural parents shot a playmate after a petition for his adoption had been filed but before the decree. Who is liable for damages?",
+  "choices": [
+   "The State",
+   "The adopters, because the decree retroacts to the filing of the petition",
+   "The natural parents, who had actual custody when the act was done",
+   "No one, since parental authority was in transition"
+  ],
+  "answer": 2,
+  "explanation": "Tamargo (1992): retroactivity benefits the child; it does not impose liability on adopters who had no custody yet.",
+  "key_note": null
+ },
+ {
+  "id": "AD-24",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (Cang v. CA)",
+  "type": "mcq",
+  "stem": "When may the written consent of a biological parent to the adoption be dispensed with?",
+  "choices": [
+   "When the parent is divorced",
+   "When the adopters are wealthier",
+   "When the parent lives abroad",
+   "When the parent has abandoned the child, or is insane or hopelessly intemperate"
+  ],
+  "answer": 3,
+  "explanation": "Cang v. CA (1998); Duncan v. CFI. Abandonment means a settled purpose to forgo all parental duties; occasional support and letters negate it.",
+  "key_note": null
+ },
+ {
+  "id": "AD-25",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (Sec. 41; Stephanie Garcia)",
+  "type": "mcq",
+  "stem": "Honorato adopted his illegitimate daughter Stephanie, whose mother is Gemma Astorga Garcia. May Stephanie use 'Garcia' as her middle name?",
+  "choices": [
+   "Yes; no law prohibits it, and it preserves her maternal lineage",
+   "No, an adoptee may use only the adopter's surname",
+   "Only with the mother's written consent",
+   "Only if Honorato is married to Gemma"
+  ],
+  "answer": 0,
+  "explanation": "In re Adoption of Stephanie Nathy Astorga Garcia (2005); 1996, 2006, 2012 Bar.",
+  "key_note": null
+ },
+ {
+  "id": "AD-26",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (R.A. 11222, Secs. 4–5)",
+  "type": "mcq",
+  "stem": "Which is NOT a condition for availing of rectification of a simulated birth record without liability under R.A. 11222?",
+  "choices": [
+   "The simulation was made before the law took effect",
+   "The simulation was for the best interest of the child",
+   "The child was consistently considered and treated as their own",
+   "The simulating parents are related to the child within the 4th degree",
+   "The petition is filed within 10 years from the law's effectivity"
+  ],
+  "answer": 3,
+  "explanation": "Sec. 4 lists the first four. For the administrative route (Sec. 5), the child must also have lived with them for at least 3 years before effectivity, and a CDCLAA must issue. Kinship is not required.",
+  "key_note": null
+ },
+ {
+  "id": "AD-27",
+  "topic": "adopt",
+  "origin": "new",
+  "src": "New (R.A. 11642, Sec. 54(b))",
+  "type": "tf",
+  "stem": "Under R.A. 11642, simulation of birth is punished by imprisonment of eight years and one day to ten years and a fine not exceeding ₱50,000.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Sec. 54(b). Other violations (coercing consent, noncompliance with procedures, exposing the child to danger) carry 6 years and 1 day to 12 years and/or ₱50,000 to ₱200,000 (Sec. 54(a)).",
+  "key_note": null
+ }
+]

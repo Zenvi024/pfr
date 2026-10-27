@@ -1,0 +1,245 @@
+[
+ {
+  "id": "AB-1",
+  "topic": "absence",
+  "origin": "samplex",
+  "src": "Uribe succession quiz compilation #16",
+  "type": "mcq",
+  "stem": "X, who was not in danger of death, disappeared at the age of 76. It being unknown whether or not he still lives, he shall be presumed dead for purposes of succession after an absence of:",
+  "choices": [
+   "1 year",
+   "5 years",
+   "7 years",
+   "10 years",
+   "2 years from disappearance"
+  ],
+  "answer": 1,
+  "explanation": "Art. 390, 2nd par.: 'If he disappeared after the age of seventy-five years, an absence of five years shall be sufficient in order that his succession may be opened.'",
+  "key_note": null
+ },
+ {
+  "id": "AB-2",
+  "topic": "absence",
+  "origin": "samplex",
+  "src": "Uribe succession quiz compilation #19 (second set)",
+  "type": "mcq",
+  "stem": "X, in danger of death, disappeared at the age of 76. It being unknown whether or not he still lives, he shall be presumed dead for purposes of succession after an absence of:",
+  "choices": [
+   "One year",
+   "5 years",
+   "Seven years",
+   "10 years",
+   "2 years",
+   "4 years from his disappearance"
+  ],
+  "answer": 5,
+  "explanation": "Art. 391(3): a person in danger of death whose existence has not been known for four years is presumed dead for all purposes, including the division of the estate. Age is irrelevant in Art. 391.",
+  "key_note": null
+ },
+ {
+  "id": "AB-3",
+  "topic": "absence",
+  "origin": "samplex",
+  "src": "Uribe succession quiz compilation #19 (third set)",
+  "type": "mcq",
+  "stem": "X, who was not in danger of death, disappeared at age 69. It being unknown whether or not he lives, he is presumed dead for succession after an absence of:",
+  "choices": [
+   "1 year",
+   "5 years",
+   "7 years",
+   "10 years",
+   "2 years from disappearance"
+  ],
+  "answer": 3,
+  "explanation": "Art. 390, 2nd par.: ten years (he was not over 75).",
+  "key_note": null
+ },
+ {
+  "id": "AB-4",
+  "topic": "absence",
+  "origin": "samplex",
+  "src": "Uribe succession quiz compilation TF10",
+  "type": "tf",
+  "stem": "The absentee shall not be presumed dead for the purpose of opening his succession till after an absence of ten years.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Keyed FALSE. The sentence copies Art. 390, 2nd par., but drops the rest: five years suffice if he disappeared after 75, and four years under Art. 391 if he disappeared in danger of death. Sir's 'absolutely true' standard makes it false.",
+  "key_note": "Keyed FALSE although it copies the first sentence of Art. 390, 2nd par."
+ },
+ {
+  "id": "AB-5",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 384)",
+  "type": "tf",
+  "stem": "Two years having elapsed without any news about the absentee or since the receipt of the last news, and five years in case the absentee has left a person in charge of the administration of his property, his absence may be declared.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Verbatim Art. 384.",
+  "key_note": null
+ },
+ {
+  "id": "AB-6",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 386)",
+  "type": "tf",
+  "stem": "The judicial declaration of absence shall take effect upon its publication in a newspaper of general circulation.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 386: not until SIX MONTHS after its publication.",
+  "key_note": null
+ },
+ {
+  "id": "AB-7",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 385)",
+  "type": "tf",
+  "stem": "The relatives or friends of the absentee may ask for the declaration of absence.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 385 lists: (1) the spouse present, (2) the heirs instituted in a will, (3) the relatives who may succeed by intestacy, (4) those with a right over his property subordinated to his death. A FRIEND may only ask for a provisional representative (Art. 381).",
+  "key_note": null
+ },
+ {
+  "id": "AB-8",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 390)",
+  "type": "tf",
+  "stem": "After an absence of seven years, it being unknown whether or not the absentee still lives, he shall be presumed dead for all purposes.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 390: 'for all purposes, EXCEPT for those of succession.'",
+  "key_note": null
+ },
+ {
+  "id": "AB-9",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 391)",
+  "type": "tf",
+  "stem": "A person on board a vessel lost during a sea voyage, who has not been heard of for four years since the loss of the vessel, shall be presumed dead for all purposes except the division of his estate.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 391: 'for all purposes, INCLUDING the division of the estate among the heirs.'",
+  "key_note": null
+ },
+ {
+  "id": "AB-10",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 392)",
+  "type": "tf",
+  "stem": "If the absentee appears, he shall recover his property in the condition in which it may be found, together with its fruits and rents.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 392: 'but he cannot claim either fruits or rents.'",
+  "key_note": null
+ },
+ {
+  "id": "AB-11",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Art. 388)",
+  "type": "tf",
+  "stem": "The wife appointed administratrix of her absent husband's property may alienate or encumber it in the course of administration.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 388: not without judicial authority.",
+  "key_note": null
+ },
+ {
+  "id": "AB-12",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (FC 41)",
+  "type": "mcq",
+  "stem": "For the spouse present to remarry, how long must the absent spouse have been missing under ordinary circumstances (no danger of death)?",
+  "choices": [
+   "Four consecutive years",
+   "Seven years",
+   "Two years",
+   "Ten years"
+  ],
+  "answer": 0,
+  "explanation": "FC 41: four consecutive years and a well-founded belief of death, plus a summary judicial declaration of presumptive death; two years if there was danger of death under Art. 391.",
+  "key_note": null
+ },
+ {
+  "id": "AB-13",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Reyes v. Alejandro; Tol-Noquera)",
+  "type": "mcq",
+  "stem": "Which statement on the declaration of absence is correct?",
+  "choices": [
+   "Only the spouse may ask for it",
+   "It is always required before a spouse may administer the absentee's property, in a separate prior case",
+   "It is needed when the absentee has property to be administered, and the petition may be combined with one for administration",
+   "It is needed merely to establish the fact of absence"
+  ],
+  "answer": 2,
+  "explanation": "Reyes v. Alejandro; Tol-Noquera v. Villamor; Peyer v. Martinez. The rules protect the absentee's property, not the administrator.",
+  "key_note": null
+ },
+ {
+  "id": "AB-14",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Eastern Shipping v. Lucero)",
+  "type": "mcq",
+  "stem": "The ship's last messages reported that it was sinking and the crew abandoning ship; nothing more was heard. Two months later, the captain's wife claims his monthly allotments, arguing he cannot be presumed dead until four years pass. Is she right?",
+  "choices": [
+   "No, because seven years are required",
+   "Yes, Art. 391(1) requires four years",
+   "No; where facts lead to a moral certainty of death, the presumption yields to the preponderance of evidence, so she gets death benefits instead",
+   "Yes, until a court declares him dead"
+  ],
+  "answer": 2,
+  "explanation": "Eastern Shipping Lines v. Lucero (1983), citing Joaquin v. Navarro.",
+  "key_note": null
+ },
+ {
+  "id": "AB-15",
+  "topic": "absence",
+  "origin": "new",
+  "src": "New (Art. 393; Tolentino's example)",
+  "type": "mcq",
+  "stem": "X disappeared in 1940. Y died in 1942 instituting X as heir. In 1950 X's children claim the inheritance. What must they prove?",
+  "choices": [
+   "That seven years have passed",
+   "Nothing; the presumption of death suffices",
+   "That X is now dead",
+   "That X was alive when Y died in 1942"
+  ],
+  "answer": 3,
+  "explanation": "Art. 393: whoever claims a right of a person whose existence is not recognized must prove that he was living when his existence was necessary to acquire it.",
+  "key_note": null
+ }
+]

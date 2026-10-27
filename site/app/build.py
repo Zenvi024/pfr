@@ -25,6 +25,8 @@ def load(p, default):
 cfg = json.load(open(os.path.join(A.data, 'course.config.json')))
 items = []
 for f in sorted(glob.glob(os.path.join(A.data, 'quiz_bank', '*.json'))): items += json.load(open(f))
+_dup = [k for k in set(x['id'] for x in items) if sum(1 for y in items if y['id'] == k) > 1]
+assert not _dup, f'duplicate quiz item ids: {sorted(_dup)[:5]}'
 data = []
 for x in items:
     o = {'i': x['id'], 't': x['topic'], 'o': x['origin'], 's': x.get('src', ''), 'y': x['type'], 'q': x.get('stem', ''),

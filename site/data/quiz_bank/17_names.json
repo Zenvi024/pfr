@@ -1,0 +1,241 @@
+[
+ {
+  "id": "NM-1",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 370)",
+  "type": "tf",
+  "stem": "A married woman shall use her husband's surname.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 370: she MAY use it in one of three ways; it is permissive (Tolentino; Remo v. Sec. of Foreign Affairs).",
+  "key_note": null
+ },
+ {
+  "id": "NM-2",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 371)",
+  "type": "tf",
+  "stem": "In case of annulment of marriage, the wife, whether guilty or innocent, shall resume her maiden name and surname.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Only the GUILTY wife shall resume; the innocent wife MAY resume or keep the husband's surname, unless the court decrees otherwise or either of them remarries.",
+  "key_note": null
+ },
+ {
+  "id": "NM-3",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 372)",
+  "type": "tf",
+  "stem": "When legal separation has been granted, the wife may resume her maiden name and surname.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 372: she SHALL CONTINUE using the name and surname she employed before the legal separation; the marriage bond subsists.",
+  "key_note": null
+ },
+ {
+  "id": "NM-4",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 373)",
+  "type": "tf",
+  "stem": "A widow may use the deceased husband's surname as though he were still living.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 373; optional (Tolentino).",
+  "key_note": null
+ },
+ {
+  "id": "NM-5",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 375)",
+  "type": "tf",
+  "stem": "In case of identity of names and surnames between ascendants and descendants, the word 'Junior' can be used by a son or grandson.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Only by a SON. Grandsons and other direct male descendants add a middle name or the mother's surname, or Roman numerals II, III (Art. 375).",
+  "key_note": null
+ },
+ {
+  "id": "NM-6",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 374)",
+  "type": "tf",
+  "stem": "In case of identity of names and surnames, the older person shall be obliged to use such additional name or surname as will avoid confusion.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "The YOUNGER person (Art. 374).",
+  "key_note": null
+ },
+ {
+  "id": "NM-7",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Art. 365; Johnston)",
+  "type": "tf",
+  "stem": "An adopted child shall bear the surname of the adopter, which, for a married woman adopting alone, means her surname by marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Johnston v. Republic: the adopter's OWN original surname, not the one acquired by marriage; using the husband's would suggest he adopted too.",
+  "key_note": null
+ },
+ {
+  "id": "NM-8",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (FC 176 as amended by R.A. 9255)",
+  "type": "tf",
+  "stem": "Illegitimate children expressly recognized by the father in the record of birth shall use the surname of their father.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "They MAY use it (permissive): Grande v. Antonio (2014). The father cannot compel it.",
+  "key_note": null
+ },
+ {
+  "id": "NM-9",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Naldoza)",
+  "type": "mcq",
+  "stem": "A mother whose husband abandoned the family petitions to change her legitimate minor sons' surname to her own. Should it be granted?",
+  "choices": [
+   "Yes, if the father is a swindler",
+   "No; it may suggest illegitimacy and erase evidence of paternal ancestry; the children may decide when they can choose for themselves",
+   "Only if the father consents in writing",
+   "Yes, the mother has parental authority"
+  ],
+  "answer": 1,
+  "explanation": "Naldoza v. Republic (1982).",
+  "key_note": null
+ },
+ {
+  "id": "NM-10",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Llaneta v. Agrava)",
+  "type": "mcq",
+  "stem": "Teresita, born after her mother's husband Serafin Ferrer died, was known all her life as 'Teresita Ferrer', and Serafin's kin approved. May she change her registered surname to Ferrer?",
+  "choices": [
+   "No, only legitimate children may use Ferrer",
+   "Yes, but only through R.A. 9048",
+   "Yes; the false-impression rule applies only when the change would probably prejudice the family or the community, and a sudden shift would cause confusion",
+   "No, it gives a false impression of family relationship"
+  ],
+  "answer": 2,
+  "explanation": "Llaneta v. Agrava (1974).",
+  "key_note": null
+ },
+ {
+  "id": "NM-11",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Tolentino v. CA)",
+  "type": "mcq",
+  "stem": "Arturo's second wife sued to stop his first wife, divorced from him during the Japanese occupation, from using the surname Tolentino. What is the ruling?",
+  "choices": [
+   "Injunction granted: only the current wife may use the surname",
+   "Injunction granted because divorce is not recognized",
+   "Injunction denied: the action prescribed, and mere use of the surname without legal injury to the petitioner is not usurpation",
+   "The first wife must pay damages"
+  ],
+  "answer": 2,
+  "explanation": "Tolentino v. CA (1988).",
+  "key_note": null
+ },
+ {
+  "id": "NM-12",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Legamia v. IAC)",
+  "type": "mcq",
+  "stem": "A woman who lived with a married man for 20 years used his surname, without sinister purpose, in claiming benefits for their son after his death. Did she violate the anti-alias law (C.A. 142)?",
+  "choices": [
+   "Yes, unless she married him later",
+   "No, because she was his widow",
+   "Yes, she used a name not registered at birth",
+   "No; the law is construed in light of our tolerant culture, and she acted without sinister purpose or material gain for herself"
+  ],
+  "answer": 3,
+  "explanation": "Legamia (1984). See also Ursua and People v. Estrada: an alias must be used publicly and habitually.",
+  "key_note": null
+ },
+ {
+  "id": "NM-13",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Art. 377; Dapar)",
+  "type": "mcq",
+  "stem": "Which is NOT an element of usurpation of name under Art. 377?",
+  "choices": [
+   "Actual use of another's name by the defendant",
+   "The use is unauthorized",
+   "Proof of actual pecuniary damage to the owner of the name",
+   "The use is to designate personality or identify a person"
+  ],
+  "answer": 2,
+  "explanation": "Dapar v. Biascan. Tolentino: actual injury need not be proved; there is always potential harm from confusion of identity.",
+  "key_note": null
+ },
+ {
+  "id": "NM-14",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Art. 376; Tolentino)",
+  "type": "mcq",
+  "stem": "Which is a sufficient cause for a judicial change of name?",
+  "choices": [
+   "The petitioner's mere preference",
+   "The name is ridiculous, tainted with dishonor, or extremely difficult to write or pronounce",
+   "A desire to drop a middle name because the family is moving abroad",
+   "A condition in a will that the heir take the testator's surname"
+  ],
+  "answer": 1,
+  "explanation": "Tolentino's list. The will condition is not enough by itself; Wang (2005) denied dropping a middle name for convenience abroad.",
+  "key_note": null
+ },
+ {
+  "id": "NM-15",
+  "topic": "names",
+  "origin": "new",
+  "src": "New (Art. 379)",
+  "type": "mcq",
+  "stem": "Which statement on pen names and stage names is correct?",
+  "choices": [
+   "They are prohibited by C.A. 142",
+   "They may be used to open bank accounts",
+   "They may be used in dealings with the government",
+   "They are permitted if used in good faith without injury to third persons, and cannot be usurped"
+  ],
+  "answer": 3,
+  "explanation": "Art. 379; C.A. 142 as amended allows pseudonyms for literary, cinema, television, radio, entertainment and athletic purposes. Tolentino: never in relations with the State.",
+  "key_note": null
+ }
+]

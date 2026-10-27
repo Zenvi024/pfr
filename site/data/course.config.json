@@ -1,7 +1,7 @@
 {
  "title": "Uribe PFR Desk",
  "eyebrow": "Law 100 · Persons &amp; Family Relations · Atty. Uribe",
- "intro": "Samplex items from Sir Uribe's past quizzes, recitation questions, bar questions and new drills, from NCC 1–51 through the Family Code's <b>family, family home, and paternity and filiation (FC 149–182)</b>. Take quizzes by coverage (start with the <b>Next quiz: Family, family home, paternity</b> preset), read the full reviewer per topic with blur mode for self-testing, or drill with spaced review: codal blanks, spotting Sir's one-word changes, and the periods and comparison grids.",
+ "intro": "Samplex items from Sir Uribe's past quizzes, recitation questions, bar questions and new drills, from NCC 1–51 through the end of the syllabus: <b>family, family home, paternity and filiation, adoption, support, parental authority, emancipation, surnames, absence, funerals and the civil register</b>. Take quizzes by coverage (start with the <b>Next quiz: Family to the end of the syllabus</b> preset), read the full reviewer per topic with blur mode for self-testing, or drill with spaced review: codal blanks, spotting Sir's one-word changes, and the periods and comparison grids.",
  "footer": "Tags: <b>Samplex</b> = verbatim from Sir Uribe's past quizzes and exams (several copies merged), including CivRev 2025 Quiz 4 and the CivRev midterms with his answers from the class discussion. <b>Recitation</b> = questions Sir asked in class (CivRev 2025 and the 2018 online situationers). <b>Bar</b> = QuAMTO / UP BOC bar questions, verbatim or adapted to multiple choice. <b>New</b> = written for this bank in Uribe's format. A yellow note means the circulated key differed from the answer here or the point is debatable; read it before trusting either. Consider a statement true only when it is absolutely true.",
  "profLabel": "Uribe",
  "pairInstruction": "Consider the statement true only where it is absolutely true.",
@@ -90,6 +90,46 @@
    "key": "filiat",
    "name": "Proof of Filiation & Legitimation",
    "range": "FC 172–182"
+  },
+  {
+   "key": "adopt",
+   "name": "Adoption",
+   "range": "FC 183–193; R.A. 8552, 11642, 11222"
+  },
+  {
+   "key": "support",
+   "name": "Support",
+   "range": "FC 194–208"
+  },
+  {
+   "key": "pa",
+   "name": "Parental Authority",
+   "range": "FC 209–233"
+  },
+  {
+   "key": "eman",
+   "name": "Emancipation & Summary Proceedings",
+   "range": "FC 234–253"
+  },
+  {
+   "key": "names",
+   "name": "Surnames",
+   "range": "NCC 364–380; R.A. 9255"
+  },
+  {
+   "key": "absence",
+   "name": "Absence",
+   "range": "NCC 381–396; FC 41"
+  },
+  {
+   "key": "funerals",
+   "name": "Funerals",
+   "range": "NCC 305–310"
+  },
+  {
+   "key": "civreg",
+   "name": "Civil Register",
+   "range": "NCC 407–413; Rule 108; R.A. 9048"
   }
  ],
  "origins": [
@@ -112,8 +152,42 @@
  ],
  "presets": [
   {
+   "id": "end",
+   "name": "Next quiz: Family to the end of the syllabus",
+   "sub": "FC 149–253 and NCC 305–413: family, family home, paternity and filiation, adoption, support, parental authority, emancipation, surnames, absence, funerals, civil register",
+   "topics": [
+    "family",
+    "famhome",
+    "patern",
+    "filiat",
+    "adopt",
+    "support",
+    "pa",
+    "eman",
+    "names",
+    "absence",
+    "funerals",
+    "civreg"
+   ]
+  },
+  {
+   "id": "late",
+   "name": "New topics only: Adoption to civil register",
+   "sub": "Adoption, support, parental authority, emancipation and summary proceedings, surnames, absence, funerals, civil register",
+   "topics": [
+    "adopt",
+    "support",
+    "pa",
+    "eman",
+    "names",
+    "absence",
+    "funerals",
+    "civreg"
+   ]
+  },
+  {
    "id": "fam",
-   "name": "Next quiz: Family, family home, paternity",
+   "name": "Quiz: Family, family home, paternity",
    "sub": "FC 149–182: family relations, family home, legitimacy, impugning, proof of filiation, legitimation",
    "topics": [
     "family",
@@ -172,7 +246,7 @@
   {
    "id": "all",
    "name": "Everything",
-   "sub": "NCC 1–51 through FC 182",
+   "sub": "NCC 1–51 through the civil register (NCC 413)",
    "topics": "all"
   }
  ],
@@ -180,7 +254,15 @@
   "family",
   "famhome",
   "patern",
-  "filiat"
+  "filiat",
+  "adopt",
+  "support",
+  "pa",
+  "eman",
+  "names",
+  "absence",
+  "funerals",
+  "civreg"
  ],
  "reviewerGroups": [
   {
@@ -215,7 +297,20 @@
     "patern",
     "filiat"
    ]
+  },
+  {
+   "label": "Adoption to civil register (FC 183–253; NCC 305–413)",
+   "ids": [
+    "adopt",
+    "support",
+    "pa",
+    "eman",
+    "names",
+    "absence",
+    "funerals",
+    "civreg"
+   ]
   }
  ],
- "defaultSection": "family"
+ "defaultSection": "adopt"
 }

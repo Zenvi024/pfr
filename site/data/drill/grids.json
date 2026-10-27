@@ -1195,5 +1195,397 @@
     ]
    }
   ]
+ },
+ {
+  "id": "glate",
+  "topic": "absence",
+  "title": "Adoption to civil register: numbers",
+  "src": "R.A. 11642; FC 194–253; NCC 364–413; Rule 108",
+  "cols": [
+   {
+    "h": "Number",
+    "t": "num"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Minimum age of a Filipino adopter under R.A. 11642",
+    "c": [
+     [
+      "25",
+      "twenty-five"
+     ]
+    ]
+   },
+   {
+    "h": "Required age gap, adopter over adoptee (years)",
+    "c": [
+     [
+      "16",
+      "sixteen"
+     ]
+    ]
+   },
+   {
+    "h": "Alien adopter's residence under R.A. 11642 (years)",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "Age from which the adoptee's written consent is required",
+    "c": [
+     [
+      "10",
+      "ten"
+     ]
+    ]
+   },
+   {
+    "h": "Months after the parents' death before adoption proceedings may begin",
+    "c": [
+     [
+      "6",
+      "six"
+     ]
+    ]
+   },
+   {
+    "h": "Support: payment within the first how many days of each month",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "Child's age below which he is not separated from the mother (Art. 213)",
+    "c": [
+     [
+      "7",
+      "seven"
+     ]
+    ]
+   },
+   {
+    "h": "Maximum days of commitment as a disciplinary measure (Art. 224)",
+    "c": [
+     [
+      "30",
+      "thirty"
+     ]
+    ]
+   },
+   {
+    "h": "Child's property or income above which the parent posts a bond (₱)",
+    "c": [
+     [
+      "50000",
+      "50,000",
+      "₱50,000",
+      "P50,000"
+     ]
+    ]
+   },
+   {
+    "h": "Age of majority (R.A. 6809)",
+    "c": [
+     [
+      "18",
+      "eighteen"
+     ]
+    ]
+   },
+   {
+    "h": "Age until which parental consent is needed to marry",
+    "c": [
+     [
+      "21",
+      "twenty-one"
+     ]
+    ]
+   },
+   {
+    "h": "Years without news before absence may be declared (no administrator)",
+    "c": [
+     [
+      "2",
+      "two"
+     ]
+    ]
+   },
+   {
+    "h": "Same, if he left an administrator (years)",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "Months after publication before the declaration of absence takes effect",
+    "c": [
+     [
+      "6",
+      "six"
+     ]
+    ]
+   },
+   {
+    "h": "Absence for presumed death, all purposes except succession (years)",
+    "c": [
+     [
+      "7",
+      "seven"
+     ]
+    ]
+   },
+   {
+    "h": "Absence to open succession, ordinary case (years)",
+    "c": [
+     [
+      "10",
+      "ten"
+     ]
+    ]
+   },
+   {
+    "h": "Absence to open succession if he disappeared after 75 (years)",
+    "c": [
+     [
+      "5",
+      "five"
+     ]
+    ]
+   },
+   {
+    "h": "Art. 391 (danger of death), all purposes (years)",
+    "c": [
+     [
+      "4",
+      "four"
+     ]
+    ]
+   },
+   {
+    "h": "Rule 108: weeks of publication",
+    "c": [
+     [
+      "3",
+      "three"
+     ]
+    ]
+   },
+   {
+    "h": "Rule 108: days to file an opposition",
+    "c": [
+     [
+      "15",
+      "fifteen"
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gsupord",
+  "topic": "support",
+  "title": "Order of support (Art. 199) and funerals (Art. 305)",
+  "src": "Arts. 199–200, FC; Art. 305, NCC",
+  "cols": [
+   {
+    "h": "Rank",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "The spouse",
+    "c": [
+     "1st"
+    ]
+   },
+   {
+    "h": "Descendants in the nearest degree",
+    "c": [
+     "2nd"
+    ]
+   },
+   {
+    "h": "Ascendants in the nearest degree",
+    "c": [
+     "3rd"
+    ]
+   },
+   {
+    "h": "Brothers and sisters",
+    "c": [
+     "4th"
+    ]
+   },
+   {
+    "h": "Uncles, nephews, cousins, in-laws",
+    "c": [
+     "Not obliged"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gpakinds",
+  "topic": "pa",
+  "title": "Kinds of parental authority",
+  "src": "Arts. 211–219, 233, FC",
+  "cols": [
+   {
+    "h": "Who",
+    "t": "pick"
+   },
+   {
+    "h": "Effect on the parents' authority",
+    "t": "pick"
+   },
+   {
+    "h": "Liability for the minor's acts",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Parental",
+    "c": [
+     "Father and mother (mother alone for an illegitimate child)",
+     "Is the parents' authority",
+     "Liable unless diligence of a good father of a family (Art. 221; NCC 2180)"
+    ]
+   },
+   {
+    "h": "Substitute",
+    "c": [
+     "Surviving grandparent; oldest sibling over 21; actual custodian over 21",
+     "Displaces it",
+     "Subsidiarily liable when the child is under special authority (Art. 219)"
+    ]
+   },
+   {
+    "h": "Special",
+    "c": [
+     "School, administrators, teachers; child-care institutions",
+     "Concurs with it",
+     "Principally and solidarily liable (Art. 219)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gcorr",
+  "topic": "civreg",
+  "title": "Which remedy for the civil register?",
+  "src": "R.A. 9048/10172; Rules 103 and 108",
+  "cols": [
+   {
+    "h": "Remedy",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Misspelled first name",
+    "c": [
+     "R.A. 9048 (civil registrar)"
+    ]
+   },
+   {
+    "h": "Change of first name habitually used",
+    "c": [
+     "R.A. 9048 (civil registrar)"
+    ]
+   },
+   {
+    "h": "Wrong day and month of birth",
+    "c": [
+     "R.A. 10172 (civil registrar)"
+    ]
+   },
+   {
+    "h": "Wrong year of birth",
+    "c": [
+     "Rule 108 (court)"
+    ]
+   },
+   {
+    "h": "Wrong sex entry, patently clerical",
+    "c": [
+     "R.A. 10172 (civil registrar)"
+    ]
+   },
+   {
+    "h": "Parents' marital status (legitimacy)",
+    "c": [
+     "Rule 108, adversarial"
+    ]
+   },
+   {
+    "h": "Citizenship",
+    "c": [
+     "Rule 108, adversarial"
+    ]
+   },
+   {
+    "h": "Change of surname, no error in the record",
+    "c": [
+     "Rule 103 (court)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gnames",
+  "topic": "names",
+  "title": "The wife's surname",
+  "src": "Arts. 370–373, NCC",
+  "cols": [
+   {
+    "h": "Rule",
+    "t": "pick"
+   }
+  ],
+  "rows": [
+   {
+    "h": "Married",
+    "c": [
+     "May use husband's surname (3 forms)"
+    ]
+   },
+   {
+    "h": "Annulment, guilty wife",
+    "c": [
+     "Shall resume maiden name"
+    ]
+   },
+   {
+    "h": "Annulment, innocent wife",
+    "c": [
+     "May resume or keep husband's surname"
+    ]
+   },
+   {
+    "h": "Legal separation",
+    "c": [
+     "Shall continue the name used before"
+    ]
+   },
+   {
+    "h": "Widow",
+    "c": [
+     "May use husband's surname as if alive"
+    ]
+   }
+  ]
  }
 ]

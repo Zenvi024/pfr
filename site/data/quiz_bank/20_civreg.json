@@ -1,0 +1,228 @@
+[
+ {
+  "id": "CR-1",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 412)",
+  "type": "tf",
+  "stem": "No entry in a civil register shall be changed or corrected without a judicial order.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Not absolutely true since R.A. 9048 (as amended by R.A. 10172): clerical or typographical errors, changes of first name or nickname, and the day and month of birth or sex (patent errors) may be corrected by the civil registrar or consul general.",
+  "key_note": "Verbatim Art. 412; FALSE only because of R.A. 9048/10172. If the question asks about the Civil Code text alone, it is TRUE."
+ },
+ {
+  "id": "CR-2",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 410)",
+  "type": "tf",
+  "stem": "The books making up the civil register and all documents relating thereto shall be considered public documents and shall be conclusive evidence of the facts therein contained.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 410: PRIMA FACIE evidence.",
+  "key_note": null
+ },
+ {
+  "id": "CR-3",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 411)",
+  "type": "tf",
+  "stem": "Every civil registrar shall be civilly responsible for any unauthorized alteration made in any civil register, without exception.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 411: he may exempt himself by proving that he took every reasonable precaution to prevent the unlawful alteration.",
+  "key_note": null
+ },
+ {
+  "id": "CR-4",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Rule 108, Sec. 4)",
+  "type": "tf",
+  "stem": "In a Rule 108 proceeding, the order fixing the hearing shall be published once a week for three consecutive weeks in a newspaper of general circulation in the province.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Rule 108, Sec. 4. Opposition within 15 days from notice or the last publication (Sec. 5).",
+  "key_note": null
+ },
+ {
+  "id": "CR-5",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (R.A. 9048 as amended)",
+  "type": "tf",
+  "stem": "The year of birth may be corrected administratively by the civil registrar as a clerical error.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "R.A. 10172 allows only the DAY AND MONTH of birth; 'no correction must involve the change of nationality, AGE, or status'.",
+  "key_note": null
+ },
+ {
+  "id": "CR-6",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Art. 408)",
+  "type": "tf",
+  "stem": "Voluntary emancipation of a minor and judicial determination of filiation are among the acts and events to be entered in the civil register.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 408(14), (15). (Voluntary emancipation is now obsolete under R.A. 6809, but the item remains in the text.)",
+  "key_note": null
+ },
+ {
+  "id": "CR-7",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Republic v. Valencia)",
+  "type": "mcq",
+  "stem": "May substantial errors in the civil register, such as citizenship or the parents' marital status, be corrected under Rule 108?",
+  "choices": [
+   "Yes, provided the proceeding is adversarial: all affected parties are impleaded and notified, with publication and an opportunity to oppose",
+   "No, Rule 108 covers clerical errors only",
+   "Only by the civil registrar",
+   "Yes, in a summary hearing"
+  ],
+  "answer": 0,
+  "explanation": "Republic v. Valencia (1986); Republic v. Marcos (strict compliance).",
+  "key_note": null
+ },
+ {
+  "id": "CR-8",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Labayo-Rowe)",
+  "type": "mcq",
+  "stem": "A mother filed a Rule 108 petition, notifying only the civil registrar, to change the entry of her marriage in her children's birth records to 'not married'. What is the ruling?",
+  "choices": [
+   "Denied as to the marital status: it changes the children's legitimacy, a substantial matter requiring an adversarial proceeding with all affected parties",
+   "Granted, as a clerical correction",
+   "Granted if she proves she never married",
+   "Dismissed for lack of a marriage certificate"
+  ],
+  "answer": 0,
+  "explanation": "Labayo-Rowe v. Republic (1988): Rule 108 'shall not diminish, increase or modify substantive rights'. See also Republic v. Ontuca (2020).",
+  "key_note": null
+ },
+ {
+  "id": "CR-9",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (R.A. 9048, Sec. 4)",
+  "type": "mcq",
+  "stem": "Which is NOT a ground for an administrative change of first name under R.A. 9048?",
+  "choices": [
+   "The change will avoid confusion",
+   "The first name is ridiculous, tainted with dishonor or extremely difficult to write or pronounce",
+   "The petitioner wants to match the name of a celebrity",
+   "The new first name has been habitually and continuously used and the petitioner is publicly known by it"
+  ],
+  "answer": 2,
+  "explanation": "R.A. 9048, Sec. 4.",
+  "key_note": null
+ },
+ {
+  "id": "CR-10",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Cagandahan; R.A. 10172)",
+  "type": "mcq",
+  "stem": "Which change of the sex entry may be made administratively?",
+  "choices": [
+   "A change based on sex reassignment surgery",
+   "Any change, if the person is of age",
+   "A correction where it is patently clear that the entry was a clerical or typographical error",
+   "A change for an intersex person who matured as male"
+  ],
+  "answer": 2,
+  "explanation": "R.A. 10172 (with medical certification of no sex change). Cagandahan (intersex) needed Rule 108; Silverio (sex reassignment) was denied for lack of a law.",
+  "key_note": null
+ },
+ {
+  "id": "CR-11",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Braza)",
+  "type": "mcq",
+  "stem": "The widow and legitimate children of Pablo file a Rule 108 petition to correct the birth record of Patrick, recorded as Pablo's legitimated son by Lucille, on the ground that Pablo's marriage to Lucille was bigamous. What is the ruling?",
+  "choices": [
+   "Dismissed: it is a collateral attack on a marriage and on legitimation, which must be raised in a direct action by the proper party",
+   "Referred to the civil registrar",
+   "Granted if Lucille does not oppose",
+   "Granted, because a bigamous marriage is void"
+  ],
+  "answer": 0,
+  "explanation": "Braza v. City Civil Registrar (2009).",
+  "key_note": null
+ },
+ {
+  "id": "CR-12",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Bartolome v. Republic)",
+  "type": "mcq",
+  "stem": "A man whose birth record says 'Feliciano Bartholome' files a Rule 103 petition to be named 'Ruben Bartolome'. What is the proper first step?",
+  "choices": [
+   "Rule 103 in the RTC",
+   "An administrative petition under R.A. 9048 for the first name and the misspelled surname; courts only after denial",
+   "Rule 108 in the RTC",
+   "A petition with the PSA in Manila only"
+  ],
+  "answer": 1,
+  "explanation": "Bartolome v. Republic (2019); Republic v. Sali. But courts are not divested of jurisdiction (Republic v. Felix).",
+  "key_note": null
+ },
+ {
+  "id": "CR-13",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Republic v. Magpayo)",
+  "type": "mcq",
+  "stem": "Claiming his parents never married, Julian filed a Rule 103 petition in Quezon City to delete his parents' marriage entry and his father's name from his Makati birth record. What is the ruling?",
+  "choices": [
+   "Void because only the father may file",
+   "Valid, since Rule 103 covers change of name",
+   "Valid if the father consents",
+   "Void: a change of status needs a Rule 108 petition where the registry is located, impleading the civil registrar and all affected persons"
+  ],
+  "answer": 3,
+  "explanation": "Republic v. Magpayo (2011).",
+  "key_note": null
+ },
+ {
+  "id": "CR-14",
+  "topic": "civreg",
+  "origin": "new",
+  "src": "New (Olaybar)",
+  "type": "mcq",
+  "stem": "Merlinda discovered she was recorded as married to a foreigner she never met, her identity apparently having been stolen. What is her remedy?",
+  "choices": [
+   "Annulment for fraud",
+   "R.A. 9048 before the civil registrar",
+   "A petition for declaration of nullity under Art. 35",
+   "Rule 108, to cancel the wife's entries in the marriage certificate, in an adversarial proceeding"
+  ],
+  "answer": 3,
+  "explanation": "Republic v. Olaybar (2014): there was no marriage to declare void; Rule 108 is the appropriate adversary proceeding.",
+  "key_note": null
+ }
+]

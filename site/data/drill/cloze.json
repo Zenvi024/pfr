@@ -3111,5 +3111,576 @@
    "5"
   ],
   "why": "Not one year (Quiz No. 4 TF5)."
+ },
+ {
+  "id": "CZ-LT1",
+  "topic": "adopt",
+  "art": "Sec. 21(a), R.A. 11642",
+  "text": "Any Filipino citizen at least [[twenty-five]] (25) years of age, who is in possession of full civil capacity and legal rights …",
+  "accept": [
+   "25",
+   "twenty five"
+  ],
+  "why": "R.A. 8552 and the FC: of legal age."
+ },
+ {
+  "id": "CZ-LT2",
+  "topic": "adopt",
+  "art": "Sec. 21(a), R.A. 11642",
+  "text": "… has not been convicted of any crime involving [[moral turpitude]] …",
+  "accept": [],
+  "why": "Not 'a crime punishable by more than six years'."
+ },
+ {
+  "id": "CZ-LT3",
+  "topic": "adopt",
+  "art": "Sec. 21(a), R.A. 11642",
+  "text": "… at least [[sixteen]] (16) years older than the adoptee …",
+  "accept": [
+   "16"
+  ],
+  "why": "Waivable for the biological parent or the spouse of the adoptee's parent."
+ },
+ {
+  "id": "CZ-LT4",
+  "topic": "adopt",
+  "art": "Sec. 21(a), R.A. 11642",
+  "text": "Provided, That the requirement of sixteen (16)-years difference … may be waived when the adopter is the biological parent of the adoptee, or is the [[spouse of the adoptee's parent]];",
+  "accept": [
+   "spouse of the adoptees parent"
+  ],
+  "why": "Two waivers only."
+ },
+ {
+  "id": "CZ-LT5",
+  "topic": "adopt",
+  "art": "Sec. 21(e), R.A. 11642",
+  "text": "Foreign nationals who are permanent or habitual residents of the Philippines for at least [[five]] (5) years …",
+  "accept": [
+   "5"
+  ],
+  "why": "Three years under R.A. 8552."
+ },
+ {
+  "id": "CZ-LT6",
+  "topic": "adopt",
+  "art": "Sec. 21, R.A. 11642",
+  "text": "Spouses shall jointly adopt, except … (b) If one spouse seeks to adopt own illegitimate child: Provided, That the other spouse has signified [[consent]] thereto;",
+  "accept": [],
+  "why": "Consent, not joint adoption (Uribe Quiz 2 #7)."
+ },
+ {
+  "id": "CZ-LT7",
+  "topic": "adopt",
+  "art": "Sec. 21, R.A. 11642",
+  "text": "Spouses shall jointly adopt, except … (c) If the spouses are [[legally separated]] from each other.",
+  "accept": [],
+  "why": "Third exception."
+ },
+ {
+  "id": "CZ-LT8",
+  "topic": "adopt",
+  "art": "Sec. 22(d), R.A. 11642",
+  "text": "A Filipino of legal age if, prior to the adoption, said person has been consistently considered and treated by the adopters as their own child for a period of at least [[three]] (3) years;",
+  "accept": [
+   "3"
+  ],
+  "why": "R.A. 8552: during minority."
+ },
+ {
+  "id": "CZ-LT9",
+  "topic": "adopt",
+  "art": "Sec. 22(g), R.A. 11642",
+  "text": "A child whose biological or adoptive parents have died: Provided, That no proceedings shall be initiated within [[six]] (6) months from the time of death of said parents;",
+  "accept": [
+   "6"
+  ],
+  "why": "Six months."
+ },
+ {
+  "id": "CZ-LT10",
+  "topic": "adopt",
+  "art": "Sec. 23(a), R.A. 11642",
+  "text": "The written consent of the following … (a) The adoptee, if [[ten]] (10) years of age or over;",
+  "accept": [
+   "10"
+  ],
+  "why": "Younger children are counseled and consulted."
+ },
+ {
+  "id": "CZ-LT11",
+  "topic": "adopt",
+  "art": "Sec. 41, R.A. 11642",
+  "text": "The legitimate filiation that is created between the adopter and adoptee shall be extended to the adopter's parents, adopter's legitimate siblings, and legitimate [[descendants]].",
+  "accept": [],
+  "why": "New under R.A. 11642."
+ },
+ {
+  "id": "CZ-LT12",
+  "topic": "adopt",
+  "art": "Sec. 47, R.A. 11642",
+  "text": "Adoption, being in the best interest of the child, shall not be subject to rescission by the [[adopter]].",
+  "accept": [
+   "adopters",
+   "adopter(s)"
+  ],
+  "why": "He may only disinherit (NCC 919)."
+ },
+ {
+  "id": "CZ-LT13",
+  "topic": "adopt",
+  "art": "Sec. 4, R.A. 11222",
+  "text": "… provided, further, That such person or persons has or have filed a petition for adoption with an application for the rectification of the simulated birth record within [[ten]] (10) years from the effectivity of this Act …",
+  "accept": [
+   "10"
+  ],
+  "why": "Ten-year window."
+ },
+ {
+  "id": "CZ-LT14",
+  "topic": "support",
+  "art": "Art. 194, FC",
+  "text": "Support comprises everything indispensable for sustenance, dwelling, clothing, medical attendance, education and transportation, in keeping with the [[financial capacity of the family]].",
+  "accept": [
+   "financial capacity"
+  ],
+  "why": "Measure of support."
+ },
+ {
+  "id": "CZ-LT15",
+  "topic": "support",
+  "art": "Art. 194, FC",
+  "text": "The education … shall include his schooling or training for some profession, trade or vocation, even [[beyond the age of majority]].",
+  "accept": [
+   "beyond majority"
+  ],
+  "why": "2010 Bar."
+ },
+ {
+  "id": "CZ-LT16",
+  "topic": "support",
+  "art": "Art. 196, FC",
+  "text": "… except only when the need for support of the brother or sister, being of age, is due to a cause imputable to the claimant's [[fault or negligence]].",
+  "accept": [
+   "fault or negligence"
+  ],
+  "why": "Uribe Quiz 2 #5."
+ },
+ {
+  "id": "CZ-LT17",
+  "topic": "support",
+  "art": "Art. 199, FC",
+  "text": "Whenever two or more persons are obliged to give support, the liability shall devolve upon the following persons in the order herein provided: (1) The spouse; (2) The [[descendants]] in the nearest degree; (3) The ascendants in the nearest degree; and (4) The brothers and sisters.",
+  "accept": [],
+  "why": "S-D-A-B."
+ },
+ {
+  "id": "CZ-LT18",
+  "topic": "support",
+  "art": "Art. 200, FC",
+  "text": "When the obligation to give support falls upon two or more persons, the payment of the same shall be divided between them in proportion to the [[resources]] of each.",
+  "accept": [
+   "resources of each"
+  ],
+  "why": "Not equally."
+ },
+ {
+  "id": "CZ-LT19",
+  "topic": "support",
+  "art": "Art. 200, FC",
+  "text": "… unless the concurrent obligees should be the spouse and a child subject to parental authority, in which case the [[child]] shall be preferred.",
+  "accept": [],
+  "why": "Child over spouse."
+ },
+ {
+  "id": "CZ-LT20",
+  "topic": "support",
+  "art": "Art. 203, FC",
+  "text": "The obligation to give support shall be demandable from the time the person who has a right to receive the same needs it for maintenance, but it shall not be paid except from the date of [[judicial or extra-judicial demand]].",
+  "accept": [
+   "judicial or extrajudicial demand"
+  ],
+  "why": "No arrears before demand."
+ },
+ {
+  "id": "CZ-LT21",
+  "topic": "support",
+  "art": "Art. 203, FC",
+  "text": "Payment shall be made within the first [[five]] days of each corresponding month …",
+  "accept": [
+   "5"
+  ],
+  "why": "Not fifteen (Quiz Set 3 TF3)."
+ },
+ {
+  "id": "CZ-LT22",
+  "topic": "support",
+  "art": "Art. 204, FC",
+  "text": "The person obliged to give support shall have the [[option]] to fulfill the obligation either by paying the allowance fixed, or by receiving and maintaining in the family dwelling the person who has a right to receive support.",
+  "accept": [],
+  "why": "Option (Quiz Set 3 TF4)."
+ },
+ {
+  "id": "CZ-LT23",
+  "topic": "support",
+  "art": "Art. 204, FC",
+  "text": "The latter alternative cannot be availed of in case there is a [[moral or legal obstacle]] thereto.",
+  "accept": [
+   "moral or legal"
+  ],
+  "why": "E.g., abduction-marriage, a married daughter."
+ },
+ {
+  "id": "CZ-LT24",
+  "topic": "support",
+  "art": "Art. 206, FC",
+  "text": "… the latter shall have a right to claim the same from the former, unless it appears that he gave it without [[intention of being reimbursed]].",
+  "accept": [
+   "intention to be reimbursed"
+  ],
+  "why": "Quiz No. 4 TF10."
+ },
+ {
+  "id": "CZ-LT25",
+  "topic": "pa",
+  "art": "Art. 211, FC",
+  "text": "The father and the mother shall jointly exercise parental authority over the persons of their common children. In case of disagreement, the [[father's]] decision shall prevail, unless there is a judicial order to the contrary.",
+  "accept": [
+   "father",
+   "fathers"
+  ],
+  "why": "Also for the child's property (Art. 225)."
+ },
+ {
+  "id": "CZ-LT26",
+  "topic": "pa",
+  "art": "Art. 213, FC",
+  "text": "No child under [[seven]] years of age shall be separated from the mother unless the court finds compelling reasons to order otherwise.",
+  "accept": [
+   "7"
+  ],
+  "why": "Tender-age presumption."
+ },
+ {
+  "id": "CZ-LT27",
+  "topic": "pa",
+  "art": "Art. 214, FC",
+  "text": "In case of death, absence or unsuitability of the parents, [[substitute]] parental authority shall be exercised by the surviving grandparent.",
+  "accept": [],
+  "why": "Not special (Uribe Quiz 2 #6)."
+ },
+ {
+  "id": "CZ-LT28",
+  "topic": "pa",
+  "art": "Art. 214, FC",
+  "text": "… substitute parental authority shall be exercised by the surviving [[grandparent]].",
+  "accept": [],
+  "why": "Singular (Quiz Set 3 TF10)."
+ },
+ {
+  "id": "CZ-LT29",
+  "topic": "pa",
+  "art": "Art. 216(2), FC",
+  "text": "The oldest brother or sister, over [[twenty-one]] years of age, unless unfit or disqualified;",
+  "accept": [
+   "21",
+   "twenty one"
+  ],
+  "why": "Still 21 in the text."
+ },
+ {
+  "id": "CZ-LT30",
+  "topic": "pa",
+  "art": "Art. 218, FC",
+  "text": "Authority and responsibility shall apply to all authorized activities whether inside or [[outside]] the premises of the school, entity or institution.",
+  "accept": [],
+  "why": "2010 Bar field trip."
+ },
+ {
+  "id": "CZ-LT31",
+  "topic": "pa",
+  "art": "Art. 219, FC",
+  "text": "Those given the authority and responsibility under the preceding Article shall be principally and [[solidarily]] liable for damages caused by the acts or omissions of the unemancipated minor.",
+  "accept": [],
+  "why": "Parents: subsidiarily."
+ },
+ {
+  "id": "CZ-LT32",
+  "topic": "pa",
+  "art": "Art. 224, FC",
+  "text": "The measures referred to in the preceding article may include the commitment of the child for not more than [[thirty]] days in entities or institutions engaged in child care …",
+  "accept": [
+   "30"
+  ],
+  "why": "Thirty days."
+ },
+ {
+  "id": "CZ-LT33",
+  "topic": "pa",
+  "art": "Art. 225, FC",
+  "text": "Where the market value of the property or the annual income of the child exceeds [[P50,000]], the parent concerned shall be required to furnish a bond …",
+  "accept": [
+   "50,000",
+   "50000",
+   "₱50,000",
+   "fifty thousand"
+  ],
+  "why": "Bond of at least 10%."
+ },
+ {
+  "id": "CZ-LT34",
+  "topic": "pa",
+  "art": "Art. 230, FC",
+  "text": "The authority is [[automatically]] reinstated upon service of the penalty or upon pardon or amnesty of the offender.",
+  "accept": [],
+  "why": "Civil interdiction."
+ },
+ {
+  "id": "CZ-LT35",
+  "topic": "pa",
+  "art": "Art. 232, FC",
+  "text": "If the person exercising parental authority has subjected the child or allowed him to be subjected to sexual abuse, such person shall be [[permanently]] deprived by the court of such authority.",
+  "accept": [],
+  "why": "Permanent deprivation."
+ },
+ {
+  "id": "CZ-LT36",
+  "topic": "pa",
+  "art": "Art. 233, FC",
+  "text": "In no case shall the school administrator, teacher or individual engaged in child care exercising special parental authority inflict [[corporal punishment]] upon the child.",
+  "accept": [],
+  "why": "No exception."
+ },
+ {
+  "id": "CZ-LT37",
+  "topic": "eman",
+  "art": "Art. 234, FC (R.A. 6809)",
+  "text": "Emancipation takes place by the attainment of majority. Unless otherwise provided, majority commences at the age of [[eighteen]] years.",
+  "accept": [
+   "18"
+  ],
+  "why": "The only mode now."
+ },
+ {
+  "id": "CZ-LT38",
+  "topic": "eman",
+  "art": "Art. 236, FC (R.A. 6809)",
+  "text": "Contracting marriage shall require parental consent until the age of [[twenty-one]].",
+  "accept": [
+   "21",
+   "twenty one"
+  ],
+  "why": "Advice from 21 to 25 (Art. 15)."
+ },
+ {
+  "id": "CZ-LT39",
+  "topic": "eman",
+  "art": "Art. 243, FC",
+  "text": "A preliminary conference shall be conducted by the judge personally [[without]] the parties being assisted by counsel.",
+  "accept": [],
+  "why": "Counsel later, if useful."
+ },
+ {
+  "id": "CZ-LT40",
+  "topic": "eman",
+  "art": "Art. 247, FC",
+  "text": "The judgment of the court shall be [[immediately final and executory]].",
+  "accept": [],
+  "why": "Certiorari, not appeal."
+ },
+ {
+  "id": "CZ-LT41",
+  "topic": "names",
+  "art": "Art. 364, NCC",
+  "text": "Legitimate and legitimated children shall principally use the surname of the [[father]].",
+  "accept": [],
+  "why": "Principally."
+ },
+ {
+  "id": "CZ-LT42",
+  "topic": "names",
+  "art": "Art. 371, NCC",
+  "text": "In case of annulment of marriage, and the wife is the [[guilty]] party, she shall resume her maiden name and surname.",
+  "accept": [],
+  "why": "The innocent wife may choose."
+ },
+ {
+  "id": "CZ-LT43",
+  "topic": "names",
+  "art": "Art. 372, NCC",
+  "text": "When legal separation has been granted, the wife shall [[continue]] using her name and surname employed before the legal separation.",
+  "accept": [
+   "continue using"
+  ],
+  "why": "Mandatory."
+ },
+ {
+  "id": "CZ-LT44",
+  "topic": "names",
+  "art": "Art. 374, NCC",
+  "text": "In case of identity of names and surnames, the [[younger]] person shall be obliged to use such additional name or surname as will avoid confusion.",
+  "accept": [],
+  "why": "Younger."
+ },
+ {
+  "id": "CZ-LT45",
+  "topic": "names",
+  "art": "Art. 375, NCC",
+  "text": "In case of identity of names and surnames between ascendants and descendants, the word \"Junior\" can be used only by a [[son]].",
+  "accept": [],
+  "why": "Grandsons: middle name or Roman numerals."
+ },
+ {
+  "id": "CZ-LT46",
+  "topic": "names",
+  "art": "Art. 376, NCC",
+  "text": "No person can change his name or surname without [[judicial authority]].",
+  "accept": [],
+  "why": "Now subject to R.A. 9048 for first names."
+ },
+ {
+  "id": "CZ-LT47",
+  "topic": "names",
+  "art": "Art. 379, NCC",
+  "text": "The employment of pen names or stage names is permitted, provided it is done in [[good faith]] and there is no injury to third persons.",
+  "accept": [],
+  "why": "Cannot be usurped."
+ },
+ {
+  "id": "CZ-LT48",
+  "topic": "absence",
+  "art": "Art. 384, NCC",
+  "text": "Two years having elapsed without any news about the absentee or since the receipt of the last news, and [[five]] years in case the absentee has left a person in charge of the administration of his property, his absence may be declared.",
+  "accept": [
+   "5"
+  ],
+  "why": "2 or 5."
+ },
+ {
+  "id": "CZ-LT49",
+  "topic": "absence",
+  "art": "Art. 386, NCC",
+  "text": "The judicial declaration of absence shall not take effect until [[six months]] after its publication in a newspaper of general circulation.",
+  "accept": [
+   "6 months"
+  ],
+  "why": "Six months."
+ },
+ {
+  "id": "CZ-LT50",
+  "topic": "absence",
+  "art": "Art. 390, NCC",
+  "text": "After an absence of [[seven]] years, it being unknown whether or not the absentee still lives, he shall be presumed dead for all purposes, except for those of succession.",
+  "accept": [
+   "7"
+  ],
+  "why": "Seven."
+ },
+ {
+  "id": "CZ-LT51",
+  "topic": "absence",
+  "art": "Art. 390, NCC",
+  "text": "If he disappeared after the age of [[seventy-five]] years, an absence of five years shall be sufficient in order that his succession may be opened.",
+  "accept": [
+   "75",
+   "seventy five"
+  ],
+  "why": "Samplex: 76 → 5 years."
+ },
+ {
+  "id": "CZ-LT52",
+  "topic": "absence",
+  "art": "Art. 391, NCC",
+  "text": "The following shall be presumed dead for all purposes, [[including]] the division of the estate among the heirs: …",
+  "accept": [],
+  "why": "Including succession."
+ },
+ {
+  "id": "CZ-LT53",
+  "topic": "absence",
+  "art": "Art. 392, NCC",
+  "text": "… he shall recover his property in the condition in which it may be found, and the price of any property that may have been alienated or the property acquired therewith; but he cannot claim either [[fruits or rents]].",
+  "accept": [
+   "fruits nor rents"
+  ],
+  "why": "Good-faith possessors keep them."
+ },
+ {
+  "id": "CZ-LT54",
+  "topic": "absence",
+  "art": "Art. 41, FC",
+  "text": "… unless before the celebration of the subsequent marriage, the prior spouse had been absent for [[four]] consecutive years and the spouse present has a well-founded belief that the absent spouse was already dead.",
+  "accept": [
+   "4"
+  ],
+  "why": "Two years in danger of death."
+ },
+ {
+  "id": "CZ-LT55",
+  "topic": "funerals",
+  "art": "Art. 305, NCC",
+  "text": "In case of ascendants, the [[paternal]] shall have a better right.",
+  "accept": [],
+  "why": "Descendants or siblings of the same degree: the oldest."
+ },
+ {
+  "id": "CZ-LT56",
+  "topic": "funerals",
+  "art": "Art. 307, NCC",
+  "text": "The funeral shall be in accordance with the [[expressed wishes]] of the deceased.",
+  "accept": [],
+  "why": "Then religious beliefs."
+ },
+ {
+  "id": "CZ-LT57",
+  "topic": "funerals",
+  "art": "Art. 309, NCC",
+  "text": "Any person who shows disrespect to the dead, or wrongfully interferes with a funeral shall be liable to the family of the deceased for damages, [[material and moral]].",
+  "accept": [],
+  "why": "Both."
+ },
+ {
+  "id": "CZ-LT58",
+  "topic": "civreg",
+  "art": "Art. 410, NCC",
+  "text": "The books making up the civil register and all documents relating thereto shall be considered public documents and shall be [[prima facie]] evidence of the facts therein contained.",
+  "accept": [],
+  "why": "Not conclusive."
+ },
+ {
+  "id": "CZ-LT59",
+  "topic": "civreg",
+  "art": "Art. 412, NCC",
+  "text": "No entry in a civil register shall be changed or corrected, without a [[judicial order]].",
+  "accept": [],
+  "why": "Except R.A. 9048/10172."
+ },
+ {
+  "id": "CZ-LT60",
+  "topic": "civreg",
+  "art": "Rule 108, Sec. 4",
+  "text": "The court shall also cause the order to be published once a week for [[three]] (3) consecutive weeks in a newspaper of general circulation in the province.",
+  "accept": [
+   "3"
+  ],
+  "why": "Three weeks."
+ },
+ {
+  "id": "CZ-LT61",
+  "topic": "civreg",
+  "art": "Rule 108, Sec. 5",
+  "text": "The civil registrar and any person having or claiming any interest under the entry whose cancellation or correction is sought may, within [[fifteen]] (15) days from notice of the petition, or from the last date of publication of such notice, file his opposition thereto.",
+  "accept": [
+   "15"
+  ],
+  "why": "Fifteen days."
+ },
+ {
+  "id": "CZ-LT62",
+  "topic": "civreg",
+  "art": "Sec. 2(3), R.A. 9048 (as amended)",
+  "text": "Provided, however, That no correction must involve the change of nationality, [[age]], or status of the petitioner.",
+  "accept": [],
+  "why": "So: not the year of birth."
  }
 ]

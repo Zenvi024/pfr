@@ -1,0 +1,418 @@
+[
+ {
+  "id": "PA-1",
+  "topic": "pa",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2 (Aug 28, 2025) #6; PFR Quiz 3 answer key #20",
+  "type": "tf",
+  "stem": "In case of death, absence or unsuitability of the parents, special parental authority shall be exercised by the surviving grandparent.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "That is SUBSTITUTE parental authority (Arts. 214, 216). Special parental authority belongs to the school, its administrators and teachers, or those engaged in child care (Art. 218).",
+  "key_note": null
+ },
+ {
+  "id": "PA-2",
+  "topic": "pa",
+  "origin": "samplex",
+  "src": "Uribe Quiz Compilation, Set 3 (= Quiz No. 4) TF10",
+  "type": "tf",
+  "stem": "In case of death, absence or unsuitability of the parents, substitute parental authority shall be exercised by the surviving grandparents.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 214: 'the surviving GRANDPARENT. In case several survive, the one designated by the court.' Key: 'Grandparent only, the surviving, or the one appointed by the court, not grandparents.'",
+  "key_note": null
+ },
+ {
+  "id": "PA-3",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 211)",
+  "type": "tf",
+  "stem": "The father and the mother shall jointly exercise parental authority over the persons of their common children. In case of disagreement, the court shall decide.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 211: the FATHER's decision shall prevail, unless there is a judicial order to the contrary. Same rule for the child's property (Art. 225).",
+  "key_note": null
+ },
+ {
+  "id": "PA-4",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 212)",
+  "type": "tf",
+  "stem": "The remarriage of the surviving parent shall terminate his or her parental authority over the children.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 212: remarriage 'shall not affect' parental authority, unless the court appoints another person as guardian of the children's person or property.",
+  "key_note": null
+ },
+ {
+  "id": "PA-5",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 213)",
+  "type": "tf",
+  "stem": "No child under seven years of age shall be separated from the mother unless the court finds compelling reasons to order otherwise.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 213, 2nd par. (also NCC 363). Compelling reasons: neglect, abandonment, unemployment, immorality, habitual drunkenness, drug addiction, maltreatment, insanity, highly communicable disease (Perez v. CA; 2006 Bar).",
+  "key_note": null
+ },
+ {
+  "id": "PA-6",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 210)",
+  "type": "tf",
+  "stem": "Parental authority and responsibility may be renounced or transferred by a public instrument.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 210: not renounced or transferred 'except in the cases authorized by law' (adoption, guardianship, surrender to a children's home: Eslao).",
+  "key_note": null
+ },
+ {
+  "id": "PA-7",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 216)",
+  "type": "tf",
+  "stem": "In default of parents or a judicially appointed guardian, the oldest brother or sister over eighteen years of age shall exercise substitute parental authority ahead of the surviving grandparent.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 216: (1) the surviving grandparent, (2) the oldest brother or sister OVER TWENTY-ONE, unless unfit or disqualified, (3) the child's actual custodian over 21.",
+  "key_note": null
+ },
+ {
+  "id": "PA-8",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 219)",
+  "type": "tf",
+  "stem": "The school, its administrators and teachers shall be subsidiarily liable for damages caused by the acts or omissions of the unemancipated minor under their supervision.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 219: PRINCIPALLY and SOLIDARILY liable. The PARENTS, judicial guardians or substitutes are subsidiarily liable.",
+  "key_note": null
+ },
+ {
+  "id": "PA-9",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 233)",
+  "type": "tf",
+  "stem": "The school administrator or teacher exercising special parental authority may inflict reasonable corporal punishment upon the child.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 233: 'In no case' may they inflict corporal punishment.",
+  "key_note": null
+ },
+ {
+  "id": "PA-10",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 215)",
+  "type": "tf",
+  "stem": "No descendant shall be compelled, in a criminal case, to testify against his parents and grandparents, without exception.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 215: except when the testimony is indispensable in a crime against the descendant or by one parent against the other.",
+  "key_note": null
+ },
+ {
+  "id": "PA-11",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 225)",
+  "type": "tf",
+  "stem": "Where the market value of the property or the annual income of the child exceeds ₱50,000, the parent concerned shall furnish a bond of not less than ten per cent of the value of the property or annual income.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 225, 2nd par.",
+  "key_note": null
+ },
+ {
+  "id": "PA-12",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 230)",
+  "type": "tf",
+  "stem": "Parental authority suspended upon conviction of a crime carrying civil interdiction is revived only by a final judgment of the court.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 230: AUTOMATICALLY reinstated upon service of the penalty or upon pardon or amnesty.",
+  "key_note": null
+ },
+ {
+  "id": "PA-13",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 232)",
+  "type": "tf",
+  "stem": "If the person exercising parental authority has subjected the child to sexual abuse, such person shall be permanently deprived by the court of such authority.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 232. Compare Art. 231(4): acts of lasciviousness are a ground for suspension (or deprivation if serious).",
+  "key_note": null
+ },
+ {
+  "id": "PA-14",
+  "topic": "pa",
+  "origin": "bar",
+  "src": "2004 Bar (adapted)",
+  "type": "mcq",
+  "stem": "Which statement correctly distinguishes substitute from special parental authority?",
+  "choices": [
+   "Both displace the parents' authority",
+   "Both are exercised only by relatives",
+   "Substitute parental authority displaces parental authority; special parental authority concurs with it and lasts only while the child is in the school's custody",
+   "Special parental authority displaces parental authority"
+  ],
+  "answer": 2,
+  "explanation": "2004 Bar suggested answer.",
+  "key_note": null
+ },
+ {
+  "id": "PA-15",
+  "topic": "pa",
+  "origin": "bar",
+  "src": "2003 Bar (adapted)",
+  "type": "mcq",
+  "stem": "During class hours, while the teacher chatted with other teachers in the corridor, a 7-year-old pupil blinded a classmate with a ball pen in a fight. Who are liable?",
+  "choices": [
+   "No one, because the pupil is below 9",
+   "The teacher and school authorities, principally and solidarily; the pupil's parents, subsidiarily",
+   "Only the teacher",
+   "Only the pupil's parents"
+  ],
+  "answer": 1,
+  "explanation": "Arts. 218–219; the teacher was negligent in leaving the class.",
+  "key_note": null
+ },
+ {
+  "id": "PA-16",
+  "topic": "pa",
+  "origin": "bar",
+  "src": "2010 Bar (adapted)",
+  "type": "mcq",
+  "stem": "Rozanno, 16, drove classmates on a school field trip at his teacher's request in May 1989 and caused a fatal collision. Who is liable?",
+  "choices": [
+   "The school, its administrators and teachers under Arts. 218–219 (an authorized activity outside the premises), with Rozanno's parents subsidiarily liable",
+   "Only the jeepney driver",
+   "Only Rozanno",
+   "The parents only, because the trip was outside the school"
+  ],
+  "answer": 0,
+  "explanation": "Special parental authority covers 'all authorized activities whether inside or outside the premises'. Had it happened in 1994 (Rozanno 21), Arts. 218–221 would not apply.",
+  "key_note": null
+ },
+ {
+  "id": "PA-17",
+  "topic": "pa",
+  "origin": "bar",
+  "src": "2023 Bar (adapted)",
+  "type": "mcq",
+  "stem": "Anita, an entertainer in a men's club, has a one-year-old daughter, Marisol, by Billy, her patron. She provides a house, a nanny and necessities. Billy petitions for custody, citing her work. How should the court rule?",
+  "choices": [
+   "Joint custody",
+   "For Billy, because Anita's work is immoral",
+   "For Anita: the illegitimate child is under her sole parental authority, the child is below seven, and her work alone is not a compelling reason",
+   "For the maternal grandmother"
+  ],
+  "answer": 2,
+  "explanation": "Art. 176; Art. 213, 2nd par.; Perez v. CA. Compare the 2024 Bar (a mother's lesbian relationship is not by itself a compelling reason).",
+  "key_note": null
+ },
+ {
+  "id": "PA-18",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Briones v. Miguel)",
+  "type": "mcq",
+  "stem": "The father of an illegitimate child recognized the child and is far richer than the mother. Who has parental authority and custody?",
+  "choices": [
+   "The court must choose the richer parent",
+   "The father, because he recognized the child",
+   "Both jointly",
+   "The mother, unless she is shown unfit; recognition gives the father a ground for support and visitation, not custody"
+  ],
+  "answer": 3,
+  "explanation": "Briones v. Miguel (2004); David v. CA; Art. 176.",
+  "key_note": null
+ },
+ {
+  "id": "PA-19",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Salvosa v. IAC)",
+  "type": "mcq",
+  "stem": "When is a student 'in the custody' of the school for purposes of NCC 2180?",
+  "choices": [
+   "Only while in the classroom",
+   "Whenever he is enrolled",
+   "Only during authorized activities outside the school",
+   "While at attendance in the school, including recess time"
+  ],
+  "answer": 3,
+  "explanation": "Salvosa: protective and supervisory custody 'for as long as they are at attendance in the school, including recess time'. A student who shot someone on campus when he should have been home was not in the school's custody.",
+  "key_note": null
+ },
+ {
+  "id": "PA-20",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Amadora v. CA)",
+  "type": "mcq",
+  "stem": "A student went to the school auditorium after classes had formally ended to submit a required report and was shot by a classmate. Under NCC 2180, who may be liable?",
+  "choices": [
+   "No one, because classes had ended",
+   "The school itself under Art. 2180",
+   "The teacher-in-charge, if negligent, because the student was in the school's custody for a legitimate purpose",
+   "The rector, the principal and the dean of boys"
+  ],
+  "answer": 2,
+  "explanation": "Amadora (1988). The heads exercised only general authority; the school itself is not directly liable under NCC 2180 (but see Art. 218–219).",
+  "key_note": null
+ },
+ {
+  "id": "PA-21",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (St. Mary's v. Carpitanos)",
+  "type": "mcq",
+  "stem": "During a school enrollment drive, a student died when a jeep driven by a minor turned over because its steering wheel guide detached. Is the school liable under Arts. 218–219?",
+  "choices": [
+   "Yes, solidarily with the jeep owner",
+   "No, because enrollment drives are not authorized activities",
+   "No, because the school's negligence was not the proximate cause of the accident",
+   "Yes, always, because it was a school activity"
+  ],
+  "answer": 2,
+  "explanation": "St. Mary's Academy v. Carpitanos (2002).",
+  "key_note": null
+ },
+ {
+  "id": "PA-22",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Lindain v. CA)",
+  "type": "mcq",
+  "stem": "A widow, as legal administrator of her minor children's land, sold it without court approval to buyers who knew this. What is the status of the sale?",
+  "choices": [
+   "Void as to the children; a legal administrator has only powers of possession and management, and disposition requires judicial approval",
+   "Valid if the price was fair",
+   "Voidable at the buyers' option",
+   "Valid, because parents are natural guardians"
+  ],
+  "answer": 0,
+  "explanation": "Lindain (1992); Hebron v. Loyola; Tolentino on Art. 225.",
+  "key_note": null
+ },
+ {
+  "id": "PA-23",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Arts. 228–229)",
+  "type": "mcq",
+  "stem": "Which causes parental authority to terminate PERMANENTLY?",
+  "choices": [
+   "Emancipation of the child",
+   "Adoption of the child",
+   "Appointment of a general guardian",
+   "Judicial declaration of absence of the parent"
+  ],
+  "answer": 0,
+  "explanation": "Art. 228: death of the parents, death of the child, emancipation. The others (Art. 229) terminate it 'unless subsequently revived by a final judgment'.",
+  "key_note": null
+ },
+ {
+  "id": "PA-24",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Art. 231)",
+  "type": "mcq",
+  "stem": "Which is NOT a ground for the suspension of parental authority under Art. 231?",
+  "choices": [
+   "Treating the child with excessive harshness or cruelty",
+   "Compelling the child to beg",
+   "Refusing consent to the child's marriage",
+   "Giving the child corrupting orders, counsel or example"
+  ],
+  "answer": 2,
+  "explanation": "Salvaña v. Gaela: refusing consent to an unemancipated child's marriage is not a ground to deprive parents of authority. The fourth Art. 231 ground is subjecting the child to acts of lasciviousness.",
+  "key_note": null
+ },
+ {
+  "id": "PA-25",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Medina v. Makabali; Luna)",
+  "type": "mcq",
+  "stem": "Which statement is correct on the custody of children?",
+  "choices": [
+   "Biological parents always prevail over foster parents",
+   "A child's wishes are never considered",
+   "A final judgment awarding custody to the biological parents must always be executed",
+   "The child's welfare is paramount; it may override procedural rules and even the parents' right to custody"
+  ],
+  "answer": 3,
+  "explanation": "Luna v. IAC (execution stayed when the child threatened to kill herself); Medina v. Makabali (a mother who deserted her child lost custody to the doctor who raised him).",
+  "key_note": null
+ },
+ {
+  "id": "PA-26",
+  "topic": "pa",
+  "origin": "new",
+  "src": "New (Art. 236 / NCC 2180)",
+  "type": "mcq",
+  "stem": "Julio, 18, living with his parents, killed Jake with his father's gun taken from an unlocked drawer. Are Julio's parents liable to Jake's heirs?",
+  "choices": [
+   "Only if Julio is insolvent",
+   "Yes; Art. 236 preserves the parents' NCC 2180 responsibility for children below 21 living in their company",
+   "No, Julio is emancipated",
+   "Only the father"
+  ],
+  "answer": 1,
+  "explanation": "1993 Bar. Tolentino criticizes this as 'responsibility without authority'.",
+  "key_note": null
+ }
+]

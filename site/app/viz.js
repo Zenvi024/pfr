@@ -129,6 +129,29 @@ const CALC={
       return `Proceeds of <b>${P(bid)}</b> are applied in this order (Art. 160):<br>1. <b>${P(cap)}</b> first, the amount mentioned in Art. 157 (this goes to the debtor, as the exempt value of the home);<br>2. <b>${P(toCred)}</b> to the judgment and costs${toCred<debt?` (the creditor is still unpaid by ${P(debt-toCred)})`:""};<br>3. <b>${P(ex)}</b> excess to the judgment debtor.`+
       seg([["Exempt value (Art. 157)",100*cap/bid,"var(--good)"],["Creditor",100*toCred/bid,"var(--accent)"],["Excess to debtor",100*ex/bid,"var(--warn)"]])+
       `<small>Available only to a creditor whose claim is not among the Art. 155 exceptions, after a court finds the home's actual value exceeds the maximum as of its constitution (including increases from voluntary improvements). Tolentino adds that liens on the home are excluded and the court must hold a hearing.</small>`}},
+  support200:{
+    html:`<div class="crow">${field("need","Monthly support needed (₱)","30,000")}${sel("who","Co-obligors (same degree)",[["2","Two (e.g., both parents)"],["3","Three (e.g., three children of an aged parent)"]])}</div>
+      <div class="crow">${field("r1","Resources of obligor 1 (₱ per month)","80,000")}${field("r2","Resources of obligor 2 (₱ per month)","40,000")}${field("r3","Resources of obligor 3 (₱ per month)","20,000")}</div><div class="cout"></div>`,
+    run(v){const n=+v.who,rs=[v.r1,v.r2,v.r3].slice(0,n).map(x=>Math.max(0,x||0)),tot=rs.reduce((a,b)=>a+b,0);
+      if(!tot)return "If none of the co-obligors has any means, the obligation passes to the next in the order of Art. 199 (<em>Mangonon</em>; <em>Lim v. Lim</em>).";
+      const sh=rs.map(r=>v.need*r/tot),cols=["var(--accent)","var(--good)","var(--warn)"];
+      return `Shares in proportion to resources (Art. 200, 1st par.):<br>`+sh.map((s,i)=>`Obligor ${i+1}: <b>${P(s)}</b> (${(100*rs[i]/tot).toFixed(1)}%)`).join(" · ")+
+      seg(sh.map((s,i)=>[`Obligor ${i+1}`,100*s/(v.need||1),cols[i]]))+
+      `<small>Not equal shares: Sir's quiz item ("the children are required to give support equally") is false. Co-obligors are liable jointly, not solidarily (Tolentino); but in urgent need the court may order one to give all of it provisionally, with recourse against the others for their shares (Art. 200, 2nd par.).</small>`}},
+  absence:{
+    html:`<div class="crow">${field("d","Disappeared, or last news (date referred to by the news)","2020-03-15","date")}${field("age","Age when he disappeared","45")}</div>
+      <div class="crow">${sel("adm","Left someone to administer his property?",[["n","No"],["y","Yes"]])}${sel("dg","Circumstances",[["o","Ordinary absence (no known danger)"],["v","On a vessel lost at sea / missing aircraft"],["w","In the armed forces, took part in war, missing"],["x","Other danger of death (earthquake, fire, etc.)"]])}</div><div class="cout"></div>`,
+    run(v){const d=Dd(v.d);if(!d)return "Enter the date.";
+      const yr=n=>{const x=new Date(d);x.setUTCFullYear(x.getUTCFullYear()+n);return x},age=v.age||0,danger=v.dg!=="o";
+      const decl=yr(v.adm==="y"?5:2),rem=yr(danger?2:4),all=yr(danger?4:7),succ=danger?yr(4):yr(age>75?5:10);
+      const rows=[[`Provisional representative (Art. 381)`,"any time it is necessary",""],
+        [`Declaration of absence may be sought (Art. 384: ${v.adm==="y"?"5 years, he left an administrator":"2 years"})`,fd(decl),"effective only 6 months after publication (Art. 386)"],
+        [`Spouse present may seek a declaration of presumptive death to remarry (FC 41: ${danger?"2 years, Art. 391 danger":"4 consecutive years"})`,fd(rem),"plus a well-founded belief that the absentee is dead; summary proceeding"],
+        [danger?"Presumed dead for all purposes, including succession (Art. 391: 4 years)":"Presumed dead for all purposes except succession (Art. 390: 7 years)",fd(all),""],
+        [danger?"Succession may be opened (same Art. 391 presumption)":`Succession may be opened (Art. 390: ${age>75?"5 years, he disappeared after 75":"10 years"})`,fd(succ),""]];
+      return rows.map(r=>`${r[0]}: <b>${r[1]}</b>${r[2]?` <small>(${r[2]})</small>`:""}`).join("<br>")+
+      hb([["Declaration of absence",(decl-d)/31557600000,"var(--accent)",`${Math.round((decl-d)/31557600000)} yrs`],["Remarriage (FC 41)",(rem-d)/31557600000,"var(--warn)",`${Math.round((rem-d)/31557600000)} yrs`],["Dead (all but succession)",(all-d)/31557600000,"var(--good)",`${Math.round((all-d)/31557600000)} yrs`],["Succession",(succ-d)/31557600000,"var(--bad)",`${Math.round((succ-d)/31557600000)} yrs`]])+
+      `<small>${danger?"Under Art. 391 death is presumed to have occurred on the day of the event (Tolentino), and the 4 years run from it; for a war, from the last day of the military operation.":"Under Art. 390 death is presumed to have occurred on the last day of the period (Tolentino)."} The presumption needs no court declaration, except the FC 41 declaration for remarriage, and it yields to evidence (<em>Eastern Shipping v. Lucero</em>).</small>`}},
 };
 document.querySelectorAll("#rcontent .calc[data-calc]").forEach(C=>{
   const def=CALC[C.dataset.calc];if(!def)return;

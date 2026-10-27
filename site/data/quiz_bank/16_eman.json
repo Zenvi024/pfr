@@ -1,0 +1,158 @@
+[
+ {
+  "id": "EM-1",
+  "topic": "eman",
+  "origin": "samplex",
+  "src": "Uribe CivRev 2025 Quiz 2 (Aug 28, 2025) #3",
+  "type": "tf",
+  "stem": "Any contracting party between the age of twenty-one and twenty-five shall be obliged to ask their parents or guardian for consent upon the intended marriage.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "ADVICE, not consent (Art. 15). Consent is for parties between 18 and 21 (Arts. 14, 236). Sir added: a 19-year-old previously married needs no consent, Art. 14 covering only those 'not having been emancipated by a previous marriage'.",
+  "key_note": null
+ },
+ {
+  "id": "EM-2",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 234)",
+  "type": "tf",
+  "stem": "Emancipation takes place by the attainment of majority, by the marriage of the minor, or by the recording in the civil register of an agreement in a public instrument between the parent and the minor at least eighteen years of age.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "That was the FC as enacted. R.A. 6809 (1989) amended Art. 234: emancipation takes place by the attainment of majority at 18; the other two modes were abolished.",
+  "key_note": null
+ },
+ {
+  "id": "EM-3",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Uribe format; Art. 236)",
+  "type": "tf",
+  "stem": "Emancipation shall terminate parental authority over the person and property of the child who shall then be qualified and responsible for all acts of civil life, save the exceptions established by existing laws in special cases.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 236, 1st par., as amended by R.A. 6809. The exceptions: parental consent to marry until 21, and the parents' NCC 2180 responsibility for children below 21.",
+  "key_note": null
+ },
+ {
+  "id": "EM-4",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Art. 236)",
+  "type": "tf",
+  "stem": "Contracting marriage shall require parental consent until the age of eighteen.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Until TWENTY-ONE (Art. 236, 2nd par.).",
+  "key_note": null
+ },
+ {
+  "id": "EM-5",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Art. 243)",
+  "type": "tf",
+  "stem": "In summary judicial proceedings under the Family Code, the preliminary conference shall be conducted by the judge personally, with the parties assisted by counsel.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 243: WITHOUT the parties being assisted by counsel; counsel may assist at succeeding conferences and hearings if the court deems it useful.",
+  "key_note": null
+ },
+ {
+  "id": "EM-6",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Art. 247)",
+  "type": "tf",
+  "stem": "The judgment of the court in a summary proceeding under the Family Code shall be immediately final and executory.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 0,
+  "explanation": "Art. 247. Hence no appeal; the remedy is certiorari (Republic v. Bermudez-Lorino; Republic v. Granada, on Art. 41 declarations of presumptive death).",
+  "key_note": null
+ },
+ {
+  "id": "EM-7",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Art. 240)",
+  "type": "tf",
+  "stem": "Claims for damages by either spouse may be litigated in the summary proceeding for judicial authorization.",
+  "choices": [
+   "True",
+   "False"
+  ],
+  "answer": 1,
+  "explanation": "Art. 240: only in a separate action, except costs of the proceedings.",
+  "key_note": null
+ },
+ {
+  "id": "EM-8",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Art. 245)",
+  "type": "mcq",
+  "stem": "In a petition under Art. 239, the spouse whose consent is sought does not appear despite the court's efforts. What may the court do?",
+  "choices": [
+   "Proceed ex parte and render judgment, endeavoring to protect the non-appearing spouse's interests",
+   "Dismiss the petition",
+   "Declare the spouse absent",
+   "Order the arrest of the spouse"
+  ],
+  "answer": 0,
+  "explanation": "Arts. 244–245.",
+  "key_note": null
+ },
+ {
+  "id": "EM-9",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Art. 253)",
+  "type": "mcq",
+  "stem": "Which of these is NOT among the articles whose petitions follow the summary procedure under Art. 253?",
+  "choices": [
+   "Art. 36 (psychological incapacity)",
+   "Art. 69 (family domicile)",
+   "Art. 41 (presumptive death for remarriage)",
+   "Art. 73 (objection to profession)"
+  ],
+  "answer": 0,
+  "explanation": "Art. 253: Arts. 41, 51, 69, 73, 96, 124 and 217. Nullity under Art. 36 is an ordinary action.",
+  "key_note": null
+ },
+ {
+  "id": "EM-10",
+  "topic": "eman",
+  "origin": "new",
+  "src": "New (Art. 241, 250)",
+  "type": "mcq",
+  "stem": "Where is a petition for judicial authorization under Art. 239 filed?",
+  "choices": [
+   "Only where the petitioner resides",
+   "In the Court of Appeals",
+   "Where the property is located",
+   "In the family court or RTC where either spouse resides, upon proof of notice to the other spouse"
+  ],
+  "answer": 3,
+  "explanation": "Art. 241. Petitions involving parental authority (Arts. 223, 225) are filed where the child resides (Art. 250).",
+  "key_note": null
+ }
+]
